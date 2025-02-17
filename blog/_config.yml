@@ -1,0 +1,23 @@
+# Site settings
+title: "Blog"
+email: "pedro@dalbo.me"
+description: "Um espaço para treinar a escrita."
+baseurl: "/blog"
+url: "https://pedro.dalbo.me"
+paginate: 7
+paginate_path: "/blog/page/:num/"
+plugins:
+  - jekyll-paginate
+  - jekyll-feed
+
+
+
+exclude:
+  - .sass-cache/
+  - .jekyll-cache/
+  - _site/
+  - Gemfile
+  - Gemfile.lock
+  - node_modules/
+  - vendor/
+  - about.markdown

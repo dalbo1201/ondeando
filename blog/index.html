@@ -1,0 +1,22 @@
+---
+layout: default
+---
+
+<div id="saudacao">|Blog</div>
+
+{% if paginator.posts %}
+  {% for post in paginator.posts %}
+    <article>
+      <div class="blog-meta"><a href="{{ post.url | relative_url }}" class="linkdata">{{ post.date | date: "%d/%m/%Y" }}</a></div>
+      <div class="blog-title"><a href="{{ post.url | relative_url }}" class="linkum">{{ post.title }}</a></div>
+      <div class="blog-content">
+        {{ post.content | markdownify }}
+      </div>
+    </article>
+  {% endfor %}
+{% else %}
+  <p>Nenhuma postagem encontrada.</p>
+{% endif %}
+
+
+{% include pagination.html %}
