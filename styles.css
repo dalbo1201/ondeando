@@ -1,0 +1,307 @@
+body {
+  background: #363636;
+  color: #ffffff;
+  font-family: 'Noto Sans', 'Segoe UI', 'Open Sans';
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  margin: 0;
+  padding: 0px 10px 0px 10px;
+  overflow-x: hidden; /* Remove a barra de rolagem horizontal */
+}
+
+.container {
+  max-width: 790px;
+  width: 100%; /* Ajuste de largura */
+  margin: 0 auto;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  height: 100%;
+}
+
+header {
+  display: flex;
+  flex-direction: row; /* Alinha em linha única por padrão */
+  align-items: center;
+  justify-content: space-between; /* Espaça os itens igualmente */
+  padding: 0px;
+  background-color: #363636;
+  border-radius: 10px;
+  margin-top: 40px;
+  margin-bottom: 40px;
+}
+
+.top-header {
+  display: flex;
+  align-items: center;
+}
+
+.name {
+  font-size: 30px;
+  font-weight: 700;
+  margin-left: 20px;
+  white-space: nowrap; /* Evita quebra de linha no nome */
+}
+
+.photo {
+  width: 50px; 
+  height: 50px;
+  border-radius: 50%;
+  object-fit: cover;
+  border: 1px solid #edb4e1;
+  flex-shrink: 0; /* Evita que a imagem diminua além do tamanho mínimo */
+}
+
+nav {
+  margin-left: auto;
+  display: flex;
+  align-items: center; /* Garante o alinhamento vertical dos itens */
+}
+
+nav a {
+  margin-left: 0;
+  margin-right: 0;
+  padding: 0 5px; /* Reduz o espaço à esquerda e à direita dos links */
+  color: #edb4e1;
+  font-weight: bold;
+  font-size: 16px; /* Garante que o tamanho do texto permaneça o mesmo */
+}
+
+nav a:hover {
+  color: #ffe0b8;
+}
+
+main {
+  padding: 0px;
+  background-color: #363636;
+  margin-top: 40px;
+  margin-bottom: 40px;
+  display: flex;
+  flex-direction: column; /* Alinha elementos verticalmente */
+  justify-content: flex-start;
+  align-items: flex-start; /* Alinha os itens à esquerda */
+  flex-grow: 1;
+  width: 100%;
+  border: none; /* Remove a borda */
+}
+
+#saudacao {
+  font-size: 40px;
+  margin-bottom: 40px; /* Adiciona margem inferior */
+}
+
+#descricao {
+  font-size: 16px;
+  line-height: 20px;
+  max-width: 100%;
+  text-align: left;
+  margin-bottom: auto; /* Empurra o bloco descrição para cima */
+  padding-right: 10px; /* Adiciona padding à direita para garantir que o texto não fique sob a barra de rolagem */
+}
+
+#atualizacao {
+  font-size: 13px;
+  line-height: 20px;
+  max-width: 100%;
+  text-align: right; /* Alinha o texto à direita */
+  margin-top: 10px; /* Define a margem superior */
+  margin-bottom: auto; /* Empurra o bloco descrição para cima */
+  padding-right: 10px; /* Adiciona padding à direita para garantir que o texto não fique sob a barra de rolagem */
+  align-self: flex-end; /* Alinha o bloco à direita */
+}
+
+.material-icons {
+  font-size: 40px; /* Aumenta o tamanho do ícone */
+}
+
+a.linkcab:link,
+a.linkcab:visited,
+a.linkcab:active,
+a.linkcab:hover {
+  color: #ffffff;
+}
+
+a.linkum:link,
+a.linkum:visited,
+a.linkum:active,
+nav a {
+  color: #edb4e1;
+}
+
+a.linkum:hover,
+nav a:hover {
+  color: #ffe0b8;
+}
+
+a.linkdata:link,
+a.linkdata:visited,
+a.linkdata:active,
+a.linkdata:hover {
+  color: #C0C0C0;
+}
+
+footer {
+  font-size: 12px;
+  display: flex;
+  justify-content: flex-end;
+  background-color: #363636;
+  padding: 0px 0px 20px 0px;
+  margin: 10px 0px 50px 0px;
+}
+
+.footer-link {
+  margin-left: 5px; /* Adiciona margem esquerda ao link no rodapé */
+}
+
+/* Ajustes para telas menores */
+@media screen and (max-width: 600px) {
+  header {
+    flex-direction: column;
+    align-items: flex-start;
+  }
+
+  nav {
+    margin-top: 10px; /* Adiciona espaço acima da navegação */
+    width: 100%;
+    display: flex;
+    justify-content: flex-end; /* Alinha a navegação à direita */
+  }
+
+  .top-header {
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: flex-start; /* Alinha os itens à esquerda */
+  }
+
+  .name {
+    margin-left: 10px;
+  }
+
+  nav a {
+    margin-left: 5px; /* Reduz o espaço entre os links na navegação */
+    font-size: 16px; /* Garante que o tamanho do texto permaneça o mesmo */
+  }
+
+  /* Centraliza a galeria horizontalmente em telas menores */
+  .gallery {
+    justify-content: center;
+  }
+}
+
+/* Galeria de Imagens */
+.gallery {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px; /* Adiciona uma margem entre as imagens */
+padding: 15px 0 0 0;
+}
+
+.gallery-post {
+  display: flex;
+  justify-content: center; /* Centraliza horizontalmente */
+  align-items: center; /* Centraliza verticalmente, se necessário */
+  flex-wrap: wrap; /* Permite que as imagens quebrem linha se necessário */
+  gap: 10px; /* Adiciona uma margem entre as imagens */
+padding: 15px 0 0 0;
+}
+
+.gallery .image-container {
+  width: 25%; /* Define a largura das imagens como 25% da largura do texto */
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column; /* Mantém a legenda abaixo da imagem */
+  justify-content: flex-end; /* Alinha as imagens pela parte inferior */
+}
+
+.gallery img {
+  width: 100%;
+  height: auto; /* Altura proporcional à largura */
+
+}
+
+.gallery .caption {
+  text-align: center;
+  font-size: 14px;
+  margin-top: 5px;
+}
+
+@media (max-width: 800px) {
+  .gallery .image-container {
+    width: 50%; /* Ajusta a largura das imagens para 50% em telas menores */
+  }
+}
+
+@media (max-width: 400px) {
+  .gallery .image-container {
+    width: 100%; /* Ajusta a largura das imagens para 100% em telas muito pequenas */
+  }
+}
+
+/* Estilos para o Blog */
+.blog-post {
+    margin-bottom: 20px;
+    background-color: #363636; /* Cor de fundo dos posts */
+    border: none; /* Remove a borda */
+    padding: 20px; /* Adiciona padding para espaçamento interno */
+    box-sizing: border-box; /* Inclui padding e borda na largura total */
+    max-width: 100%; /* Faz com que o post ocupe 100% da largura do contêiner */
+}
+
+
+.header-post {
+  margin: 0; /* Remove todas as margens */
+  padding: 0 0 30px 0; /* Remove todos os paddings e adiciona padding inferior de 30px */
+}
+
+.blog-title {
+  font-size: 22px;
+
+}
+
+.blog-meta {
+  font-size: 14px; /* Tamanho menor da fonte */
+  color: #C0C0C0; /* Cor cinza */
+margin-top: 30px;
+
+}
+
+.blog-content p {
+  font-size: 16px;
+  color: #ffffff;
+  line-height: 20px;
+  max-width: 100%; /* Faz com que o conteúdo ocupe 100% da largura do contêiner */
+  text-align: left;
+  margin-bottom: auto; /* Empurra o bloco descrição para cima */
+  padding-right: 10px; /* Adiciona padding à direita para garantir que o texto não fique sob a barra de rolagem */
+}
+
+.article {
+  display: flex;
+  flex-wrap: wrap;
+  margin: 0; /* Remove margens */
+  padding: 0; /* Remove paddings */
+  width: 100%; /* Garante que o artigo ocupe toda a largura */
+  box-sizing: border-box; /* Inclui padding e borda na largura total */
+}
+
+.pagination-container {
+  display: flex;
+  justify-content: space-between; /* Garante que os itens fiquem nos extremos opostos */
+  align-items: center; /* Alinha verticalmente os itens */
+  margin-top: auto; /* Empurra a navegação para o final do main */
+  padding-top: 40px;
+  width: 100%;
+  flex-shrink: 0; /* Evita que a paginação encolha */
+}
+
+.pagination-container .nav-prev {
+  margin-right: auto; /* Alinha o link "Anterior" à esquerda */
+}
+
+.pagination-container .nav-next {
+  margin-left: auto; /* Alinha o link "Próximo" à direita */
+}
+
