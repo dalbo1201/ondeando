@@ -3,4 +3,4 @@
   publish = "blog/_site"
 
 [build.environment]
-  RUBY_VERSION = "3.1.0"
+  RUBY_VERSION = "3.5.0"
