@@ -1,0 +1,19 @@
+title: Passagens & Momentos v2
+description: Um espaço para a escrita.
+url: "https://pedro.dalbo.me"
+
+markdown: kramdown
+
+pagination:
+  enabled: true
+  per_page: 7
+  permalink: '/page/:num/'
+
+permalink: /blog/:slug
+future: false
+
+exclude:
+- README.md
+- LICENSE.md
+
+Blog: /blog

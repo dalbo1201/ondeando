@@ -1,0 +1,39 @@
+{% include head.html %}
+
+{% include header-blog-post.html %}
+
+<main>
+
+{{ content }}
+  {% for post in paginator.posts %}
+<article>
+  <div class="blog-meta">
+    <a href="{{ post.url | relative_url }}" class="linkdata"> {{ post.date | date: "%d/%m/%Y" }}</a>
+    </div>
+    <div class="blog-title">
+    <a href="{{ post.url | relative_url }}" class="linkum">{{ post.title }}</a>
+    </div>
+    <div class="blog-content">
+      {{ post.content | markdownify }}
+    </div>
+  </article>
+{% endfor %}
+</main>
+
+{% if paginator.total_pages > 1 %} 
+  <div class="pagination-container">
+    {% if paginator.previous_page %} 
+      <a href="{{ paginator.previous_page_path | relative_url }}" class="linkum nav-prev"><< Novos</a>
+    {% endif %}
+    {% if paginator.next_page %}
+      <a href="{{ paginator.next_page_path | relative_url }}" class="linkum nav-next">Antigos >></a>
+    {% endif %}
+  </div>
+{% endif %}
+
+{% include footer-blog.html %}
+
+</div>
+
+</body>
+</html>
