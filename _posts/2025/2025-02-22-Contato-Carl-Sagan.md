@@ -19,3 +19,5 @@ Ao descobrir uma Mensagem vinda do espaço, com instruções para a construção
 Dito isso, Sagan descreve muito bem todo o processo científico e suas dificuldades, sem esquecer do tempero geopolítico, mas sem tornar os personagens não estadunidenses pessoas rasas e caricatas.
 
 Vemos também, como em boa parte do trabalho de Sagan como divulgador científico, seu esforço para não tornar a fé um alvo de críticas desrespeitosas, mas nos mostrar que é possível ver através da ciência e da busca por evidências toda a beleza que existe no universo.
+
+Escrevi um pouco mais sobre o livro no <a href="https://historiasparaler.blogspot.com/2025/02/contato-carl-sagan.html" class="linkum'>Historias para Ler</a>, se quiser, vai lá dar uma olhada.
