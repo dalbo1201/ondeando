@@ -18,4 +18,4 @@ Bem, não vou continuar falando muito. Visitem o blog e vejam se  falei muitas b
 
 Minha entrevista <a href="http://meutimedebotao.blogspot.com/" class="linkum">está aqui</a>.
 
-P.S.: Apesar de dizerem que *a internet não esquece*, algumas pessoas ainda podem controlar o acesso e o site não etá mais n ar. Mas mantive a postagem aqui pela lembrança.
+>Apesar de dizerem que *a internet não esquece*, algumas pessoas ainda podem controlar o acesso e o site não está mais no ar. Mas mantive a postagem aqui pela lembrança.
