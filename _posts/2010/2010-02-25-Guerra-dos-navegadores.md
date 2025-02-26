@@ -27,7 +27,7 @@ Só que com o tempo as coisas vão mudando, e pouco a pouco as pessoas vão esco
 
 Mas e o IE? Vocês perguntam. Bem, a Microsoft demora a trabalhar na melhoria de sua cria e mesmo assim, não consegue (pelo menos a meu ver) chegar próximo aos pequenos e poderosos concorrentes. Mesmo criando navegadores mais modernos ela ainda tem a capacidade de pecar mantendo um suporte a um software totalmente obsoleto que apenas atrasa o desenvolvimento daquela que se tornou A ferramenta do mundo. A INTERNET.  
 
-E agora, mais uma vez os Pequenos Poderosos continuam a se desenvolver em grande velocidade deixando a Grande para trás e sua cria continuando a apenas comer as migalhar que vem sobrando do desenvolvimento.  
+E agora, mais uma vez os Pequenos Poderosos continuam a se desenvolver em grande velocidade deixando a Grande para trás e sua cria continuando a apenas comer as migalhas que vem sobrando do desenvolvimento.  
 
 Apesar do IE continuar no topo das utilizações o Firefox vem atrás louco por crescimento no mercado e o Chrome, o mais novo dos revolucionários vem a cada dia revolucionando mais e comendo usuários dos concorrentes. O IE, segue seu destino, ficando para trás na criação e perdendo amigos para quem realmente merece atenção.  
 
