@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Fazendo a limpeza II"
+title: "Arrumando os quadrinhos"
 date: 2008-07-24 08:00:00 -0000
 ---
 
