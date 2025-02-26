@@ -8,7 +8,7 @@ Olá amigos,
 
 Hoje vim convidar vocês a conhecer um blog com um projeto bem interessante. O <a href="http://meutimedebotao.blogspot.com/" class="linkum">MEU TIME DE BOTÃO</a> tem por objetivo entrevistar as pessoas com um foco no futebol.
 
-Bem, até aí nada de mais… Mas o bacana é que não precisa ser ninguém super famoso. Isso é óbvio na já que eu fui um dos entrevistados.
+Bem, até aí nada de mais… Mas o bacana é que não precisa ser ninguém super famoso. Isso é óbvio já que eu fui um dos entrevistados.
 
 O autor do blog é o Ricardo Drago que me encontrou por intermédio do Rodrigo Marques, amigo aqui do Rio de Janeiro.
 
