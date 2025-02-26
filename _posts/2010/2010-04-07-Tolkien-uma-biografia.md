@@ -6,7 +6,7 @@ date: 2010-04-07 08:00:00 -0000
 
 Terminei de ler a biografia de J. R. R. Tolkien.
 
-Não tenho muito o que dizer, foi fantástico saber um pouco mais desse que considero um gênio da literatura moderna. O cara simplesmente moldou toda a fantasia moderna, se hoje conhecemos elfos, hobbits, orcs etc é por que esse homem os criou dessa forma.
+Não tenho muito o que dizer, foi fantástico saber um pouco mais desse que considero um gênio da literatura moderna. O cara simplesmente moldou toda a fantasia como conhecemos, se hoje conhecemos elfos, hobbits, orcs etc é por que esse homem os criou dessa forma.
 
 Claro que antes existiam tais seres, mas eram vistos de maneira totalmente diferente e é baseado em toda a mitologia de Tolkien que esses personagens hoje são reconhecidos.
 
@@ -16,8 +16,8 @@ Tá certo, eu já sabia que ele é humano, mas sempre temos em nossos ídolos e 
 
 Quem sabe numa próxima postagem, certo?
 
-Para saberem mais impressões minhas sobre o livro visitem o <a href="https://historiasparaler.blogspot.com/" class="linkum">Histórias para Ler</a>. Lá eu escrevi mais um pouco, <a href="http://historiasparaler.blogspot.com/2010/04/tolkien-uma-biografia-michael-white.html" class="linkum">clique aqui</a> para ir direto para a página do artigo.
+Para saberem mais impressões minhas sobre o livro visitem o <a href="https://historiasparaler.blogspot.com/" class="linkum">Histórias para Ler</a>. Lá eu escrevi mais um pouco, <a href="http://historiasparaler.blogspot.com/2010/04/tolkien-uma-biografia-michael-white.html" class="linkum">clique aqui</a> para ir direto para a página do texto.
 
-Abraços a todos,
+Abraços a todos.
 Boa leitura,  
 Inté.
