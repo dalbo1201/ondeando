@@ -5,13 +5,13 @@ date: 2025-02-25 22:00:00
 ---
 As pessoas costumam me perguntar porquê eu tenho um email com um domínio próprio. 
 
-Eu explico que é importante você ter o controle de como você é visto na *grande rede de computadores*. Caso tenha algum problema com o serviço de email que você utiliza ou se voce simplesmente encontrar outro que te atenda melhor, você consega mudar para esse serviço e a vida segue como se nada tivesse acontecido.  
+Eu explico que é importante você ter o controle de como você é visto na *grande rede de computadores*. Caso tenha algum problema com o serviço de email que você utiliza ou se você simplesmente encontrar outro que te atenda melhor, é possivel mudar para esse serviço e a vida segue como se nada tivesse acontecido.  
 
 Sabe aquele problemão que é quando, por algum motivo, alguém precisa mudar o número do celular? Pois é...  
 
 Mesmo com essa explicação as pessoas ficam sem entender e *acham graça*.
 
-```Spoiler: eu ainda uso serviço de e-mail gratuito, o Gmail, mas já é com domínio próprio.```  
+>Spoiler: eu ainda uso serviço de e-mail gratuito, o Gmail, mas já é com domínio próprio.  
 
 Agora tem essa história de site, blog, página de agora... E a questão retorna:  
 
@@ -29,7 +29,7 @@ Esse é o motivo de ir atrás de construir um local como esse e do porquê tanto
 
 Isso vai dar certo? Não sei. Mas não é uma questão apenas de *dar certo*, é uma forma de **resistência no ambiente virtual**.
 
-Isso é uma medida um pouco elitista? Talvez, se ficarmos focados apenas na questão de termos um dominio próprio, mas é possível retornarmos a uma internet mais ligada à web, menos acelerada. Temos ferramentas gratuitas que *podemos confiar* que não desapareceram e até mesmo migrar para outra se for o caso. O que não falta são locais para escrever, colocar fotos.  
+Isso é uma medida um pouco elitista? Muito provável, se ficarmos focados apenas na questão de termos um dominio próprio, mas é possível retornarmos a uma internet mais ligada à web, menos acelerada. Temos ferramentas gratuitas que *podemos confiar* que não desaparecerão e até mesmo migrar para outra se for o caso. O que não falta são locais para escrever, colocar fotos.  
 
 Talvez seja necessário relembrarmos que a internet pode ser mais do que um feed de rolagem infinita com propagandas a cada duas ou três imagens de algum influenciador.
 
