@@ -2,23 +2,35 @@
 
 <header>
     <div class="top-header">
-      <a href="{{ site.url }}/" class="linkcab"><img src="{{ site.url }}//assets/foto-pedro.jpg" alt="Foto de Pedro" title="Sou eu" class="photo"></a>
-      <div class="name">Pedro Dal Bó</div>
+      <img src="{{ site.url }}//assets/foto-pedro.jpg" alt="Foto de Pedro" title="Sou eu" class="photo"></a>
+      <div class="name"><a href="{{ site.url }}/" class="linkcab">Pedro Dal Bó</a></div>
     </div>
     <nav>
       <a href="{{ site.url }}/blog" class="linkum" title="Se eu disser, será aqui">Blog</a>|<a href="{{ site.url }}/Agora" class="linkum" title="O que estou fazendo">Agora</a>|<a href="{{ site.url }}/Profissional" class="linkum" title="Quem é o trabalhador">Profissional</a>
     </nav>
   </header>
 
-  {% elsif page.layout == 'blog' or page.layout == 'post' %}
+  {% elsif page.layout == 'blog' %}
 
   <header>
     <div class="top-header">
-      <a href="{{ site.url }}/" class="linkcab"><img src="{{ site.url }}//assets/foto-pedro.jpg" alt="Foto de Pedro" title="Sou eu" class="photo"></a>
-      <div class="name">Pedro Dal Bó</div>
+      <img src="{{ site.url }}//assets/foto-pedro.jpg" alt="Foto de Pedro" title="Sou eu" class="photo"></a>
+      <div class="name"><a href="{{ site.url }}/" class="linkcab">Pedro Dal Bó</a></div>
     </div>
     <nav>
-      <a href="{{ site.url }}/blog" class="linkum" title="Se eu disser, será aqui">Blog</a>|<a href="{{ site.url }}/Agora" class="linkum" title="O que estou fazendo">Agora</a>
+      <a href="{{ site.url }}/Agora" class="linkum" title="O que estou fazendo">Agora</a>|<a href="{{ site.baseurl }}/feed.xml"><img src="{{ site.url }}//assets/rss.svg" alt="RSS" width="24" height="24"></a>
+    </nav>
+  </header>
+
+  {% elsif page.layout == 'post' %}
+
+  <header>
+    <div class="top-header">
+      <img src="{{ site.url }}//assets/foto-pedro.jpg" alt="Foto de Pedro" title="Sou eu" class="photo"></a>
+      <div class="name"><a href="{{ site.url }}/" class="linkcab">Pedro Dal Bó</a></div>
+    </div>
+    <nav>
+      <a href="{{ site.url }}/blog" class="linkum" title="Se eu disser, será aqui">Blog</a>|<a href="{{ site.url }}/Agora" class="linkum" title="O que estou fazendo">Agora</a>|<a href="{{ site.baseurl }}/feed.xml"><img src="{{ site.url }}//assets/rss.svg" alt="RSS" width="24" height="24"></a>
     </nav>
   </header>
 
@@ -26,8 +38,8 @@
 
   <header>
     <div class="top-header">
-      <a href="{{ site.url }}/" class="linkcab"><img src="{{ site.url }}//assets/foto-pedro.jpg" alt="Foto de Pedro" title="Sou eu" class="photo"></a>
-      <div class="name">Pedro Dal Bó</div>
+      <img src="{{ site.url }}//assets/foto-pedro.jpg" alt="Foto de Pedro" title="Sou eu" class="photo"></a>
+      <div class="name"><a href="{{ site.url }}/" class="linkcab">Pedro Dal Bó</a></div>
     </div>
     <nav>
     </nav>
@@ -37,8 +49,8 @@
 
   <header>
     <div class="top-header">
-      <a href="{{ site.url }}/" class="linkcab"><img src="{{ site.url }}//assets/foto-pedro.jpg" alt="Foto de Pedro" title="Sou eu" class="photo"></a>
-      <div class="name">Pedro Dal Bó</div>
+      <img src="{{ site.url }}//assets/foto-pedro.jpg" alt="Foto de Pedro" title="Sou eu" class="photo"></a>
+      <div class="name"><a href="{{ site.url }}/" class="linkcab">Pedro Dal Bó</a></div>
     </div>
     <nav>
       <a href="{{ site.url }}/blog" class="linkum" title="Se eu disser, será aqui">Blog</a>
