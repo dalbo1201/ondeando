@@ -16,7 +16,7 @@ Não precisar da televisão para lhe mostrar como as coisas são é um exercíci
 
 A leitura, particularmente, é algo que a poucos agrada hoje em dia, mas depois que engata... Pega gosto e é difícil largar.
 
-Espero depois desta experiência que eu possa retornar a viajar e explorar com mais freqüência os universos das páginas.
+Espero depois desta experiência que eu possa retornar a viajar e explorar com mais freqüência os universos dos livros.
 
 Abraços a todos,  
 Inté.
