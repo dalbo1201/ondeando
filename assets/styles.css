@@ -1,7 +1,7 @@
 body {
   background: #363636;
   color: #ffffff;
-  font-family: 'Noto Sans', 'Segoe UI', 'Open Sans';
+  font-family: 'Noto Sans', 'Lato, 'Segoe UI', 'Open Sans';
   height: 100vh;
   display: flex;
   flex-direction: column;
