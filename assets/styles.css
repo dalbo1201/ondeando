@@ -1,7 +1,7 @@
 body {
   background: #363636;
   color: #ffffff;
-  font-family: 'Prompt','Noto Sans', 'Open Sans';
+  font-family: 'Noto Sans', 'Open Sans';
   height: 100vh;
   display: flex;
   flex-direction: column;
