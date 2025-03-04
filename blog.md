@@ -1,11 +1,11 @@
 ---
 layout: blog
-title: Passagens e Momentos v2
+title: Ondeando
 description: um espaço para escrever
 permalink: /blog
 pagination: 
  enabled: true
  sort_reverse: true
-excerpt: Pensamentos, ideias e inspirações de Rodrigo Ghedin.
+excerpt: pensamentos sobre a vida, o universo e tudo mais
 ---
 <div id="saudacao">|Blog</div>

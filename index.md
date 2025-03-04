@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Pedro Dal Bó
-excerpt: Site pessoal, jardim digital e cartão de visitas do Pedro Dal Bó.
+excerpt: Site pessoal, cantinho na internet e cartão de visitas do Pedro Dal Bó.
 ---
 <div id="saudacao">
     Boas-vindas ;)
