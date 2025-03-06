@@ -7,11 +7,11 @@ excerpt: Cartão de visitas do Pedro Dal Bó.
       |Profissional
 </div>
 <div id="descricao">
-   Sou formado em engenharia civil pela <a href="http://www.ufrj.br/" class="linkum" title="Onde estudei">UFRJ</a>, atuo na elaboração de projetos rodoviários e ferroviários, de geometria e terraplenagem.
+   <p>Sou formado em engenharia civil pela <a href="http://www.ufrj.br/" class="linkum" title="Onde estudei">UFRJ</a>, atuo na elaboração de projetos rodoviários e ferroviários, de geometria e terraplenagem.</p>
   <p>Atualmente trabalho na <a href="http://www.cemosa.com.br" class="linkum" title="Onde trabalho">CEMOSA</a> no desenvolvimento de projetos geométricos de rodovias e vias urbanas com software Civil3D.</p>
   <p>Trabalhei com PowerCivil em projetos rodoviários e ferroviários e com modelagem e elaboração de maquete eletrônica e vídeos curtos no Infraworks. Elaborei quantitativos de disciplinas como Terraplenagem, Obras de Arte Especiais, Túneis, Barreiras Acústicas e relatórios de ATO.</p>
-    As informações atualizadas sobre minha experiência profissional você encontra no <a href="https://www.linkedin.com/in/pedrodalbo" class="linkum" title="Está atualizado">meu LinkedIn</a>.<br>
-    Quer entrar em contato por questões profissionais relativas à <a href="http://www.cemosa.com.br" class="linkum" title="Onde trabalho">CEMOSA</a>, pode me <a href="mailto:pedro.dalbo@cemosa.com.br" class="linkum" title="Onde falar comigo, pela CEMOSA">mandar um email</a>.<br>
+    <p>As informações atualizadas sobre minha experiência profissional você encontra no <a href="https://www.linkedin.com/in/pedrodalbo" class="linkum" title="Está atualizado">meu LinkedIn</a>.<br>
+    Quer entrar em contato por questões profissionais relativas à <a href="http://www.cemosa.com.br" class="linkum" title="Onde trabalho">CEMOSA</a>, pode me <a href="mailto:pedro.dalbo@cemosa.com.br" class="linkum" title="Onde falar comigo, pela CEMOSA">enviar um email</a>.<br>
     Se não for o caso, você pode escrever para o <a href="mailto:serviçosengenharia@dalbo.me" class="linkum" title="Onde falar comigo">meu email</a>.<br>
-    É possível salvar <a href="{{ site.url }}/assets/Pedro Dal Bó.vcf" class="linkum" title="Salve na Agenda">meu contato na sua agenda</a>, se achar interessante.
+    É possível salvar <a href="{{ site.url }}/assets/Pedro Dal Bó.vcf" class="linkum" title="Salve na Agenda">meu contato na sua agenda</a>, se achar interessante.</p>
 </div>
