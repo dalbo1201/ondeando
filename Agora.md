@@ -10,7 +10,7 @@ excerpt: Uma atualizaçao quinzenal.
     <p>A página /now (ou "/agora" em português) é utilizada para compartilhar com outras pessoas o que estamos fazendo naquele momento. A ideia é originada do movimento <a href="https://nownownow.com/about" class="linkum" title="O que é uma página /Now?">Now Page</a> iniciado por Derek Sivers.</p>
     <p>Bom, é isso o que vai encontrar por aqui.</p>
     <p>Aproveitando o Carnaval para ir pelo menos em um bloco, descansar e curtir um bom churrasco com piscina graças aos amigos.</p>
-    <p>Esu lendo:</p>
+    <p>Estou lendo:</p>
 	<ul>
     <li>Walden, H. D. Thoreau.</li>
     </ul>
