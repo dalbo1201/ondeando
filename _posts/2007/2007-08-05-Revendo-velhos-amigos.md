@@ -2,8 +2,8 @@
 layout: post
 title: "Revendo velhos amigos"
 date: 2007-08-05 08:00:00 -0000
+tags: ["a vida, o universo e tudo mais"]
 ---
-
 Olá pessoal,
 
 No momento estou conversando com um grande amigo, um cara que deixei de ver desde julho de 2002 quando ele se mudou para Crato no Ceará.

@@ -2,8 +2,8 @@
 layout: post
 title: "Você só quer confusão?"
 date: 2007-08-22 08:00:00 -0000
+tags: ["pensamentos"]
 ---
-
 >*Como essas postagens são antigas e recuperadas, muitos likns podem levar a lugar algum ou mesmo a lugares que não são mais o que eram na época. Mantenho o texto pela reflexão e lembraça.*
 
 Li uma reportagem de um estudo feito por Fábio Iglesias, pesquisador da Universidade de Brasília, onde entre outras conclusões diz que as pessoas não reclamam quando alguém fura a fila. (<a href="http://revistagalileu.globo.com/EditoraGlobo/componentes/article/edg_article_print/1,3916,1004240-1719-1,00.html" class="linkum">Clique aqui</a> para ler a reportagem).

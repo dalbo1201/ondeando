@@ -2,8 +2,8 @@
 layout: post
 title: "A Ilha do Tesouro - Robert Louis Stevenson"
 date: 2007-12-23 08:00:00 -0000
+tags: ["livros"]
 ---
-
 Mais um livro que para mim é fora de série! Um clássico infanto-juvenil que todo jovem, e adulto, deveria ler. Tanto para adiquirir o gosto pela leitura como para apreciar uma história digna de um marujo...
 
 Devo dizer que ao terminar de ler A Ilha do Tesouro fiquei impressionado com a facilidade que Louis teve de se aventurar em gêneros tão distintos (para quem não sabe leia sobre <a href="http://historiasparaler.blogspot.com/2007/11/o-estranho-caso-de-dr-jeckyll-e-mr-hyde.html" class="linkum">O Médico e o Monstro</a>), aventura e terror/drama.

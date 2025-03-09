@@ -2,8 +2,8 @@
 layout: post
 title: "Bienal do Livro 2007"
 date: 2007-09-21 08:00:00 -0000
+tags: ["livros"]
 ---
-
 Olá pessoal,
 
 Hoje fui à Bienal do Livro. Estava muito bom, realmente valeu a pena o tempo caminhando...

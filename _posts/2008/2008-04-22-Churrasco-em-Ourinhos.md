@@ -2,8 +2,8 @@
 layout: post
 title: "Churrasco em Ourinhos"
 date: 2008-04-22 08:00:00 -0000
+tags: ["a vida, o universo e tudo mais"]
 ---
-
 Morar longe dos pais proporciona vários pontos negativos e positivos, mas este eu não tinha imaginado ainda. Um churrasco com todos os pais da turma.
 
 Vim para São Paulo neste feriadão carioca, e de quebra fui para Ourinhos, cidade onde meu irmão estuda geografia na UNESP, para um churrasco que a turma dele realiza junto com os pais.

@@ -2,8 +2,8 @@
 layout: post
 title: "O que diabos Bob tem a ver com Pedro?"
 date: 2008-04-18 08:00:00 -0000
+tags: ["a vida, o universo e tudo mais"]
 ---
-
 <div class="gallery-post-flutua">
 <div class="image-container">
             <img src="{{ site.baseurl }}/assets/fotos/2008/Eu - Bob Esponja.bmp" alt="Bob E(u)sponja" title="foto minha no trote da UFRJ de Bob Esponja" >

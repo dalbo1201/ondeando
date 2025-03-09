@@ -2,8 +2,8 @@
 layout: post
 title: "Entrevista para 'Meu Time de Botão'"
 date: 2010-05-20 08:00:00 -0000
+tags: ["esporte, ou só futebol"]
 ---
-
 Olá amigos,
 
 Hoje vim convidar vocês a conhecer um blog com um projeto bem interessante. O <a href="http://meutimedebotao.blogspot.com/" class="linkum">MEU TIME DE BOTÃO</a> tem por objetivo entrevistar as pessoas com um foco no futebol.

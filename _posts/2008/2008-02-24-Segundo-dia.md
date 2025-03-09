@@ -2,8 +2,8 @@
 layout: post
 title: "Segundo dia: 18/01/2008"
 date: 2008-02-24 08:00:00 -0000
+tags: ["a vida, o universo e tudo mais"]
 ---
-
 Continuamos a viagem rumo à Foz do Iguaçú.
 
 Londrina, 6:39 am. Acordamos, arrumamos as coisas e montamos o roteiro com o objetivo de chegar a Cascavel ainda hoje, pretendemos fazer Londrina-Maringá (100 km), depois Maringá-Campo Mourão (85 km) e por fim C. Mourão-Cascavel (174 km). Ou seja, um pouco mais do que o dobro da distância feita no dia anterior, mas como também tivemos apenas metade do dia acreditamos ser possível...

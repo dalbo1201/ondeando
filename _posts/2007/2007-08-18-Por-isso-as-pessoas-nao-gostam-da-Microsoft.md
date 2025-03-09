@@ -2,6 +2,7 @@
 layout: post
 title: "Por isso as pessoas não gostam da Microsoft?"
 date: 2007-08-18 08:00:00 -0000
+tags:  ["informática"]
 ---
 
 Normalmente, as pessoas que conhecem um pouco mais que seja de informática por algum motivo não gosta ou tem algo contra a Microsoft.

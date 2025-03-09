@@ -2,8 +2,8 @@
 layout: post
 title: "Brasileiro é"
 date: 2007-10-18 08:00:00 -0000
+tags: ["pensamentos"]
 ---
-
 Ontem fui ao Maracanã assistir Brasil x Equador. Posso dizer que foi quase perfeito.
 
 A ida foi até que tranqüila, saí de casa umas 19h e fui de metrô, não tive problemas para comprar o bilhete. E até chegar na estação Estácio (a que faz a baldeação para a outra linha) o percurso foi razoável. Já tinha muita gente e o metrô estava bastante cheio. Juntou o pessoal saindo do trabalho com a galera indo para o jogo, culpa do horário.

@@ -2,8 +2,8 @@
 layout: post
 title: "Tolkien, uma Biografia"
 date: 2010-04-07 08:00:00 -0000
+tags: ["livros"]
 ---
-
 Terminei de ler a biografia de J. R. R. Tolkien.
 
 Não tenho muito o que dizer, foi fantástico saber um pouco mais desse que considero um gênio da literatura moderna. O cara simplesmente moldou toda a fantasia como conhecemos, se hoje conhecemos elfos, hobbits, orcs etc é por que esse homem os criou dessa forma.

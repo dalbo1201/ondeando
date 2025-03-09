@@ -2,8 +2,8 @@
 layout: post
 title: "Retrospectiva 2008"
 date: 2008-12-30 08:00:00 -0000
+tags: ["a vida, o universo e tudo mais"]
 ---
-  
 Aí está uma coisa que é moda no fim do ano. As famosas retrospectivas tem como objetivo mostrar fatos importantes que aconteceram no mundo, se limitando a um assunto específico ou em geral.
 
 Este ano de importante não ocorreu muita coisa, mas das poucas que ocorreram são algumas das mais importantes.

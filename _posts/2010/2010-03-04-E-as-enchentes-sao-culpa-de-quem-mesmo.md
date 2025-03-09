@@ -2,6 +2,7 @@
 layout: post
 title: "E as enchentes são culpa de quem mesmo?"
 date: 2010-03-04 08:00:00 -0000
+tags: ["a vida, o universo e tudo mais"]
 ---
 
 Hoje recebi um e-mail e nele tem várias fotos de São Paulo na década de 1950 e 1960, todas depois de chuvas e com regiões bem conhecidas na cidade. Todas elas sofrendo de alagamento.

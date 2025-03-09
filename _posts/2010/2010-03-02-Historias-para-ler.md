@@ -2,6 +2,7 @@
 layout: post
 title: "Histórias para Ler"
 date: 2010-03-02 08:00:00 -0000
+tags: ["livros"]
 ---
   
 Como muitos sabem eu tenho <a href="https://historiasparaler.blogspot.com/" class="linkum">um outro blog</a> em que escrevo com alguns amigos sobre livros. Principalmente colcoamos nossas opiniões sobre os livros que acabamos de ler.

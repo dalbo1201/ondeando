@@ -2,8 +2,8 @@
 layout: post
 title: "Quanta dependência"
 date: 2007-08-17 08:00:00 -0000
+tags:  ["informática"]
 ---
-
 Como podemos depender tanto de uma máquina como essa? Estou falando dos computadores, com certeza.
 
 Hoje reparei que não sabemos mais fazer nada sem que essas pequenas máquinas estejam ao nosso lado. Eu por exemplo fico se não fico no computador o tempo todo, estou com ele ligado pelo menos para caso eu precise.

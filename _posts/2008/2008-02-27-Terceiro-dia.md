@@ -2,8 +2,8 @@
 layout: post
 title: "Terceiro dia: 19/01/2008"
 date: 2008-02-27 08:00:00 -0000
+tags: ["a vida, o universo e tudo mais"]
 ---
-
 00:35 am. Continuamos revezando a vigília das mochilas, estamos dormindo na calçada do restaurante "Tio Patinhas". Durante toda a noite a luz do posto e restaurante vai e volta.
 
 00:37 am. Para uma patrulha da PM Rodoviária do Paraná, estou acordado e um dos policiais acaba puxando conversa, acha super engraçado nossa iniciativa e nos deseja sorte, e estamos precisando...

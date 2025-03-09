@@ -2,8 +2,8 @@
 layout: post
 title: "Meu primeiro livro"
 date: 2010-07-08 08:00:00 -0000
+tags: ["livros"]
 ---
-
 Li o post no **Livros & Afins** *(o site não existe mais)* do Alessandro Martins e achei deveras interessante o assunto.
 
 Contar sobre o primeiro livro que leu, ou algo assim. Bom, mas será sobre isso que irei falar. Mas não falarei de um livro, mas da primeira saga se podemos assim dizer, por que depois que li meu primeiro livro segui lendo os outros da mesma série e só parei… Bem, não parei ainda.

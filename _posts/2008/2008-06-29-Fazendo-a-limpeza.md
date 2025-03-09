@@ -2,8 +2,8 @@
 layout: post
 title: "Fazendo a limpeza"
 date: 2008-06-29 08:00:00 -0000
+tags: ["a vida, o universo e tudo mais", "informática"]
 ---
-
 Não consigo imaginar como eu junto tanto papel em tão pouco tempo.
 
 Fui fazer uma limpeza aqui nas minhas coisas da faculdade, São-Paulinos no Rio e etc, e  percebi que em menos de seis meses juntei tanta tralha que não tem utilidade nenhuma mais pra mim.

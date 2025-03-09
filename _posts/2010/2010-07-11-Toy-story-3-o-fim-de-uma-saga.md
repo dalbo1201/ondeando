@@ -2,8 +2,8 @@
 layout: post
 title: "Toy Story 3, o fim de uma saga"
 date: 2010-07-11 08:00:00 -0000
+tags: ["filmes"]
 ---
-
 Ontem assisti ao terceiro filme da franquia Toy Story e é inacreditável como os criadores de Woody, Buzz e companhia conseguiram criar filmes que que mantivessem o nível entre eles.  
 
 Devo arriscar que se o primeiro é fantástico por nos apresentar a um mundo totalmente novo no modo de contar histórias de animação no cinema, o terceiro é simplesmente fantástico por terminar com essa trilogia de maneira emocionante.  

@@ -2,6 +2,7 @@
 layout: post
 title: "Microsoft Surface"
 date: 2007-05-30 08:00:00 -0000
+tags: ["informática"]
 ---
 >*Como essas postagens são antigas e recuperadas, muitos likns podem levar a lugar algum ou mesmo a lugares que não são mais o que eram na época. Mantenho o texto pela reflexão e lembraça.*
 

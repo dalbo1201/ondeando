@@ -2,6 +2,7 @@
 layout: post
 title: "Onde Vivem os Monstros"
 date: 2010-08-15 08:00:00 -0000
+tags: ["filmes"]
 ---
 Hoje assisti a esse belo filme.  
 

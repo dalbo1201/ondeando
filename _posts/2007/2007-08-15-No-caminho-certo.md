@@ -2,8 +2,8 @@
 layout: post
 title: ""
 date: 2007-08-15 08:00:00 -0000
+tags:  ["pensamentos"]
 ---
-
 Deus do céu!!!
 
 Acho que a partir de hoje, sempre que estiver com dificuldades de completar alguma tarefa que já esteja para realizar a muito tempo vou postar sobre ela aqui...

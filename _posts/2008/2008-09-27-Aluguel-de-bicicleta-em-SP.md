@@ -2,8 +2,8 @@
 layout: post
 title: "Aluguel de bicicleta em São Paulo"
 date: 2008-09-27 08:00:00 -0000
+tags: ["pensamentos"]
 ---
-  
 Acabei de ler na Folha que algumas estações de metrô em São Paulo terão um serviço de aluguel de bicicletas.
 
 As bicicletas poderão ser retiradas em estações pré-definidas do metrô e devolvidas em outras. Dessa forma eles pretendem desafogar o metrô e valorizar esse meio de transporte.
