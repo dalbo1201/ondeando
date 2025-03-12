@@ -1,6 +1,7 @@
 ---
 layout: post
-title: ""
+title: "No camminho certo"
+type: comentario
 date: 2007-08-15 08:00:00 -0000
 tags:  ["pensamentos"]
 ---

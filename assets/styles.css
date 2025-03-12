@@ -112,10 +112,6 @@ main {
   align-self: flex-end; /* Alinha o bloco à direita */
 }
 
-.material-icons {
-  font-size: 40px; /* Aumenta o tamanho do ícone */
-}
-
 a.linkcab:link,
 a.linkcab:visited,
 a.linkcab:active,
@@ -236,47 +232,22 @@ float: right;
   margin-top: 5px;
 }
 
-@media (max-width: 800px) {
-  .gallery .image-container {
-    width: 50%; /* Ajusta a largura das imagens para 50% em telas menores */
-  }
-}
-
-@media (max-width: 400px) {
-  .gallery .image-container {
-    width: 100%; /* Ajusta a largura das imagens para 100% em telas muito pequenas */
-  }
-}
 
 /* Estilos para o Blog */
-.blog-post {
-    margin-bottom: 20px;
-    background-color: #363636; /* Cor de fundo dos posts */
-    border: none; /* Remove a borda */
-    padding: 20px; /* Adiciona padding para espaçamento interno */
-    box-sizing: border-box; /* Inclui padding e borda na largura total */
-    max-width: 100%; /* Faz com que o post ocupe 100% da largura do contêiner */
-}
-
-
-.header-post {
-  margin: 0; /* Remove todas as margens */
-  padding: 0 0 30px 0; /* Remove todos os paddings e adiciona padding inferior de 30px */
+.blog-article{
+  margin-top: 30px;
 }
 
 .blog-title {
-  font-size: 22px;
-
+  font-size: 25px;
 }
 
-.blog-meta {
+.blog-data {
   font-size: 14px; /* Tamanho menor da fonte */
   color: #C0C0C0; /* Cor cinza */
-margin-top: 30px;
-
 }
 
-.blog-content p {
+.blog-post p {
   font-size: 16px;
   color: #ffffff;
   line-height: 20px;
@@ -284,15 +255,6 @@ margin-top: 30px;
   text-align: left;
   margin-bottom: auto; /* Empurra o bloco descrição para cima */
   padding-right: 10px; /* Adiciona padding à direita para garantir que o texto não fique sob a barra de rolagem */
-}
-
-.article {
-  display: flex;
-  flex-wrap: wrap;
-  margin: 0; /* Remove margens */
-  padding: 0; /* Remove paddings */
-  width: 100%; /* Garante que o artigo ocupe toda a largura */
-  box-sizing: border-box; /* Inclui padding e borda na largura total */
 }
 
 .pagination-container {
@@ -314,3 +276,23 @@ margin-top: 30px;
   margin-left: auto; /* Alinha o link "Próximo" à direita */
 }
 
+/************
+ * Tipos de posts
+ ************/
+ article.blog-article.blog-foto .blog-title,
+ article.blog-article.blog-comentario .blog-title {
+   display: none !important;
+ }
+
+
+@media (max-width: 800px) {
+  .gallery .image-container {
+    width: 50%; /* Ajusta a largura das imagens para 50% em telas menores */
+  }
+}
+
+@media (max-width: 400px) {
+  .gallery .image-container {
+    width: 100%; /* Ajusta a largura das imagens para 100% em telas muito pequenas */
+  }
+}

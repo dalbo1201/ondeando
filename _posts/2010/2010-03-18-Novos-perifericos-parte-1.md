@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Novos periféricos: parte 1"
+type: comentario
 date: 2010-03-18 08:00:00 -0000
 tags: ["informática"]
 ---
