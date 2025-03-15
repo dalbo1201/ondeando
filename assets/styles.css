@@ -38,14 +38,14 @@ header {
   align-items: center;
 }
 
-.name {
+.namecab {
   font-size: 30px;
   font-weight: 700;
-  margin-left: 20px;
+  margin-left: 10px;
   white-space: nowrap; /* Evita quebra de linha no nome */
 }
 
-.photo {
+.photocab {
   width: 50px; 
   height: 50px;
   border-radius: 50%;
@@ -56,21 +56,10 @@ header {
 
 nav {
   margin-left: auto;
+  font-size: 16px;
+  font-weight: bold;
   display: flex;
   align-items: center; /* Garante o alinhamento vertical dos itens */
-}
-
-nav a {
-  margin-left: 0;
-  margin-right: 0;
-  padding: 0 5px; /* Reduz o espaço à esquerda e à direita dos links */
-  color: #edb4e1;
-  font-weight: bold;
-  font-size: 16px; /* Garante que o tamanho do texto permaneça o mesmo */
-}
-
-nav a:hover {
-  color: #ffe0b8;
 }
 
 main {
@@ -151,41 +140,6 @@ footer {
   margin-left: 5px; /* Adiciona margem esquerda ao link no rodapé */
 }
 
-/* Ajustes para telas menores */
-@media screen and (max-width: 600px) {
-  header {
-    flex-direction: column;
-    align-items: flex-start;
-  }
-
-  nav {
-    margin-top: 10px; /* Adiciona espaço acima da navegação */
-    width: 100%;
-    display: flex;
-    justify-content: flex-end; /* Alinha a navegação à direita */
-  }
-
-  .top-header {
-    width: 100%;
-    display: flex;
-    align-items: center;
-    justify-content: flex-start; /* Alinha os itens à esquerda */
-  }
-
-  .name {
-    margin-left: 10px;
-  }
-
-  nav a {
-    margin-left: 5px; /* Reduz o espaço entre os links na navegação */
-    font-size: 16px; /* Garante que o tamanho do texto permaneça o mesmo */
-  }
-
-  /* Centraliza a galeria horizontalmente em telas menores */
-  .gallery {
-    justify-content: center;
-  }
-}
 
 /* Galeria de Imagens */
 .gallery {
@@ -284,7 +238,41 @@ float: right;
    display: none !important;
  }
 
+ /* Ajustes para telas menores */
+@media screen and (max-width: 600px) {
+  header {
+    flex-direction: column;
+    align-items: flex-start;
+  }
 
+  nav {
+    margin-top: 10px; /* Adiciona espaço acima da navegação */
+    width: 100%;
+    display: flex;
+    justify-content: flex-end; /* Alinha a navegação à direita */
+  }
+
+  .top-header {
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: flex-start; /* Alinha os itens à esquerda */
+  }
+
+  .name {
+    margin-left: 10px;
+  }
+
+  nav a {
+    margin-left: 5px; /* Reduz o espaço entre os links na navegação */
+    font-size: 16px; /* Garante que o tamanho do texto permaneça o mesmo */
+  }
+
+  /* Centraliza a galeria horizontalmente em telas menores */
+  .gallery {
+    justify-content: center;
+  }
+}
 @media (max-width: 800px) {
   .gallery .image-container {
     width: 50%; /* Ajusta a largura das imagens para 50% em telas menores */

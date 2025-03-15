@@ -14,15 +14,14 @@
   <meta name="wot-verification" content="7dba8efed6a71e98b8b9">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   {% feed_meta %}
-  {% if page.layout == 'default' or page.layout == 'pages' %}<meta name="robots" content="index,follow">{% else %}<meta name="robots" content="noindex,follow">{% endif %}
-  <!--Template baseado no jekyllBear https://knhash.in/jekyllBear -->
+  {% if page.layout == 'default' or page.layout == 'profissional' %}<meta name="robots" content="index,follow">{% else %}<meta name="robots" content="noindex,follow">{% endif %}
 
   {% if page.layout == 'default'%}<title>Pedro Dal Bó</title>{% elsif page.layout == 'blog'%}<title>Pedro Dal Bó | Blog</title>{% elsif page.layout == 'post'%}<title>{{ page.title }} | Blog</title>{% elsif page.layout == 'profissional'%}<title>Pedro Dal Bó | Profissional</title>{% endif %}
 
   <!-- Links -->
   <link rel="alternate" href="https://dalbo.me/" hreflang="pt-br">
   <link href="https://fonts.googleapis.com/css?family=Noto+Sans|Open+Sans" rel="stylesheet">
-  <link rel="stylesheet" href="{{ site.url }}/assets/styles.css"> <!-- Adicionando a linha para o CSS externo -->
+  <link rel="stylesheet" href="{{ site.url }}/assets/styles.css">
 
 </script>
 </head>
