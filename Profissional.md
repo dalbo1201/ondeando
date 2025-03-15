@@ -3,9 +3,6 @@ layout: profissional
 title: Meu Currículo
 excerpt: Cartão de visitas do Pedro Dal Bó.
 ---
-<div id="saudacao">
-      |Profissional
-</div>
 <div id="descricao">
    <p>Sou formado em engenharia civil pela <a href="http://www.ufrj.br/" class="linkum" title="Onde estudei">UFRJ</a>, atuo na elaboração de projetos rodoviários e ferroviários, de geometria e terraplenagem.</p>
   <p>Atualmente trabalho na <a href="http://www.cemosa.com.br" class="linkum" title="Onde trabalho">CEMOSA</a> no desenvolvimento de projetos geométricos de rodovias e vias urbanas com software Civil3D.</p>
