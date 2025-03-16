@@ -2,7 +2,7 @@
 layout: post
 title: "São-paulinos no RJ"
 date: 2006-04-26 08:00:00 -0000
-tags:  ["esporte, ou só futebol"]
+tags:  ["esporte, ou só futebol", "a vida, o universo e tudo mais"]
 ---
 
 Oi pessoal,

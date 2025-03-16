@@ -2,7 +2,7 @@
 layout: post
 title: "Sons portáteis não são pra qalquer um"
 date: 2008-06-21 08:00:00 -0000
-tags: ["pensamentos"]
+tags: ["pensamentos", "informática"]
 ---
 Estava eu no ônibus hoje, ouvindo meu rádio numa boa. Até aí nada de mais... Até que se senta ao meu lado uma garota, também ouvindo música. Só que dava pra ouvir o que ela estava escutando e ainda por cima ela cantava junto.
 

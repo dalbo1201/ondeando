@@ -1,5 +1,17 @@
-blog type: foto, comentario
+post type:
+foto
+comentario
 
-tags:"a vida, o universo e tudo mais", "filmes", "livros", "informática", "metablog",
-     "aniversário", "esporte, ou só futebol", "pensamentos", "quadrinhos", "fotos",
-     "joguinhos"
+post tags:
+"aniversário"
+"a vida, o universo e tudo mais"
+"engenharia"
+"esporte, ou só futebol"
+"filmes"
+"fotos"
+"informática"
+"joguinhos"
+"livros"
+"metablog"
+"pensamentos"
+"quadrinhos"
