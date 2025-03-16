@@ -10,7 +10,7 @@ Onde Vivem os Monstros conta uma história triste, a história de Max, um garoto
 
 Mas engana-se quem acha que ao levar esse filme para seu filho ou sobrinho assistirem terão um sucesso na sala de casa. Muito pelo contrário, é capaz que a molecada durma durante a projeção ou até mesmo saiam da sala revoltados pelo filme colocado.  
 <div class="gallery">
-            <img src="{{ site.baseurl }}/assets/fotos/2010/onde-vivem-os-monstros.jpg" alt="imagem do filme Onde vivem os monstros" title="imagem do filme Onde vivem os monstros, os monstros reunidos no por do sol">
+            <img src="{{ site.baseurl }}/assets/fotos/2010/08/onde-vivem-os-monstros.jpg" alt="imagem do filme Onde vivem os monstros" title="imagem do filme Onde vivem os monstros, os monstros reunidos no por do sol">
         </div>
 
 A história é contada de maneira complicada: tranquila, mas nem um pouco leve.  

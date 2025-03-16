@@ -5,7 +5,7 @@ date: 2007-01-14 08:00:00 -0000
 tags: ["a vida, o universo e tudo mais", "aniversário"]
 ---
 <div class="gallery">
-            <img src="{{ site.baseurl }}/assets/fotos/2007/DSC02825.JPG" alt="foto do bolo de aniversário com tema dos são-paulinos no rio" title="foto do bolo de aniversário com tema dos são-paulinos no rio">
+            <img src="{{ site.baseurl }}/assets/fotos/2007/01/DSC02825.JPG" alt="foto do bolo de aniversário com tema dos são-paulinos no rio" title="foto do bolo de aniversário com tema dos são-paulinos no rio">
         </div>
 Olá, pessoal.
 

@@ -8,7 +8,7 @@ tags: ["esporte, ou só futebol"]
 
 Acho que são essas coisas que <a href="{{ site.baseurl }}/2010/06/28/O-que-faz-a-copa-do-mundo-tao-especial.html" class="linkum">fazem a Copa do Mundo o torneio mais lindo</a> de se ver.
 <div class="gallery">
-            <img src="{{ site.baseurl }}/assets/fotos/2010/Urugaui-x-Gana -sai-Lugano.jpg" alt="Lugano saindo de campo" title="imagem do Lugano saindo de campo após a expulsão">
+            <img src="{{ site.baseurl }}/assets/fotos/2010/07/Urugaui-x-Gana -sai-Lugano.jpg" alt="Lugano saindo de campo" title="imagem do Lugano saindo de campo após a expulsão">
 </div>
 Hoje ao acordar, parecia que eu já sabia o resultado do jogo. Alias, venho cantando essa bola a algum tempo nas rodas entre amigos. Não acreditem que o Brasil tivesse como passar. Não pela Holanda exatamente, mas por qualquer seleção que se colocasse a marcar nossa Canarinho e pensasse em ficar com o domínio da bola.
 Isso pode não ter acontecido o tempo todo, mas quando acontece o nosso time, que é quase que acéfalo, não saberia o que fazer. Acéfalo talvez seja um termo forte demais, mas manco com certeza. Se a Canarinho não puder jogar no contra ataque, não tem jogo. Coréia, Costa do Marfim e Portugal foram exemplos claros, só para me colocar na Copa, por que Bolívia seria um belo exemplo também.

@@ -6,7 +6,7 @@ tags: ["a vida, o universo e tudo mais", "aniversário"]
 ---
 <div class="gallery-post-flutua">
 <div class="image-container">
-            <img src="{{ site.baseurl }}/assets/fotos/2008/Aniversário Pedro 014.jpg" alt="bolo do Bob Esponja" title="foto do bolo do Bob Esponja" width="384px" height="288px" >
+            <img src="{{ site.baseurl }}/assets/fotos/2008/02/Aniversário Pedro 014.jpg" alt="bolo do Bob Esponja" title="foto do bolo do Bob Esponja" width="384px" height="288px" >
         </div>
 </div>
 
