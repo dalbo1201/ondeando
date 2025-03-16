@@ -189,6 +189,7 @@ float: right;
 /* Estilos para o Blog */
 .blog-article{
   margin-top: 30px;
+  width: 100%; /* Garante que a legenda ocupe toda a largura do contêiner */
 }
 
 .blog-title {
@@ -208,6 +209,15 @@ float: right;
   text-align: left;
   margin-bottom: auto; /* Empurra o bloco descrição para cima */
   padding-right: 10px; /* Adiciona padding à direita para garantir que o texto não fique sob a barra de rolagem */
+}
+
+.blog-comentario {
+  font-size: 15px;
+  line-height: 20px;
+  max-width: 100%;
+  text-align: right; /* Alinha o texto à direita */
+  margin-top: 10px; /* Define a margem superior */
+  align-self: flex-end; /* Alinha o bloco à direita */
 }
 
 .pagination-container {
@@ -233,7 +243,8 @@ float: right;
  * Tipos de posts
  ************/
  article.blog-article.blog-foto .blog-title,
- article.blog-article.blog-comentario .blog-title {
+ article.blog-article.blog-texto .blog-title, 
+ article.blog-article.blog-foto .blog-comentario {
    display: none !important;
  }
 

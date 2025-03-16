@@ -7,7 +7,7 @@
 {{ content }}
 
   {% for post in paginator.posts %}
-  <article class="blog-article {% if post.type == 'foto' %}blog-foto{% elsif post.type == 'comentario' %}blog-comentario{% endif %}">
+  <article class="blog-article {% if post.type == 'foto' %}blog-foto{% elsif post.type == 'texto' %}blog-texto{% endif %}">
     <div class="blog-data">
       <a href="{{ post.url | relative_url }}" class="linkdata"> {{ post.date | date: "%d/%m/%Y" }}</a>
       </div>
@@ -16,6 +16,9 @@
     </div>
     <div class="blog-post">
       {{ post.content | markdownify }}
+      <br/>
+    </div>
+    <div class="blog-comentario"><a href="mailto:pedro@dalbo.me?subject={{ post.title }}" class="linkum">Podemos continuar a conversa por aqui</a>.
     </div>
   </article>
 {% endfor %}

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Vários assuntos"
-type: comentario
+type: texto
 date: 2010-03-03 08:00:00 -0000
 tags: ["pensamentos"]
 ---
