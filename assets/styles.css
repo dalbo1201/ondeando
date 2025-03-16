@@ -149,6 +149,26 @@ footer {
 padding: 15px 0 0 0;
 }
 
+.gallery .image-container {
+  width: 25%; /* Define a largura das imagens como 25% da largura do texto */
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column; /* Mantém a legenda abaixo da imagem */
+  justify-content: flex-end; /* Alinha as imagens pela parte inferior */
+}
+
+.gallery img {
+  width: 100%;
+  height: auto; /* Altura proporcional à largura */
+}
+
+.gallery .caption {
+  text-align: center;
+  font-style: italic;
+  font-size: 14px;
+  width: 100%; /* Garante que a legenda ocupe toda a largura do contêiner */
+}
+
 .gallery-post {
   display: flex;
   justify-content: center; /* Centraliza horizontalmente */
@@ -165,27 +185,6 @@ float: right;
   gap: 10px;
   margin: 15px 15px 5px 15px;
 }
-
-.gallery .image-container {
-  width: 25%; /* Define a largura das imagens como 25% da largura do texto */
-  box-sizing: border-box;
-  display: flex;
-  flex-direction: column; /* Mantém a legenda abaixo da imagem */
-  justify-content: flex-end; /* Alinha as imagens pela parte inferior */
-}
-
-.gallery img {
-  width: 100%;
-  height: auto; /* Altura proporcional à largura */
-
-}
-
-.gallery .caption {
-  text-align: center;
-  font-size: 14px;
-  margin-top: 5px;
-}
-
 
 /* Estilos para o Blog */
 .blog-article{
