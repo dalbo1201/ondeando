@@ -6,7 +6,7 @@
 <div id="saudacao">|Blog</div>
 
 <article class="blog-article {% if page.type == 'foto' %}blog-foto{% elsif page.type == 'comentario' %}blog-comentario{% endif %}">
-  <div class="blog-data">{{ post.date | date: "%d/%m/%Y" }}</div>
+  <div class="blog-data">{{ page.date | date: "%d/%m/%Y" }}</div>
   <div class="blog-title">{{ page.title }}</div>
   <div class="blog-post">
     {{ content }}
