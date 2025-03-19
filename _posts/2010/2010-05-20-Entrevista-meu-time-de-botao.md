@@ -16,6 +16,6 @@ Via e-mail ele me enviou as perguntas e assim que as terminei de responder envie
 
 Bem, não vou continuar falando muito. Visitem o blog e vejam se  falei muitas besteiras, ok?
 
-Minha entrevista <a href="http://meutimedebotao.blogspot.com/" class="linkum">está aqui</a>.
+Minha entrevista <a href="http://meutimedebotao.blogspot.com/" class="linkum">está aqui</a>.  
 
 >Apesar de dizerem que *a internet não esquece*, algumas pessoas ainda podem controlar o acesso e o site não está mais no ar. Mas mantive a postagem aqui pela lembrança.

@@ -179,7 +179,7 @@ padding: 15px 0 0 0;
 }
 
 .gallery-post-flutua {
-float: right;
+  float: right;
   display: flex;
   flex-wrap: wrap;
   gap: 10px;

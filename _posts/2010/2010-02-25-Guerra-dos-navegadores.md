@@ -4,8 +4,7 @@ title: "Guerra dos navegadores"
 date: 2010-02-25 08:00:00 -0000
 tags: ["informática"]
 ---
-  
->*Como essas postagens são antigas e recuperadas, muitos likns podem levar a lugar algum ou mesmo a lugares que não são mais o que eram na época. Mantenho o texto pela reflexão e lembraça.*
+>*Como essas postagens são antigas e recuperadas, muitos links podem levar a lugar algum ou mesmo a lugares que não são mais o que eram na época. Mantenho o texto pela reflexão e lembraça.*
   
 É extremamente reconfortante ver como o mundo dos “veículos” da internet está concorrido.  
 
