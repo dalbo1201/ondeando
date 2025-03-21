@@ -5,8 +5,8 @@ date: 2007-10-19 08:00:00 -0000
 tags: ["a vida, o universo e tudo mais"]
 ---
 <div class="gallery">
-            <img src="{{ site.baseurl }}/assets/fotos/2007/10/Vista da janela.JPG" alt="vista da janela" title="vista da janela, a copa de uma árvore">
-        </div>
+     <img src="{{ site.baseurl }}/assets/fotos/2007/10/Vista da janela.JPG" alt="vista da janela" title="vista da janela, a copa de uma árvore">
+</div>
 
 Resolvi tirar uma foto da vista da minha janela.
 

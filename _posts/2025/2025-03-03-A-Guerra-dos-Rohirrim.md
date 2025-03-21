@@ -5,7 +5,7 @@ date: 2025-03-03 12:00:00 -0300
 tags: ["filmes"]
 ---
 <div class="gallery">
-            <img src="{{ site.baseurl }}/assets/fotos/2025/03/Rohirrim.jpg" alt="Imagem de divulgação do filme A Guerra dos Rohirrim. Temos Héra, a protagonista, à frente, logo atrás os cavaleiros de Rohan e acima uma grande imagem do rosto em perfil de seu pai e de Wulf em tons sépia." title="um pôster de A Guerra dos Rohirrim">
+    <img src="{{ site.baseurl }}/assets/fotos/2025/03/Rohirrim.jpg" alt="Imagem de divulgação do filme A Guerra dos Rohirrim. Temos Héra, a protagonista, à frente, logo atrás os cavaleiros de Rohan e acima uma grande imagem do rosto em perfil de seu pai e de Wulf em tons sépia." title="um pôster de A Guerra dos Rohirrim">
 </div>
 Não vou me aprofundar muito sobre o filme, não é minha intenção. Venho trazer meu sentimento ao terminar de assití-lo.  
 

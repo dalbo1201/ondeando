@@ -4,7 +4,6 @@ title: "PC de cara nova"
 date: 2010-02-27 08:00:00 -0000
 tags: ["informática"]
 ---
-  
 Esse mês eu me propus a fazer uma pequena loucura, resolvi comprar o Windows 7.
 A versão que escolhi foi a Home Premium uma vez que as outras duas opções *caseiras* ou são vendidas já instaladas em alguns PC (a Starter) e a versão Home Basic não permite que o sistema operacional trabalhe em redes, o que dificulta o compartilhamento de impressoras e afins.
 

@@ -6,7 +6,7 @@ tags: ["esporte, ou só futebol"]
 ---
 É inacreditável o que uma Copa do Mundo pode te apresentar em menos de um dia. Na parte da manhã você participa da história ao ver a Holanda passar pelo Brasil nas quartas de final e aumentar suas chances de pela primeira vez na História colocar uma tão sonhada estrela no escudo da sua seleção. E em menos de algumas horas depois, vemos a linda Celeste, primeira Campeã Mundial, voltar a jogar uma semi final…
 
-Acho que são essas coisas que <a href="{{ site.baseurl }}/2010/06/28/O-que-faz-a-copa-do-mundo-tao-especial.html" class="linkum">fazem a Copa do Mundo o torneio mais lindo</a> de se ver.  
+Acho que são essas coisas que <a href="{{ site.baseurl }}/2010/06/28/O-que-faz-a-copa-do-mundo-tao-especial.html">fazem a Copa do Mundo o torneio mais lindo</a> de se ver.  
 <div class="gallery">
     <img src="{{ site.baseurl }}/assets/fotos/2010/07/Urugaui-x-Gana -sai-Lugano.jpg" alt="Lugano saindo de campo" title="imagem do Lugano saindo de campo após a expulsão">
 </div>

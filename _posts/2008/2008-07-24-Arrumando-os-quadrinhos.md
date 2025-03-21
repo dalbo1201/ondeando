@@ -5,7 +5,7 @@ date: 2008-07-24 08:00:00 -0000
 tags: ["a vida, o universo e tudo mais", "quadrinhos"]
 ---
 <div class="gallery">
-            <img src="{{ site.baseurl }}/assets/fotos/2008/07/DSC00128.JPG" alt="foto de uma pilha de revistas em quadrinho sobre a cama" title="foto de uma pilha de revistas em quadrinho sobre a cama">
+    <img src="{{ site.baseurl }}/assets/fotos/2008/07/DSC00128.JPG" alt="foto de uma pilha de revistas em quadrinho sobre a cama" title="foto de uma pilha de revistas em quadrinho sobre a cama">
 </div>
 Dessa vez não foi para jogar nada fora, pelo contrário.
 

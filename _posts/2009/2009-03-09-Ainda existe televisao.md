@@ -7,8 +7,8 @@ tags: ["a vida, o universo e tudo mais"]
 Devo dizer que faz um certo tempo que não assisto televisão com freqüência. Quando digo isso quero mostrar que não tenho mais aquele horário em que passa o meu programa favorito e fico esperando por ele ancioso.
 <div class="gallery-post-flutua">
 <div class="image-container">
-            <img src="{{ site.baseurl }}/assets/fotos/2009/03/tv.png" alt="tv" title="uma televisão desenhada estilizada, como dos Jetsons" width="200px" height="200px">
-        </div>
+        <img src="{{ site.baseurl }}/assets/fotos/2009/03/tv.png" alt="tv" title="uma televisão desenhada estilizada, como dos Jetsons" width="200px" height="200px">
+</div>
 </div>
 Hoje em dia com a facilidade de encontrarmos os nossos programas preferidos na internet facilita muito a vida. Assistir quando, onde e como quiser é uma possibilidade que favorece a todos os consumidores. Pena que as empresas não percebam isso.
 

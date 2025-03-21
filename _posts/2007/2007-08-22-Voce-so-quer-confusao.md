@@ -6,7 +6,7 @@ tags: ["pensamentos"]
 ---
 >*Como essas postagens são antigas e recuperadas, muitos links podem levar a lugar algum ou mesmo a lugares que não são mais o que eram na época. Mantenho o texto pela reflexão e lembraça.*
 
-Li uma reportagem de um estudo feito por Fábio Iglesias, pesquisador da Universidade de Brasília, onde entre outras conclusões diz que as pessoas não reclamam quando alguém fura a fila. (<a href="http://revistagalileu.globo.com/EditoraGlobo/componentes/article/edg_article_print/1,3916,1004240-1719-1,00.html" class="linkum">Clique aqui</a> para ler a reportagem).
+Li uma reportagem de um estudo feito por Fábio Iglesias, pesquisador da Universidade de Brasília, onde entre outras conclusões diz que as pessoas não reclamam quando alguém fura a fila. (<a href="http://revistagalileu.globo.com/EditoraGlobo/componentes/article/edg_article_print/1,3916,1004240-1719-1,00.html">Clique aqui</a> para ler a reportagem).
 
 Isso me fez pensar, afinal poucos reclamam de várias coisas e quando alguém reclama é capaz de ouvir de outras pessoas que é estressada e que apenas quer arranjar confusão...
 

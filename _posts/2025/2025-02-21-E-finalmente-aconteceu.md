@@ -4,7 +4,6 @@ title: "E finalmente aconteceu"
 date: 2025-02-21 23:56:00 -0000
 tags: ["metablog"]
 ---
-
 Demorou.
   
 Foram mais ou menos 3 semanas tentando fazer esse espaço ir para a rede, finalmente aconteceu.

@@ -4,7 +4,6 @@ title: "Novas maneiras de escrever"
 date: 2010-02-28 08:00:00 -0000
 tags: ["informática", "metablog"]
 ---
-  
 Olá a todos mais uma vez.
 
 Como viram no post passado estou com um novo SO e isso me permitiu algumas regalias. Uma delas é não precisar mais utlizar-me do editor padrão do Blogger, explico.

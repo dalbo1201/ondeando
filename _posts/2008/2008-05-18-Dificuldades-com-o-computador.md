@@ -4,7 +4,7 @@ title: "Dificuldades com o computador"
 date: 2008-05-18 08:00:00 -0000
 tags: ["informática"]
 ---
-Já <a href="http://127.0.0.1:4000/blog/2007/08/18/Por-isso-as-pessoas-nao-gostam-da-Microsoft.html" class="linkum">tive problemas com a Microsoft antes</a>, mas dessa vez foi bem mais sério.
+Já <a href="http://127.0.0.1:4000/blog/2007/08/18/Por-isso-as-pessoas-nao-gostam-da-Microsoft.html">tive problemas com a Microsoft antes</a>, mas dessa vez foi bem mais sério.
 
 Resolvi fazer o download do Service Pack 3 do Windows XP. Uma atualização que serve para resolver algumas falhas do Windows, mas nada muito sério, senão ninguém estaria usando, não é mesmo.
 

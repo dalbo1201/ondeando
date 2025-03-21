@@ -17,7 +17,7 @@ Pedro Bandeira, soube apresentar todos os elementos para que eu me prendesse ao 
 
 E você, qual foi o primeiro livro que leu? Escreva no seu blog e deixe seu comentário para que eu possa ir ler!
 
-Aproveite e visite o <a href="https://historiasparaler.blogspot.com/" class="linkum">Histórias para Ler</a> e saiba mais sobre <a href="http://historiasparaler.blogspot.com/2007/07/coleo-os-karas.html" class="linkum">minha impressão da coleção</a>.
+Aproveite e visite o <a href="https://historiasparaler.blogspot.com/">Histórias para Ler</a> e saiba mais sobre <a href="http://historiasparaler.blogspot.com/2007/07/coleo-os-karas.html">minha impressão da coleção</a>.
 
 Abraços a todos,  
 Inté.

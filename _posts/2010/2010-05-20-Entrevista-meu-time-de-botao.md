@@ -6,7 +6,7 @@ tags: ["esporte, ou só futebol"]
 ---
 Olá amigos,
 
-Hoje vim convidar vocês a conhecer um blog com um projeto bem interessante. O <a href="http://meutimedebotao.blogspot.com/" class="linkum">MEU TIME DE BOTÃO</a> tem por objetivo entrevistar as pessoas com um foco no futebol.
+Hoje vim convidar vocês a conhecer um blog com um projeto bem interessante. O <a href="http://meutimedebotao.blogspot.com/">MEU TIME DE BOTÃO</a> tem por objetivo entrevistar as pessoas com um foco no futebol.
 
 Bem, até aí nada de mais… Mas o bacana é que não precisa ser ninguém super famoso. Isso é óbvio já que eu fui um dos entrevistados.
 
@@ -16,6 +16,6 @@ Via e-mail ele me enviou as perguntas e assim que as terminei de responder envie
 
 Bem, não vou continuar falando muito. Visitem o blog e vejam se  falei muitas besteiras, ok?
 
-Minha entrevista <a href="http://meutimedebotao.blogspot.com/" class="linkum">está aqui</a>.  
+Minha entrevista <a href="http://meutimedebotao.blogspot.com/">está aqui</a>.  
 
 >Apesar de dizerem que *a internet não esquece*, algumas pessoas ainda podem controlar o acesso e o site não está mais no ar. Mas mantive a postagem aqui pela lembrança.

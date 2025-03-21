@@ -108,14 +108,14 @@ a.linkcab:hover {
   color: #ffffff;
 }
 
-a.linkum:link,
-a.linkum:visited,
-a.linkum:active,
+a:link,
+a:visited,
+a:active,
 nav a {
   color: #edb4e1;
 }
 
-a.linkum:hover,
+a:hover,
 nav a:hover {
   color: #ffe0b8;
 }

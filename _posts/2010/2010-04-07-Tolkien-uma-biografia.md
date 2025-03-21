@@ -16,7 +16,7 @@ Tá certo, eu já sabia que ele é humano, mas sempre temos em nossos ídolos e 
 
 Quem sabe numa próxima postagem, certo?
 
-Para saberem mais impressões minhas sobre o livro visitem o <a href="https://historiasparaler.blogspot.com/" class="linkum">Histórias para Ler</a>. Lá eu escrevi mais um pouco, <a href="http://historiasparaler.blogspot.com/2010/04/tolkien-uma-biografia-michael-white.html" class="linkum">clique aqui</a> para ir direto para a página do texto.
+Para saberem mais impressões minhas sobre o livro visitem o <a href="https://historiasparaler.blogspot.com/">Histórias para Ler</a>. Lá eu escrevi mais um pouco, <a href="http://historiasparaler.blogspot.com/2010/04/tolkien-uma-biografia-michael-white.html">clique aqui</a> para ir direto para a página do texto.
 
 Abraços a todos.
 Boa leitura,  

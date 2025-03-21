@@ -17,7 +17,7 @@ Outro fator é saber se serão disponibilizados equipamentos de segurança para 
 Tudo isso deve ser levado muito em conta, mas a iniciativa não pode ser considerada fracassada logo no início. É preciso que se invista nisso por que vejo com bons olhos e como um ótimo recurso para o trânsito tão caótico em que se encontra nossa São Paulo.
 
 Parabenizo pela iniciativa e espero que não caia no esquecimento.
-Para ler e saber um pouco mais: <a href="http://www1.folha.uol.com.br/folha/cotidiano/ult95u449511.shtml" class="linkum">Aluguel de bicicletas começa hoje em 4 estações do Metrô</a>.
+Para ler e saber um pouco mais: <a href="http://www1.folha.uol.com.br/folha/cotidiano/ult95u449511.shtml">Aluguel de bicicletas começa hoje em 4 estações do Metrô</a>.
 
 Abraços a todos,  
 Inté.

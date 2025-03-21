@@ -12,13 +12,13 @@
       <a href="{{ post.url | relative_url }}" class="linkdata"> {{ post.date | date: "%d/%m/%Y" }}</a>
       </div>
     <div class="blog-title">
-    <a href="{{ post.url | relative_url }}" class="linkum">{{ post.title }}</a>
+    <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
     </div>
     <div class="blog-post">
       {{ post.content | markdownify }}
       <br/>
     </div>
-    <div class="blog-comentario"><a href="mailto:pedro@dalbo.me?subject={{ post.title }}" class="linkum">A conversa continua aqui</a>.
+    <div class="blog-comentario"><a href="mailto:pedro@dalbo.me?subject={{ post.title }}">A conversa continua aqui</a>.
     </div>
   </article>
 {% endfor %}

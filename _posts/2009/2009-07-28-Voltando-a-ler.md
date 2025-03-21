@@ -4,7 +4,6 @@ title: "Voltando a ler, será?"
 date: 2009-07-28 08:00:00 -0000
 tags: ["livros"]
 ---
-  
 Como é bom ler.  
 
 Tinha me esquecido das maravilhas que descobrimos ao viajar para um mundo que só existe na nossa imaginação. Sim, por que mesmo que duas pessoas leiam o mesmo livro em momentos semelhantes da vida, cada um terá lido um livro diferente.

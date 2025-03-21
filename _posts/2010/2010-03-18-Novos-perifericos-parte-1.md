@@ -5,7 +5,6 @@ type: texto
 date: 2010-03-18 08:00:00 -0000
 tags: ["informática"]
 ---
-
 Esse último fim de semana foi um para esquecer.
 
 Acordo no sábado, começo a separar a roupa para lavar e a outra para levar para a lavanderia. Começo a lavar a roupa e vou para o computador para gastar o tempo.

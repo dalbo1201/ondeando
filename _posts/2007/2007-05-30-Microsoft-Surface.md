@@ -8,7 +8,7 @@ tags: ["informática"]
 
 Olá para todos,
 
-Existe um site sobre o Windows que estou sempre visitando para saber das novidades da informática, pelo menos as ligadas a Microsoft. O <a href="http://www.winajuda.com.br/" class="linkum">WinAjuda</a>.
+Existe um site sobre o Windows que estou sempre visitando para saber das novidades da informática, pelo menos as ligadas a Microsoft. O <a href="http://www.winajuda.com.br/">WinAjuda</a>.
 
 Pois hoje eu entre lá e vi uma notícia sobre o Microsoft Surface. É um produto que realmente faz você ficar imaginando o que mais falta ser criado...
 
