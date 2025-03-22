@@ -282,7 +282,13 @@ padding: 15px 0 0 0;
   .gallery {
     justify-content: center;
   }
+
+  .blog-post p, 
+  #descricao {
+    text-align: justify;
+  }
 }
+
 @media (max-width: 800px) {
   .gallery .image-container {
     width: 50%; /* Ajusta a largura das imagens para 50% em telas menores */
