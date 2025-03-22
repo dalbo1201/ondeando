@@ -81,7 +81,7 @@ main {
   margin-bottom: 40px; /* Adiciona margem inferior */
 }
 
-#descricao {
+.descricao {
   font-size: 16px;
   line-height: 20px;
   max-width: 100%;
@@ -90,7 +90,16 @@ main {
   padding-right: 10px; /* Adiciona padding à direita para garantir que o texto não fique sob a barra de rolagem */
 }
 
-#atualizacao {
+.estou-fazendo {
+  font-size: 16px;
+  line-height: 20px;
+  max-width: 100%;
+  text-align: left;
+  margin-bottom: auto; /* Empurra o bloco descrição para cima */
+  padding-right: 10px; /* Adiciona padding à direita para garantir que o texto não fique sob a barra de rolagem */
+}
+
+.atualizacao {
   font-size: 13px;
   line-height: 20px;
   max-width: 100%;
@@ -284,7 +293,7 @@ padding: 15px 0 0 0;
   }
 
   .blog-post p, 
-  #descricao {
+  .descricao {
     text-align: justify;
   }
 }

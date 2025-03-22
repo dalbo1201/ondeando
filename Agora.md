@@ -3,9 +3,9 @@ layout: agora
 title: O que estou fazendo
 excerpt: Uma atualizaçao quinzenal? Talvez.
 ---
-<div id="descricao">
+<div class="descricao">
 <p>Recuperando as forças depois do Carnaval, nem fui a tantos blocos, mas foi o suficiente.</p>
-Estou lendo:
+<div class="estou-fazendo">Estou lendo:
 <ul>
 <li>Walden, H. D. Thoreau.</li>
 </ul>
