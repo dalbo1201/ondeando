@@ -4,7 +4,6 @@ title: "Por isso as pessoas não gostam da Microsoft?"
 date: 2007-08-18 08:00:00 -0000
 tags:  ["informática"]
 ---
-
 Normalmente, as pessoas que conhecem um pouco mais que seja de informática por algum motivo não gosta ou tem algo contra a Microsoft.
 
 Eu por exemplo, não tenho muita coisa contra. Tá certo que uso muitos produtos Microsoft por custo (algumas coisas a gente encontra "de graça") e por não conhecer produtos que eu necessito que rodem em Linux ou Mac (como o AutoCad).
@@ -23,4 +22,4 @@ Vou-me indo.
 Abraços a todos,  
 Inté.
 
-*No finado antigo blog tinha um botão com meu email e um link "mailto".
+<div class="aviso">No finado antigo blog tinha um botão com meu email e um link "mailto".</div>

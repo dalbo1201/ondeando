@@ -9,7 +9,7 @@ tags: ["joguinhos", "informática"]
 </div>
 Durante o Carnaval saímos para tomar uma cerveja e no meio do papo um amigo soltou, simples assim, sem mais nenhuma informação:
 
->"Você que gosta de celular, vou te indicar um negócio. <a href="https://www.blazgracar.com/lok" title="LOK, o joguinho">Baixa o LOK</a>."
+<div class="citacao">Você que gosta de celular, vou te indicar um negócio. <a href="https://www.blazgracar.com/lok" title="LOK, o joguinho">Baixa o LOK</a>.</div>
 
 Baixei e deixei pra ver no dia seguinte, com calma, o que seria.  
 

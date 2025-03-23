@@ -5,9 +5,7 @@ date: 2008-04-25 08:00:00 -0000
 tags: ["a vida, o universo e tudo mais"]
 ---
 <div class="gallery-post-flutua">
-<div class="image-container">
     <img src="{{ site.baseurl }}/assets/fotos/2008/04/virada cultural.png" alt="logo da virada cultural" title="logo da virada cultural" >
-</div>
 </div>
 Quarto ano da Virada Cultural em Sampa. Durante esse final de semana, a partir de sábado as 18h.
 

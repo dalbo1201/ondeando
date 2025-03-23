@@ -4,8 +4,7 @@ title: "Marcin Stawiartz, ótimas imagens"
 date: 2008-07-04 08:00:00 -0000
 tags: ["metablog", "fotos"]
 ---
->*Como essas postagens são antigas e recuperadas, muitos links podem levar a lugar algum ou mesmo a lugares que não são mais o que eram na época. Mantenho o texto pela reflexão e lembraça.*
-
+<div class="aviso">Como essas postagens são antigas e recuperadas, muitos links podem levar a lugar algum ou mesmo a lugares que não são mais o que eram na época. Mantenho o texto pela reflexão e lembraça.</div>
 Estava navegando pelo DeviantArt, um ótimo site para ver imagens, fotos e montagens para se colocar como fundo de tela do PC, ou encontrar um *Visual Style* diferente.
 
 Procurando uma imagem de alguma construção, encontrei uma foto da Torre Eiffel, na imagem aparecia o autor da foto, na verdade um site. Fui atrás e descobrir o que mais ele tem. Devo dizer que encontrei um ótimo lugar para procurar imagens diferentes e de muita qualidade, vale a visita.

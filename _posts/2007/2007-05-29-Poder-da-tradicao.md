@@ -8,7 +8,7 @@ Olá pessoal,
 
 Bom, todos (?) sabem que estou lendo "O Livreiro de Cabul", infelizmente ainda não consegui terminar, e hoje li um capítulo que me deixou impressionado. Não sabemos, ou pelo menos não percebemos, o poder que as tradições tem sobre os povos...
 
->Leila vive um impasse. Entre a lama da sociedade e a poeira das tradições. Ela quer enfrentar um sistema fundamentado em séculos de tradição e que paralisa metade da população. Leva meia hora até o Ministério da Educação. Uma meia hora impossível. Leila não está acostumada a lutar por algo, ao contrário, está acostumada a desisitr. Mas tem que haver uma saída. Só resta encontrá-la.
+<div class="citacao">Leila vive um impasse. Entre a lama da sociedade e a poeira das tradições. Ela quer enfrentar um sistema fundamentado em séculos de tradição e que paralisa metade da população. Leva meia hora até o Ministério da Educação. Uma meia hora impossível. Leila não está acostumada a lutar por algo, ao contrário, está acostumada a desisitr. Mas tem que haver uma saída. Só resta encontrá-la.</div>
 
 Essa é a tal passagem que disse antes. Leila é uma mulher que vive em função dos trabalhos da casa, é quase uma escrava sendo maltratada o tempo todo por seus sobrinhos irmão, dono da casa onde mora. Mas ela quer algo diferente, sente que não agüenta mais a vida que leva. Mas são anos, a vida toda, fundamentado na tradição Talibã, e por isso sente a dificuldade de começar a fazer algo que antes seria impensável para qualquer mulher.
 

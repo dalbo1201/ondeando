@@ -16,7 +16,7 @@ Mesmo com essa explicação as pessoas ficam sem entender e *acham graça*.
 
 Agora tem essa história de site, blog, página de agora... E a questão retorna:  
 
-"Por que todo esse esforço?"  
+<div class="citacao">Por que todo esse esforço?</div>
 
 No mundo atual estamos cada vez mais isolados da web, enfiados em aplicativos que tem apenas como objetivo nos manter lá dentro a qualquer custo e criando todas as dificuldades que possam nos encaminhar para lugares externos à aplicação.
 

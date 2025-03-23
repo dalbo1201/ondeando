@@ -12,7 +12,9 @@ Devo agradecer bastante as IA do Copilot e DuckGO Chat, um pouco ao ChatGPT e de
 
 Descobrir os erros em Ruby, as sintaxes todas do Jekyll, um inferno, mas no final deu certo.
 
-Agora é ver como alimentar esse monstrinho aqui.
+Agora é ver como alimentar esse monstrinho aqui.  
+
+Vale o aviso que as postagens mais antigas foram trazidas do meu outro blog, não estão todas, mas as que acho que apesar de não concordar com alguns raciocínios valem pelo entendimento do crescimento do indivíduo, peguem leve.
 
 Abraços a todos,   
 Inté.

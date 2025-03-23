@@ -220,13 +220,30 @@ padding: 15px 0 0 0;
   padding-right: 10px; /* Adiciona padding à direita para garantir que o texto não fique sob a barra de rolagem */
 }
 
+.aviso { 
+  font-size: 14px;
+  text-align: center;
+  border: 3px solid #ffe0b8; 
+  margin: 10px 10px 10px 20px; 
+  padding: 10px; 
+}
+
+.citacao {
+  font-size: 17px;
+  font-style: italic;
+  margin: 30px 20px 30px 50px;
+  border-left: 4px solid #edb4e1;
+  padding: 5px 0px 5px 5px;
+  max-width: 75%;
+}
+
 .blog-comentario {
   font-size: 15px;
   line-height: 20px;
   max-width: 100%;
-  text-align: right; /* Alinha o texto à direita */
-  margin-top: 10px; /* Define a margem superior */
-  align-self: flex-end; /* Alinha o bloco à direita */
+  text-align: right;
+  margin-top: 10px;
+  align-self: flex-end;
 }
 
 .pagination-container {
@@ -292,8 +309,10 @@ padding: 15px 0 0 0;
     justify-content: center;
   }
 
-  .blog-post p, 
-  .descricao {
+  
+  .descricao,
+  .blog-post p,
+  .aviso {
     text-align: justify;
   }
 }

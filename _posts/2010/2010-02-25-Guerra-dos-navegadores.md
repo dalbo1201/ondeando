@@ -4,15 +4,13 @@ title: "Guerra dos navegadores"
 date: 2010-02-25 08:00:00 -0000
 tags: ["informática"]
 ---
->*Como essas postagens são antigas e recuperadas, muitos links podem levar a lugar algum ou mesmo a lugares que não são mais o que eram na época. Mantenho o texto pela reflexão e lembraça.*
+<div class="aviso">Como essas postagens são antigas e recuperadas, muitos links podem levar a lugar algum ou mesmo a lugares que não são mais o que eram na época. Mantenho o texto pela reflexão e lembraça.</div>
   
 É extremamente reconfortante ver como o mundo dos “veículos” da internet está concorrido.  
 
 Antigamente tínhamos o famoso e excelente Netscape que se mostrava um ótimo navegador e dominava as vias virtuais. Então a toda poderosa Microsoft resolveu integrar seu Internet Explorer ao Sistema Operacional mais utilizado no planeta, seu Windows e assim vimos uma rápida morte de um navegador com grande futuro para o surgimento de um monstro.
 <div class="gallery-post-flutua">
-<div class="image-container">
     <img src="{{ site.baseurl }}/assets/fotos/2010/02/Qual-navegador-escolher.jpg" alt="imagem com opções de navegadores" title="imagem com opções de navegadores. Firefox 3, IE 8, Chrome, Opera, Safari e Flock">
-</div>
 </div>
 Digo monstro, por que todos que já utilizaram o IE e tem algum conhecimento mínimo de navegadores sabe que o IE6 foi o que de pior poderia acontecer para nosso querido www. A Microsoft aproveitando o total domínio que recebeu resolveu se esquecer de trabalhar no desenvolvimento do seu navegador, talvez achando que a internet seria algo passageiro.  
 

@@ -5,8 +5,8 @@ date: 2007-09-11 08:00:00 -0000
 tags: ["engenharia"]
 ---
 <div class="gallery">
-            <img src="https://static.abc.es/Media/201403/23/oresund--644x362.jpg" alt="Ponte do Øresund" title="Ponte do Øresund">
-        </div>
+    <img src="https://static.abc.es/Media/201403/23/oresund--644x362.jpg" alt="Ponte do Øresund" title="Ponte do Øresund">
+</div>
 
 Recebi uma vez por e-mail uma foto de uma estrutura bem interessante. Era essa aqui.
 
