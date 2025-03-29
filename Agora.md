@@ -24,3 +24,6 @@ Séries que estou vendo <a href="https://tvtime.com/r/38uUh" class="linkcab">&#1
 <li>Arcane|Netflix|temporada 2.</li>
 </ul>
 </section>
+<aside class="atualizacao">
+    atualizado em 29 de março de 2025
+</aside>
