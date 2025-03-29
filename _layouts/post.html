@@ -3,7 +3,7 @@
 {% include header.html %}
 
 <main>
-<div id="saudacao">|Blog</div>
+<h1>|Blog</h1>
 
 <article class="blog-article {% if page.type == 'foto' %}blog-foto{% elsif page.type == 'texto' %}blog-texto{% endif %}">
   <div class="blog-data">{{ page.date | date: "%d/%m/%Y" }}</div>

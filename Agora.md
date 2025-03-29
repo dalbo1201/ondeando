@@ -3,9 +3,10 @@ layout: agora
 title: O que estou fazendo
 excerpt: Uma atualizaçao quinzenal? Talvez.
 ---
-<div class="descricao">
+<section class="descricao">
 <p>Recuperando as forças depois do Carnaval, nem fui a tantos blocos, mas foi o suficiente.</p>
-<div class="estou-fazendo">Estou lendo:
+</section>
+<section class="estou-fazendo">Estou lendo:
 <ul>
 <li>Walden, H. D. Thoreau.</li>
 </ul>
@@ -21,5 +22,5 @@ Séries que estou vendo <a href="https://tvtime.com/r/38uUh" class="linkcab">&#1
 <li>Demolidor: Renascido (Disney+)|temporada 1;</li>
 <li>Arcane (Netflix)|temporada 2.</li>
 </ul>
-</div>
+</section>
 

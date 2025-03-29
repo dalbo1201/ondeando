@@ -8,4 +8,4 @@ pagination:
  sort_reverse: true
 excerpt: pensamentos sobre a vida, o universo e tudo mais
 ---
-<div id="saudacao">|Blog</div>
+<h1>|Blog</h1>
