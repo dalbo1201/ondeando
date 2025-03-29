@@ -150,12 +150,24 @@ a.linkdata:hover {
   color: #C0C0C0;
 }
 
+figure {
+  margin: 0; /* Remove a margem padrão do figure */
+  padding: 0; /* Remove o padding padrão do figure */
+} 
+
+figurecaption {
+  text-align: center;
+  font-style: italic;
+  font-size: 14px;
+  width: 100%; /* Garante que a legenda ocupe toda a largura do contêiner */
+}
+
 /* Galeria de Imagens */
 .gallery {
   display: flex;
   flex-wrap: wrap;
   gap: 10px; /* Adiciona uma margem entre as imagens */
-padding: 15px 0 0 0;
+  padding-top: 15px;
 }
 
 .gallery .image-container {
@@ -192,7 +204,7 @@ padding: 15px 0 0 0;
   display: flex;
   flex-wrap: wrap;
   gap: 10px;
-  margin: 15px 15px 5px 15px;
+  margin: 15px 15px 5px 5px;
 }
 
 /* Estilos para o Blog */
@@ -203,11 +215,15 @@ padding: 15px 0 0 0;
 
 .blog-title {
   font-size: 25px;
+  font-weight: normal;
+  margin-top: 0px; /* Remove a margem superior */
+  margin-bottom: 0px;
 }
 
 .blog-data {
   font-size: 14px; /* Tamanho menor da fonte */
   color: #C0C0C0; /* Cor cinza */
+  margin-bottom: 5px;
 }
 
 .blog-post p {
@@ -226,15 +242,6 @@ padding: 15px 0 0 0;
   border: 3px solid #ffe0b8; 
   margin: 10px 10px 10px 20px; 
   padding: 10px; 
-}
-
-.citacao {
-  font-size: 17px;
-  font-style: italic;
-  margin: 30px 20px 30px 50px;
-  border-left: 4px solid #edb4e1;
-  padding: 5px 0px 5px 5px;
-  max-width: 75%;
 }
 
 .blog-comentario {

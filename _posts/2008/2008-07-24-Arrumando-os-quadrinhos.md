@@ -4,9 +4,9 @@ title: "Arrumando os quadrinhos"
 date: 2008-07-24 08:00:00 -0000
 tags: ["a vida, o universo e tudo mais", "quadrinhos"]
 ---
-<div class="gallery">
+<figure class="gallery">
     <img src="{{ site.baseurl }}/assets/fotos/2008/07/DSC00128.JPG" alt="foto de uma pilha de revistas em quadrinho sobre a cama" title="foto de uma pilha de revistas em quadrinho sobre a cama">
-</div>
+</figure>
 Dessa vez não foi para jogar nada fora, pelo contrário.
 
 Resolvi organizar de vez minha coleção de HQs. Como muitos sabem durante toda minha infância comprava como um doido revistas em quadrinhos e nunca me desfiz delas. Alias eu mais que continuo comprando esporadicamente do que me desfaço.

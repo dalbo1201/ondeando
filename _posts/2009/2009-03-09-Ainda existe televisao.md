@@ -5,9 +5,9 @@ date: 2009-03-09 08:00:00 -0000
 tags: ["a vida, o universo e tudo mais"]
 ---
 Devo dizer que faz um certo tempo que não assisto televisão com freqüência. Quando digo isso quero mostrar que não tenho mais aquele horário em que passa o meu programa favorito e fico esperando por ele ancioso.
-<div class="gallery-post-flutua">
+<figure class="gallery-post-flutua">
         <img src="{{ site.baseurl }}/assets/fotos/2009/03/tv.png" alt="tv" title="uma televisão desenhada estilizada, como dos Jetsons" width="200px" height="200px">
-</div>
+</figure>
 Hoje em dia com a facilidade de encontrarmos os nossos programas preferidos na internet facilita muito a vida. Assistir quando, onde e como quiser é uma possibilidade que favorece a todos os consumidores. Pena que as empresas não percebam isso.
 
 Como disse, as produtoras de seriados e as próprias emissoras no Brasil deviam aproveitar o mundo virtual para divulgar massivamente seus produtos para jovens consumidores ávidos em ter o que consumir. Eu, por exemplo, sempre que posso assisto a seriados norte-americanos, mas não faço isso pela televisão, faço isso pelo computador, vendo na internet.

@@ -4,9 +4,9 @@ title: "O que diabos Bob tem a ver com Pedro?"
 date: 2008-04-18 08:00:00 -0000
 tags: ["a vida, o universo e tudo mais"]
 ---
-<div class="gallery-post-flutua">
+<figure class="gallery-post-flutua">
 <img src="{{ site.baseurl }}/assets/fotos/2008/04/Eu - Bob Esponja.bmp" alt="Bob E(u)sponja" title="foto minha no trote da UFRJ de Bob Esponja" >
-</div>
+</figure>
 Ótima pergunta, não é mesmo?
 
 Todos que me conhecem aqui no Rio, mais precisamente na Escola Aniquiladora do Ego, vulgo Escola Politécnica, me conhecem como Bob. O que remete a pergunta do título, "o que Bob tem a ver com Pedro?", eu respondo. NADA!!!

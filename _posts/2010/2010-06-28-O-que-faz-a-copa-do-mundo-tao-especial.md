@@ -9,9 +9,9 @@ O que eu não entendo é o motivo das pessoas não acompanharem ou ao menos gost
 A cada quatro anos temos esse mega evento esportivo. O mundo para, o Brasil para é inacreditável como um evento pode mobilizar tanto o planeta e de forma tão impactante.
 
 Me surpreende como é a relação das pessoas com o futebol entre as Copas do Mundo.
-<div class="gallery-post-flutua">
+<figure class="gallery-post-flutua">
     <img src="{{ site.baseurl }}/assets/fotos/2010/06/Copas-do-mundo.jpg" alt="imagem das marcas das Copas do Mundo de 2002,2006 e 2014" title="imagem das marcas das Copas do Mundo de 2002,2006 e 2014">
-</div>
+</figure>
 Nesse mês o Brasil inteiro é apaixonado por futebol, ninguém quer perder jogo algum. Todos entendem absolutamente tudo de futebol e sabem criticar o porquê de cada decisão principalmente do técnico da seleção brasileira.
 
 Uma outra coisa que muito me intriga é como as pessoas realmente acham que assistindo sobre futebol em um mês lhes dá a condição de entender perfeitamente as escolhas dos técnicos e as tornam comentaristas de futebol com tanta informação quanto aquele que além de acompanhar os jogadores selecionados em seus clubes acompanha seus adversários.

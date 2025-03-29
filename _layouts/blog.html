@@ -8,18 +8,17 @@
 
   {% for post in paginator.posts %}
   <article class="blog-article {% if post.type == 'foto' %}blog-foto{% elsif post.type == 'texto' %}blog-texto{% endif %}">
-    <div class="blog-data">
+    <p class="blog-data">
       <a href="{{ post.url | relative_url }}" class="linkdata"> {{ post.date | date: "%d/%m/%Y" }}</a>
-      </div>
-    <div class="blog-title">
+    </p>
+    <h2 class="blog-title">
     <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
-    </div>
+    </h2>
     <div class="blog-post">
       {{ post.content | markdownify }}
-      <br/>
     </div>
-    <div class="blog-comentario"><a href="mailto:pedro@dalbo.me?subject={{ post.title }}">A conversa continua aqui</a>.
-    </div>
+    <p class="blog-comentario"><a href="mailto:pedro@dalbo.me?subject={{ post.title }}">A conversa continua aqui</a>.
+    </p>
   </article>
 {% endfor %}
 </main>
@@ -27,7 +26,7 @@
 {% if paginator.total_pages > 1 %} 
   <div class="pagination-container">
     {% if paginator.previous_page %} 
-      <a href="{{ paginator.previous_page_path | relative_url }}" class="linkum nav-prev"><< Novos</a>
+      <a href="{{ paginator.previous_page_path | relative_url }}" class="linkum nav-prev"><< Recentes</a>
     {% endif %}
     {% if paginator.next_page %}
       <a href="{{ paginator.next_page_path | relative_url }}" class="linkum nav-next">Antigos >></a>

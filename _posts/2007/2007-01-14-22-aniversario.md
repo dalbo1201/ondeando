@@ -4,9 +4,9 @@ title: "22º aniversário"
 date: 2007-01-14 08:00:00 -0000
 tags: ["a vida, o universo e tudo mais", "aniversário"]
 ---
-<div class="gallery">
-            <img src="{{ site.baseurl }}/assets/fotos/2007/01/DSC02825.JPG" alt="foto do bolo de aniversário com tema dos são-paulinos no rio" title="foto do bolo de aniversário com tema dos são-paulinos no rio">
-        </div>
+<figure class="gallery">
+    <img src="{{ site.baseurl }}/assets/fotos/2007/01/DSC02825.JPG" alt="foto do bolo de aniversário com tema dos são-paulinos no rio" title="foto do bolo de aniversário com tema dos são-paulinos no rio">
+</figure>
 Olá, pessoal.
 
 Ontem eu comemorei meu 22º aniversário. Infelizmente não pude chamar todos que eu queria, primeiro por que foi num clube e o número de convidados tinha que ser restrito e também por que muitos de meus amigos moram no Rio de Janeiro. Mas posso dizer que foi um dia muito agradável e um dia conseguirei reunir todos aqueles que eu quero.

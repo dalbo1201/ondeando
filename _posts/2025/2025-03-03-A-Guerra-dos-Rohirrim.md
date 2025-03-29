@@ -4,9 +4,9 @@ title: "O Senhor dos Anéis: A Guerra dos Rohirrim"
 date: 2025-03-03 12:00:00 -0300
 tags: ["filmes"]
 ---
-<div class="gallery">
+<figure class="gallery">
     <img src="{{ site.baseurl }}/assets/fotos/2025/03/Rohirrim.jpg" alt="Imagem de divulgação do filme A Guerra dos Rohirrim. Temos Héra, a protagonista, à frente, logo atrás os cavaleiros de Rohan e acima uma grande imagem do rosto em perfil de seu pai e de Wulf em tons sépia." title="um pôster de A Guerra dos Rohirrim">
-</div>
+</figure>
 Não vou me aprofundar muito sobre o filme, não é minha intenção. Venho trazer meu sentimento ao terminar de assití-lo.  
 
 Fiquei um pouco decepcionado, essa é a realidade. Eu não estava esperando uma obra de arte como foi a trilogia de O Senhos dos Anéis, principalmente depois do que aconteceu com ~~a não necessária trilogia de~~ O Hobbit, mas imaginava um filme que ao escolher ser uma animação com cara de anime tivesse mais personalidade e nos prendesse novamente ao universo da Terra-Média. Não acontece.  

@@ -4,12 +4,13 @@ title: "Toy Story 3, o fim de uma saga"
 date: 2010-07-11 08:00:00 -0000
 tags: ["filmes"]
 ---
+<figure class="gallery">
+    <img src="{{ site.baseurl }}/assets/fotos/2010/07/toy-story-3-final.jpg" alt="imagem do filme Toy Story 3" title="imagem do filme Toy Story 3, cena final dosbrinquedos reunidos vendo Andy ir embora">
+</figure>
 Ontem assisti ao terceiro filme da franquia Toy Story e é inacreditável como os criadores de Woody, Buzz e companhia conseguiram criar filmes que que mantivessem o nível entre eles.  
 
 Devo arriscar que se o primeiro é fantástico por nos apresentar a um mundo totalmente novo no modo de contar histórias de animação no cinema, o terceiro é simplesmente fantástico por terminar com essa trilogia de maneira emocionante.  
-<div class="gallery">
-    <img src="{{ site.baseurl }}/assets/fotos/2010/07/toy-story-3-final.jpg" alt="imagem do filme Toy Story 3" title="imagem do filme Toy Story 3, cena final dosbrinquedos reunidos vendo Andy ir embora">
-</div>
+
 Neste terceiro longa, Andy está pronto para ir para a faculdade. Nos EUA, é comum que o jovem, ao ir para a faculdade, saia de casa e se mude para o campus e isso faz com que a vida na casa em que cresceu mude totalmente. É nessa necessidade de mudanca que o filme ocorre.
 
 Está na hora de Andy decidir o que acontecerá com o que não levar para a faculdade com ele, o que irá para o sótão, pro lixo ou para doação, e os brinquedos estão completamente loucos para saber o que acontecerá com eles.  

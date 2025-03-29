@@ -4,9 +4,9 @@ title: "Mais um aniversário"
 date: 2008-02-18 08:00:00 -0000
 tags: ["a vida, o universo e tudo mais", "aniversário"]
 ---
-<div class="gallery-post-flutua">
+<figure class="gallery">
     <img src="{{ site.baseurl }}/assets/fotos/2008/02/Aniversário Pedro 014.jpg" alt="bolo do Bob Esponja" title="foto do bolo do Bob Esponja" width="384px" height="288px" >
-</div>
+</figure>
 Quase dois meses depois... Demorei, mas tá aqui.
 
 Como é tradição a cada aniversário meus bolos são bem personalizados, sempre com um desenho diferente.

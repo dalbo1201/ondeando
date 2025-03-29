@@ -4,12 +4,12 @@ title: "LOK, um joguinho de lógica"
 date: 2025-03-12 12:00:00 -0300
 tags: ["joguinhos", "informática"]
 ---
-<div class="gallery">
+<figure class="gallery">
     <img src="{{ site.baseurl }}/assets/fotos/2025/03/LOK-keyart.jpg" alt="imagem de um teclado em close com teclas realçadas formando a palavra LOK com as criaturas (que são como gosminhas fofas pretas) sobre as teclas" title="O mundo de LOK">
-</div>
+</figure>
 Durante o Carnaval saímos para tomar uma cerveja e no meio do papo um amigo soltou, simples assim, sem mais nenhuma informação:
 
-<div class="citacao">Você que gosta de celular, vou te indicar um negócio. <a href="https://www.blazgracar.com/lok" title="LOK, o joguinho">Baixa o LOK</a>.</div>
+<blockquote class="citacao">Você que gosta de celular, vou te indicar um negócio. <a href="https://www.blazgracar.com/lok" title="LOK, o joguinho">Baixa o LOK</a>.</blockquote>
 
 Baixei e deixei pra ver no dia seguinte, com calma, o que seria.  
 

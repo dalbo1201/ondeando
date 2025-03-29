@@ -4,14 +4,15 @@ title: "Onde Vivem os Monstros"
 date: 2010-08-15 08:00:00 -0000
 tags: ["filmes"]
 ---
+<figure class="gallery">
+    <img src="{{ site.baseurl }}/assets/fotos/2010/08/onde-vivem-os-monstros.jpg" alt="imagem do filme Onde vivem os monstros" title="imagem do filme Onde vivem os monstros, os monstros reunidos no por do sol">
+</figure>
 Hoje assisti a esse belo filme.  
 
 Onde Vivem os Monstros conta uma história triste, a história de Max, um garoto de 9 anos.  
 
 Mas engana-se quem acha que ao levar esse filme para seu filho ou sobrinho assistirem terão um sucesso na sala de casa. Muito pelo contrário, é capaz que a molecada durma durante a projeção ou até mesmo saiam da sala revoltados pelo filme colocado.  
-<div class="gallery">
-    <img src="{{ site.baseurl }}/assets/fotos/2010/08/onde-vivem-os-monstros.jpg" alt="imagem do filme Onde vivem os monstros" title="imagem do filme Onde vivem os monstros, os monstros reunidos no por do sol">
-</div>
+
 A história é contada de maneira complicada: tranquila, mas nem um pouco leve.  
 
 Tudo começa com Max nos apresentando sua personalidade difícil e as complicações de viver em uma casa com a mãe divorciada e passando dificuldades de manter seu emprego, além de uma irmã que aparentemente não dá a atenção que Max gostaria de receber.  
