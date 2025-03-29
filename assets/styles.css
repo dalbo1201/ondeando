@@ -85,7 +85,7 @@ footer {
   flex-shrink: 0; /* Evita que a imagem diminua além do tamanho mínimo */
 }
 
-h1 {
+h1 { /* cabeçalho de saudação */
   font-size: 40px;
   margin-top: 0px;
   margin-bottom: 40px; /* Adiciona margem inferior */
@@ -121,13 +121,6 @@ h1 {
   align-self: flex-end; /* Alinha o bloco à direita */
 }
 
-a.linkcab:link,
-a.linkcab:visited,
-a.linkcab:active,
-a.linkcab:hover {
-  color: #ffffff;
-}
-
 a:link,
 a:visited,
 a:active,
@@ -138,6 +131,13 @@ nav a {
 a:hover,
 nav a:hover {
   color: #ffe0b8;
+}
+
+a.linkcab:link,
+a.linkcab:visited,
+a.linkcab:active,
+a.linkcab:hover {
+  color: #ffffff;
 }
 
 a.linkdata:link,
@@ -178,13 +178,6 @@ figurecaption {
 .gallery img {
   width: 100%;
   height: auto; /* Altura proporcional à largura */
-}
-
-.gallery .caption {
-  text-align: center;
-  font-style: italic;
-  font-size: 14px;
-  width: 100%; /* Garante que a legenda ocupe toda a largura do contêiner */
 }
 
 .gallery-post {
