@@ -236,6 +236,17 @@ padding: 15px 0 0 0;
   padding-right: 10px; /* Adiciona padding à direita para garantir que o texto não fique sob a barra de rolagem */
 }
 
+.citacao {
+  font-size: 17px;
+  font-style: italic;
+  margin: 30px 20px 30px 50px;
+  border-left: 4px solid #edb4e1;
+  padding-left: 5px;
+  padding-top: 10px; /* Adiciona espaço acima do texto */
+  padding-bottom: 10px; /* Adiciona espaço abaixo do texto */
+  max-width: 75%;
+}
+
 .aviso { 
   font-size: 14px;
   text-align: center;
