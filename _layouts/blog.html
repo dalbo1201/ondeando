@@ -17,7 +17,7 @@
     <div class="blog-post">
       {{ post.content | markdownify }}
     </div>
-    <p class="blog-comentario"><a href="mailto:pedro@dalbo.me?subject={{ post.title }}">A conversa continua aqui</a>.
+    <p class="blog-comentario"><a href="{{ post.url | relative_url }}" class="linkdata">&rarr</a>.
     </p>
   </article>
 {% endfor %}
