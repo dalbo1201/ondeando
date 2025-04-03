@@ -226,15 +226,48 @@ padding: 15px 0 0 0;
   padding-right: 10px; /* Adiciona padding à direita para garantir que o texto não fique sob a barra de rolagem */
 }
 
-.citacao {
+blockquote { 
   font-size: 17px;
   font-style: italic;
   margin: 20px 0px 20px 30px;
+  max-width: 75%;
+}
+
+.citacao {
   border-left: 4px solid #edb4e1;
   padding-left: 5px;
   padding-top: 10px; /* Adiciona espaço acima do texto */
   padding-bottom: 10px; /* Adiciona espaço abaixo do texto */
-  max-width: 75%;
+}
+
+.citacao-especial { 
+  font-family: 'Georgia', serif; /* Fonte serifada */
+  font-size: 20px; /* Tamanho da fonte */
+  position: relative; /* Para posicionar a aspas */
+  padding: 10px; /* Espaçamento interno */
+  display: flex;
+  justify-content: flex-start;
+  align-items: flex-end; /* Correção aqui */
+}
+
+.citacao-especial:after {
+  content: '\201D'; /* Usando aspas simples */
+  font-size: 200px; /* Tamanho da aspas reduzido */
+  color: #edb4e1; /* Cor com leve transparência */
+  opacity: 0.45;
+  position: absolute;
+  right: 20px;
+  bottom: -20px;
+  height: 100px;
+  z-index: -1; /* Usando um z-index positivo */
+  pointer-events: none; /* Para que a aspas não interfira na interação */
+  
+}
+
+.autor-cite {
+  display: block; 
+  text-align: right;
+  max-width: 85%;
 }
 
 .aviso { 
