@@ -3,11 +3,11 @@
 {% include header.html %}
 
 <main>
-
-{{ content }}
-
+ 
+    {{ content }}
+    <section id="topo">
   {% for post in paginator.posts %}
-  <article class="blog-article {% if post.type == 'foto' %}blog-foto{% elsif post.type == 'texto' %}blog-texto{% endif %}">
+    <article class="blog-article {% if post.type == 'foto' %}blog-foto{% elsif post.type == 'notas' %}blog-notas{% endif %}">
     <p class="blog-data">
       <a href="{{ post.url | relative_url }}" class="linkdata"> {{ post.date | date: "%d/%m/%Y" }}</a>
     </p>
@@ -17,19 +17,20 @@
     <div class="blog-post">
       {{ post.content | markdownify }}
     </div>
-    <p class="blog-comentario"><a href="mailto:pedro@dalbo.me?subject={{ post.title }}">A conversa continua aqui</a>.
-    </p>
+    <p class="blog-seta"><a href="{{ post.url | relative_url }}" class="linkdata">+</a></p>
   </article>
 {% endfor %}
+</section>
 </main>
 
 {% if paginator.total_pages > 1 %} 
   <div class="pagination-container">
     {% if paginator.previous_page %} 
-      <a href="{{ paginator.previous_page_path | relative_url }}" class="linkum nav-prev"><< Recentes</a>
+      <a href="{{ paginator.previous_page_path | relative_url }}" class="linkum nav-recente">&laquo; Recentes</a>
     {% endif %}
+    <a href="#topo" class="linkum nav-topo">&#8593 Topo</a>
     {% if paginator.next_page %}
-      <a href="{{ paginator.next_page_path | relative_url }}" class="linkum nav-next">Antigos >></a>
+      <a href="{{ paginator.next_page_path | relative_url }}" class="linkum nav-anterior">Antigos &raquo;</a>
     {% endif %}
   </div>
 {% endif %}

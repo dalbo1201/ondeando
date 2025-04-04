@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Tentando sair do sedentarismo"
-type: texto
+type: notas
 date: 2007-08-14 08:00:00 -0000
 tags:  ["esporte, ou só futebol", "a vida, o universo e tudo mais"]
 ---

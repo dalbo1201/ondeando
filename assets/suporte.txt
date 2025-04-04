@@ -1,6 +1,6 @@
 post type:
 foto
-texto
+notas
 
 post tags:
 "aniversário"

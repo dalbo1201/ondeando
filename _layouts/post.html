@@ -5,7 +5,7 @@
 <main>
 <h1>|Blog</h1>
 
-<article class="blog-article {% if page.type == 'foto' %}blog-foto{% elsif page.type == 'texto' %}blog-texto{% endif %}">
+<article class="blog-article {% if page.type == 'foto' %}blog-foto{% elsif page.type == 'notas' %}blog-notas{% endif %}">
   <p class="blog-data">{{ page.date | date: "%d/%m/%Y" }}</p>
   <h2 class="blog-title">{{ page.title }}</h2>
   <div class="blog-post">

@@ -4,11 +4,12 @@ title: O que estou fazendo
 excerpt: Uma atualizaçao quinzenal? Talvez.
 ---
 <section class="descricao">
-<p>Esperando o trabalho não acabar com minha sanidade, tentando manter a leitura (o livro não ajuda, em algum momento falarei disso), ficando ansioso com The White Lotus, que está para acabar.</p>
+<p>Esperando o trabalho não acabar com minha sanidade, tentando manter a leitura (o livro não ajuda, em algum momento falarei disso, mas peguei outro para ler e não me maltratar por isso), ficando ansioso com The White Lotus, que está para acabar.</p>
 </section>
 <section class="estou-fazendo">Estou lendo:
 <ul>
-<li>Walden, H. D. Thoreau.</li>
+<li>Walden, H. D. Thoreau;</li>
+<li>O Manifesto do Partido Comunista, Karl Marx e Friedrich Engels.</li>
 </ul>
 Filmes que vi <a href="https://letterboxd.com/dalbo1201/films/diary/" class="linkcab">&#127916;</a>:
 <ul>

@@ -242,7 +242,6 @@ blockquote {
 
 .citacao-especial { 
   font-family: 'Georgia', serif; /* Fonte serifada */
-  font-size: 20px; /* Tamanho da fonte */
   position: relative; /* Para posicionar a aspas */
   padding: 10px; /* Espaçamento interno */
   display: flex;
@@ -261,13 +260,12 @@ blockquote {
   height: 100px;
   z-index: -1; /* Usando um z-index positivo */
   pointer-events: none; /* Para que a aspas não interfira na interação */
-  
 }
 
 .autor-cite {
   display: block; 
   text-align: right;
-  max-width: 85%;
+  max-width: 95%;
 }
 
 .aviso { 
@@ -287,6 +285,15 @@ blockquote {
   align-self: flex-end;
 }
 
+.blog-seta { 
+  font-size: 17px;
+  line-height: 20px;
+  max-width: 100%;
+  text-align: right;
+  margin-top: 10px;
+  align-self: flex-end;
+}
+
 .pagination-container {
   display: flex;
   justify-content: space-between; /* Garante que os itens fiquem nos extremos opostos */
@@ -298,20 +305,23 @@ blockquote {
   flex-shrink: 0; /* Evita que a paginação encolha */
 }
 
-.pagination-container .nav-prev {
+.pagination-container .nav-recente {
   margin-right: auto; /* Alinha o link "Anterior" à esquerda */
 }
 
-.pagination-container .nav-next {
+.pagination-container .nav-anterior {
   margin-left: auto; /* Alinha o link "Próximo" à direita */
+}
+
+.pagination-container .nav-topo {
+  margin: auto; /* Centraliza  link "Topo" */
 }
 
 /************
  * Tipos de posts
  ************/
  article.blog-article.blog-foto .blog-title,
- article.blog-article.blog-texto .blog-title, 
- article.blog-article.blog-foto .blog-comentario {
+ article.blog-article.blog-notas .blog-title {
    display: none !important;
  }
 

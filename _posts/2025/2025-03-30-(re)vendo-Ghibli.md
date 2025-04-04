@@ -1,6 +1,6 @@
 ---
 layout: post
-type: texto
+type: notas
 title: "(re)vendo Ghibli"
 date: 2025-03-30 13:30:00 -0300
 tags: ["filmes", "pensamentos"]
