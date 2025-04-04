@@ -1,11 +1,11 @@
 {% include head.html %}
-
+<section id="topo"> </section>
 {% include header.html %}
 
 <main>
- 
+
     {{ content }}
-    <section id="topo">
+   
   {% for post in paginator.posts %}
     <article class="blog-article {% if post.type == 'foto' %}blog-foto{% elsif post.type == 'notas' %}blog-notas{% endif %}">
     <p class="blog-data">
@@ -20,7 +20,7 @@
     <p class="blog-seta"><a href="{{ post.url | relative_url }}" class="linkdata">+</a></p>
   </article>
 {% endfor %}
-</section>
+
 </main>
 
 {% if paginator.total_pages > 1 %} 
