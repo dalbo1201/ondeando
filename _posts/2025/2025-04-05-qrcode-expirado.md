@@ -1,6 +1,5 @@
 ---
 layout: post
-type: notas
 title: "QR-code expirado"
 date: 2025-04-05 13:25:00 -0300
 tags: ["pensamentos", "a vida, o universo e tudo mais"]
