@@ -1,5 +1,5 @@
 {% include head.html %}
-<section id="topo"> </section>
+
 {% include header.html %}
 
 <main>
@@ -28,7 +28,7 @@
     {% if paginator.previous_page %} 
       <a href="{{ paginator.previous_page_path | relative_url }}" class="linkum nav-recente">&laquo; Recentes</a>
     {% endif %}
-    <a href="#topo" class="linkum nav-topo">&#8593 Topo</a>
+    <a href="https://pedro.dalbo.me/blog/#" class="linkum nav-topo">&#8593 Topo</a>
     {% if paginator.next_page %}
       <a href="{{ paginator.next_page_path | relative_url }}" class="linkum nav-anterior">Antigos &raquo;</a>
     {% endif %}
