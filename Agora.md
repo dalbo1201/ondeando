@@ -13,10 +13,9 @@ excerpt: Uma atualizaçao quinzenal? Talvez.
 </ul>
 Filmes que vi <a href="https://letterboxd.com/dalbo1201/films/diary/" class="linkcab">&#127916;</a>:
 <ul>
-<li>Meu Amigo Totoro (Hayao Miyazaki, 1988)|Netflix;↻</li>
+<li>Meu Amigo Totoro (Hayao Miyazaki, 1988)|Netflix;↺</li>
 <li>O Serviço de Entregas da Kiki (Hayao Miyazaki, 1989)|Netflix;</li>
-<li>O Reino dos Gatos (Hiroyuki Morita, 2002)|Netflix;↻
-</li>
+<li>O Reino dos Gatos (Hiroyuki Morita, 2002)|Netflix;↺</li>
 </ul>
 Séries que estou vendo <a href="https://tvtime.com/r/38uUh" class="linkcab">&#128250;</a>:
 <ul>
