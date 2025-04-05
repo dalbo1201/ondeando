@@ -240,36 +240,37 @@ blockquote {
 .citacao {
   border-left: 4px solid #edb4e1;
   padding-left: 5px;
-  padding-top: 10px; /* Adiciona espaço acima do texto */
-  padding-bottom: 10px; /* Adiciona espaço abaixo do texto */
+  padding-top: 10px;
+  padding-bottom: 10px;
 }
 
 .citacao-especial { 
-  position: relative; /* Para posicionar a aspas */
-  padding: 10px; /* Espaçamento interno */
+  position: relative;
+  padding: 5px;
   display: flex;
   justify-content: flex-start;
-  align-items: flex-end; /* Correção aqui */
+  align-items: flex-end;
 }
 
 .citacao-especial:after {
-  font-family: 'Georgia', serif; /* Fonte serifada */
+  font-family: 'Georgia', serif; 
   content: '\201D'; /* Usando aspas simples */
-  font-size: 200px; /* Tamanho da aspas reduzido */
-  color: #edb4e1; /* Cor com leve transparência */
-  opacity: 0.45;
+  font-size: 200px; /* Tamanho da aspas */
+  color: #edb4e1;
+  opacity: 0.45; /* Cor com leve transparência */
   position: absolute;
   right: 20px;
   bottom: -20px;
   height: 100px;
-  z-index: -1; /* Usando um z-index positivo */
-  pointer-events: none; /* Para que a aspas não interfira na interação */
+  z-index: -1;
+  pointer-events: none; /* Para que a aspas não interfira na interação com o mouse */
 }
 
 .autor-cite {
-  display: block; 
+  display: block;
   text-align: right;
   max-width: 95%;
+  margin-top: 5px;
 }
 
 .aviso { 
