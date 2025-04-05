@@ -245,7 +245,6 @@ blockquote {
 }
 
 .citacao-especial { 
-  font-family: 'Georgia', serif; /* Fonte serifada */
   position: relative; /* Para posicionar a aspas */
   padding: 10px; /* Espaçamento interno */
   display: flex;
@@ -254,6 +253,7 @@ blockquote {
 }
 
 .citacao-especial:after {
+  font-family: 'Georgia', serif; /* Fonte serifada */
   content: '\201D'; /* Usando aspas simples */
   font-size: 200px; /* Tamanho da aspas reduzido */
   color: #edb4e1; /* Cor com leve transparência */
