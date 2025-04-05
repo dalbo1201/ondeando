@@ -147,6 +147,10 @@ a.linkdata:hover {
   color: #C0C0C0;
 }
 
+html {
+    scroll-behavior: smooth; /* Para rolagem suave */
+}
+
 figure {
   margin: 0; /* Remove a margem padrão do figure */
   padding: 0; /* Remove o padding padrão do figure */
