@@ -12,6 +12,6 @@ No rótulo tem uma chamada *chamativa*.
 
 E caímos numa página <a href="https://scnv.io/aNB5?qr=1">avisando que o qrcode expirou</a>.
 
-Não deve ser fácil manter uma página nem pra AMBEV. 
+Não deve ser fácil manter uma página nem pro grupo Heineken Brasil. 
 
 *O curioso caso das url que deixam de existir numa internet que não esquece nada.*
