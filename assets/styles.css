@@ -1,5 +1,5 @@
 body {
-  background: #323232;
+  background: #333333;
   color: #ffffff;
   font-family: 'Noto Sans', 'Open Sans';
   height: 100vh;
@@ -144,7 +144,7 @@ a.linkdata:link,
 a.linkdata:visited,
 a.linkdata:active,
 a.linkdata:hover {
-  color: #C0C0C0;
+  color: #E6E6E6;
 }
 
 html {
@@ -215,8 +215,8 @@ padding: 15px 0 0 0;
 }
 
 .blog-data {
-  font-size: 14px; /* Tamanho menor da fonte */
-  color: #C0C0C0; /* Cor cinza */
+  font-size: 14px;
+  color: #E6E6E6;
   margin-bottom: 5px;
 }
 
