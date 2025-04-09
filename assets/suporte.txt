@@ -16,3 +16,5 @@ post tags:
 "metablog"
 "pensamentos"
 "quadrinhos"
+"museus'
+"shows"
