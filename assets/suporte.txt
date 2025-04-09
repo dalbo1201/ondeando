@@ -18,3 +18,4 @@ post tags:
 "quadrinhos"
 "museus'
 "shows"
+"passeios"
