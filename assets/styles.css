@@ -1,3 +1,7 @@
+html {
+  scroll-behavior: smooth; /* Para rolagem suave */
+}
+
 body {
   background: #333333;
   color: #ffffff;
@@ -145,10 +149,6 @@ a.linkdata:visited,
 a.linkdata:active,
 a.linkdata:hover {
   color: #E6E6E6;
-}
-
-html {
-    scroll-behavior: smooth; /* Para rolagem suave */
 }
 
 figure {

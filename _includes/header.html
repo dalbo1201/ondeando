@@ -10,7 +10,7 @@
     </nav>
   </header>
 
-  {% elsif page.layout == 'blog' or page.layout == 'post' %}
+  {% elsif page.layout == 'blog' or page.layout == 'post' or page.layout == 'agora' %}
 
   <header>
     <div class="top-header">
@@ -29,18 +29,6 @@
       <div class="namecab">Pedro Dal Bó</div>
     </div>
     <nav>
-    </nav>
-  </header>
-  
-  {% elsif page.layout == 'agora'%}
-
-  <header>
-    <div class="top-header">
-      <a href="{{ site.url }}/" class="linkcab"><img src="{{ site.url }}//assets/foto-pedro-100px.jpg" alt="Foto de Pedro" title="Sou eu" class="photocab"></a>
-      <div class="namecab">Pedro Dal Bó</div>
-    </div>
-    <nav>
-      <a href="{{ site.url }}/blog" title="Se eu disser, será aqui">Blog</a>
     </nav>
   </header>
 
