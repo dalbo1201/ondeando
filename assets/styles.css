@@ -266,7 +266,7 @@ blockquote {
 
 .citacao-curta::after {
   right: -20px;
-  bottom: -170px; /* Ajusta a posição da aspas para citações curtas */
+  bottom: -160px; /* Ajusta a posição da aspas para citações curtas */
 }
 
 .autor-cite {
