@@ -6,7 +6,7 @@ tags: ["a vida, o universo e tudo mais"]
 ---
 <figure class="gallery">
     <img src="{{ site.baseurl }}/assets/fotos/2025/03/20250228_064939~2.jpg" alt="foto da janela de casa. No primeiro plano, uma rede de cor cru com detalhes geométricos amarelo e preto, ao fundo uma grande janela com esquadrias de alumínio com vista para a copa de uma árvore" title="meu local predileto">
- <figurecaption>Tá aí meu lugar favorito em casa</figurecaption>
+ <figcaption>Tá aí meu lugar favorito em casa</figcaption>
  </figure>
 Desde que mudamos para esse apartamento eu fiquei na expectativa de colocar uma rede em frente a janela da sala. Na verdade, na primeira visita que fizemos ao apartamento falei para minha companheira:
 
