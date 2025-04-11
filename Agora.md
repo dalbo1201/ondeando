@@ -3,7 +3,7 @@ layout: agora
 title: O que estou fazendo
 excerpt: Uma atualizaçao quinzenal? Talvez.
 ---
-<section class="descricao">
+<section class="texto-geral">
 <p>Esperando o trabalho não acabar com minha sanidade, tentando manter a leitura (o livro não ajuda, em algum momento falarei disso, mas peguei outro para ler e não me maltratar por isso), ficando ansioso com The White Lotus, que está para acabar.</p>
 </section>
 <section class="estou-fazendo">Estou lendo:

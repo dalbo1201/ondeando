@@ -5,7 +5,7 @@ html {
 body {
   background: #333333;
   color: #ffffff;
-  font-family: 'Montserrat', 'Noto Sans', 'Open Sans';
+  font-family: 'Montserrat', 'Verdana', 'sans-serif'; /* Fonte padrão */
   height: 100vh;
   display: flex;
   flex-direction: column;
@@ -95,7 +95,7 @@ h1 { /* cabeçalho de saudação */
   margin-bottom: 40px; /* Adiciona margem inferior */
 }
 
-.descricao {
+.texto-geral {
   font-size: 16px;
   line-height: 20px;
   max-width: 100%;
@@ -251,7 +251,7 @@ blockquote {
 
 .citacao-especial::after {
   content: '\201D';
-  font-family: 'Noto Serif', 'Georgia'; /* Fonte para as aspas */
+  font-family: 'Fraunces', 'Georgia'; /* Fonte para as aspas */
   font-size: 200px;
   color: #edb4e1;
   opacity: 0.45; /* Transparencia para as aspas */
@@ -367,7 +367,7 @@ blockquote {
     justify-content: center;
   }
   
-  .descricao,
+  .texto-geral,
   .blog-post p,
   .aviso {
     text-align: justify;
