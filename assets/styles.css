@@ -301,6 +301,7 @@ blockquote {
   align-self: flex-end;
 }
 
+/* Navegação de Paginação */
 .pagination-container {
   display: flex;
   justify-content: space-between; /* Garante que os itens fiquem nos extremos opostos */
@@ -325,7 +326,6 @@ blockquote {
 }
 
 /* Para Tags */
-
 .blog-tag {/* estilo de tag */
   font-family: monospace;
   font-size: 14px;
@@ -337,7 +337,7 @@ blockquote {
   align-self: flex-end; /* Alinha o bloco à direita */
 }
 
-.sem-marcador { /*reirada do marcado da lista de tags */
+.sem-marcador { /*retirada do marcado da lista de tags */
   list-style-type: none; /* Remove os marcadores */
   padding: 5; /* Remove o recuo interno */
   margin: 0; /* Remove o recuo externo */
@@ -348,64 +348,62 @@ blockquote {
   font-size: 14px;
 }
 
-/************
- * Tipos de posts
- ************/
+/* Tipos de posts */
  article.blog-article.blog-foto .blog-title,
  article.blog-article.blog-notas .blog-title {
    display: none !important;
  }
 
- /* Ajustes para telas menores */
+/* Ajustes para telas menores */
 @media screen and (max-width: 600px) {
   header {
     flex-direction: column;
     align-items: flex-start;
   }
 
-  nav {
-    margin-top: 10px; /* Adiciona espaço acima da navegação */
-    width: 100%;
-    display: flex;
-    justify-content: flex-end; /* Alinha a navegação à direita */
-  }
+nav {
+  margin-top: 10px; /* Adiciona espaço acima da navegação */
+  width: 100%;
+  display: flex;
+  justify-content: flex-end; /* Alinha a navegação à direita */
+}
 
-  .top-header {
-    width: 100%;
-    display: flex;
-    align-items: center;
-    justify-content: flex-start; /* Alinha os itens à esquerda */
-  }
+.top-header {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start; /* Alinha os itens à esquerda */
+}
 
-  .name {
-    margin-left: 10px;
-  }
+.name {
+ margin-left: 10px;
+}
 
-  nav a {
-    margin-left: 5px; /* Reduz o espaço entre os links na navegação */
-    font-size: 16px; /* Garante que o tamanho do texto permaneça o mesmo */
-  }
+nav a {
+  margin-left: 5px; /* Reduz o espaço entre os links na navegação */
+  font-size: 16px; /* Garante que o tamanho do texto permaneça o mesmo */
+}
 
-  /* Centraliza a galeria horizontalmente em telas menores */
-  .gallery {
-    justify-content: center;
-  }
+/* Centraliza a galeria horizontalmente em telas menores */
+.gallery {
+  justify-content: center;
+}
   
-  .texto-geral,
-  .blog-post p,
-  .aviso {
-    text-align: justify;
-  }
+.texto-geral,
+.blog-post p,
+.aviso {
+ text-align: justify;
+}
 }
 
 @media (max-width: 800px) {
-  .gallery .image-container {
-    width: 50%; /* Ajusta a largura das imagens para 50% em telas menores */
-  }
+.gallery .image-container {
+  width: 50%; /* Ajusta a largura das imagens para 50% em telas menores */
+}
 }
 
 @media (max-width: 400px) {
-  .gallery .image-container {
-    width: 100%; /* Ajusta a largura das imagens para 100% em telas muito pequenas */
-  }
+.gallery .image-container {
+  width: 100%; /* Ajusta a largura das imagens para 100% em telas muito pequenas */
+}
 }

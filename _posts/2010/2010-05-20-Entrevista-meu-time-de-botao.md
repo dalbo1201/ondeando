@@ -2,7 +2,7 @@
 layout: post
 title: "Entrevista para 'Meu Time de Botão'"
 date: 2010-05-20 08:00:00 -0000
-tags: ["esporte, ou só futebol"]
+tags: ["esportes, ou só futebol"]
 ---
 <div class="aviso">Apesar de dizerem que <i>a internet não esquece</i>, algumas pessoas ainda podem controlar o acesso e o site não está mais no ar. Mas mantive a postagem aqui pela lembrança.</div>
 Olá amigos,

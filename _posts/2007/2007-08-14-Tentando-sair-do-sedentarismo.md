@@ -3,7 +3,7 @@ layout: post
 title: "Tentando sair do sedentarismo"
 type: notas
 date: 2007-08-14 08:00:00 -0000
-tags:  ["esporte, ou só futebol", "a vida, o universo e tudo mais"]
+tags:  ["a vida, o universo e tudo mais", "esportes, ou só futebol"]
 ---
 Deus do céu!!! Por que é tão difícil a gente começar alguma coisa que nos propomos a fazer? Afinal, quem nunca começou um ano/semestre letivo dizendo "Agora eu vou estudar pra valer desde o início para não ter problemas no final..."? Ou então, "Vou parar de fumar a partir de segunda", por que sempre segunda-feira, alias?!?!
 

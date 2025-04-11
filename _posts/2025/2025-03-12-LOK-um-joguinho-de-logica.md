@@ -2,7 +2,7 @@
 layout: post
 title: "LOK, um joguinho de lógica"
 date: 2025-03-12 12:00:00 -0300
-tags: ["joguinhos", "informática"]
+tags: ["informática", "joguinhos"]
 ---
 <figure class="gallery">
     <img src="{{ site.baseurl }}/assets/fotos/2025/03/LOK-keyart.jpg" alt="imagem de um teclado em close com teclas realçadas formando a palavra LOK com as criaturas (que são como gosminhas fofas pretas) sobre as teclas" title="O mundo de LOK">
