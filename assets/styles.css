@@ -5,7 +5,7 @@ html {
 body {
   background: #333333;
   color: #ffffff;
-  font-family: 'Noto Sans', 'Open Sans';
+  font-family: 'Montserrat', 'Noto Sans', 'Open Sans';
   height: 100vh;
   display: flex;
   flex-direction: column;
@@ -93,7 +93,6 @@ h1 { /* cabeçalho de saudação */
   font-size: 40px;
   margin-top: 0px;
   margin-bottom: 40px; /* Adiciona margem inferior */
-  font-weight: normal;
 }
 
 .descricao {
@@ -238,8 +237,8 @@ blockquote {
 }
 
 .citacao {
-  border-left: 4px solid #edb4e1;
-  padding-left: 10px;
+  border-left: 7px solid #edb4e1;
+  padding-left: 7px;
   padding-top: 10px;
   padding-bottom: 10px;
 }
@@ -252,7 +251,7 @@ blockquote {
 
 .citacao-especial::after {
   content: '\201D';
-  font-family: 'Georgia'; /* Fonte para as aspas */
+  font-family: 'Noto Serif', 'Georgia'; /* Fonte para as aspas */
   font-size: 200px;
   color: #edb4e1;
   opacity: 0.45; /* Transparencia para as aspas */
