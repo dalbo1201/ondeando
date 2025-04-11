@@ -7,13 +7,22 @@ markdown: kramdown
 pagination:
   enabled: true
   per_page: 7
-  permalink: '/page/:num/'
 
-permalink: /blog/:slug
+permalink: /blog/:slug/
 future: false
+
+defaults:
+  - scope:
+      path: ""
+      type: posts
+    values:
+      permalink: /blog/:slug/
+  - scope:
+      path: "tags"
+      type: pages
+    values:
+      permalink: /blog/tags/:slug/
 
 exclude:
 - README.md
 - LICENSE.md
-
-Blog: /blog

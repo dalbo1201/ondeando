@@ -8,6 +8,11 @@
 <article class="blog-article {% if page.type == 'foto' %}blog-foto{% elsif page.type == 'notas' %}blog-notas{% endif %}">
   <p class="blog-data">{{ page.date | date: "%d/%m/%Y" }}</p>
   <h2 class="blog-title">{{ page.title }}</h2>
+  <p class="blog-tag">
+    {% for tag in page.tags %}
+    <a href="/blog/tags/#{{ tag | slugify }}" class="linkum">#{{ tag }}</a>
+    {% endfor %}
+   </p>
   <div class="blog-post">
     {{ content }}
   </div>
