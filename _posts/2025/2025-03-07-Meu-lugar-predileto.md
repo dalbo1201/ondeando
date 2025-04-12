@@ -3,7 +3,7 @@ layout: post
 title: "Meu lugar predileto"
 date: 2025-03-07 12:00:00 -0300
 author: pedro
-tags: ["a vida, o universo e tudo mais"]
+tags: ["a vida, o universo e tudo mais", "fotos"]
 ---
 <figure class="gallery">
     <img src="{{ site.baseurl }}/assets/fotos/2025/03/20250228_064939~2.jpg" alt="foto da janela de casa. No primeiro plano, uma rede de cor cru com detalhes geométricos amarelo e preto, ao fundo uma grande janela com esquadrias de alumínio com vista para a copa de uma árvore" title="meu local predileto">
