@@ -3,7 +3,7 @@ layout: post
 title: "Mais um aniversário"
 date: 2008-02-18 08:00:00 -0000
 author: pedro
-tags: ["a vida, o universo e tudo mais", "aniversário"]
+tags: ["a vida, o universo e tudo mais", "aniversário", "fotos"]
 ---
 <figure class="gallery">
     <img src="{{ site.baseurl }}/assets/fotos/2008/02/Aniversário Pedro 014.jpg" alt="bolo do Bob Esponja" title="foto do bolo do Bob Esponja" width="384px" height="288px" >
