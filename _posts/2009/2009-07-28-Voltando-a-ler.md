@@ -3,7 +3,7 @@ layout: post
 title: "Voltando a ler, será?"
 date: 2009-07-28 08:00:00 -0000
 author: pedro
-tags: ["livros"]
+tags: ["a vida, o universo e tudo mais", "livros"]
 ---
 Como é bom ler.  
 
