@@ -8,4 +8,4 @@ pagination:
  sort_reverse: true
 excerpt: pensamentos sobre a vida, o universo e tudo mais
 ---
-<h1>|Blog</h1>
+<h1><span aria-hidden="true">|</span><span class="h1-menor">meu</span>Blog<span class="h1-menor"> Ondeando</span> </h1>

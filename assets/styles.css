@@ -95,6 +95,11 @@ h1 { /* cabeçalho de saudação */
   margin-bottom: 40px; /* Adiciona margem inferior */
 }
 
+.h1-menor { /* cabeçalho de saudação menor para o blog */
+  font-size: 17px;
+  font-weight: normal;
+}
+
 .texto-geral {
   font-size: 16px;
   line-height: 20px;
