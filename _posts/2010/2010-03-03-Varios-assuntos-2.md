@@ -4,7 +4,7 @@ title: "Vários assuntos"
 type: notas
 date: 2010-03-03 08:00:00 -0000
 author: pedro
-tags: ["pensamentos"]
+tags: ["informatica"]
 ---
 <div class="aviso">Como essas postagens são antigas e recuperadas, muitos links podem levar a lugar algum ou mesmo a lugares que não são mais o que eram na época. Mantenho o texto pela reflexão e lembraça.</div>
 
