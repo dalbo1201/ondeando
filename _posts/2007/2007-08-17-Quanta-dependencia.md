@@ -2,6 +2,7 @@
 layout: post
 title: "Quanta dependência"
 date: 2007-08-17 08:00:00 -0000
+author: pedro
 tags:  ["informática"]
 ---
 Como podemos depender tanto de uma máquina como essa? Estou falando dos computadores, com certeza.

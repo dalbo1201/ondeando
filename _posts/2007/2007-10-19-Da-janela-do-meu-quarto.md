@@ -2,6 +2,7 @@
 layout: post
 title: "Da janela do meu quarto"
 date: 2007-10-19 08:00:00 -0000
+author: pedro
 tags: ["a vida, o universo e tudo mais"]
 ---
 <figure class="gallery">

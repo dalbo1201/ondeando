@@ -19,3 +19,48 @@ post tags:
 "museus'
 "shows"
 "passeios"
+
+
+Estrutura de pastas
+|-meusite
+    |-_includes
+        |-footer.html
+        |-head.html
+        |-header.html
+    -_layouts
+        |-agora.html
+        |-blog.html
+        |-default.html
+        |-post.html
+        |-profissional.html
+        |-tags.html
+    |-_posts
+        |-2006
+            |....
+        |-2007
+            |...
+        |-2008
+            |...
+        ...
+        |-2025
+            |...
+    |-assets
+        |-album
+        |-fotos
+            |-2007
+                |...
+            ...
+            |-2025
+                |...
+        |-foto-pedro.jpg
+        |-styles.css
+|-_config.yml
+|-.gitignore
+|-Agora.md
+|-blog.md
+|-Gemfile
+|-Gemfile.lock
+|-index.md
+|-Profissional.md
+|-robots.txt
+|-tags.md

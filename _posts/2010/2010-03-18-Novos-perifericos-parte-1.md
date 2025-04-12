@@ -3,6 +3,7 @@ layout: post
 title: "Novos periféricos: parte 1"
 type: texto
 date: 2010-03-18 08:00:00 -0000
+author: pedro
 tags: ["informática"]
 ---
 Esse último fim de semana foi um para esquecer.

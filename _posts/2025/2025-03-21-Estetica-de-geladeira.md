@@ -2,6 +2,7 @@
 layout: post
 title: "Estética de geladeira"
 date: 2025-03-21 21:40:00 -0300
+author: pedro
 tags: ["a vida, o universo e tudo mais", "pensamentos", "fotos"]
 ---
 <figure class="gallery">

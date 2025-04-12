@@ -2,6 +2,7 @@
 layout: post
 title: "LOK, um joguinho de lógica"
 date: 2025-03-12 12:00:00 -0300
+author: pedro
 tags: ["informática", "joguinhos"]
 ---
 <figure class="gallery">

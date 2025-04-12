@@ -2,6 +2,7 @@
 layout: post
 title: "Revendo velhos amigos"
 date: 2007-08-05 08:00:00 -0000
+author: pedro
 tags: ["a vida, o universo e tudo mais"]
 ---
 Olá pessoal,

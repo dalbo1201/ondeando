@@ -2,6 +2,7 @@
 layout: post
 title: "Aulas virtuais"
 date: 2008-08-24 08:00:00 -0000
+author: pedro
 tags: ["a vida, o universo e tudo mais", "informática"]
 ---
 Nunca imaginei que o MSN Messenger poderia ter uma função tão nobre, devo dizer até que para mim ele sempre funcionou como um telefone. Afinal falar com alguém de graça é uma ótima idéia, não é mesmo?

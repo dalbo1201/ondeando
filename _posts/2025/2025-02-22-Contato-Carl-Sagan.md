@@ -2,6 +2,7 @@
 layout: post
 title: "Contato - Carl Sagan"
 date: 2025-02-22 08:00:00 -0000
+author: pedro
 tags: ["livros"]
 ---
 Não sei porque demorei tanto para ler esse livro, mas ele sempre ficou na minha mente como uma obrigação a ser realizada, principalmente por gostar tanto do filme.

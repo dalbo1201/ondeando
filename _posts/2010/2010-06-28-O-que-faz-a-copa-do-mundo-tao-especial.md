@@ -2,6 +2,7 @@
 layout: post
 title: "O que faz a Copa do Mundo tão especial?"
 date: 2010-06-28 08:00:00 -0000
+author: pedro
 tags: ["esportes, ou só futebol"]
 ---
 O que eu não entendo é o motivo das pessoas não acompanharem ou ao menos gostarem de futebol na entre safra das Copas do Mundo.

@@ -2,6 +2,7 @@
 layout: post
 title: "Toy Story 3, o fim de uma saga"
 date: 2010-07-11 08:00:00 -0000
+author: pedro
 tags: ["filmes"]
 ---
 <figure class="gallery">

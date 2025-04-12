@@ -2,6 +2,7 @@
 layout: post
 title: "Fazendo a limpeza"
 date: 2008-06-29 08:00:00 -0000
+author: pedro
 tags: ["a vida, o universo e tudo mais", "informática"]
 ---
 Não consigo imaginar como eu junto tanto papel em tão pouco tempo.

@@ -2,6 +2,7 @@
 layout: post
 title: "Tolkien, uma Biografia"
 date: 2010-04-07 08:00:00 -0000
+author: pedro
 tags: ["livros"]
 ---
 Terminei de ler a biografia de J. R. R. Tolkien.

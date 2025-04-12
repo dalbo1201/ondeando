@@ -2,6 +2,7 @@
 layout: post
 title: "Ainda existe televisão?"
 date: 2009-03-09 08:00:00 -0000
+author: pedro
 tags: ["a vida, o universo e tudo mais", "séries e TV"]
 ---
 Devo dizer que faz um certo tempo que não assisto televisão com freqüência. Quando digo isso quero mostrar que não tenho mais aquele horário em que passa o meu programa favorito e fico esperando por ele ancioso.

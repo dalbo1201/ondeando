@@ -2,6 +2,7 @@
 layout: post
 title: "Mais um aniversário"
 date: 2008-02-18 08:00:00 -0000
+author: pedro
 tags: ["a vida, o universo e tudo mais", "aniversário"]
 ---
 <figure class="gallery">

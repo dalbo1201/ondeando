@@ -2,6 +2,7 @@
 layout: post
 title: "Virada Cultural 2008"
 date: 2008-04-25 08:00:00 -0000
+author: pedro
 tags: ["a vida, o universo e tudo mais"]
 ---
 <figure class="gallery-post-flutua">

@@ -3,6 +3,7 @@ layout: post
 type: foto
 title: "Pastel de feira"
 date: 2025-03-16
+author: pedro
 tags: ["a vida, o universo e tudo mais", "fotos"]
 ---
 <figure class="gallery">

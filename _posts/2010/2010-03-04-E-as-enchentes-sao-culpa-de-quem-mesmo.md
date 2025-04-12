@@ -2,6 +2,7 @@
 layout: post
 title: "E as enchentes são culpa de quem mesmo?"
 date: 2010-03-04 08:00:00 -0000
+author: pedro
 tags: ["a vida, o universo e tudo mais"]
 ---
 <div class="aviso">Como essas postagens são antigas e recuperadas, as fotos estavam numa apresentação em javascript ou algo assim e se perderam. Mantenho o texto pela reflexão e lembraça.</div>
