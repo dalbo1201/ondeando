@@ -342,22 +342,60 @@ blockquote {
   align-self: flex-end; /* Alinha o bloco à direita */
 }
 
-.sem-marcador { /*retirada do marcado da lista de tags */
-  list-style-type: none; /* Remove os marcadores */
-  padding: 5; /* Remove o recuo interno */
-  margin: 0; /* Remove o recuo externo */
+/* estilo para lista de posts por tag em tabela */
+ul.lista-tags {
+  list-style: none;
+  padding-left: 0;
+  margin-bottom: 1rem;
 }
 
-.data-tag {/* estilo da data na página de tags */
-  font-family: 'Verdana';
-  font-size: 14px;
+ul.lista-tags h3 { 
+  margin-left: 40px;/* Recuo de 30px no título da tag */
 }
+
+/* Tabela de posts com recuo de 10px */
+table.tabela-posts {
+  width: 100%;
+  border-collapse: collapse;
+  margin-left: 5px;
+  margin-bottom: 1rem;
+  font-size: 1rem;
+  line-height: 20px; /* Espaçamento igual ao de parágrafos */
+}
+
+/* Células da tabela com menos espaço interno */
+table.tabela-posts td {
+  padding: 0.2rem 0.5rem; /* Reduz espaço vertical */
+  vertical-align: top;   /* Alinha conteúdo ao topo */
+}
+
+.data-tag {
+  font-size: 15px;
+  text-align: right;
+  padding-right: 1rem;
+  white-space: nowrap;
+  word-break: break-word;
+}
+
+/* Título do post com quebra de linha adequada */
+.titulo-post a {
+  word-break: break-word;
+  display: block;
+  max-width: 100%;
+}
+
+/* Título ocupa o espaço restante */
+.titulo-post {
+  width: 100%;
+}
+/* fim do estilo para lista de posts por tag em tabela */
 
 /* Tipos de posts */
  article.blog-article.blog-foto .blog-title,
  article.blog-article.blog-notas .blog-title {
    display: none !important;
  }
+ /* fim do Tipos de posts */
 
 /* Ajustes para telas menores */
 @media screen and (max-width: 600px) {

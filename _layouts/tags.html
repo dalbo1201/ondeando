@@ -3,20 +3,26 @@
 {% include header.html %}
 
 <main>
+  
   {{ content }}
-  <ul class="sem-marcador">
-    {% assign tags = site.tags | sort %}
-    {% for tag in tags %}
-      <li>
-        <h3 id="{{ tag[0] | slugify }}">#{{ tag[0] }}</h3>
-        <ul class="sem-marcador">
-          {% for post in tag[1] %}
-            <li><span class="data-tag">{{ post.date | date: "%d/%m/%Y" }}</span> | <a href="{{ post.url | relative_url }}" class="linkum">{{ post.title }}</a></li>
-          {% endfor %}
-        </ul>
-      </li>
-    {% endfor %}
-  </ul>
+
+  <ul class="lista-tags">
+  {% assign tags = site.tags | sort %}
+  {% for tag in tags %}
+    <li>
+      <h3 id="{{ tag[0] | slugify }}">#{{ tag[0] }}</h3>
+      <table class="tabela-posts">
+        {% for post in tag[1] %}
+          <tr class="linha-post">
+            <td class="data-tag">{{ post.date | date: "%d/%m/%Y" }}</td>
+            <td class="titulo-post"><a href="{{ post.url | relative_url }}" class="linkum">{{ post.title }}</a></td>
+          </tr>
+        {% endfor %}
+      </table>
+    </li>
+  {% endfor %}
+</ul>
+  
 </main>
 
 <aside style="text-align: center;"><a href="#" class="linkum nav-topo">&#8593 Topo</a></aside>
