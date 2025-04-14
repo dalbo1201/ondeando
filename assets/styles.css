@@ -3,7 +3,7 @@ html {
 }
 
 body {
-  background: #333333;
+  background: #252525;
   color: #ffffff;
   font-family: 'Montserrat', 'Verdana', 'sans-serif'; /* Fonte padrão */
   height: 100vh;
@@ -85,7 +85,7 @@ footer {
   height: 50px;
   border-radius: 50%;
   object-fit: cover;
-  border: 1px solid #edb4e1;
+  border: 1px solid #F1C6E8;
   flex-shrink: 0; /* Evita que a imagem diminua além do tamanho mínimo */
 }
 
@@ -133,12 +133,12 @@ a:link,
 a:visited,
 a:active,
 nav a {
-  color: #edb4e1;
+  color: #F1C6E8;
 }
 
 a:hover,
 nav a:hover {
-  color: #ffe0b8;
+  color: #FFE0B8;
 }
 
 a.linkcab:link,
@@ -242,7 +242,7 @@ blockquote {
 }
 
 .citacao {
-  border-left: 7px solid #edb4e1;
+  border-left: 7px solid #F1C6E8;
   padding-left: 7px;
   padding-top: 10px;
   padding-bottom: 10px;
@@ -258,7 +258,7 @@ blockquote {
   content: '\201D';
   font-family: 'Fraunces', 'Georgia'; /* Fonte para as aspas */
   font-size: 200px;
-  color: #edb4e1;
+  color: #F1C6E8;
   opacity: 0.45; /* Transparencia para as aspas */
   position: absolute;
   right: -10px;
@@ -283,7 +283,7 @@ blockquote {
 .aviso { 
   font-size: 14px;
   text-align: center;
-  border: 3px solid #ffe0b8; 
+  border: 3px solid #FFE0B8; 
   margin: 10px 10px 10px 20px; 
   padding: 10px; 
 }
