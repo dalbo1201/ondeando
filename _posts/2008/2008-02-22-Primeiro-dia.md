@@ -2,7 +2,6 @@
 layout: post
 title: "Primeiro dia: 17/01/2008"
 date: 2008-02-22 08:00:00 -0000
-author: pedro
 tags: ["a vida, o universo e tudo mais"]
 ---
 Saímos cedo de casa rumo à rodoviária da Barra Funda em Sampa. O plano é chegar em Ourinhos e de lá realmente começarmos a viagem "via carona", além disso Londrina é o destino final de hoje.

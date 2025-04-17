@@ -2,10 +2,8 @@
 layout: post
 title: "São-paulinos no RJ"
 date: 2006-04-26 08:00:00 -0000
-author: pedro
 tags:  ["a vida, o universo e tudo mais", "esportes, ou só futebol"]
 ---
-
 Oi pessoal,
 
 Hoje foi um dia bem legal. Durante o dia em si não aconteceu nada de muito diferente, mas de noite foi a diversão...

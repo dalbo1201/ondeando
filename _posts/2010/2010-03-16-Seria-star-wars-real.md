@@ -2,7 +2,6 @@
 layout: post
 title: "Seria Star Wars real?"
 date: 2010-03-16 08:00:00 -0000
-author: pedro
 tags: ["filmes", "fotos"]
 ---
 Descobri no Jovem Nerd um artigo em que mostram ótimas fotos de Dubai e afins com elementos Star Wars.

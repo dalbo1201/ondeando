@@ -2,7 +2,6 @@
 layout: post
 title: "Histórias para Ler"
 date: 2010-03-02 08:00:00 -0000
-author: pedro
 tags: ["livros", "metablog"]
 --- 
 Como muitos sabem eu tenho <a href="https://historiasparaler.blogspot.com/">um outro blog</a> em que escrevo com alguns amigos sobre livros. Principalmente colcoamos nossas opiniões sobre os livros que acabamos de ler.

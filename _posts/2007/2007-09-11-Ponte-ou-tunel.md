@@ -2,7 +2,6 @@
 layout: post
 title: "Ponte ou túnel?"
 date: 2007-09-11 08:00:00 -0000
-author: pedro
 tags: ["engenharia", "fotos"]
 ---
 <figure class="gallery">

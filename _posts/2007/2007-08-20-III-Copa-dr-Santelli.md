@@ -2,7 +2,6 @@
 layout: post
 title: "III Copa Dr. Santelli, SPnoRio é campeão"
 date: 2007-08-20 08:00:00 -0000
-author: pedro
 tags:  ["a vida, o universo e tudo mais", "esportes, ou só futebol"]
 ---
 

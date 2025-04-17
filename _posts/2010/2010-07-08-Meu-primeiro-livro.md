@@ -2,7 +2,6 @@
 layout: post
 title: "Meu primeiro livro"
 date: 2010-07-08 08:00:00 -0000
-author: pedro
 tags: ["livros"]
 ---
 Li o post no **Livros & Afins** *(o site não existe mais)* do Alessandro Martins e achei deveras interessante o assunto.

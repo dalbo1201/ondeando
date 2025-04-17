@@ -2,7 +2,6 @@
 layout: post
 title: "Meu lugar predileto"
 date: 2025-03-07 12:00:00 -0300
-author: pedro
 tags: ["a vida, o universo e tudo mais", "fotos"]
 ---
 <figure class="gallery">

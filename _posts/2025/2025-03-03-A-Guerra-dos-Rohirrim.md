@@ -2,7 +2,6 @@
 layout: post
 title: "O Senhor dos Anéis: A Guerra dos Rohirrim"
 date: 2025-03-03 12:00:00 -0300
-author: pedro
 tags: ["filmes"]
 ---
 <figure class="gallery">

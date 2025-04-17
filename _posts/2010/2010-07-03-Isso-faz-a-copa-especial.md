@@ -2,7 +2,6 @@
 layout: post
 title: "Isso faz a Copa especial"
 date: 2010-07-03 08:00:00 -0000
-author: pedro
 tags: ["esportes, ou só futebol"]
 ---
 É inacreditável o que uma Copa do Mundo pode te apresentar em menos de um dia. Na parte da manhã você participa da história ao ver a Holanda passar pelo Brasil nas quartas de final e aumentar suas chances de pela primeira vez na História colocar uma tão sonhada estrela no escudo da sua seleção. E em menos de algumas horas depois, vemos a linda Celeste, primeira Campeã Mundial, voltar a jogar uma semi final…

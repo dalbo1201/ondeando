@@ -2,7 +2,6 @@
 layout: post
 title: "E finalmente aconteceu"
 date: 2025-02-21 23:56:00 -0000
-author: pedro
 tags: ["metablog"]
 ---
 Demorou.

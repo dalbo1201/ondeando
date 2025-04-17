@@ -106,7 +106,6 @@ h1 { /* cabeçalho de saudação */
   max-width: 100%;
   text-align: left;
   margin-bottom: auto; /* Empurra o bloco descrição para cima */
-  padding-right: 10px; /* Adiciona padding à direita para garantir que o texto não fique sob a barra de rolagem */
 }
 
 .estou-fazendo {
@@ -115,7 +114,6 @@ h1 { /* cabeçalho de saudação */
   max-width: 100%;
   text-align: left;
   margin-bottom: auto; /* Empurra o bloco descrição para cima */
-  padding-right: 10px; /* Adiciona padding à direita para garantir que o texto não fique sob a barra de rolagem */
 }
 
 .atualizacao {

@@ -2,7 +2,6 @@
 layout: post
 title: "PC de cara nova"
 date: 2010-02-27 08:00:00 -0000
-author: pedro
 tags: ["informática"]
 ---
 Esse mês eu me propus a fazer uma pequena loucura, resolvi comprar o Windows 7.

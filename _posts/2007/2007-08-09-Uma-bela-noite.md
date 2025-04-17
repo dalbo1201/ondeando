@@ -2,7 +2,6 @@
 layout: post
 title: "Uma bela noite de futebol"
 date: 2007-08-09 08:00:00 -0000
-author: pedro
 tags: ["esportes, ou só futebol", "fotos"]
 ---
 <figure class="gallery">
