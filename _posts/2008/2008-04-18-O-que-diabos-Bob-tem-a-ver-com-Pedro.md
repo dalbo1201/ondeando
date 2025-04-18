@@ -2,7 +2,6 @@
 layout: post
 title: "O que diabos Bob tem a ver com Pedro?"
 date: 2008-04-18 08:00:00 -0000
-author: pedro
 tags: ["a vida, o universo e tudo mais"]
 ---
 <figure class="gallery-post-flutua">

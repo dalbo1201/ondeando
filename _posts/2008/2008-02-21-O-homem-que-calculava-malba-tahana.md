@@ -2,7 +2,6 @@
 layout: post
 title: "O Homem que Calculava - Malba Tahan"
 date: 2008-02-21 08:00:00 -0000
-author: pedro
 tags: ["livros"]
 ---
 Bem, como muitos sabem mantenho outro blog além desse. Alias, tenho dado muito mais atenção.

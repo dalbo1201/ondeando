@@ -3,7 +3,6 @@ layout: post
 type: notas
 title: "Prefiro ser um porco"
 date: 2025-04-10 14:25:00 -0300
-author: pedro
 tags: ["filmes","pensamentos"]
 ---
 <blockquote class="citacao-especial citacao-curta">

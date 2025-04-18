@@ -2,7 +2,6 @@
 layout: post
 title: "Poder da tradição"
 date: 2007-05-29 08:00:00 -0000
-author: pedro
 tags: ["livros"]
 ---
 Olá pessoal,

@@ -2,7 +2,6 @@
 layout: post
 title: "Segundo dia: 18/01/2008"
 date: 2008-02-24 08:00:00 -0000
-author: pedro
 tags: ["a vida, o universo e tudo mais"]
 ---
 Continuamos a viagem rumo à Foz do Iguaçú.

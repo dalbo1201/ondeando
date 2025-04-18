@@ -2,7 +2,6 @@
 layout: post
 title: "Onde Vivem os Monstros"
 date: 2010-08-15 08:00:00 -0000
-author: pedro
 tags: ["filmes"]
 ---
 <figure class="gallery">

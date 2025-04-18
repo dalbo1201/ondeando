@@ -2,7 +2,6 @@
 layout: post
 title: "Novas maneiras de escrever"
 date: 2010-02-28 08:00:00 -0000
-author: pedro
 tags: ["informática", "metablog"]
 ---
 Olá a todos mais uma vez.

@@ -2,7 +2,6 @@
 layout: post
 title: "Bienal do Livro 2007"
 date: 2007-09-21 08:00:00 -0000
-author: pedro
 tags: ["livros"]
 ---
 Olá pessoal,

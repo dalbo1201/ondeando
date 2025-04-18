@@ -2,7 +2,6 @@
 layout: post
 title: "Fiquei um pouco decepcionado com o final de The White Lotus"
 date: 2025-04-15 13:15:00 -0300
-author: pedro
 tags: ["séries e TV"]
 ---
 <figure class="gallery">
