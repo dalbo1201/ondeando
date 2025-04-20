@@ -174,7 +174,7 @@ figcaption {
 }
 
 .gallery .image-container {
-  width: 25%; /* Define a largura das imagens como 25% da largura do texto */
+  width: 48%; /* Define a largura das imagens como 25% da largura do texto */
   box-sizing: border-box;
   display: flex;
   flex-direction: column; /* Mantém a legenda abaixo da imagem */
@@ -271,7 +271,7 @@ blockquote {
   bottom: -160px; /* Ajusta a posição da aspas para citações curtas */
 }
 
-.autor-cite {
+.citacao-autor {
   display: block;
   text-align: right;
   max-width: 90%;

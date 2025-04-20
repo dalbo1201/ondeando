@@ -8,4 +8,4 @@ tags: ["filmes","pensamentos"]
 <blockquote class="citacao-especial citacao-curta">
 Prefiro ser um porco do que um facista.
 </blockquote>
-<cite class="autor-cite">Porco Rosso</cite>
+<cite class="citacao-autor">Porco Rosso</cite>

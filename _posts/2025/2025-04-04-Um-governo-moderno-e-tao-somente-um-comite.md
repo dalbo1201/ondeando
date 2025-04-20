@@ -8,4 +8,4 @@ tags: ["livros","pensamentos"]
 <blockquote class="citacao-especial">
   Um Governo moderno é tão somente um comite que administra os negócios comuns de toda a classe burguesa.
 </blockquote>
-<cite class="autor-cite">O Manifesto do Partido Comunista</cite>
+<cite class="citacao-autor">O Manifesto do Partido Comunista</cite>
