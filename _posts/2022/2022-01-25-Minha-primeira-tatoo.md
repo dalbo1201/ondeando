@@ -11,7 +11,7 @@ tags: ["a vida, o universo e tudo mais", "filmes", "fotos", "pandemia", "tatuage
 </figure>
 Resolvi finalmente fazer uma tatuagem. Não foi a que eu sempre programei fazer, essa ficará para um futuro próximo.  
 
-Fui para uma pegada sai-fai mas com uma pegada minimalista. Nada como pegar uma nave icônica e que simboliza uma era utópica onde as coisas deram certo. Poucas obras que vislumbram um futuro positivo em que a humanidade entendeu que o sistema dinheiro que está não nos permitirá sobreviver.  
+Fui para uma pegada sai-fai mas com uma pegada minimalista. Nada como pegar uma nave icônica e que simboliza uma era utópica onde as coisas deram certo. Poucas obras que vislumbram um futuro positivo em que a humanidade entendeu que o *sistema dinheiro* que está dominnado não nos permitirá sobreviver.  
 
 A arte foi uma adaptação de um desenho que encontrei no Pinterest. E foi feita na [Habitará Tatoo](https://www.instagram.com/haibaratattoo?igsh=MnY5dzR6bGRuc2Fk), pela Ana que, digamos assim, é a tatuadora da família.
 

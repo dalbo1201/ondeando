@@ -3,7 +3,7 @@ layout: post
 type: foto
 title: "Nosferatu"
 date: 2022-09-10
-tags: [ "filmes", "pandemia"]
+tags: ["filmes", "passeios", "pandemia"]
 ---
 <figure class="gallery">
             <img src="{{ site.baseurl }}/assets/fotos/2022/09/20220904_164230.jpg" alt="Frame do filme Nosferatu em que o personagem esta para lorder uma vítima" title="Nosferatu">

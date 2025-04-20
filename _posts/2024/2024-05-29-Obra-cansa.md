@@ -11,4 +11,4 @@ Por menor que seja a intervenção, ela vai te tomar mais tempo do que você que
 
 As vezes eu acho que é igual a projeto.  
 
-<blockquote class="citacao.especial">Você não termina, abandona</blockquote>
+<blockquote class="citacao">Você não termina, abandona</blockquote>

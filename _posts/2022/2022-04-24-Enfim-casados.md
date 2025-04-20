@@ -15,7 +15,9 @@ tags: ["a vida, o universo e tudo mais", "fotos", "pandemia"]
 <figcaption>Finalmente</figcaption></div>
         </figure>
 Essa foi uma festa que lutou demais pra acontecer. O que deveria ter ocorrido em meados de 2020 teve que ser adiado e adiado em função da pandemia.  
+
 Agora que estamos vacinados temos a chance de celebrar.  
+
 Mas não antes de passar por uma bateria de dois testes de covid para podermos ganharmos a liberação.  
 
 Que os noivos sejam muito felizes, por um muito tempo.
