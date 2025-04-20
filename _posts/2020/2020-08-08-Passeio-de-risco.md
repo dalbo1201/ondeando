@@ -3,7 +3,7 @@ layout: post
 type: foto
 title: "Passeio de risco"
 date: 2020-08-08
-tags: ["a vida, o universo e tudo mais", "passeio",  "pandemia"]
+tags: ["a vida, o universo e tudo mais", "passeios",  "pandemia"]
 ---
 <figure class="gallery">
 <div class="image-container">

@@ -7,7 +7,7 @@ tags: ["a vida, o universo e tudo mais","passios"]
 ---
 Fomos na festa da Achiropita, lá no Bexiga.  
 
-A lembrança da última vez que fui, muitos e muitos anos atrás, era de uma festa bem mais cheia. Feliz de não ser assim.  
+A lembrança que tenho da última vez que fui, muitos e muitos anos atrás, era de uma festa bem mais cheia. Feliz de não ser assim.  
 
 Mas também de comidas mais gostosas, não foi o caso.  
 

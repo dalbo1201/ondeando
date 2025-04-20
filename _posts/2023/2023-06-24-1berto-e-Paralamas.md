@@ -10,7 +10,7 @@ Na verdade começou com o show dos Paralamas, um sucesso atrás do outro, 220v o
 
 Aí faz uma pausa pra trocar a banda, quase uma hora de espera, já quase 1h da manhã, galera (não tem criança nesse show) já começa a sentir o peso do horário e o pula pula anterior. Pessoas vão embora, deu uma esvaziada. Entra Humberto.  
 
-1berto tem uma característica muito própria, ele faz um show pra ele, acho. Excelente qualidade, mas com muitos altos e baixos, músicas que muita gente não conhecia tanto não permitiram que ele levasse a galera a loucura e aumentasse a adrenalina, principalmente pelo horário. A intercalação de jusicas famosas, grandes hits, é músicas menos conhecidas fizeram com que o show não ficasse o tempo todo pegando fogo. Mas 1berto tava animado demais.  
+1berto tem uma característica muito pecuiar, parace que ele faz o show pra ele. Excelente qualidade, mas com muitos altos e baixos, músicas que muita gente não conhecia, não permitiram que ele levasse a galera à loucura e aumentasse a adrenalina, principalmente pelo horário. A o vai-e-vem de musicas famosas, grandes hits, e músicas menos conhecidas fizeram com que o show mantivesse a chama forte. Mas 1berto tava animado demais.  
 
 Dois shows excelentes, propostas opostas. Talvez pudessem ter trocado a ordem, faria mais sentido.  
 
