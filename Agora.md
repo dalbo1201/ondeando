@@ -14,20 +14,20 @@ excerpt: Uma atualizaçao quinzenal? Talvez.
 </ul>
 Filmes que vi <a href="https://letterboxd.com/dalbo1201/films/diary/" class="linkcab">&#127916;</a>:
 <ul>
-<li>Cidade dos Sonhos (David Lynch, 2001) | Bluray; ↺</li>
-<li>Ponyo (Hayao Miyazaki, 2008) | Netflix; ↺</li>
+<li>Cidade dos Sonhos (David Lynch, 2001) | Bluray;&nbsp;↺</li>
+<li>Ponyo (Hayao Miyazaki, 2008) | Netflix;&nbsp;↺</li>
 <li>Porco Rosso (Hayao Miyazaki, 1992) | Netflix;</li>
 <li>Freeway (Matthew Bright, 1996) | Locadora;</li>
-<li>A Viagem de Chihiro (Hayao Miyazaki, 2001) | Netflix; ↺</li>
+<li>A Viagem de Chihiro (Hayao Miyazaki, 2001) | Netflix;&nbsp;↺</li>
 </ul>
 Séries que estou vendo <a href="https://tvtime.com/r/38uUh" class="linkcab">&#128250;</a>:
 <ul>
-<li>A Roda do Tempo | Prime Video | temporada 3;</li>
-<li>Demolidor: Renascido | Disney+ | temporada 1;</li>
-<li>Arcane | Netflix | temporada 2;</li>
-<li>Invencível | Prime Video | temporada 2;</li>
-<li>Hacks | MAX | temporada 4;</li>
-<li>The Pitt | MAX | temporada 1.</li>
+<li>A Roda do Tempo | Prime&nbsp;Video | temporada&nbsp;3;</li>
+<li>Demolidor: Renascido | Disney+ | temporada&nbsp;1;</li>
+<li>Arcane | Netflix | temporada&nbsp;2;</li>
+<li>Invencível | Prime&nbsp;Video | temporada&nbsp;2;</li>
+<li>Hacks | MAX | temporada&nbsp;4;</li>
+<li>The Pitt | MAX | temporada&nbsp;1.</li>
 </ul>
 </section>
 <aside class="atualizacao">
