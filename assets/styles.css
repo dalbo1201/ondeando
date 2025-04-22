@@ -100,19 +100,13 @@ h1 { /* cabeçalho de saudação */
   font-weight: normal;
 }
 
-.texto-geral {
+.texto-geral .estou-fazendo {
   font-size: 16px;
   line-height: 20px;
   max-width: 100%;
   text-align: left;
-  margin-bottom: auto; /* Empurra o bloco descrição para cima */
-}
-
-.estou-fazendo {
-  font-size: 16px;
-  line-height: 20px;
-  max-width: 100%;
-  text-align: left;
+  text-wrap: pretty;
+  overflow-wrap: break-word;
   margin-bottom: auto; /* Empurra o bloco descrição para cima */
 }
 
@@ -227,6 +221,8 @@ padding: 15px 0 0 0;
   color: #ffffff;
   line-height: 20px;
   max-width: 100%; /* Faz com que o conteúdo ocupe 100% da largura do contêiner */
+  text-wrap: pretty; /* Permite que o texto quebre em várias linhas */
+  overflow-wrap: break-word;
   text-align: left;
   margin-bottom: auto; /* Empurra o bloco descrição para cima */
   padding-right: 0px; /* Adiciona padding à direita para garantir que o texto não fique sob a barra de rolagem */
@@ -429,9 +425,7 @@ nav a {
 .gallery {
   justify-content: center;
 }
-  
-.texto-geral,
-.blog-post p,
+
 .aviso {
  text-align: justify;
 }
