@@ -7,6 +7,7 @@ body {
   color: #ffffff;
   font-family: 'Montserrat', 'Verdana', 'sans-serif'; /* Fonte padrão */
   height: 100vh;
+  text-wrap: pretty;
   display: flex;
   flex-direction: column;
   justify-content: space-between;
@@ -105,7 +106,6 @@ h1 { /* cabeçalho de saudação */
   line-height: 20px;
   max-width: 100%;
   text-align: left;
-  text-wrap: pretty;
   overflow-wrap: break-word;
   margin-bottom: auto; /* Empurra o bloco descrição para cima */
 }
@@ -180,15 +180,6 @@ figcaption {
   height: auto; /* Altura proporcional à largura */
 }
 
-.gallery-post {
-  display: flex;
-  justify-content: center; /* Centraliza horizontalmente */
-  align-items: center; /* Centraliza verticalmente, se necessário */
-  flex-wrap: wrap; /* Permite que as imagens quebrem linha se necessário */
-  gap: 10px; /* Adiciona uma margem entre as imagens */
-padding: 15px 0 0 0;
-}
-
 .gallery-post-flutua {
   float: right;
   display: flex;
@@ -221,7 +212,6 @@ padding: 15px 0 0 0;
   color: #ffffff;
   line-height: 20px;
   max-width: 100%; /* Faz com que o conteúdo ocupe 100% da largura do contêiner */
-  text-wrap: pretty; /* Permite que o texto quebre em várias linhas */
   overflow-wrap: break-word;
   text-align: left;
   margin-bottom: auto; /* Empurra o bloco descrição para cima */
