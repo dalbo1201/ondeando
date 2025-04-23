@@ -1,6 +1,5 @@
 ---
 layout: post
-type: foto
 title: "Segunda tatuagem"
 date: 2022-06-11
 tags: ["a vida, o universo e tudo mais", "fotos","filmes", "pandemia", "tatuagem"]
