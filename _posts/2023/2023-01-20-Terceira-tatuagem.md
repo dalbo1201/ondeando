@@ -1,6 +1,5 @@
 ---
 layout: post
-type: foto
 title: "Terceira Tatuagem"
 date: 2023-01-20
 tags: ["a vida, o universo e tudo mais", "fotos", "pandemia", "tatuagem"]
