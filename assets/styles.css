@@ -9,7 +9,6 @@ body {
   line-height: 22px;
   font-family: 'Montserrat', 'Verdana', 'sans-serif'; /* Fonte padrão */
   height: 100vh;
-  text-wrap: pretty;
   display: flex;
   flex-direction: column;
   justify-content: space-between;
