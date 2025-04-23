@@ -1,6 +1,5 @@
 ---
 layout: post
-type: foto
 title: "Quinta tatuagem"
 date: 2023-08-26
 tags: ["a vida, o universo e tudo mais","fotos", "tatuagem"]
