@@ -11,7 +11,7 @@ Procurando uma imagem de alguma construção, encontrei uma foto da Torre Eiffel
 
 É o <a href="https://www.stawiarz.com/">Marcin Stawiartz Photograph</a>.
 
-Lá tem imagens e preto-e-branco, coloridas. Só que num <a href="https://www.deviantart.com/angelreich/gallery">perfil do DevinatArt</a> que abriga suas imagens e fotos tem também algumas que me parecem montagem, e isso não tira a qualidade delas, apenas não é o que mais me agrada.  
+Lá tem imagens e preto-e-branco, coloridas. Só que num <a href="https://www.deviantart.com/angelreich/foto-post">perfil do DevinatArt</a> que abriga suas imagens e fotos tem também algumas que me parecem montagem, e isso não tira a qualidade delas, apenas não é o que mais me agrada.  
 
 Não tenho duvidas de que alguma coisa por lá vai te agradar. Não deixe de visitar os dois sites.
 

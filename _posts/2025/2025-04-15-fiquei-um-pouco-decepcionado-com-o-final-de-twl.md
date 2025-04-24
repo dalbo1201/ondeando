@@ -4,7 +4,7 @@ title: "Fiquei um pouco decepcionado com o final de The White Lotus"
 date: 2025-04-15 13:15:00 -0300
 tags: ["séries e TV"]
 ---
-<figure class="gallery">
+<figure class="foto-post">
 <img src="{{ site.baseurl }}/assets/fotos/2025/04/the-white-lotus-max.png" alt="Imagem de quatro funcionários do resort The White Lotus Tailândia acenando, dando as boas-vindas aos novos hóspedes, na areia, próximos ao mar, na praia. Estão enfileirados Pam, Valentin, Fabian, Pornchai e Mook." title="Boas-vindas à temporada 3">
 </figure>
 Fiquei um pouco decepcionado com o final da terceira temporada de "The White Lotus". Se as duas primeiras temporadas tem suas qualidades, a terceira parece uma cópia mal feita.  

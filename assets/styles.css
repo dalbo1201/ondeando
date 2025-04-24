@@ -164,33 +164,38 @@ figcaption {
   width: 100%; /* Garante que a legenda ocupe toda a largura do contêiner */
 }
 
-/* Galeria de Imagens */
-.gallery {
+/* Imagens em posts */
+.foto-post {
   display: flex;
   flex-wrap: wrap;
   gap: 10px; /* Adiciona uma margem entre as imagens */
   padding-top: 15px;
 }
 
-.gallery .image-container {
-  width: 48%; /* Define a largura das imagens como 25% da largura do texto */
+.foto-post .mais-fotos {
+  width: 48%; /* Define a largura das imagens como 48% da largura do texto */
   box-sizing: border-box;
   display: flex;
   flex-direction: column; /* Mantém a legenda abaixo da imagem */
   justify-content: flex-end; /* Alinha as imagens pela parte inferior */
 }
 
-.gallery img {
+.foto-post img {
   width: 100%;
   height: auto; /* Altura proporcional à largura */
 }
 
-.gallery-post-flutua {
+.foto-post-flutua {
   float: right;
-  display: flex;
-  flex-wrap: wrap;
-  gap: 10px;
-  margin: 15px 15px 5px 5px;
+  max-width: 50%;
+  margin: 10px 0 10px 10px;
+  padding-right: 2px;
+}
+
+.foto-post-flutua img {
+  width: 100%;
+  height: auto;
+  display: block;
 }
 
 /* Estilos para o Blog */
@@ -385,7 +390,7 @@ table.tabela-posts td {
  /* fim do Tipos de posts */
 
 /* Ajustes para telas menores */
-@media screen and (max-width: 600px) {
+@media only screen and (max-width: 512px) {
   header {
     flex-direction: column;
     align-items: flex-start;
@@ -414,24 +419,20 @@ nav a {
   font-size: 16px; /* Garante que o tamanho do texto permaneça o mesmo */
 }
 
+.aviso {
+  text-align: justify;
+ }
+
 /* Centraliza a galeria horizontalmente em telas menores */
-.gallery {
+.foto-post {
   justify-content: center;
 }
-
-.aviso {
- text-align: justify;
-}
+.foto-post .mais-fotos {
+  width: 100%; /* Ajusta a largura das imagens para 50% em telas menores */
 }
 
-@media (max-width: 800px) {
-.gallery .image-container {
-  width: 50%; /* Ajusta a largura das imagens para 50% em telas menores */
-}
+.foto-post-flutua {
+  width: 55%; /* Mantém flutuante, mas mais estreita */
 }
 
-@media (max-width: 400px) {
-.gallery .image-container {
-  width: 100%; /* Ajusta a largura das imagens para 100% em telas muito pequenas */
-}
 }

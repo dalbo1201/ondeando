@@ -5,7 +5,7 @@ title: "Ano novo e Vila Velha"
 date: 2023-01-01
 tags: ["a vida, o universo e tudo mais", "fotos", "pandemia"]
 ---
-<figure class="gallery">
+<figure class="foto-post">
     <img src="{{ site.baseurl }}/assets/fotos/2023/01/20230101_044204.jpg" alt="Foto de 3 pares de pés na areia da praia com o mar ao fundo" title="Virada de ano na praia, que saudade">
 <figcaption>Nós em Vila Velha</figcaption>
 </figure>

@@ -4,7 +4,7 @@ title: "Ponte ou túnel?"
 date: 2007-09-11 08:00:00 -0000
 tags: ["engenharia", "fotos"]
 ---
-<figure class="gallery">
+<figure class="foto-post">
     <img src="https://static.abc.es/Media/201403/23/oresund--644x362.jpg" alt="Ponte do Øresund" title="Ponte do Øresund">
 </figure>
 Recebi uma vez por e-mail uma foto de uma estrutura bem interessante. Era essa aqui.
