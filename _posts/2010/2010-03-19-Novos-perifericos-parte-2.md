@@ -27,11 +27,12 @@ A posição das teclas ajuda muito e elas tem uma curvatura onde as teclas centr
 O teclado não possui muitas opções multimídias, apenas o controle de play/pause, mais/menos som e o mudo. Mas para mim é extremante aceitável, nunca usei esses controles mesmo. Ah, mas possui pelo menos um atalho para a calculadora, o que para mim vale muito, engenheiro é foda!
 
 O mouse não tem muito do que se falar, com um infravermelho suficiente para não deixar nenhum trabalho tradicional mal feito, o mouse tem um tamanho ideal, pelo menos para minha mão. O único problema é que ao clicar me parece que ele não é tão silencioso quanto seu irmão teclado.
-<figure class="gallery-post">
-<figure class="image-container">
+
+<figure class="foto-post">
+<figure class="mais-fotos">
     <img src="{{ site.baseurl }}/assets/fotos/2010/03/mk_wireddt600blk_medidas.jpg" alt="teclado e mouse" title="imagem do teclado e mouse Microsoft Wired Desktop 600">
 </figure>
-<figure class="image-container">
+<figure class="mais-fotos">
     <img src="{{ site.baseurl }}/assets/fotos/2010/03/ic_vx2000.jpg" alt="webcam" title="imagem da webcam Lifecam VX-2000">
 </figure>
 </figure>
