@@ -1,7 +1,9 @@
 ---
 layout: post
-type: foto
+type: album
 title: "Fui à Beagá"
+image: /assets/fotos/2022/08/IMG_20220731_123707.jpg
+caption: "CCBB BH"
 date: 2022-08-01
 tags: ["a vida, o universo e tudo mais", "fotos", "pandemia", "passeios"]
 ---

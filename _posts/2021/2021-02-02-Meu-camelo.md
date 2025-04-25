@@ -1,7 +1,9 @@
 ---
 layout: post
-type: texto
+type: album
 title: "Meu Camelo"
+image: /assets/fotos/2021/02/20210206_174152.jpg
+caption: "Meu camelo"
 date: 2021-02-02
 tags: ["a vida, o universo e tudo mais","fotos", "pandemia"]
 ---

@@ -1,6 +1,9 @@
 ---
 layout: post
+type: album
 title: "Estética de geladeira"
+image: /assets/fotos/2025/03/20250307_235112.jpg
+caption: "Estética de Geladeira"
 date: 2025-03-21 21:40:00 -0300
 tags: ["a vida, o universo e tudo mais", "pensamentos", "fotos"]
 ---

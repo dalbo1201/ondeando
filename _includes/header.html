@@ -10,18 +10,7 @@
     </nav>
   </header>
 
-  {% elsif page.layout == 'blog' or page.layout == 'post' or page.layout == 'tags' or page.layout == 'agora' %}
-
-  <header>
-    <div class="top-header">
-      <a href="{{ site.url }}/" class="linkcab"><img src="{{ site.url }}//assets/foto-pedro-100px.jpg" alt="Foto de Pedro" title="Sou eu" class="photocab"></a>
-      <div class="namecab">Pedro Dal Bó</div>
-    </div>
-    <nav>
-      <a href="{{ site.url }}/blog" title="Se eu disser, será aqui">Blog</a> &nbsp;|<a href="{{ site.url }}/Agora" title="O que estou fazendo">Agora</a>&nbsp;|<a href="{{ site.baseurl }}/feed.xml"><img src="{{ site.url }}//assets/rss.svg" alt="RSS" width="22" height="22"></a>
-    </nav>
-  </header>
-  {% elsif page.layout == 'profissional'%}
+    {% elsif page.layout == 'profissional'%}
 
   <header>
     <div class="top-header">
@@ -32,4 +21,16 @@
     </nav>
   </header>
 
+
+  {% elsif page.layout == 'blog' or page.layout == 'post' or page.layout == 'tags' or page.layout == 'agora' or page.layout == 'album' or page.layout == 'foto' %}
+
+  <header>
+    <div class="top-header">
+      <a href="{{ site.url }}/" class="linkcab"><img src="{{ site.url }}//assets/foto-pedro-100px.jpg" alt="Foto de Pedro" title="Sou eu" class="photocab"></a>
+      <div class="namecab">Pedro Dal Bó</div>
+    </div>
+    <nav>
+      <a href="{{ site.url }}/blog" title="Se eu disser, será aqui">Blog</a> &nbsp;|<a href="{{ site.url }}/agora" title="O que estou fazendo">Agora</a>&nbsp;|<a href="{{ site.url }}/album" title="Minhas fotos">Álbum</a>&nbsp;|<a href="{{ site.baseurl }}/feed.xml"><img src="{{ site.url }}//assets/rss.svg" alt="RSS" width="22" height="22"></a>
+    </nav>
+  </header>
   {% endif %}

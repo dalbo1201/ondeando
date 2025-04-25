@@ -1,7 +1,9 @@
 ---
 layout: post
-type: foto
+type: album
 title: "Pastel de feira"
+image: /assets/fotos/2025/03/20250316_120505.jpg
+caption: "Pastel no final da feira é sempre uma beleza"
 date: 2025-03-16
 tags: ["a vida, o universo e tudo mais", "fotos"]
 ---

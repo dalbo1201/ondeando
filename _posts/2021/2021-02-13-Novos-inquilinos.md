@@ -1,6 +1,9 @@
 ---
 layout: post
+type: album
 title: "Novos inquilinos"
+image: /assets/fotos/2021/02/20210213_102308.jpg
+caption: "Pequenos Woody e Mérida"
 date: 2021-02-13
 tags: ["a vida, o universo e tudo mais","fotos", "pandemia"]
 ---

@@ -1,7 +1,7 @@
 ---
 layout: post
 type: texto
-title: "GetúlioAbelha"
+title: "Getúlio Abelha"
 date: 2022-08-13
 tags: ["a vida, o universo e tudo mais", "pandemia","shows"]
 ---

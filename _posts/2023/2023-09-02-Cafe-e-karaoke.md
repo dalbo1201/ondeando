@@ -2,7 +2,7 @@
 layout: post
 title: "Café e karaoke"
 date: 2023-09-02
-tags: ["a vida, o universo e tudo mais", "aniversario","passeios"]
+tags: ["a vida, o universo e tudo mais", "aniversário","passeios"]
 ---
 Hoje foi aniversário da S. e tivemos uma programação especial.  
 
