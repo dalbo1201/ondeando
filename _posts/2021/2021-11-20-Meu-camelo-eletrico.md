@@ -1,7 +1,9 @@
 ---
 layout: post
-type: foto
+type: album
 title: "Meu camelo elétrico"
+image: /assets/fotos/2021/11/20211120_141023.jpg
+caption: "Meu camelo elétrico"
 date: 2021-11-20
 tags: ["a vida, o universo e tudo mais", "pandemia"]
 ---

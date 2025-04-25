@@ -1,6 +1,9 @@
 ---
 layout: post
+type: album
 title: "Terceira Tatuagem"
+image: /assets/fotos/2023/01/20230120_224839.jpg
+caption: "Folhas de café"
 date: 2023-01-20
 tags: ["a vida, o universo e tudo mais", "fotos", "pandemia", "tatuagem"]
 ---

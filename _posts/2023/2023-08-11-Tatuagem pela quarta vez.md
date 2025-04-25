@@ -1,6 +1,9 @@
 ---
 layout: post
+type: album
 title: "Tatuagem pela quarta vez"
+image: /assets/fotos/2023/08/20230811_181841.jpg
+caption: "oh, no... Not again"
 date: 2023-08-11
 tags: ["a vida, o universo e tudo mais", "fotos", "livros", "tatuagem"]
 ---

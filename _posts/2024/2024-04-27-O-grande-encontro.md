@@ -1,6 +1,9 @@
 ---
 layout: post
+type: album
 title: "O Grande Encontro"
+image: /assets/fotos/2024/04/20240428_003520.jpg
+caption: "Grandessíssimo Encontro"
 date: 2024-04-28 21:00:00 -0300
 tags: ["a vida, o universo e tudo mais", "fotos", "shows"]
 ---

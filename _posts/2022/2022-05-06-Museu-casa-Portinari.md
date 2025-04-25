@@ -1,7 +1,9 @@
 ---
 layout: post
-type: foto
+type: album
 title: "Museu Casa de Portinari"
+image: /assets/fotos/2022/05/20220423_093729.jpg
+caption: "Fachada Museu Casa de Portinari, 23/04/2022"
 date: 2022-05-06
 tags: ["a vida, o universo e tudo mais", "fotos", "museus", "pandemia", "passeios"]
 ---

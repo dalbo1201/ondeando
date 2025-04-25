@@ -3,7 +3,7 @@ layout: post
 type: texto
 title: "Minha referênciade jovem"
 date: 2023-10-15
-tags: ["aniversario"]
+tags: ["aniversário"]
 ---
 Meu irmão mais novo fez 30 anos, ele é minha referência de jovem.  
 

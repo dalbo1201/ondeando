@@ -3,7 +3,7 @@ layout: post
 type: texto
 title: "Festa da Achiropita"
 date: 2023-09-03
-tags: ["a vida, o universo e tudo mais","passios"]
+tags: ["a vida, o universo e tudo mais","passeios"]
 ---
 Fomos na festa da Achiropita, lá no Bexiga.  
 

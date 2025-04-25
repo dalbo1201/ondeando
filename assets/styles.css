@@ -389,8 +389,90 @@ table.tabela-posts td {
  }
  /* fim do Tipos de posts */
 
+
+
+/* COMEÇO DO MEU FOTOLOG */
+/* Credit goes to Sylvia and Robert, I just tinkered with it. Also thanks to Jedda for the initial inspiration.*/
+/* Gallery styles */
+.gallery ul.embedded.blog-posts {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 1em;
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.gallery ul.embedded.blog-posts > li {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  padding: 0;
+  margin: 0;
+  height: 100%;
+}
+
+.gallery ul.embedded.blog-posts > li a {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  height: 100%;
+  text-decoration: none;
+  color: inherit;
+}
+
+.gallery .post-date {
+  font-size: 0.8em;
+  padding: 0.25em 0;
+  color: #ccc;
+  display: flex;
+  justify-content: flex-start;
+  align-items: flex-start;
+  margin-bottom: 0.5em;
+}
+
+.image-wrapper {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+}
+
+.image-wrapper img {
+  width: 100%;
+  height: auto;
+  object-fit: contain;
+  display: block;
+}
+
+.caption {
+  font-style: italic;
+  font-size: 0.9em;
+  text-align: left;
+  padding: 0.4em 0;
+  margin: 0;
+
+}
+
+/* Ajustando a altura das colunas para garantir alinhamento das legendas */
+.gallery ul.embedded.blog-posts > li {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+.image-wrapper {
+  flex-grow: 1;
+}
+
+.caption {
+  margin-top: 10px;
+}
+
+
+/* FINAL DO MEU FOTOLOG */
+
 /* Ajustes para telas menores */
-@media only screen and (max-width: 512px) {
+@media only screen and (max-width: 768px) {
   header {
     flex-direction: column;
     align-items: flex-start;
@@ -435,4 +517,7 @@ nav a {
   width: 55%; /* Mantém flutuante, mas mais estreita */
 }
 
+  .gallery ul.embedded.blog-posts {
+    grid-template-columns: 1fr;
+  }
 }

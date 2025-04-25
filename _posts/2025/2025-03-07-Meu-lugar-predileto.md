@@ -1,6 +1,9 @@
 ---
 layout: post
+type: album
 title: "Meu lugar predileto"
+image: /assets/fotos/2025/03/20250228_064939~2.jpg
+caption: "Tá aí meu lugar favorito em casa"
 date: 2025-03-07 12:00:00 -0300
 tags: ["a vida, o universo e tudo mais", "fotos"]
 ---

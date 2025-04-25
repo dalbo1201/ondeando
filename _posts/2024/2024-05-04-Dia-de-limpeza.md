@@ -1,7 +1,9 @@
 ---
 layout: post
-type: foto
+type: album
 title: "Dia de limpeza"
+image: /assets/fotos/2024/05/IMG_20240504_183344.jpg
+caption: "Tá rolando a transformação"
 date: 2024-05-04 20:00:00 -0300
 tags: ["a vida, o universo e tudo mais", "fotos"]
 ---
