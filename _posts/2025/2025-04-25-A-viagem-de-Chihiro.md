@@ -8,7 +8,7 @@ tags: ["filmes"]
 <img src="{{ site.baseurl }}/assets/fotos/2025/04/Chihiro-e-Sem-Face-no-trem.jpg" alt="Cena do filme A Viagem de Chihiro no qual a protagonista e o 'fantasma' Sem-Face, junto ao bebê de Yubaba, transformado em ratinho, estão sentados no trem um ao lado do outro diante da paisagem através da janela a caminho da irmã de Yubaba para tentar salvar Haku" title="Chiciro e Sem-Face">
 <figcaption>Não se esqueça de descer na sexta estação</figcaption>
 </figure>
-Na nossa saga em vermosa os filmes do Studio Ghibli, um dia desses, assistimos à *Viagem de Chihiro* na nossa campanha de maratona do Studio Ghibli.  
+Dia desses assistimos à *Viagem de Chihiro* na nossa campanha de maratona do Studio Ghibli.  
 
 Esse foi nosso quarto filme e por enquanto o mais atual. É curioso ver como esse longa - e aqui tem a questão mais literal, pois os outros não chegavam a 2h e esse vem com essa vontade - tem uma pegada não de horror, mas de uma urgência e de um risco real para nossa protagonista.  
 
