@@ -6,6 +6,7 @@ image: /assets/fotos/2023/01/20230101_044204.jpg
 caption: "Nós em Vila Velha"
 date: 2023-01-01
 tags: ["a vida, o universo e tudo mais", "fotos", "pandemia"]
+album: true
 ---
 <figure class="foto-post">
     <img src="{{ site.baseurl }}/assets/fotos/2023/01/20230101_044204.jpg" alt="Foto de 3 pares de pés na areia da praia com o mar ao fundo" title="Virada de ano na praia, que saudade">

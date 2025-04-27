@@ -1,11 +1,11 @@
 ---
 layout: post
-type: album
 title: "Tatuagem pela quarta vez"
 image: /assets/fotos/2023/08/20230811_181841.jpg
 caption: "oh, no... Not again"
 date: 2023-08-11
 tags: ["a vida, o universo e tudo mais", "fotos", "livros", "tatuagem"]
+album: true
 ---
 <figure class="foto-post">
       <img src="{{ site.baseurl }}/assets/fotos/2023/08/20230811_181841.jpg" alt="foto do meu antebraço esquerdo, com uma tatuagem de limhas pretas, sem preenchimento de uma vaso de petunia caindo" title="lá vanos nos de novo">
