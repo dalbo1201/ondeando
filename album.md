@@ -2,11 +2,11 @@
 layout: album
 title: Album
 ---
-{% assign galeria_posts = site.posts | where: "type", "album" %}
+{% assign album_posts = site.posts | where: "album", true %}
 
 <section class="gallery">
   <ul class="embedded blog-posts">
-    {% for post in galeria_posts %}
+    {% for post in album_posts %}
       <li>
         <a href="{{ post.url }}">
           <div class="post-date">

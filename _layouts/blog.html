@@ -7,8 +7,8 @@
     {{ content }}
    
   {% for post in paginator.posts %}
-  {% unless post.type == "album" %}
-    <article class="blog-article {% if post.type == 'foto' %}blog-foto{% elsif post.type == 'notas' %}blog-notas{% endif %}">
+
+    <article class="blog-article {% if post.type == 'album' %}blog-foto{% elsif post.type == 'notas' %}blog-notas{% endif %}">
     <p class="blog-data">
       <a href="{{ post.url | relative_url }}" class="linkdata"> {{ post.date | date: "%d/%m/%Y" }}</a>
     </p>
@@ -20,7 +20,6 @@
     </div>
     <p class="blog-seta"><a href="{{ post.url | relative_url }}" class="linkdata">+</a></p>
   </article>
-  {% endunless %}
 {% endfor %}
 
 </main>

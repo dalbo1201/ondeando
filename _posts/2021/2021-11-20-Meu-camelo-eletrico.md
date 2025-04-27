@@ -6,6 +6,7 @@ image: /assets/fotos/2021/11/20211120_141023.jpg
 caption: "Meu camelo elétrico"
 date: 2021-11-20
 tags: ["a vida, o universo e tudo mais", "pandemia"]
+album: true
 ---
 <figure class="foto-post">
             <img src="{{ site.baseurl }}/assets/fotos/2021/11/20211120_141023.jpg" alt="Foto da bicicleta eletrica preta no parque" title="Meu camelo elétrico">
