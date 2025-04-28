@@ -6,7 +6,7 @@ body {
   background: #252525;
   color: #ffffff;
   font-size: 17px;
-  line-height: 22px;
+  line-height: 23px;
   font-family: 'Montserrat', 'Verdana', 'sans-serif'; /* Fonte padrão */
   height: 100vh;
   display: flex;
@@ -102,7 +102,7 @@ h1 { /* cabeçalho de saudação */
   font-weight: normal;
 }
 
-.texto-geral .estou-fazendo {
+.texto-geral {
   max-width: 100%;
   text-align: left;
   overflow-wrap: break-word;
@@ -110,7 +110,7 @@ h1 { /* cabeçalho de saudação */
 
 .estou-fazendo ul {
   font-size: 16px;
-  line-height: 20px;
+  line-height: 23px;
   max-width: 100%;
   text-align: left;
   overflow-wrap: break-word;
