@@ -68,6 +68,10 @@ GEM
       ffi (~> 1.9)
     terminal-table (2.0.0)
       unicode-display_width (~> 1.1, >= 1.1.1)
+    tzinfo (2.0.6)
+      concurrent-ruby (~> 1.0)
+    tzinfo-data (1.2025.2)
+      tzinfo (>= 1.0.0)
     unicode-display_width (1.8.0)
     webrick (1.9.1)
 
@@ -80,6 +84,8 @@ DEPENDENCIES
   jekyll-feed
   jekyll-paginate-v2
   logger
+  tzinfo
+  tzinfo-data
 
 BUNDLED WITH
    2.6.3

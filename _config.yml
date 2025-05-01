@@ -24,6 +24,8 @@ defaults:
     values:
       permalink: /blog/tags/:slug/
 
+timezone: America/Sao_Paulo
+
 exclude:
 - README.md
 - LICENSE.md
