@@ -10,7 +10,7 @@
     </nav>
   </header>
 
-    {% elsif page.layout == 'profissional'%}
+{% elsif page.layout == 'profissional'% or page.layout == 'erro' %}
 
   <header>
     <div class="top-header">
@@ -21,8 +21,7 @@
     </nav>
   </header>
 
-
-  {% elsif page.layout == 'blog' or page.layout == 'post' or page.layout == 'tags' or page.layout == 'agora' or page.layout == 'album' or page.layout == 'foto' %}
+{% else %}  
 
   <header>
     <div class="top-header">
@@ -33,4 +32,4 @@
       <a href="{{ site.url }}/blog" title="se eu disser, será aqui">Blog</a> &nbsp;|<a href="{{ site.url }}/agora" title="o que estou fazendo">Agora</a>&nbsp;|<a href="{{ site.url }}/album" title="meu fotolog">Álbum</a>&nbsp;|<a href="{{ site.baseurl }}/feed.xml"><img src="{{ site.url }}//assets/rss.svg" alt="RSS" width="22" height="22"></a>
     </nav>
   </header>
-  {% endif %}
+{% endif %}

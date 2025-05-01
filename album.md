@@ -1,7 +1,8 @@
 ---
-layout: album
+layout: blog-pages
 title: Album
 ---
+<h1><span aria-hidden="true">|</span><span class="h1-menor">meu </span>Álbum<span class="h1-menor"> de fotos</span></h1>
 {% assign album_posts = site.posts | where: "album", true %}
 
 <section class="gallery">

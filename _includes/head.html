@@ -14,9 +14,17 @@
   <meta name="wot-verification" content="7dba8efed6a71e98b8b9">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   {% feed_meta %}
-  {% if page.layout == 'default' or page.layout == 'profissional' %}<meta name="robots" content="index,follow">{% else %}<meta name="robots" content="noindex,follow">{% endif %}
+  {% if page.layout == 'default' or page.layout == 'profissional' %}<meta name="robots" content="index,follow">
+  {% else %}<meta name="robots" content="noindex,follow">
+  {% endif %}
 
-  {% if page.layout == 'default'%}<title>Pedro Dal Bó</title>{% elsif page.layout == 'blog'%}<title>Blog | Pedro Dal Bó</title>{% elsif page.layout == 'post'%}<title>{{ page.title }} | Blog</title>{% elsif page.layout == 'agora'%}<title>Agora | Pedro Dal Bó</title>{% elsif page.layout == 'profissional'%}<title>Profissional | Pedro Dal Bó</title>{% endif %}
+  {% if page.layout == 'default'%}<title>Pedro Dal Bó</title>
+  {% elsif page.layout == 'blog'%}<title>Blog | Pedro Dal Bó</title>
+  {% elsif page.layout == 'post'%}<title>{{ page.title }} | Blog</title>
+  {% elsif page.layout == 'agora'%}<title>Agora | Pedro Dal Bó</title>
+  {% elsif page.layout == 'profissional'%}<title>Profissional | Pedro Dal Bó</title>
+  {% elsif page.layout == 'erro'%}<title>Erro | Pedro Dal Bó</title>
+  {% endif %}
 
   <!-- Links -->
   <link rel="alternate" href="https://dalbo.me/" hreflang="pt-br">

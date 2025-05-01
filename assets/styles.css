@@ -164,6 +164,21 @@ figcaption {
   width: 100%; /* Garante que a legenda ocupe toda a largura do contêiner */
 }
 
+.image-erro {
+  float: right;
+  max-width: 30%;
+}
+
+.image-erro img {
+  width: 100%;
+  height: auto;
+  border-radius: 50%;
+
+  display: block; 
+  z-index: 9999; 
+  pointer-events: none;
+}
+
 /* Imagens em posts */
 .foto-post {
   display: flex;
@@ -197,6 +212,7 @@ figcaption {
   height: auto;
   display: block;
 }
+
 
 /* Estilos para o Blog */
 .blog-article{
@@ -519,5 +535,8 @@ nav a {
 
   .gallery ul.embedded.blog-posts {
     grid-template-columns: 1fr;
+  }
+  .image-erro {
+    max-width: 50%; /* <-- Aqui você ajusta o tamanho da imagem em telas pequenas */
   }
 }
