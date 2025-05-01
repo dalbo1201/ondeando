@@ -216,15 +216,14 @@ figcaption {
 
 /* Estilos para o Blog */
 .blog-article{
-  margin-top: 30px;
-  width: 100%; /* Garante que a legenda ocupe toda a largura do contêiner */
+  width: 100%; /* Garante que ocupe toda a largura do contêiner */
 }
 
 .blog-title {
   font-size: 27px;
   font-weight: normal;
   line-height: 35px;
-  margin-top: 0px; /* Remove a margem superior */
+  margin-top: 0px;
   margin-bottom: 0px;
 }
 
