@@ -1,13 +1,35 @@
-{% if page.layout == 'default' or page.layout == 'profissional' % or page.layout == 'erro' %}
+{% if page.layout == 'default' or page.layout == 'profissional' or page.layout == 'erro' %}
 
 <footer>
-	<a href="https://creativecommons.org/licenses/by-nc-sa/4.0/deed.pt-br" >CC BY-NC-SA 4.0</a> &nbsp;|&nbsp;2006–2025
-   </footer>
+  <div class="footer-right">
+    <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/deed.pt-br">CC BY-NC-SA 4.0</a> &nbsp;|&nbsp; 2006–2025
+  </div>
+</footer>
+
+{% elsif page.layout == 'agora'% %}
+
+<footer>
+	<div class="footer-right">
+	  <a rel="alternate" type="application/rss+xml" href="{{ site.baseurl }}/feed.xml">FEED</a> &nbsp;|
+	  <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/deed.pt-br">CC BY-NC-SA 4.0</a> &nbsp;|&nbsp;
+	  2006–2025
+	</div>
+  </footer>
 
 {% else %}
 
 <footer>
-	<a rel="alternate" type="application/rss+xml" href="{{ site.baseurl }}/feed.xml">FEED</a> &nbsp;|&nbsp; <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/deed.pt-br">CC BY-NC-SA 4.0</a> &nbsp;|&nbsp;2006–2025
+  <aside class="footer-left">
+    <a href="https://lerama.pcdomanual.com">
+      <img src="https://pcdomanual.com/assets/lerama88x31.gif" alt="Lerama" width="81" height="33">
+    </a>
+  </aside>
+  <div class="footer-right">
+    <a rel="alternate" type="application/rss+xml" href="{{ site.baseurl }}/feed.xml">FEED</a> &nbsp;|
+    <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/deed.pt-br">CC BY-NC-SA 4.0</a> &nbsp;|&nbsp;
+    2006–2025
+  </div>
 </footer>
 
 {% endif %}
+
