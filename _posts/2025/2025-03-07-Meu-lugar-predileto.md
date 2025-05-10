@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: foto
 type: album
 title: "Meu lugar predileto"
 image: /assets/fotos/2025/03/20250228_064939~2.jpg

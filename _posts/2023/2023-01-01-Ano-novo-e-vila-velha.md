@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: foto
 type: album
 title: "Ano novo e Vila Velha"
 image: /assets/fotos/2023/01/20230101_044204.jpg

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: foto
 type: album
 title: "Ney Matogrosso e Santa Teresa"
 image: /assets/fotos/2023/12/20231210_130924.jpg

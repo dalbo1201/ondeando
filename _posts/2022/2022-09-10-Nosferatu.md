@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: foto
 type: album
 title: "Nosferatu"
 image: /assets/fotos/2022/09/20220904_164230.jpg

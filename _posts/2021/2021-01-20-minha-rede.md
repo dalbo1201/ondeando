@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: foto
 type: album
 title: "Minha rede"
 image: /assets/fotos/2021/01/20210120_194934.jpg

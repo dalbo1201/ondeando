@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: foto
 title: "Minha primeira tatoo"
 image: /assets/fotos/2022/01/20220125_113641.jpg
 caption: "Minha primeira tatoo"

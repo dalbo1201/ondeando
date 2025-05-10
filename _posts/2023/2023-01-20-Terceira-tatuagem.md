@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: foto
 title: "Terceira Tatuagem"
 image: /assets/fotos/2023/01/20230120_224839.jpg
 caption: "Folhas de café"

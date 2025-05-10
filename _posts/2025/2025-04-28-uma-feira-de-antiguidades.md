@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: foto
 type: album
 title: "Uma feira de Antiguidades"
 image: /assets/fotos/2025/04/20250427_124049.jpg

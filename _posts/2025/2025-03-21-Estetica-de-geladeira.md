@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: foto
 title: "Estética de geladeira"
 image: /assets/fotos/2025/03/20250307_235112.jpg
 caption: "Estética de Geladeira"
