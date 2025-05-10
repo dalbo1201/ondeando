@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: foto
 type: album
 title: "Dia de limpeza"
 image: /assets/fotos/2024/05/IMG_20240504_183344.jpg

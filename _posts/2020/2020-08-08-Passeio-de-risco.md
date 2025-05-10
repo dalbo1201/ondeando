@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: foto
 type: album
 title: "Passeio de risco"
 image: /assets/fotos/2020/08/20200808_120403.jpg

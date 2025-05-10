@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: foto
 type: album
 title: "Alegria de gente grande"
 image: /assets/fotos/2024/11/20241124_152859.jpg

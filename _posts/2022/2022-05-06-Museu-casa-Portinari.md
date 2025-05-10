@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: foto
 type: album
 title: "Museu Casa de Portinari"
 image: /assets/fotos/2022/05/20220423_093729.jpg

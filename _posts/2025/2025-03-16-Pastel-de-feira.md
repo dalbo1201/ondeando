@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: foto
 type: album
 title: "Pastel de feira"
 image: /assets/fotos/2025/03/20250316_120505.jpg

@@ -312,6 +312,7 @@ blockquote {
 .blog-comentario {
   font-size: 15px;
   line-height: 20px;
+  text-wrap: balance;
   max-width: 100%;
   text-align: right;
   margin-top: 40px;
@@ -326,6 +327,8 @@ blockquote {
   margin-top:10px;
   align-self: flex-end;
 }
+
+
 
 /* Navegação de Paginação */
 .pagination-container {
@@ -350,6 +353,9 @@ blockquote {
 .pagination-container .nav-topo {
   margin: auto; /* Centraliza  link "Topo" */
 }
+/* Navegação de Paginação */
+
+
 
 /* Para Tags */
 .blog-tag {/* estilo de tag */
@@ -410,6 +416,9 @@ table.tabela-posts td {
   width: 100%;
 }
 /* fim do estilo para lista de posts por tag em tabela */
+/* Para Tags */
+
+
 
 /* Tipos de posts */
  article.blog-article.blog-foto .blog-title,

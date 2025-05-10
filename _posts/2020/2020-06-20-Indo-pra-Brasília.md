@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: foto
 type: album
 title: "Indo pra Brasília"
 image: /assets/fotos/2020/06/20200620_202524.jpg

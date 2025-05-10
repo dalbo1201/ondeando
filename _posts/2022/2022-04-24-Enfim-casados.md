@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: foto
 type: album
 title: "Enfim casados"
 image: /assets/fotos/2022/04/IMG-20220503-WA0035.jpg

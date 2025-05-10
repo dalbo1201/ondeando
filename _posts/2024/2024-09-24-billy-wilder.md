@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: foto
 type: album
 title: "Billy Wilder"
 image: /assets/fotos/2024/09/20240924_123644.jpg

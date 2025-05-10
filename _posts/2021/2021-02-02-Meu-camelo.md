@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: foto
 type: album
 title: "Meu Camelo"
 image: /assets/fotos/2021/02/20210206_174152.jpg

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: foto
 type: album
 title: "Brasilia é realmente linda"
 image: /assets/fotos/2021/09/20210518_180041.jpg

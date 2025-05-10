@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: foto
 title: "Quinta tatuagem"
 image: /assets/fotos/2023/08/20230826_134023.jpg
 caption: "Que a forca esteja com você,  jovem gafanhoto"

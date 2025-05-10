@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: foto
 type: album
 title: "Meu camelo elétrico"
 image: /assets/fotos/2021/11/20211120_141023.jpg

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: foto
 type: album
 title: "Fui à Beagá"
 image: /assets/fotos/2022/08/IMG_20220731_123707.jpg

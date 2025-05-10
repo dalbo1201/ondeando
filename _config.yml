@@ -34,7 +34,7 @@ defaults:
       path: "tags"
       type: pages
     values:
-      permalink: /blog/tags/:slug/
+      permalink: /tags/:slug/
 
 exclude:
   - README.md

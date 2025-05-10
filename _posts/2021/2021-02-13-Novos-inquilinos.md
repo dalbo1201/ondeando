@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: foto
 type: album
 title: "Novos inquilinos"
 image: /assets/fotos/2021/02/20210213_102308.jpg

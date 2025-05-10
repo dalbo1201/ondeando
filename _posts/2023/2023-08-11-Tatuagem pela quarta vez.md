@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: foto
 title: "Tatuagem pela quarta vez"
 image: /assets/fotos/2023/08/20230811_181841.jpg
 caption: "oh, no... Not again"

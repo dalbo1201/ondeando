@@ -4,23 +4,26 @@
 
 <main>
 
-    {{ content }}
-   
-  {% for post in paginator.posts %}
+  {{ content }}
 
+  {% assign all_posts = site.posts | where_exp: "post", "post.album != true" %}
+  {% assign offset = paginator.page | minus: 1 | times: paginator.per_page %}
+  {% assign posts_to_show = all_posts | slice: offset, paginator.per_page %}
+
+  {% for post in posts_to_show %}
     <article class="blog-article {% if post.type == 'album' %}blog-foto{% elsif post.type == 'notas' %}blog-notas{% endif %}">
-    <p class="blog-data">
-      <a href="{{ post.url | relative_url }}" class="linkdata"> {{ post.date | date: "%d/%m/%Y" }}</a>
-    </p>
-    <h2 class="blog-title">
-    <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
-    </h2>
-    <div class="blog-post">
-      {{ post.content | markdownify }}
-    </div>
-    <p class="blog-seta"><a href="{{ post.url | relative_url }}" class="linkdata">+</a></p>
-  </article>
-{% endfor %}
+      <p class="blog-data">
+        <a href="{{ post.url | relative_url }}" class="linkdata"> {{ post.date | date: "%d/%m/%Y" }}</a>
+      </p>
+      <h2 class="blog-title">
+        <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+      </h2>
+      <div class="blog-post">
+        {{ post.content | markdownify }}
+      </div>
+      <p class="blog-seta"><a href="{{ post.url | relative_url }}" class="linkdata">+</a></p>
+    </article>
+  {% endfor %}
 
 </main>
 
