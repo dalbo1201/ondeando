@@ -17,7 +17,7 @@ pagination:
   collection: posts
   per_page: 7
   title: ':title - página :num'
-  permalink: /blog/page/:num/
+  permalink: /page/:num/
   sort_field: 'date'
   sort_reverse: true
   trail:

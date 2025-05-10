@@ -231,6 +231,7 @@ figcaption {
 /* Estilos para o Blog */
 .blog-article{
   width: 100%; /* Garante que ocupe toda a largura do contêiner */
+  margin-bottom: 25px;
 }
 
 .blog-title {
