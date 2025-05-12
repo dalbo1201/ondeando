@@ -1,5 +1,6 @@
 html {
   scroll-behavior: smooth; /* Para rolagem suave */
+  min-height: 100vh;
 }
 
 body {
@@ -7,14 +8,11 @@ body {
   color: #ffffff;
   font-size: 17px;
   line-height: 23px;
-  font-family: 'Montserrat', 'Verdana', 'sans-serif'; /* Fonte padrão */
-  height: 100vh;
+  font-family: 'Montserrat', 'Verdana', 'sans-serif';
   display: flex;
   flex-direction: column;
-  justify-content: space-between;
   margin: 0;
-  padding: 0px 10px 0px 10px;
-  overflow-x: hidden; /* Remove a barra de rolagem horizontal */
+  padding: 0px 10px;
 }
 
 header {
@@ -37,20 +35,11 @@ main {
   margin-top: 40px;
   margin-bottom: 60px;
   display: flex;
-  flex-direction: column; /* Alinha elementos verticalmente */
+  flex-direction: column;
   justify-content: flex-start;
-  align-items: flex-start; /* Alinha os itens à esquerda */
-  flex-grow: 1;
+  align-items: flex-start;
+  flex-grow: 1; /* <- Isso faz o main "ocupar o espaço que sobrar" */
   width: 100%;
-  border: none; /* Remove a borda */
-}
-
-nav {
-  margin-left: auto;
-  font-size: 16px;
-  font-weight: bold;
-  display: flex;
-  align-items: center; /* Garante o alinhamento vertical dos itens */
 }
 
 footer {
@@ -78,6 +67,85 @@ footer {
 .footer-right a {
   margin-left: 5px;
 }
+
+nav {
+  margin-left: auto;
+  font-size: 16px;
+  font-weight: bold;
+  display: flex;
+  align-items: center; /* Garante o alinhamento vertical dos itens */
+}
+
+
+/* INÍCIO DO MENU SUSPENSO */
+.nav-personalizado {
+  display: flex;
+  gap: 1em;
+  align-items: center;
+}
+
+.menu-suspenso {
+  position: relative;
+  display: inline-block;
+}
+
+/* Abre submenu ao focar */
+.menu-suspenso:focus-within .submenu {
+  display: block;
+}
+
+.botao-menu {
+  cursor: pointer;
+  color: #F1C6E8;
+  text-decoration: underline;
+  font-weight: bold;
+  display: inline-flex;
+  align-items: center;
+  gap: 0.25em;
+}
+
+/* Triângulo vazado */
+.seta {
+  width: 0;
+  height: 0;
+  border-left: 4px solid transparent;
+  border-right: 4px solid transparent;
+  border-top: 6px solid #F1C6E8;
+  transition: transform 0.2s ease;
+}
+
+/* Roda a seta quando o submenu abre */
+.menu-suspenso:focus-within .seta {
+  transform: rotate(180deg);
+}
+
+/* Caixa do submenu ancorada pela direita */
+.submenu {
+  display: none;
+  position: absolute;
+  right: 0;
+  top: 100%;
+  background: #252525;
+  list-style: none;
+  margin: 0;
+  padding: 0.5em 0;
+  z-index: 10;
+  text-align: right; /* Alinha o texto dos itens à direita */
+  min-width: 100%;   /* Garante largura mínima igual ao botão */
+}
+
+/* Links do submenu */
+.submenu a {
+  color: #F1C6E8;
+  text-decoration: underline;
+  font-weight: bold;
+  display: block;
+  padding: 5px 0;
+  text-align: right;
+}
+
+/* FIM DO MENU SUSPENSO */
+
 
 .container {
   max-width: 790px;
