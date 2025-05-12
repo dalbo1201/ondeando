@@ -89,11 +89,12 @@ nav {
   display: inline-block;
 }
 
-/* Abre submenu ao focar */
+/* Abre submenu ao focar no container */
 .menu-suspenso:focus-within .submenu {
-  display: block;
+  display: flex;
 }
 
+/* Botão com texto e seta */
 .botao-menu {
   cursor: pointer;
   color: #F1C6E8;
@@ -104,7 +105,7 @@ nav {
   gap: 0.25em;
 }
 
-/* Triângulo vazado */
+/* Triângulo vazado (ponta pra baixo) */
 .seta {
   width: 0;
   height: 0;
@@ -114,12 +115,12 @@ nav {
   transition: transform 0.2s ease;
 }
 
-/* Roda a seta quando o submenu abre */
+/* Gira a seta ao abrir submenu */
 .menu-suspenso:focus-within .seta {
   transform: rotate(180deg);
 }
 
-/* Caixa do submenu ancorada pela direita */
+/* Submenu horizontal, ancorado à direita */
 .submenu {
   display: none;
   position: absolute;
@@ -128,22 +129,25 @@ nav {
   background: #252525;
   list-style: none;
   margin: 0;
-  padding: 0.5em 0;
+  padding: 0.5em;
   z-index: 10;
-  text-align: right; /* Alinha o texto dos itens à direita */
-  min-width: 100%;   /* Garante largura mínima igual ao botão */
+  flex-direction: row;  /* Horizontal */
+  border-radius: 0.25em;
+  min-width: max-content;
 }
 
-/* Links do submenu */
+/* Itens do submenu */
+.submenu li {
+  margin: 0 0.1em;
+}
+
+/* Links */
 .submenu a {
   color: #F1C6E8;
   text-decoration: underline;
   font-weight: bold;
-  display: block;
-  padding: 5px 0;
-  text-align: right;
+  white-space: nowrap;
 }
-
 /* FIM DO MENU SUSPENSO */
 
 
