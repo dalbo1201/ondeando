@@ -1,16 +1,26 @@
 {% if page.layout == 'default'%}
 
- <header>
+<header>
     <div class="top-header">
       <a href="{{ site.url }}/" class="linkcab"><img src="{{ site.url }}//assets/foto-pedro-100px.jpg" alt="Foto de Pedro" title="sou eu" class="photocab"></a>
       <div class="namecab">Pedro Dal Bó</div>
     </div>
-    <nav>
-      <a href="{{ site.url }}/blog" title="se eu disser, será aqui">Blog</a> &nbsp;|
-      <a href="{{ site.url }}/fotolog" title="meu fotolog">Fotolog</a>&nbsp;|
-      <a href="{{ site.url }}/agora" title="o que estou fazendo">Agora</a>
-    </nav>
-  </header>
+ <nav class="nav-personalizado">
+  <div class="menu-suspenso" tabindex="0">
+    <span class="botao-menu">
+      Pessoal <span class="seta"></span>
+    </span>
+    <ul class="submenu">
+      <li><a href="{{ site.url }}/blog" title="se eu disser, será aqui">Blog</a></li>
+      <li>|</li>
+      <li><a href="{{ site.url }}/fotolog" title="meu fotolog">Fotolog</a></li>
+      <li>|</li>
+      <li><a href="{{ site.url }}/agora" title="o que estou fazendo">Agora</a></li>
+    </ul>
+  </div>
+  <a href="{{ site.url }}/profissional" title="quem é o trabalhador">Profissional</a>
+</nav>
+</header>
 
 {% elsif page.layout == 'profissional'% or page.layout == 'erro' %}
 
