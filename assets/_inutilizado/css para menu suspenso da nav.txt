@@ -1,0 +1,72 @@
+/* INÍCIO DO MENU SUSPENSO */
+.nav-personalizado {
+  display: flex;
+  gap: 1em;
+  align-items: center;
+}
+
+.menu-suspenso {
+  position: relative;
+  display: inline-block;
+}
+
+/* Abre submenu ao focar no container */
+.menu-suspenso:focus-within .submenu {
+  display: flex;
+}
+
+/* Botão com texto e seta */
+.botao-menu {
+  cursor: pointer;
+  color: #F1C6E8;
+  text-decoration: underline;
+  font-weight: bold;
+  display: inline-flex;
+  align-items: center;
+  gap: 0.25em;
+}
+
+/* Triângulo vazado (ponta pra baixo) */
+.seta {
+  width: 0;
+  height: 0;
+  border-left: 4px solid transparent;
+  border-right: 4px solid transparent;
+  border-top: 6px solid #F1C6E8;
+  transition: transform 0.2s ease;
+}
+
+/* Gira a seta ao abrir submenu */
+.menu-suspenso:focus-within .seta {
+  transform: rotate(180deg);
+}
+
+/* Submenu horizontal, ancorado à direita */
+.submenu {
+  display: none;
+  position: absolute;
+  right: 0;
+  top: 100%;
+  background: #252525;
+  list-style: none;
+  margin: 0;
+  padding: 0.5em;
+  z-index: 10;
+  flex-direction: row;  /* Horizontal */
+  border-radius: 0.25em;
+  min-width: max-content;
+}
+
+/* Itens do submenu */
+.submenu li {
+  margin: 0 0.1em;
+}
+
+/* Links */
+.submenu a {
+  color: #F1C6E8;
+  text-decoration: underline;
+  font-weight: bold;
+  white-space: nowrap;
+}
+/* FIM DO MENU SUSPENSO */
