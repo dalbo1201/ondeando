@@ -47,8 +47,7 @@ footer {
   justify-content: space-between;
   align-items: center;
   font-size: 14px;
-  padding: 0 0 30px 0;
-  margin: 40px 0 30px 0;
+  margin: 40px 0 20px 0;
   flex-wrap: wrap; /* Caso o conteúdo precise quebrar em telas pequenas */
 }
 
@@ -62,10 +61,6 @@ footer {
   align-items: center;
   gap: 5px; /* Espaço entre os links */
   margin-left: auto; /* Garante que fique à direita mesmo se não houver .footer-left */
-}
-
-.footer-right a {
-  margin-left: 5px;
 }
 
 nav {
@@ -303,7 +298,7 @@ blockquote {
   font-size: 14px;
   text-align: center;
   border: 3px solid #FFE0B8; 
-  margin: 10px 10px 10px 20px; 
+  margin: 10px 20px 10px 20px; 
   padding: 10px; 
 }
 
@@ -325,34 +320,7 @@ blockquote {
   margin-top:10px;
   align-self: flex-end;
 }
-
-
-
-/* Navegação de Paginação */
-.pagination-container {
-  display: flex;
-  justify-content: space-between; /* Garante que os itens fiquem nos extremos opostos */
-  align-items: center; /* Alinha verticalmente os itens */
-  margin-top: auto; /* Empurra a navegação para o final do main */
-  padding-top: 40px;
-  margin-bottom: 20px;
-  width: 100%;
-  flex-shrink: 0; /* Evita que a paginação encolha */
-}
-
-.pagination-container .nav-recente {
-  margin-right: auto; /* Alinha o link "Anterior" à esquerda */
-}
-
-.pagination-container .nav-anterior {
-  margin-left: auto; /* Alinha o link "Próximo" à direita */
-}
-
-.pagination-container .nav-topo {
-  margin: auto; /* Centraliza  link "Topo" */
-}
-/* Navegação de Paginação */
-
+/* Estilos para o Blog */
 
 
 /* Para Tags */
@@ -415,6 +383,30 @@ table.tabela-posts td {
 }
 /* fim do estilo para lista de posts por tag em tabela */
 /* Para Tags */
+
+/* Navegação de Paginação */
+.pagination-container {
+  display: flex;
+  justify-content: space-between; /* Garante que os itens fiquem nos extremos opostos */
+  align-items: center; /* Alinha verticalmente os itens */
+  margin-top: 10px; /* Empurra a navegação para o final do main */
+  margin-bottom: 20px;
+  width: 100%;
+  flex-shrink: 0; /* Evita que a paginação encolha */
+}
+
+.pagination-container .nav-recente {
+  margin-right: auto; /* Alinha o link "Anterior" à esquerda */
+}
+
+.pagination-container .nav-anterior {
+  margin-left: auto; /* Alinha o link "Próximo" à direita */
+}
+
+.pagination-container .nav-topo {
+  margin: auto; /* Centraliza  link "Topo" */
+}
+/* Navegação de Paginação */
 
 
 
@@ -557,10 +549,6 @@ footer {
   justify-content: center;
 }
 
-.aviso {
-  text-align: justify;
- }
-
 /* Centraliza a galeria horizontalmente em telas menores */
 .foto-post {
   justify-content: center;
@@ -573,10 +561,10 @@ footer {
   width: 55%; /* Mantém flutuante, mas mais estreita */
 }
 
-  .gallery ul.embedded.blog-posts {
+.gallery ul.embedded.blog-posts {
     grid-template-columns: 1fr;
-  }
-  .image-erro {
+}
+.image-erro {
     max-width: 50%; /* <-- Aqui você ajusta o tamanho da imagem em telas pequenas */
-  }
+}
 }
