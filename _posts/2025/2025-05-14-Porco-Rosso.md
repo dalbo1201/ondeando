@@ -8,7 +8,7 @@ tags: ["filmes"]
 <img src="{{ site.baseurl }}/assets/fotos/2025/05/Porco_Rosso-Fio-vovô.jpg" alt="Cena do filme, um escritório com três personagens ao redor de uma mesa cheia de papéis e documentos. À esquerda, Porco Rosso, usando óculos escuros, camisa branca e gravata vermelha, está sentado de forma relaxada. No centro, há vovô de boné azul e camisa listrada. À à direita, a personagem Fio está vestida com uma camisa xadrez azul e branca e um avental azul e está inclinada sobre a mesa. No fundo, há vários papéis pregados na parede e um quadro com a inscrição 'NON SI FO CREDITO'. Uma lâmpada pendurada no teto ilumina a cena." title="Fio convencendo Porco a fazer melhorias no avião">
 <figcaption>E importa porque ele é um porco?</figcaption>
 </figure>
-<aside class="aviso">Faz tempo que <a href="{{ site.baseurl }}/blog/prefiro-ser-um-porco/">vi esse filme</a>, mas acabei esquecendo de postar.</aside>
+<aside class="aviso">Faz um tempo que <a href="{{ site.baseurl }}/blog/prefiro-ser-um-porco/">vi esse filme</a>, mas acabei esquecendo de postar.</aside>
 
 Porco Rosso é um aviador amaldiçoado, um caçador de recompensas que é abatido por um ianque num momento de falha de seu motor.  
 
