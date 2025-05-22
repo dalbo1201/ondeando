@@ -11,7 +11,7 @@ tags: ["filmes"]
 <aside class="aviso">Faz um tempo que <a href="{{ site.baseurl }}/blog/a-certeza-e-inimiga-mortal/">vi esses filmes</a>, mas acabei esquecendo de postar, também.</aside>
 *Dia 24 de abril...*  
 
-Essa semana começou com a gente assistindo à Conclave, que por ironia do destino possivelmente foi o filme mais assistindo no Brasil, quiçá *no mundo* (por favor, leia com a voz do comercial da Hyundai) e se não conhece, procura no <a href="https://youtu.be/o-LVajfAMtg?si=AX2vEpvkouRR9s5d&t=27">YouTuvbe essa propaganda</a>.  
+Essa semana começou com a gente assistindo à Conclave, que por ironia do destino possivelmente foi o filme mais assistindo no Brasil, quiçá *no mundo* (por favor, leia com a voz do comercial da Hyundai e se não conhece, procura no <a href="https://youtu.be/o-LVajfAMtg?si=AX2vEpvkouRR9s5d&t=27">YouTube essa propaganda</a>).  
 
 Vendo o filme e considerando os acontecimentos do domingo (de Páscoa para os cristãos e judeus) não tinha como não lembrar do filme **Dois Papas** que conta a história da renúncia de Bento XVI e da eleição de Francisco.  
 
