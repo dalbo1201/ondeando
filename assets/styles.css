@@ -1,11 +1,29 @@
+:root {
+    --color-background: #F5F5F5;
+    --color-text: #252525;
+    --color-link: #75015c;
+    --color-link-hover: #6C4800;
+    --color-data: #000000;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+  --color-background: #252525;
+  --color-text: #F5F5F5;
+  --color-link: #F1C6E8;
+  --color-link-hover: #FFE0B8;
+  --color-data: #E6E6E6;
+  }
+}
+
 html {
   scroll-behavior: smooth; /* Para rolagem suave */
   min-height: 100vh;
 }
 
 body {
-  background: #252525;
-  color: #ffffff;
+  background: var(--color-background);
+  color: var(--color-text);
   font-size: 17px;
   line-height: 23px;
   font-family: 'Montserrat', 'Verdana', 'sans-serif';
@@ -71,6 +89,14 @@ nav {
   align-items: center; /* Garante o alinhamento vertical dos itens */
 }
 
+hr {
+  height: 2px;
+  background-color: var(--color-link);
+  color: var(--color-link);
+  width: 100%;
+  margin-top: 20px;
+}
+
 .container {
   max-width: 790px;
   width: 100%; /* Ajuste de largura */
@@ -93,7 +119,7 @@ nav {
   height: 50px;
   border-radius: 50%;
   object-fit: cover;
-  border: 1px solid #F1C6E8;
+  border: 1px solid var(--color-link);
   flex-shrink: 0; /* Evita que a imagem diminua além do tamanho mínimo */
 }
 
@@ -136,26 +162,26 @@ a:link,
 a:visited,
 a:active,
 nav a {
-  color: #F1C6E8;
+  color: var(--color-link);
 }
 
 a:hover,
 nav a:hover {
-  color: #FFE0B8;
+  color: var(--color-link-hover);
 }
 
 a.linkcab:link,
 a.linkcab:visited,
 a.linkcab:active,
 a.linkcab:hover {
-  color: #ffffff;
+  color: var(--color-text);
 }
 
 a.linkdata:link,
 a.linkdata:visited,
 a.linkdata:active,
 a.linkdata:hover {
-  color: #E6E6E6;
+  color: var(--color-data);
 }
 
 figure {
@@ -236,7 +262,7 @@ figcaption {
 
 .blog-data {
   font-size: 15px;
-  color: #E6E6E6;
+  color: var(--color-data);
   margin-bottom: 5px;
 }
 
@@ -256,7 +282,7 @@ blockquote {
 }
 
 .citacao {
-  border-left: 7px solid #F1C6E8;
+  border-left: 7px solid var(--color-link);
   padding-left: 7px;
   padding-top: 10px;
   padding-bottom: 10px;
@@ -272,7 +298,7 @@ blockquote {
   content: '\201D';
   font-family: 'Fraunces', 'Georgia'; /* Fonte para as aspas */
   font-size: 200px;
-  color: #F1C6E8;
+  color: var(--color-link);
   opacity: 0.45; /* Transparencia para as aspas */
   position: absolute;
   right: -10px;
@@ -297,7 +323,7 @@ blockquote {
 .aviso { 
   font-size: 14px;
   text-align: center;
-  border: 3px solid #FFE0B8; 
+  border: 3px solid var(--color-link-hover); 
   margin: 10px 0px 10px 0px; 
   padding: 10px; 
 }
@@ -452,7 +478,7 @@ table.tabela-posts td {
 .gallery .post-date {
   font-size: 0.8em;
   padding: 0.25em 0;
-  color: #ccc;
+  color: var(--color-data);
   display: flex;
   justify-content: flex-start;
   align-items: flex-start;
