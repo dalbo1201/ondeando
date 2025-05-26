@@ -4,10 +4,10 @@ title: O que estou fazendo
 excerpt: Uma atualizaçao quinzenal? Talvez.
 ---
 <section class="texto-geral">
-<p>Tenho pensado se há o que escrever aqui nessa página, não há nada que eu fosse contar a alguém que já não esteja em outro local. Mas vamos seguir mais um pouco com isso.</p>
-<p>Seguindo com meu trabalho na CEMOSA como engenheiro de projetos rodoviários. Faz um tempo, voltei a fazer projetos de terraplenagem, tinha um tempo que havia parado. Estou tirando o pó da memória.</p>
-<p>Estamos numa batalha para deixar nossos gatos vivendo em alguma harmonia. Parecia haver uma evolução, mas parece que resoveram retornar a embates por motivos que nunca saberemos.</p>
-<p>Seguindo com o <i>hérculeo trabalho</i> de deixar a casa do jeito que a gnete gosta e deseja. Tá aí algo que não deve acabar nunca...</p>
+<p>Tenho pensado se tenho o que escrever aqui nesta página, não há nada que eu fosse contar a alguém que já não esteja em outro local. Mas vamos seguir mais um pouco com isso.</p>
+<p>Seguindo com meu trabalho na CEMOSA como engenheiro de projetos rodoviários. Voltei a fazer projetos de terraplenagem, tinha um tempo que havia parado e agora estou tirando o pó da memória.</p>
+<p>Estamos numa batalha para deixar nossos gatos vivendo em alguma harmonia. Achamos que havia uma evolução, mas parece que resoveram retornar a embates por motivos que nunca saberemos.</p>
+<p>Seguindo com o <i>hérculeo trabalho</i> de deixar a casa do jeito que a gente gosta e deseja. Tá aí algo que não deve acabar nunca...</p>
 </section>
 <section class="estou-fazendo">Estou lendo:
 <ul>
