@@ -3,7 +3,7 @@ layout: foto
 type: album
 title: "Ano novo e Vila Velha"
 image: /assets/fotos/2023/01/20230101_044204.jpg
-caption: "Nós em Vila Velha"
+caption: "Nós em Vila Velha [...]"
 date: 2023-01-01
 tags: ["a vida, o universo e tudo mais", "fotos", "pandemia"]
 album: true
