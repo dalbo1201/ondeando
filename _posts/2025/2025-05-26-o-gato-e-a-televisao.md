@@ -2,7 +2,7 @@
 layout: foto
 title: " O gato e a televisão"
 image: /assets/fotos/2025/05/20250516_200056.jpg
-caption: "A curiosa mania dos gatos ficarem na frente da televisão"
+caption: "A curiosa mania dos gatos ficarem na frente da televisão [...]"
 date: 2025-05-26 12:57:00 -0300
 tags: ["a vida, o universo e tudo mais", "fotos", "gatos"]
 permalink: "/fotolog/o-gato-e-a-televisao"
