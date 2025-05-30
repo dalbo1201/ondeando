@@ -2,7 +2,7 @@
 layout: foto
 title: "Quinta tatuagem"
 image: /assets/fotos/2023/08/20230826_134023.jpg
-caption: "Que a forca esteja com você,  jovem gafanhoto"
+caption: "Que a forca esteja com você,  jovem gafanhoto [...]"
 date: 2023-08-26
 tags: ["a vida, o universo e tudo mais","fotos", "tatuagem"]
 album: true
