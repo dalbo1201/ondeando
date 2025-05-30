@@ -143,12 +143,12 @@
   url: "/blog/39-ta-ai/"
   date: 2024-01-12 00:00:00.000000000 -03:00
   image: "/assets/fotos/2024/01/20240112_153801.jpg"
-  caption: Café de presente é uma ótima ideia
+  caption: Café de presente é uma ótima ideia [...]
 - title: O Grande Encontro
   url: "/blog/o-grande-encontro/"
   date: 2024-04-28 21:00:00.000000000 -03:00
   image: "/assets/fotos/2024/04/20240428_003520.jpg"
-  caption: Grandessíssimo Encontro
+  caption: Grandessíssimo Encontro [...]
 - title: Merida
   url: "/blog/merida/"
   date: 2024-05-02 00:00:00.000000000 -03:00
@@ -183,7 +183,7 @@
   url: "/blog/meu-lugar-predileto/"
   date: 2025-03-07 12:00:00.000000000 -03:00
   image: "/assets/fotos/2025/03/20250228_064939~2.jpg"
-  caption: Tá aí meu lugar favorito em casa
+  caption: Tá aí meu lugar favorito em casa [...]
 - title: Pastel de feira
   url: "/blog/pastel-de-feira/"
   date: 2025-03-16 00:00:00.000000000 -03:00
@@ -193,7 +193,7 @@
   url: "/blog/estetica-de-geladeira/"
   date: 2025-03-21 21:40:00.000000000 -03:00
   image: "/assets/fotos/2025/03/20250307_235112.jpg"
-  caption: Estética de Geladeira
+  caption: Estética de Geladeira [...]
 - title: Uma feira de Antiguidades
   url: "/blog/uma-feira-de-antiguidades/"
   date: 2025-04-28 13:40:00.000000000 -03:00
@@ -203,9 +203,19 @@
   url: "/blog/x-trek/"
   date: 2025-05-03 12:57:00.000000000 -03:00
   image: "/assets/fotos/2025/05/20241107_180747.jpg"
-  caption: Um item de raro conhecimento
+  caption: Um item de raro conhecimento [...]
 - title: Olhando pela janela
   url: "/fotolog/olhando-pela-janela"
   date: 2025-05-15 19:50:00.000000000 -03:00
   image: "/assets/fotos/2025/05/20250503_141302.jpg"
   caption: Woody olhando pela janela
+- title: " O gato e a televisão"
+  url: "/fotolog/o-gato-e-a-televisao"
+  date: &1 2025-05-26 12:57:00.000000000 -03:00
+  image: "/assets/fotos/2025/05/20250516_200056.jpg"
+  caption: A curiosa mania dos gatos ficarem na frente da televisão [...]
+- title: " Estreias e retornos no MorumBIS"
+  url: "/fotolog/estreias-e-retornos-no-morumbis"
+  date: *1
+  image: "/assets/fotos/2025/05/20250527_184257.jpg"
+  caption: Retornos e estréia [...]
