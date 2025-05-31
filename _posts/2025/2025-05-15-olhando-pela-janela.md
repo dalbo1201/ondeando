@@ -4,7 +4,7 @@ title: "Olhando pela janela"
 image: /assets/fotos/2025/05/20250503_141302.jpg
 caption: "Woody olhando pela janela"
 date: 2025-05-15 19:50:00 -0300
-tags: ["a vida, o universo e tudo mais", "fotos"]
+tags: ["a vida, o universo e tudo mais", "fotos", "gatos"]
 album: true
 permalink: "/fotolog/olhando-pela-janela"
 ---

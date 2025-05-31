@@ -3,7 +3,7 @@ layout: foto
 type: album
 title: "Passeio de risco"
 image: /assets/fotos/2020/08/20200808_120403.jpg
-caption: "Passeio por BSB"
+caption: "Passeio por BSB [...]"
 date: 2020-08-08
 tags: ["a vida, o universo e tudo mais", "passeios",  "pandemia"]
 album: true

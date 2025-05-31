@@ -3,7 +3,7 @@ layout: foto
 type: album
 title: "Indo pra Brasília"
 image: /assets/fotos/2020/06/20200620_202524.jpg
-caption: "Brasília do quarto de hotel"
+caption: "Brasília do quarto de hotel [...]"
 date: 2020-06-20
 tags: ["a vida, o universo e tudo mais", "pandemia"]
 album: true

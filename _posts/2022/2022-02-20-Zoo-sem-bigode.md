@@ -3,7 +3,7 @@ layout: foto
 type: album
 title: "Zoológico sem bigode"
 image: /assets/fotos/2022/02/20220220_104349.jpg
-caption: "De cara limpa"
+caption: "De cara limpa [...]"
 date: 2022-02-20
 tags: ["a vida, o universo e tudo mais", "passeios", "pandemia"]
 album: true
