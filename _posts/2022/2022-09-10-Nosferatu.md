@@ -3,9 +3,9 @@ layout: foto
 type: album
 title: "Nosferatu"
 image: /assets/fotos/2022/09/20220904_164230.jpg
-caption: "Um vampiro que brilha pelo motivo certo"
+caption: "Um vampiro que brilha pelo motivo certo [...]"
 date: 2022-09-10
-tags: ["filmes", "passeios", "pandemia"]
+tags: ["filmes","fotos","passeios", "pandemia"]
 album: true
 ---
 <figure class="foto-post">

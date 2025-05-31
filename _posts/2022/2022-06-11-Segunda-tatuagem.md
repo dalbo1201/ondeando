@@ -2,7 +2,7 @@
 layout: foto
 title: "Segunda tatuagem"
 image: /assets/fotos/2022/06/20220611_105858.jpg
-caption: "Tempo, por Heptapods"
+caption: "Tempo, por Heptapods [...]"
 date: 2022-06-11
 tags: ["a vida, o universo e tudo mais", "fotos","filmes", "pandemia", "tatuagem"]
 album: true

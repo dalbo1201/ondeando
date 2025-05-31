@@ -5,7 +5,7 @@ title: "Alegria de gente grande"
 image: /assets/fotos/2024/11/20241124_152859.jpg
 caption: "As alegrias do adulto dono de casa"
 date: 2024-11-24 19:45:00 -0300
-tags: ["a vida, o universo e tudo mais"]
+tags: ["a vida, o universo e tudo mais", "fotos"]
 album: true
 ---
 <figure class="foto-post">

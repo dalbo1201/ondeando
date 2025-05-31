@@ -82,11 +82,8 @@ footer {
 }
 
 nav {
-  margin-left: auto;
   font-size: 16px;
   font-weight: bold;
-  display: flex;
-  align-items: center; /* Garante o alinhamento vertical dos itens */
 }
 
 hr {
@@ -528,9 +525,9 @@ table.tabela-posts td {
 
 /* Ajustes para telas menores */
 @media only screen and (max-width: 512px) {
-  header {
-    flex-direction: column;
-    align-items: flex-start;
+header {
+  flex-direction: column;
+  align-items: flex-start;
   }
 
 nav {
@@ -545,10 +542,6 @@ nav {
   display: flex;
   align-items: center;
   justify-content: flex-start; /* Alinha os itens à esquerda */
-}
-
-.name {
- margin-left: 10px;
 }
 
 nav a {
