@@ -46,6 +46,7 @@ header {
 .top-header {
   display: flex;
   align-items: center;
+  gap: 10px;
 }
 
 main {
@@ -86,6 +87,17 @@ nav {
   font-weight: bold;
 }
 
+nav ul {
+    display: flex;
+    gap: 3px;
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+nav li {
+    margin: 0;
+}
+
 hr {
   height: 2px;
   background-color: var(--color-link);
@@ -108,8 +120,9 @@ hr {
 .namecab {
   font-size: 30px;
   font-weight: 700;
-  margin-left: 10px;
   white-space: nowrap; /* Evita quebra de linha no nome */
+  display: inline;
+  margin-left: 0;
 }
 
 .photocab {
@@ -528,20 +541,22 @@ table.tabela-posts td {
 header {
   flex-direction: column;
   align-items: flex-start;
+  justify-content: space-between;
   }
-
-nav {
-  margin-top: 10px; /* Adiciona espaço acima da navegação */
-  width: 100%;
-  display: flex;
-  justify-content: flex-end; /* Alinha a navegação à direita */
-}
 
 .top-header {
   width: 100%;
   display: flex;
   align-items: center;
   justify-content: flex-start; /* Alinha os itens à esquerda */
+}
+
+nav {
+  margin-top: 10px; /* Adiciona espaço acima da navegação */
+  width: 100%;
+  display: flex;
+  justify-content: flex-end; /* Alinha a navegação à direita */
+  margin-left: auto;
 }
 
 nav a {
