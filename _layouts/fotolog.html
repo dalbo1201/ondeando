@@ -18,13 +18,13 @@
     
     {% for post in posts_to_show %}
       <li>
-      <a href="{{ post.url }}">
-         <div class="post-date">{{ post.date | date: "%d/%m/%Y" }}</div>
+      <a href="{{ post.url }}" class="linkdata">
+         <div class="post-date">{{ post.date | date: "%d/%m/%Y" }}</div></a>
          <div class="image-wrapper">
-            <img src="{{ post.image | relative_url }}" alt="{{ post.title }}">
+          <a href="{{ post.url }}"><img src="{{ post.image | relative_url }}" alt="{{ post.title }}"></a>
           </div>
       <p class="caption">{{ post.caption }}</p>
-      </a>
+      
       </li>
     {% endfor %}
     </ul>
