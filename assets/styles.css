@@ -125,7 +125,7 @@ hr {
   margin-left: 0;
 }
 
-.photocab {
+.fotocab {
   width: 50px; 
   height: 50px;
   border-radius: 50%;
@@ -536,20 +536,19 @@ table.tabela-posts td {
 /* Ajustes para telas menores */
 @media only screen and (max-width: 512px) {
 header {
-  flex-direction: column;
-  align-items: flex-start;
+  flex-direction: row;
   justify-content: space-between;
+  align-items: center; /* Centraliza verticalmente */
   }
 
 .top-header {
-  width: 100%;
-  display: flex;
-  align-items: center;
-  justify-content: flex-start; /* Alinha os itens à esquerda */
-}
+    flex: 1;
+    display: flex;
+    align-items: center;
+    gap: 10px;
+  }
 
 nav {
-  margin-top: 10px; /* Adiciona espaço acima da navegação */
   width: 100%;
   display: flex;
   justify-content: flex-end; /* Alinha a navegação à direita */
