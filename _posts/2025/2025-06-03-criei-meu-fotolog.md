@@ -20,6 +20,6 @@ Gostei demais da solução, ainda mais que consegui colocar uma paginação e as
 
 <Blockquote class="citacao">O ótimo é inimigo do bom.</blockquote>
 
-Acho bacana ter uma página que funcione como um fotolog (entreguei a idade) e ter um espaço meu com algumas postagens com foco na foto e às vezes algum comentário sobre aquele momento especial. Quem sabe em algum algum diaseja possivel abandonar de vez outras mídias socias que hoje substituem as fotos dos amigos por propagandas e recomendações em feeds infinitos.  
+Acho bacana ter uma página que funcione como um fotolog (entreguei a idade) e ter um espaço meu com algumas postagens com foco na foto e às vezes algum comentário sobre aquele momento especial. Quem sabe em algum dia seja possível abandonar de vez outras mídias socias que hoje substituem as fotos dos amigos por propagandas e recomendações em feeds infinitos.  
 
 Lá no alto tem o link, mas você pode <a href="https://pedro.dalbo.me/fotolog/">clicar aqui também</a>.
