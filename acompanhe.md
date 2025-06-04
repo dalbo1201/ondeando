@@ -13,7 +13,7 @@ Não quer mais? Fácil: cancele a inscrição no feed.</p>
 
 <p>Se for o caso é só adicionar o endereço no seu leitor:</p>
 
-<aside style="text-align: center;"><code style="background-color: var(--color-link); color: var(--color-background); padding: 2px 5px; display: inline-block; border-radius: 10px;">https://pedro.dalbo.me/feed.xml</code></aside>
+<aside style="text-align: center;"><code style="background-color: var(--color-link); color: var(--color-background); padding: 2px 5px; display: inline-block;">https://pedro.dalbo.me/feed.xml</code></aside>
 
 <p>Se você ainda não tem um aplicativo ou leitor de feeds ou quer saber um pouco mais, acesse <a href="https://aboutfeeds.com/" title="Pode usar o tradutor nele sem problemas">este site <sup>[en]</sup></a> que tem mais explicações e dicas de aplicativos.</p>
 </section>
