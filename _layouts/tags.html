@@ -6,19 +6,11 @@
   
   {{ content }}
 
-  <ul class="lista-tags">
+<ul class="lista-tags" style="margin-left: 15px; line-height: 25px;">
   {% assign tags = site.tags | sort %}
   {% for tag in tags %}
     <li>
-      <h3 id="{{ tag[0] | slugify }}">#{{ tag[0] }}</h3>
-      <table class="tabela-posts">
-        {% for post in tag[1] %}
-          <tr class="linha-post">
-            <td class="data-tag">{{ post.date | date: "%d/%m/%Y" }}</td>
-            <td class="titulo-post"><a href="{{ post.url | relative_url }}" class="linkum">{{ post.title }}</a></td>
-          </tr>
-        {% endfor %}
-      </table>
+    <a href="/posts-em-tags/#{{ tag[0] | slugify }}" id="{{ tag[0] | slugify }}">#{{ tag[0] }}</a>
     </li>
   {% endfor %}
 </ul>

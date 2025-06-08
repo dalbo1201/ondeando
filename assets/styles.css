@@ -83,7 +83,7 @@ footer {
 }
 
 nav {
-  font-size: 16px;
+  font-size: 14px;
   font-weight: bold;
 }
 
@@ -557,7 +557,7 @@ nav {
 
 nav a {
   margin-left: 5px; /* Reduz o espaço entre os links na navegação */
-  font-size: 16px; /* Garante que o tamanho do texto permaneça o mesmo */
+  font-size: 13px; /* Garante que o tamanho do texto permaneça o mesmo */
 }
 
 footer {
