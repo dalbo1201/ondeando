@@ -1,0 +1,23 @@
+<!-- Botão de alerta -->
+<label for="alert-toggle" class="alert-button">
+  <svg viewBox="0 0 24 24" class="alert-icon" xmlns="http://www.w3.org/2000/svg">
+    <path d="M1,21H23L12,2Z" fill="none" stroke="currentColor" stroke-width="2"/>
+    <line x1="12" y1="9" x2="12" y2="14" stroke="currentColor" stroke-width="2"/>
+    <circle cx="12" cy="17.5" r="1" fill="currentColor"/>
+  </svg>
+</label>
+
+<!-- Input e Modal de aviso -->
+<input type="checkbox" id="alert-toggle" hidden>
+
+<label for="alert-toggle" class="alert-overlay">
+  <div class="alert-modal" onclick="event.stopPropagation();">
+    <div class="alert-content">
+      <label for="alert-toggle" class="close-button" title="Fechar">&times;</label>
+      <h2>Aviso de Conteúdo!</h2>
+      <p>Este é um site pessoal. As opiniões aqui expressas são minhas e não refletem as do meu empregador atual, antigo ou futuro.</p>
+      <p>O uso das informações é por sua conta e risco. Não sou responsável por qualquer dano resultante da aplicação dos conteúdos.</p>
+      <p>Este aviso pode ser atualizado sem aviso prévio.</p>
+    </div>
+  </div>
+</label>

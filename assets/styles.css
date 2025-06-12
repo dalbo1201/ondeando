@@ -533,6 +533,82 @@ table.tabela-posts td {
 }
 /* FINAL DO MEU FOTOLOG */
 
+
+/* INÍCIO - Botão de alerta */
+/* Botão de alerta */
+.alert-button {
+  display: inline-block;
+  cursor: pointer;
+  border-radius: 50%;
+  padding: 0.5em;
+  transition: background-color 0.3s ease, color 0.3s ease;
+  color: #b90000;
+}
+
+.alert-button:hover {
+  background-color: #b90000;
+  color: white;
+}
+
+.alert-icon {
+  width: 15px;
+  height: 15px;
+  display: block;
+}
+
+/* Fundo do modal (overlay) */
+.alert-overlay {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  display: none;
+  background-color: rgba(0, 0, 0, 0.6);
+  z-index: 1000;
+  justify-content: center;
+  align-items: center;
+}
+
+/* Conteúdo interno do modal */
+.alert-modal {
+  background: white;
+  padding: 2em;
+  max-width: 45%;
+  border-radius: 10px;
+  text-align: left;
+  position: relative;
+  color: black;
+  box-shadow: 0 0 20px rgba(0, 0, 0, 0.4);
+}
+
+.alert-content h2 {
+  margin-top: 0;
+}
+
+.close-button {
+  position: absolute;
+  top: 0.5em;
+  right: 0.75em;
+  font-size: 1.5em;
+  color: #888;
+  cursor: pointer;
+}
+
+/* Mostrar overlay quando checkbox estiver ativo */
+#alert-toggle:checked ~ .alert-overlay {
+  display: flex;
+}
+
+/* Evita que o clique no modal feche a janela */
+.alert-modal {
+  pointer-events: auto;
+}
+
+/* FINAL - Botão de alerta */
+
+
+
 /* Ajustes para telas menores */
 @media only screen and (max-width: 512px) {
 header {
@@ -597,5 +673,10 @@ footer {
 }
 .image-erro {
     max-width: 50%; /* <-- Aqui você ajusta o tamanho da imagem em telas pequenas */
+}
+
+/* Conteúdo interno do modal do botão de alerta */
+.alert-modal {
+  max-width: 80%;
 }
 }
