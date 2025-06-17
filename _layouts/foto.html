@@ -5,7 +5,7 @@
 <main>
   <h1><span aria-hidden="true">|</span><span class="h1-menor">meu </span>Álbum<span class="h1-menor"> de fotos</span></h1>
 
-<article class="blog-article {% if  page.type == 'album'%}blog-foto{% elsif page.type == 'notas' %}blog-notas{% endif %}">
+<article class="blog-article">
   <p class="blog-data">{{ page.date | date: "%d/%m/%Y" }}</p>
   <h2 class="blog-title">{{ page.title }}</h2>
   <p class="blog-tag">

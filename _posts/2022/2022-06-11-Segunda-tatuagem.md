@@ -1,11 +1,11 @@
 ---
 layout: foto
+type: album
 title: "Segunda tatuagem"
 image: /assets/fotos/2022/06/20220611_105858.jpg
 caption: "Tempo, por Heptapods [...]"
 date: 2022-06-11
 tags: ["a vida, o universo e tudo mais", "fotos","filmes", "pandemia", "tatuagem"]
-album: true
 ---
 <figure class="foto-post">
             <img src="{{ site.baseurl }}/assets/fotos/2022/06/20220611_105858.jpg" alt="Foto do meu antebraço, perto do pulso mostrandoba tatuagem com obsimbolo de tempo dosbHeptapods, personagens do filme 'A Chagada'" title="Tempo, A Chegada">

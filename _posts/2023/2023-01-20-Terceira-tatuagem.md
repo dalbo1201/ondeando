@@ -1,11 +1,11 @@
 ---
 layout: foto
+type: album
 title: "Terceira Tatuagem"
 image: /assets/fotos/2023/01/20230120_224839.jpg
 caption: "Folhas de café [...]"
 date: 2023-01-20
 tags: ["a vida, o universo e tudo mais", "fotos", "pandemia", "tatuagem"]
-album: true
 ---
 <figure class="foto-post">
             <img src="{{ site.baseurl }}/assets/fotos/2023/01/20230120_224839.jpg" alt="Foto do meu biceps onde fiz uma tatuagem realista em tracos finos pretos e sem preenchimento de um galho de folhas, flores e sementes de café" title="Folhas de café">

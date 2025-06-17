@@ -6,12 +6,12 @@
 
   {{ content }}
 
-  {% assign all_posts = site.posts | where_exp: "post", "post.album != true" %}
-  {% assign offset = paginator.page | minus: 1 | times: paginator.per_page %}
-  {% assign posts_to_show = all_posts | slice: offset, paginator.per_page %}
+{% assign all_posts = site.posts | where_exp: "post", "post.type != 'album'" %}
+{% assign offset = paginator.page | minus: 1 | times: paginator.per_page %}
+{% assign posts_to_show = all_posts | slice: offset, paginator.per_page %}
 
   {% for post in posts_to_show %}
-    <article class="blog-article {% if post.type == 'album' %}blog-foto{% elsif post.type == 'notas' %}blog-notas{% endif %}">
+    <article class="blog-article {% if post.type == 'frase' %}blog-citacao{% elsif post.type == 'notas' %}blog-notas{% endif %}">
       <p class="blog-data">
         <a href="{{ post.url | relative_url }}" class="linkdata"> {{ post.date | date: "%d/%m/%Y" }}</a>
       </p>

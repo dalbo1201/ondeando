@@ -294,11 +294,26 @@
   date: 2020-06-12 00:00:00.000000000 -03:00
   image:
   caption:
+- title: Indo pra Brasília
+  url: "/blog/indo-pra-bras%C3%ADlia/"
+  date: 2020-06-20 00:00:00.000000000 -03:00
+  image: "/assets/fotos/2020/06/20200620_202524.jpg"
+  caption: Brasília do quarto de hotel [...]
 - title: Os 33 do Gabriel
   url: "/blog/os-33-do-gabriel/"
   date: 2020-06-26 00:00:00.000000000 -03:00
   image:
   caption:
+- title: Mimos
+  url: "/blog/mimos/"
+  date: 2020-07-10 00:00:00.000000000 -03:00
+  image: "/assets/fotos/2020/07/20200710_192425.jpg"
+  caption: Decorações
+- title: Passeio de risco
+  url: "/blog/passeio-de-risco/"
+  date: 2020-08-08 00:00:00.000000000 -03:00
+  image: "/assets/fotos/2020/08/20200808_120403.jpg"
+  caption: Passeio por BSB [...]
 - title: Chamada dos primos
   url: "/blog/chamada-dos-primos/"
   date: 2020-08-29 00:00:00.000000000 -03:00
@@ -314,6 +329,11 @@
   date: 2020-10-10 00:00:00.000000000 -03:00
   image:
   caption:
+- title: Nova casa
+  url: "/blog/nova-casa/"
+  date: 2020-12-05 00:00:00.000000000 -03:00
+  image: "/assets/fotos/2020/12/20201205_084902.jpg"
+  caption: Novo lar [...]
 - title: Natal ilhado
   url: "/blog/natal-ilhado/"
   date: 2020-12-25 00:00:00.000000000 -03:00
@@ -339,11 +359,31 @@
   date: 2021-01-17 00:00:00.000000000 -03:00
   image:
   caption:
+- title: Minha rede
+  url: "/blog/minha-rede/"
+  date: 2021-01-20 00:00:00.000000000 -03:00
+  image: "/assets/fotos/2021/01/20210120_194934.jpg"
+  caption: Meu presente de aniversário
+- title: Meu Camelo
+  url: "/blog/meu-camelo/"
+  date: 2021-02-02 00:00:00.000000000 -03:00
+  image: "/assets/fotos/2021/02/20210206_174152.jpg"
+  caption: Meu camelo [...]
+- title: Novos inquilinos
+  url: "/blog/novos-inquilinos/"
+  date: 2021-02-13 00:00:00.000000000 -03:00
+  image: "/assets/fotos/2021/02/20210213_102308.jpg"
+  caption: Pequenos Woody e Mérida [...]
 - title: 2k hoje
   url: "/blog/2k-hoje/"
   date: 2021-03-10 00:00:00.000000000 -03:00
   image:
   caption:
+- title: Na janela
+  url: "/blog/na-janela/"
+  date: 2021-03-13 00:00:00.000000000 -03:00
+  image: "/assets/fotos/2021/03/20210313_095838.jpg"
+  caption: O que sera que tem lá fora?
 - title: 3 mil
   url: "/blog/3k/"
   date: 2021-03-23 00:00:00.000000000 -03:00
@@ -359,6 +399,11 @@
   date: 2021-04-06 00:00:00.000000000 -03:00
   image:
   caption:
+- title: Visual pff2
+  url: "/blog/visual-pff2/"
+  date: 2021-04-24 00:00:00.000000000 -03:00
+  image: "/assets/fotos/2021/04/20210424_201856.jpg"
+  caption: Não tem mais barba [...]
 - title: 500 mil
   url: "/blog/500k-e-um-genocida/"
   date: 2021-06-19 00:00:00.000000000 -03:00
@@ -369,6 +414,11 @@
   date: 2021-07-29 00:00:00.000000000 -03:00
   image:
   caption:
+- title: Brasilia é realmente linda
+  url: "/blog/brasilia-e-realmente-linda/"
+  date: 2021-09-20 00:00:00.000000000 -03:00
+  image: "/assets/fotos/2021/09/20210518_180041.jpg"
+  caption: Cidade realmente linda
 - title: 600 mil
   url: "/blog/600-a-menos/"
   date: 2021-10-07 00:00:00.000000000 -03:00
@@ -379,6 +429,11 @@
   date: 2021-10-24 00:00:00.000000000 -03:00
   image:
   caption:
+- title: Meu camelo elétrico
+  url: "/blog/meu-camelo-eletrico/"
+  date: 2021-11-20 00:00:00.000000000 -03:00
+  image: "/assets/fotos/2021/11/20211120_141023.jpg"
+  caption: Meu camelo elétrico [...]
 - title: Obrigado pelos peixes, Brasília
   url: "/blog/obrigado-pelos-peixes-brasilia/"
   date: 2021-12-20 00:00:00.000000000 -03:00
@@ -399,46 +454,116 @@
   date: 2022-01-12 00:00:00.000000000 -03:00
   image:
   caption:
+- title: Minha primeira tatoo
+  url: "/blog/minha-primeira-tatoo/"
+  date: 2022-01-25 00:00:00.000000000 -03:00
+  image: "/assets/fotos/2022/01/20220125_113641.jpg"
+  caption: Minha primeira tatoo [...]
 - title: Casa nova, de novo
   url: "/blog/casa-nova-de-novo/"
   date: 2022-02-13 00:00:00.000000000 -03:00
   image:
   caption:
+- title: Zoológico sem bigode
+  url: "/blog/zoo-sem-bigode/"
+  date: 2022-02-20 00:00:00.000000000 -03:00
+  image: "/assets/fotos/2022/02/20220220_104349.jpg"
+  caption: De cara limpa [...]
 - title: A decepcao da avaria
   url: "/blog/a-decepcao-da-avaria/"
   date: 2022-02-25 00:00:00.000000000 -03:00
   image:
   caption:
+- title: '66_6'
+  url: "/blog/66-6/"
+  date: 2022-04-15 00:00:00.000000000 -03:00
+  image: "/assets/fotos/2022/04/20220415_164434.jpg"
+  caption: '66_6'
+- title: Enfim casados
+  url: "/blog/enfim-casados/"
+  date: 2022-04-24 00:00:00.000000000 -03:00
+  image: "/assets/fotos/2022/04/IMG-20220503-WA0035.jpg"
+  caption: Uma peça emprestada [...]
+- title: Museu Casa de Portinari
+  url: "/blog/museu-casa-portinari/"
+  date: 2022-05-06 00:00:00.000000000 -03:00
+  image: "/assets/fotos/2022/05/20220423_093729.jpg"
+  caption: Fachada Museu Casa de Portinari, 23/04/2022
+- title: Segunda tatuagem
+  url: "/blog/segunda-tatuagem/"
+  date: 2022-06-11 00:00:00.000000000 -03:00
+  image: "/assets/fotos/2022/06/20220611_105858.jpg"
+  caption: Tempo, por Heptapods [...]
+- title: Na parada
+  url: "/blog/na-parada/"
+  date: 2022-06-19 00:00:00.000000000 -03:00
+  image: "/assets/fotos/2022/06/20220619_144038.jpg"
+  caption: Na parada, na Consolação
 - title: 100 anos
   url: "/blog/100-anos/"
   date: 2022-07-02 00:00:00.000000000 -03:00
   image:
   caption:
+- title: Letrux
+  url: "/blog/letrux/"
+  date: 2022-07-14 00:00:00.000000000 -03:00
+  image: "/assets/fotos/2022/07/20220710_173505.jpg"
+  caption: Letrux [...]
 - title: Terceira dose
   url: "/blog/terceira-dose/"
   date: 2022-07-19 00:00:00.000000000 -03:00
   image:
   caption:
+- title: Fui à Beagá
+  url: "/blog/fui-a-beaga/"
+  date: 2022-08-01 00:00:00.000000000 -03:00
+  image: "/assets/fotos/2022/08/IMG_20220731_123707.jpg"
+  caption: CCBB BH [...]
 - title: Getúlio Abelha
   url: "/blog/getulio-abelha/"
   date: 2022-08-13 00:00:00.000000000 -03:00
   image:
   caption:
+- title: Nosferatu
+  url: "/blog/nosferatu/"
+  date: 2022-09-10 00:00:00.000000000 -03:00
+  image: "/assets/fotos/2022/09/20220904_164230.jpg"
+  caption: Um vampiro que brilha pelo motivo certo [...]
 - title: Vencemos uma batalha
   url: "/blog/uma-batalha-vencida/"
   date: 2022-10-31 00:00:00.000000000 -03:00
   image:
   caption:
+- title: Masp
+  url: "/blog/masp/"
+  date: 2022-11-15 00:00:00.000000000 -03:00
+  image: "/assets/fotos/2022/11/20221115_125904.jpg"
+  caption: Pan de Azúcar (Frederico Herrero, 2011) [...]
 - title: Pato Fu e musica de brinquedo
   url: "/blog/pato-fu-e-giramundo/"
   date: 2022-12-02 00:00:00.000000000 -03:00
   image:
   caption:
+- title: Ano novo e Vila Velha
+  url: "/blog/ano-novo-e-vila-velha/"
+  date: 2023-01-01 00:00:00.000000000 -03:00
+  image: "/assets/fotos/2023/01/20230101_044204.jpg"
+  caption: Nós em Vila Velha [...]
 - title: 38 passados
   url: "/blog/38-passados/"
   date: 2023-01-12 00:00:00.000000000 -03:00
   image:
   caption:
+- title: Terceira Tatuagem
+  url: "/blog/terceira-tatuagem/"
+  date: 2023-01-20 00:00:00.000000000 -03:00
+  image: "/assets/fotos/2023/01/20230120_224839.jpg"
+  caption: Folhas de café [...]
+- title: MAC-USP
+  url: "/blog/mac-usp/"
+  date: 2023-02-25 00:00:00.000000000 -03:00
+  image: "/assets/fotos/2023/02/20230225_132148.jpg"
+  caption: Vista do mirante do MAC-USP [...]
 - title: Chegou ao fim, no papel
   url: "/blog/chegou-ao-fim-no-papel/"
   date: 2023-05-05 00:00:00.000000000 -03:00
@@ -459,11 +584,21 @@
   date: 2023-07-20 00:00:00.000000000 -03:00
   image:
   caption:
+- title: Tatuagem pela quarta vez
+  url: "/blog/tatuagem-pela-quarta-vez/"
+  date: 2023-08-11 00:00:00.000000000 -03:00
+  image: "/assets/fotos/2023/08/20230811_181841.jpg"
+  caption: oh, no... Not again [...]
 - title: Museu da lingua portuguesa
   url: "/blog/museu-da-lingua-portuguesa/"
   date: 2023-08-13 00:00:00.000000000 -03:00
   image:
   caption:
+- title: Quinta tatuagem
+  url: "/blog/quinta-tatuagem/"
+  date: 2023-08-26 00:00:00.000000000 -03:00
+  image: "/assets/fotos/2023/08/20230826_134023.jpg"
+  caption: Que a forca esteja com você,  jovem gafanhoto [...]
 - title: Café e karaoke
   url: "/blog/cafe-e-karaoke/"
   date: 2023-09-02 00:00:00.000000000 -03:00
@@ -494,11 +629,21 @@
   date: 2023-10-28 00:00:00.000000000 -03:00
   image:
   caption:
+- title: Ney Matogrosso e Santa Teresa [...]
+  url: "/blog/ney-matogrosso/"
+  date: 2023-12-11 00:00:00.000000000 -03:00
+  image: "/assets/fotos/2023/12/20231210_130924.jpg"
+  caption: Capa de disco [...]
 - title: Valeu Vila Velha
   url: "/blog/valeu-vila-velha/"
   date: 2024-01-02 00:00:00.000000000 -03:00
   image:
   caption:
+- title: 39 tá aí
+  url: "/blog/39-ta-ai/"
+  date: 2024-01-12 00:00:00.000000000 -03:00
+  image: "/assets/fotos/2024/01/20240112_153801.jpg"
+  caption: Café de presente é uma ótima ideia [...]
 - title: A jornada da nova morada
   url: "/blog/a-jornada-da-nova-morada/"
   date: 2024-01-15 00:00:00.000000000 -03:00
@@ -514,6 +659,21 @@
   date: 2024-03-19 21:00:00.000000000 -03:00
   image:
   caption:
+- title: O Grande Encontro
+  url: "/blog/o-grande-encontro/"
+  date: 2024-04-28 21:00:00.000000000 -03:00
+  image: "/assets/fotos/2024/04/20240428_003520.jpg"
+  caption: Grandessíssimo Encontro [...]
+- title: Merida
+  url: "/blog/merida/"
+  date: 2024-05-02 00:00:00.000000000 -03:00
+  image: "/assets/fotos/2024/05/20240502_180229.jpg"
+  caption: Nova moradora
+- title: Dia de limpeza
+  url: "/blog/dia-de-limpeza/"
+  date: 2024-05-04 20:00:00.000000000 -03:00
+  image: "/assets/fotos/2024/05/IMG_20240504_183344.jpg"
+  caption: Tá rolando a transformação
 - title: Obra cansa
   url: "/blog/obra-cansa/"
   date: 2024-05-29 17:00:00.000000000 -03:00
@@ -524,6 +684,21 @@
   date: 2024-07-27 20:00:00.000000000 -03:00
   image:
   caption:
+- title: Doutora
+  url: "/blog/doutora/"
+  date: 2024-09-05 21:30:00.000000000 -03:00
+  image: "/assets/fotos/2024/09/20240905_153648.jpg"
+  caption: Doutora
+- title: Billy Wilder
+  url: "/blog/billy-wilder/"
+  date: 2024-09-27 20:00:00.000000000 -03:00
+  image: "/assets/fotos/2024/09/20240924_123644.jpg"
+  caption: O cinema pode ser um mundo maravilhoso
+- title: Alegria de gente grande
+  url: "/blog/a-alegria-do-adulto/"
+  date: 2024-11-24 19:45:00.000000000 -03:00
+  image: "/assets/fotos/2024/11/20241124_152859.jpg"
+  caption: As alegrias do adulto dono de casa
 - title: Boliche
   url: "/blog/boliche/"
   date: 2024-12-07 20:00:00.000000000 -03:00
@@ -539,6 +714,11 @@
   date: 2025-01-01 09:00:00.000000000 -03:00
   image:
   caption:
+- title: 40 anos
+  url: "/blog/40-anos/"
+  date: 2025-01-12 18:30:00.000000000 -03:00
+  image: "/assets/fotos/2025/01/20250112_153929.jpg"
+  caption: Cheguei
 - title: E finalmente aconteceu
   url: "/blog/e-finalmente-aconteceu/"
   date: 2025-02-21 20:56:00.000000000 -03:00
@@ -559,11 +739,26 @@
   date: 2025-03-03 12:00:00.000000000 -03:00
   image:
   caption:
+- title: Meu lugar predileto
+  url: "/blog/meu-lugar-predileto/"
+  date: 2025-03-07 12:00:00.000000000 -03:00
+  image: "/assets/fotos/2025/03/20250228_064939~2.jpg"
+  caption: Tá aí meu lugar favorito em casa [...]
 - title: LOK, um joguinho de lógica
   url: "/blog/lok-um-joguinho-de-logica/"
   date: 2025-03-12 12:00:00.000000000 -03:00
   image:
   caption:
+- title: Pastel de feira
+  url: "/blog/pastel-de-feira/"
+  date: 2025-03-16 00:00:00.000000000 -03:00
+  image: "/assets/fotos/2025/03/20250316_120505.jpg"
+  caption: Pastel no final da feira é sempre uma beleza
+- title: Estética de geladeira
+  url: "/blog/estetica-de-geladeira/"
+  date: 2025-03-21 21:40:00.000000000 -03:00
+  image: "/assets/fotos/2025/03/20250307_235112.jpg"
+  caption: Estética de Geladeira [...]
 - title: Manutenção predial
   url: "/blog/manutencao-predial/"
   date: 2025-03-29 13:30:00.000000000 -03:00
@@ -609,6 +804,11 @@
   date: 2025-04-27 18:00:00.000000000 -03:00
   image:
   caption:
+- title: Uma feira de Antiguidades
+  url: "/blog/uma-feira-de-antiguidades/"
+  date: 2025-04-28 13:40:00.000000000 -03:00
+  image: "/assets/fotos/2025/04/20250427_124049.jpg"
+  caption: Feira de Antiguidades do Bixiga
 - title: Qual a cor da sua camisa?
   url: "/blog/qual-a-cor-da-sua-camisa/"
   date: 2025-04-29 21:00:00.000000000 -03:00
@@ -624,6 +824,11 @@
   date: 2025-05-01 15:30:00.000000000 -03:00
   image:
   caption:
+- title: X-Trek
+  url: "/blog/x-trek/"
+  date: 2025-05-03 12:57:00.000000000 -03:00
+  image: "/assets/fotos/2025/05/20241107_180747.jpg"
+  caption: Um item de raro conhecimento [...]
 - title: Semanas de 4 dias
   url: "/blog/semanas-de-4-dias/"
   date: 2025-05-08 10:17:00.000000000 -03:00
@@ -644,6 +849,11 @@
   date: 2025-05-14 12:45:00.000000000 -03:00
   image:
   caption:
+- title: Olhando pela janela
+  url: "/fotolog/olhando-pela-janela"
+  date: 2025-05-15 19:50:00.000000000 -03:00
+  image: "/assets/fotos/2025/05/20250503_141302.jpg"
+  caption: Woody olhando pela janela
 - title: Dois Papas
   url: "/blog/dois-papas/"
   date: 2025-05-22 18:00:00.000000000 -03:00
@@ -654,11 +864,31 @@
   date: 2025-05-25 22:30:00.000000000 -03:00
   image:
   caption:
+- title: " O gato e a televisão"
+  url: "/fotolog/o-gato-e-a-televisao"
+  date: 2025-05-26 12:57:00.000000000 -03:00
+  image: "/assets/fotos/2025/05/20250516_200056.jpg"
+  caption: A curiosa mania dos gatos ficarem na frente da televisão [...]
+- title: " Estreias e retornos no MorumBIS"
+  url: "/fotolog/estreias-e-retornos-no-morumbis"
+  date: 2025-05-29 22:40:00.000000000 -03:00
+  image: "/assets/fotos/2025/05/20250527_184257.jpg"
+  caption: Retornos e estréia [...]
+- title: Compramos uma palmeirinha e ganhamos outra planta na rua
+  url: "/fotolog/compramos-uma-palmeirinha-e-ganhamos-outra-planta-na-rua"
+  date: 2025-05-31 16:15:00.000000000 -03:00
+  image: "/assets/fotos/2025/05/20250412_092043.jpg"
+  caption: Parece que ainda existe amor em SP [...]
 - title: Criei meu fotolog
   url: "/blog/criei-meu-fotolog/"
   date: 2025-06-03 12:45:00.000000000 -03:00
   image:
   caption:
+- title: Café no dia-a-dia
+  url: "/fotolog/cafe-no-dia-a-dia"
+  date: 2025-06-09 12:30:00.000000000 -03:00
+  image: "/assets/fotos/2025/06/20250418_071547.jpg"
+  caption: Café no dia-a-dia [...]
 - title: OneDrive nos testando
   url: "/blog/onedrive-nos-testando/"
   date: 2025-06-13 19:30:00.000000000 -03:00

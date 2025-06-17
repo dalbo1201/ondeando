@@ -6,7 +6,6 @@ image: /assets/fotos/2021/02/20210206_174152.jpg
 caption: "Meu camelo [...]"
 date: 2021-02-02
 tags: ["a vida, o universo e tudo mais","fotos", "pandemia"]
-album: true
 ---
 <figure class="foto-post">
             <img src="{{ site.baseurl }}/assets/fotos/2021/02/20210206_174152.jpg" alt="Selfie com minha bicicleta ao fundo" title="Eu e minha bicicleta">

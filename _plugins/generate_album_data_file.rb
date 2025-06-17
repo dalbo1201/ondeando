@@ -1,30 +1,20 @@
 # _plugins/generate_album_data_file.rb
 require 'fileutils'
 require 'yaml'
-
 module Jekyll
-  class AlbumDataGenerator < Generator
+  class SetAlbumPermalink < Generator
     safe true
     priority :low
 
     def generate(site)
-      album_posts = site.posts.docs.select { |post| post.data['album'] == true }
+      puts "[SetAlbumPermalink] Plugin carregado!"
 
-      album_data = album_posts.map do |post|
-        {
-          'title' => post.data['title'],
-          'url' => post.url,
-          'date' => post.date,
-          'image' => post.data['image'],
-          'caption' => post.data['caption']
-        }
-      end
-
-      data_dir = File.join(site.source, '_data')
-      FileUtils.mkdir_p(data_dir) unless Dir.exist?(data_dir)
-
-      File.open(File.join(data_dir, 'album_posts.yml'), 'w') do |file|
-        file.write(album_data.to_yaml)
+      site.posts.docs.each do |post|
+        if post.data['type'] == 'album' && !post.data['permalink']
+          slug = post.data['slug'] || Jekyll::Utils.slugify(post.data['title'])
+          post.data['permalink'] = "/fotolog/#{slug}/"
+          puts "[SetAlbumPermalink] Atribuindo permalink: #{post.data['permalink']}"
+        end
       end
     end
   end

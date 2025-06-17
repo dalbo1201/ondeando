@@ -257,7 +257,7 @@ figcaption {
 }
 
 
-/* Estilos para o Blog */
+/* INÍCIO DOS Estilos para o Blog */
 .blog-article{
   width: 100%; /* Garante que ocupe toda a largura do contêiner */
   margin-bottom: 25px;
@@ -299,13 +299,18 @@ blockquote {
   padding-bottom: 10px;
 }
 
-.citacao-especial {
+/* INÍCIO Estilo especial para blockquote em posts com type: frase */
+article.blog-article.blog-citacao blockquote {
+  font-size: 17px;
+  font-style: italic;
+  margin: 20px 0px 20px 30px;
+  max-width: 75%;
   position: relative;
   display: inline-block;
   z-index: 1;
 }
 
-.citacao-especial::after {
+article.blog-article.blog-citacao blockquote::after {
   content: '\201D';
   font-family: 'Fraunces', 'Georgia'; /* Fonte para as aspas */
   font-size: 200px;
@@ -319,17 +324,13 @@ blockquote {
   line-height: 1;
 }
 
-.citacao-curta::after {
-  right: -20px;
-  bottom: -160px; /* Ajusta a posição da aspas para citações curtas */
-}
-
-.citacao-autor {
+article.blog-article.blog-citacao cite {
   display: block;
   text-align: right;
   max-width: 90%;
   margin-top: 40px;
 }
+/* FINAL Estilo especial para blockquote em posts com type: frase */
 
 .aviso { 
   font-size: 14px;
@@ -357,7 +358,7 @@ blockquote {
   margin-top:10px;
   align-self: flex-end;
 }
-/* Estilos para o Blog */
+/* FINAL DOS Estilos para o Blog */
 
 
 /* Para Tags */
@@ -421,7 +422,7 @@ table.tabela-posts td {
 /* fim do estilo para lista de posts por tag em tabela */
 /* Para Tags */
 
-/* Navegação de Paginação */
+/* INÍCIO DA Navegação de Paginação */
 .pagination-container {
   display: flex;
   justify-content: space-between; /* Garante que os itens fiquem nos extremos opostos */
@@ -443,18 +444,16 @@ table.tabela-posts td {
 .pagination-container .nav-topo {
   margin: auto; /* Centraliza  link "Topo" */
 }
-/* Navegação de Paginação */
+/* FINAL DA Navegação de Paginação */
 
 
 
 /* Tipos de posts */
- article.blog-article.blog-foto .blog-title,
+ article.blog-article.blog-citacao .blog-title,
  article.blog-article.blog-notas .blog-title {
    display: none !important;
  }
  /* fim do Tipos de posts */
-
-
 
 /* COMEÇO DO MEU FOTOLOG */
 /* Creditos para Bruce Beaumont. No final mudou bastante o código, mas foi dele toda a inspiração*/
@@ -604,9 +603,7 @@ table.tabela-posts td {
 .alert-modal {
   pointer-events: auto;
 }
-
 /* FINAL - Botão de alerta */
-
 
 
 /* Ajustes para telas menores */

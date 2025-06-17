@@ -8,13 +8,10 @@
 
 <section class="gallery">
   <ul class="embedded blog-posts">
-    {% assign filtered_posts = site.posts | where: "album", true %}
-        
-    {% assign page = paginator.page %}
-    {% assign per_page = paginator.per_page %}
-        
-    {% assign offset = page | minus: 1 | times: per_page %}
-    {% assign posts_to_show = filtered_posts | slice: offset, per_page %}
+{% assign all_posts = site.posts | where: "type", "album" %}
+{% assign offset = paginator.page | minus: 1 | times: paginator.per_page %}
+{% assign posts_to_show = all_posts | slice: offset, paginator.per_page %}
+
     
     {% for post in posts_to_show %}
       <li>

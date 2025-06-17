@@ -1,11 +1,11 @@
 ---
 layout: post
-type: notas
+type: frase
 title: "Prefiro ser um porco"
 date: 2025-04-10 14:25:00 -0300
 tags: ["filmes","pensamentos"]
 ---
-<blockquote class="citacao-especial citacao-curta">
+<blockquote>
 Prefiro ser um porco do que um facista.
 </blockquote>
-<cite class="citacao-autor">Porco Rosso</cite>
+<cite>Porco Rosso</cite>

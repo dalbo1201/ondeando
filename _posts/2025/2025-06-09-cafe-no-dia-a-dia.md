@@ -1,12 +1,12 @@
 ---
 layout: foto
+type: album
 title: "Café no dia-a-dia"
 date: 2025-06-09 12:30:00 -0300
 image: /assets/fotos/2025/06/20250418_071547.jpg
 caption: "Café no dia-a-dia [...]"
 tags: ["a vida, o universo e tudo mais", "cozinha", "fotos"]
 permalink: "/fotolog/cafe-no-dia-a-dia"
-album: true
 ---
 <figure class="foto-post">
 <img src="{{ site.baseurl }}/assets/fotos/2025/06/20250418_071547.jpg" alt="Prateleira de madeira com itens para preparo de café, incluindo duas cafeteiras italianas de alumínio (ambas que preparam o café direto na xícara. Uma para uma xícara e outra para duas xícaras), uma prensa francesa de vidro e metal, e uma lata decorativa com ilustrações coloridas de xícaras de café. Ao fundo, uma paisagem urbana com árvores e edifícios." title="Preparos de café">
