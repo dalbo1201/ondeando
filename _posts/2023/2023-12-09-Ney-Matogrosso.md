@@ -1,7 +1,7 @@
 ---
 layout: foto
 type: album
-title: "Ney Matogrosso e Santa Teresa [...]"
+title: "Ney Matogrosso e Santa Teresa"
 image: /assets/fotos/2023/12/20231210_130924.jpg
 caption: "Capa de disco [...]"
 date: 2023-12-11
