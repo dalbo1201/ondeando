@@ -3,5 +3,5 @@ layout: tags
 title: "Tags"
 permalink: /tags/
 ---
-<h1><span aria-hidden="true">|</span><span class="h1-menor">meu</span>Blog<span class="h1-menor"> Ondeando</span> </h1>
+<h1><span aria-hidden="true">|</span><span class="h1-menor">as</span>Tags<span class="h1-menor"> por aqui</span></h1>
 <h2 class="blog-title">Assuntos por aqui:</h2>
