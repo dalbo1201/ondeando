@@ -26,7 +26,7 @@ Filmes que vi <a href="https://letterboxd.com/dalbo1201/films/diary/" class="lin
 <li>Nuvens Passageiras&nbsp;| Aki Kaurismäki, 1996&nbsp;| Mubi;</li>
 <li>As Vezes Quero Sumir&nbsp;| Rachel Lambert, 2023&nbsp;| Mubi;</li>
 <li>Saneamento Básico: O Filme&nbsp;| Jorge Furtado, 2007&nbsp;| Cinema;</li>
-<li>Rogue One&nbsp;| Gareth Edwards, 2016&nbsp;| Disney+.&nbsp↺</li>
+<li>Rogue One&nbsp;| Gareth Edwards, 2016&nbsp;| Disney+.&nbsp;↺</li>
 </ul>
 Séries que estou vendo <a href="https://tvtime.com/r/38uUh" class="linkcab">&#128250;</a>:
 <ul>
@@ -35,9 +35,9 @@ Séries que estou vendo <a href="https://tvtime.com/r/38uUh" class="linkcab">&#1
 <li>Yellowjackets&nbsp;| Paramount+&nbsp;| temporada&nbsp;3;</li>
 <li>Nove Desconhecidos&nbsp;| Prime Video&nbsp;| temporada&nbsp;2;</li>
 <li>O Urso&nbsp;| Disney+&nbsp;| temporada&nbsp;4;</li>
-<li>Twin Peaks&nbsp;| Mubi&nbsp;| temporada&nbsp;2;&nbsp↺</li>
-<li>Arquivo X&nbsp;| Disney+&nbsp;| temporada&nbsp;1;&nbsp↺</li>
-<li>Breaking Bad&nbsp;| Netflix&nbsp;| toda&nbsp;série.&nbsp↺</li>
+<li>Twin Peaks&nbsp;| Mubi&nbsp;| temporada&nbsp;2;&nbsp;↺</li>
+<li>Arquivo X&nbsp;| Disney+&nbsp;| temporada&nbsp;1;&nbsp;↺</li>
+<li>Breaking Bad&nbsp;| Netflix&nbsp;| toda&nbsp;série.&nbsp;↺</li>
 </ul>
 </section>
 <aside class="atualizacao">
