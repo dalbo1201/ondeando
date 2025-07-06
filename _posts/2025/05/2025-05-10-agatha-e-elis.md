@@ -1,5 +1,6 @@
 ---
 layout: post
+type: texto
 title: "Agatha e Elis, valeu a pena?"
 date: 2025-05-10 11:17:00 -0300
 tags: ["pensamentos", "séries e TV"]

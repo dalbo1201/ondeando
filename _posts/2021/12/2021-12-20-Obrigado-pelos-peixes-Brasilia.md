@@ -1,5 +1,6 @@
 ---
 layout: post
+type: texto
 title: "Obrigado pelos peixes, Brasília"
 date: 2021-12-20
 tags: ["a vida, o universo e tudo mais", "pandemia"]

@@ -1,5 +1,6 @@
 ---
 layout: post
+type: texto
 title: "Revendo velhos amigos"
 date: 2007-08-05 08:00:00 -0000
 tags: ["a vida, o universo e tudo mais"]

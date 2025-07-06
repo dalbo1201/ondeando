@@ -1,5 +1,6 @@
 ---
 layout: post
+type: texto
 title: "Fazendo a limpeza"
 date: 2008-06-29 08:00:00 -0000
 tags: ["a vida, o universo e tudo mais"]

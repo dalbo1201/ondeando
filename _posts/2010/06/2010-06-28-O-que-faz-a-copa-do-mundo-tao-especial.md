@@ -1,5 +1,6 @@
 ---
 layout: post
+type: texto
 title: "O que faz a Copa do Mundo tão especial?"
 date: 2010-06-28 08:00:00 -0000
 tags: ["esportes, ou só futebol"]

@@ -1,5 +1,6 @@
 ---
 layout: post
+type: texto
 title: "Dificuldades com o computador"
 date: 2008-05-18 08:00:00 -0000
 tags: ["informática"]

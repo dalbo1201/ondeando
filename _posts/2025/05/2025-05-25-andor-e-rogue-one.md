@@ -1,5 +1,6 @@
 ---
 layout: post
+type: texto
 title: "Andor e Rogue One"
 date: 2025-05-25 22:30:00 -0300
 tags: ["filmes", "séries e TV"]

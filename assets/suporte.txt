@@ -1,6 +1,8 @@
-post type:
-foto
-notas
+post type (layout):
+album - vai para o fotolog (foto)
+notas - vai pro blog sem título (post)
+texto - post tradicional do blog (post)
+frase  - vai pro blog como citação especials (post)
 
 post tags:
 "aniversário"

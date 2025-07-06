@@ -1,5 +1,6 @@
 ---
 layout: post
+type: texto
 title: "Indicando"
 date: 2007-10-05 08:00:00 -0000
 tags: ["informática", "metablog"]

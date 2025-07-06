@@ -1,5 +1,6 @@
 ---
 layout: post
+type: texto
 title: "Guerra dos navegadores"
 date: 2010-02-25 08:00:00 -0000
 tags: ["informática"]

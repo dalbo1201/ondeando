@@ -1,5 +1,6 @@
 ---
 layout: post
+type: texto
 title: "1berto e Paralamas"
 date: 2023-06-24
 tags: ["a vida, o universo e tudo mais","shows"]

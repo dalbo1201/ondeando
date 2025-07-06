@@ -1,5 +1,6 @@
 ---
 layout: post
+type: texto
 title: "Histórias para Ler"
 date: 2010-03-02 08:00:00 -0000
 tags: ["livros", "metablog"]

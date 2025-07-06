@@ -1,5 +1,6 @@
 ---
 layout: post
+type: texto
 title: "(Re)Assistindo Breaking Bad"
 date: 2025-06-24 21:15:00 -0300
 tags: ["pensamentos", "séries e TV"]

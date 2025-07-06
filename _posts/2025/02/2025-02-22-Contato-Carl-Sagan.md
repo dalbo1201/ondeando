@@ -1,5 +1,6 @@
 ---
 layout: post
+type: texto
 title: "Contato - Carl Sagan"
 date: 2025-02-22 08:00:00 -0000
 tags: ["livros"]

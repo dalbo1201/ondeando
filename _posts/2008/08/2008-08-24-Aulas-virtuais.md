@@ -1,5 +1,6 @@
 ---
 layout: post
+type: texto
 title: "Aulas virtuais"
 date: 2008-08-24 08:00:00 -0000
 tags: ["a vida, o universo e tudo mais", "informática"]

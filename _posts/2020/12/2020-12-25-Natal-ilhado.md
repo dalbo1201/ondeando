@@ -1,5 +1,6 @@
 ---
 layout: post
+type: texto
 title: "Natal ilhado"
 date: 2020-12-25
 tags: ["a vida, o universo e tudo mais", "pandemia"]

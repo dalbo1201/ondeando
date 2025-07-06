@@ -1,5 +1,6 @@
 ---
 layout: post
+type: texto
 title: "Tolkien, uma Biografia"
 date: 2010-04-07 08:00:00 -0000
 tags: ["livros"]

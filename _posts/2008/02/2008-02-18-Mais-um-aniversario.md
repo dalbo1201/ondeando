@@ -1,5 +1,6 @@
 ---
 layout: post
+type: texto
 title: "Mais um aniversário"
 date: 2008-02-18 08:00:00 -0000
 tags: ["a vida, o universo e tudo mais", "aniversário", "fotos"]

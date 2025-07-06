@@ -1,5 +1,6 @@
 ---
 layout: post
+type: texto
 title: "Criei meu fotolog"
 date: 2025-06-03 12:45:00 -0300
 tags: ["metablog"]

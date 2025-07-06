@@ -1,5 +1,6 @@
 ---
 layout: post
+type: texto
 title: "Seria Star Wars real?"
 date: 2010-03-16 08:00:00 -0000
 tags: ["filmes", "fotos"]

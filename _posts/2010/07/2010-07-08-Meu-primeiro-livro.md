@@ -1,5 +1,6 @@
 ---
 layout: post
+type: texto
 title: "Meu primeiro livro"
 date: 2010-07-08 08:00:00 -0000
 tags: ["livros"]

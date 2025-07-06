@@ -1,5 +1,6 @@
 ---
 layout: post
+type: texto
 title: "500 mil"
 date: 2021-06-19
 tags: ["pandemia"]

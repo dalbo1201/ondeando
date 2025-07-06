@@ -1,5 +1,6 @@
 ---
 layout: post
+type: texto
 title: "Dois Papas"
 date: 2025-05-22 18:00:00 -0300
 tags: ["filmes"]

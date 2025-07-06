@@ -1,5 +1,6 @@
 ---
 layout: post
+type: texto
 title: "PC de cara nova"
 date: 2010-02-27 08:00:00 -0000
 tags: ["informática"]

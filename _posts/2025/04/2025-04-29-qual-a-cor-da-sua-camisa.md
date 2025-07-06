@@ -1,5 +1,6 @@
 ---
 layout: post
+type: texto
 title: "Qual a cor da sua camisa?"
 date: 2025-04-29 21:00:00 -0300
 tags: ["esportes, ou só futebol", "pensamentos"]

@@ -1,5 +1,6 @@
 ---
 layout: post
+type: texto
 title: "Primeiro dia: 17/01/2008"
 date: 2008-02-22 08:00:00 -0000
 tags: ["a vida, o universo e tudo mais"]

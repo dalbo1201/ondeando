@@ -1,5 +1,6 @@
 ---
 layout: post
+type: texto
 title: "A Ilha do Tesouro - Robert Louis Stevenson"
 date: 2007-12-23 08:00:00 -0000
 tags: ["livros"]

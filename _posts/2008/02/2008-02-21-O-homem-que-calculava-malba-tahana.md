@@ -1,5 +1,6 @@
 ---
 layout: post
+type: texto
 title: "O Homem que Calculava - Malba Tahan"
 date: 2008-02-21 08:00:00 -0000
 tags: ["livros"]

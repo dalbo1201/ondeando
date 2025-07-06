@@ -1,5 +1,6 @@
 ---
 layout: post
+type: texto
 title: "Marcin Stawiartz, ótimas imagens"
 date: 2008-07-04 08:00:00 -0000
 tags: ["fotos", "metablog"]

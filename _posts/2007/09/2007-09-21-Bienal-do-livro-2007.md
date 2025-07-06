@@ -1,5 +1,6 @@
 ---
 layout: post
+type: texto
 title: "Bienal do Livro 2007"
 date: 2007-09-21 08:00:00 -0000
 tags: ["livros"]

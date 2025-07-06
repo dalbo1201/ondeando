@@ -1,5 +1,6 @@
 ---
 layout: post
+ttype: texto
 title: "E as enchentes são culpa de quem mesmo?"
 date: 2010-03-04 08:00:00 -0000
 tags: ["a vida, o universo e tudo mais", "pensamentos"]

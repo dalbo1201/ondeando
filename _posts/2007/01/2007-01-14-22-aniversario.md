@@ -1,5 +1,6 @@
 ---
 layout: post
+type: texto
 title: "22º aniversário"
 date: 2007-01-14 08:00:00 -0000
 tags: ["a vida, o universo e tudo mais", "aniversário", "fotos"]

@@ -1,5 +1,6 @@
 ---
 layout: post
+type: texto
 title: "O Senhor dos Anéis: A Guerra dos Rohirrim"
 date: 2025-03-03 12:00:00 -0300
 tags: ["filmes"]

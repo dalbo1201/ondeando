@@ -1,5 +1,6 @@
 ---
 layout: post
+type: texto
 title: "Troquei de óculos"
 date: 2023-06-29
 tags: ["a vida, o universo e tudo mais"]

@@ -1,5 +1,6 @@
 ---
 layout: post
+type: texto
 title: "Churrasco em Ourinhos"
 date: 2008-04-22 08:00:00 -0000
 tags: ["a vida, o universo e tudo mais"]

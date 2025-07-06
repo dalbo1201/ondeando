@@ -1,5 +1,6 @@
 ---
 layout: post
+type: texto
 title: "Você só quer confusão?"
 date: 2007-08-22 08:00:00 -0000
 tags: ["pensamentos"]

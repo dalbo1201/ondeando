@@ -1,5 +1,6 @@
 ---
 layout: post
+type: texto
 title: "A Viagem de Chihiro"
 date: 2025-04-25 15:00:00 -0300
 tags: ["filmes"]

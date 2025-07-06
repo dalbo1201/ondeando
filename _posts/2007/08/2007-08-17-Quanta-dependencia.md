@@ -1,5 +1,6 @@
 ---
 layout: post
+type: texto
 title: "Quanta dependência"
 date: 2007-08-17 08:00:00 -0000
 tags:  ["informática"]

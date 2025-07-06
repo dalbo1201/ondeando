@@ -1,5 +1,6 @@
 ---
 layout: post
+type: texto
 title: "Uma bela noite de futebol"
 date: 2007-08-09 08:00:00 -0000
 tags: ["esportes, ou só futebol", "fotos"]

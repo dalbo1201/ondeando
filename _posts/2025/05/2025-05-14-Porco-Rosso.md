@@ -1,5 +1,6 @@
 ---
 layout: post
+type: texto
 title: "Porco Rosso"
 date: 2025-05-14 12:45:00 -0300
 tags: ["filmes"]

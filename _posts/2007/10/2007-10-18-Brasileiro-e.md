@@ -1,5 +1,6 @@
 ---
 layout: post
+type: texto
 title: "Brasileiro é"
 date: 2007-10-18 08:00:00 -0000
 tags: ["pensamentos"]

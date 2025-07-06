@@ -1,5 +1,6 @@
 ---
 layout: post
+type: texto
 title: "Dia da Barbie"
 date: 2023-07-20
 tags: ["a vida, o universo e tudo mais"]

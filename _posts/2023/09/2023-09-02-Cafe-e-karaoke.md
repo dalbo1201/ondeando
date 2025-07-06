@@ -1,5 +1,6 @@
 ---
 layout: post
+type: texto
 title: "Café e karaoke"
 date: 2023-09-02
 tags: ["a vida, o universo e tudo mais", "aniversário","passeios"]

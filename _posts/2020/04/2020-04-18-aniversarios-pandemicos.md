@@ -1,5 +1,6 @@
 ---
 layout: post
+type: texto
 title: "Aniversários pandêmicos"
 date: 2020-04-18
 tags: ["a vida, o universo e tudo mais", "pandemia"]

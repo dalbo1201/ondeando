@@ -1,5 +1,6 @@
 ---
 layout: post
+type: texto
 title: "Aluguel de bicicleta em São Paulo"
 date: 2008-09-27 08:00:00 -0000
 tags: ["pensamentos"]

@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Vários assuntos"
 type: notas
+title: "Vários assuntos"
 date: 2010-03-03 08:00:00 -0000
 tags: ["informática"]
 ---

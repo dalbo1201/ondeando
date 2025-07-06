@@ -1,5 +1,6 @@
 ---
 layout: post
+type: texto
 title: "Sons portáteis não são pra qalquer um"
 date: 2008-06-21 08:00:00 -0000
 tags: ["informática", "pensamentos"]

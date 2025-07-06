@@ -1,5 +1,6 @@
 ---
 layout: post
+type: texto
 title: "Isso faz a Copa especial"
 date: 2010-07-03 08:00:00 -0000
 tags: ["esportes, ou só futebol"]

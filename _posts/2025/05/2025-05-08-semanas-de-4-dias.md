@@ -1,5 +1,6 @@
 ---
 layout: post
+type: texto
 title: "Semanas de 4 dias"
 date: 2025-05-08 10:17:00 -0300
 tags: ["pensamentos"]

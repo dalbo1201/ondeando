@@ -1,5 +1,6 @@
 ---
 layout: post
+type: texto
 title: "Ainda existe televisão?"
 date: 2009-03-09 08:00:00 -0000
 tags: ["a vida, o universo e tudo mais", "séries e TV"]

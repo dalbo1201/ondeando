@@ -1,5 +1,6 @@
 ---
 layout: post
+type: texto
 title: "Entrevista para 'Meu Time de Botão'"
 date: 2010-05-20 08:00:00 -0000
 tags: ["esportes, ou só futebol"]

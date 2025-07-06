@@ -1,5 +1,6 @@
 ---
 layout: post
+type: texto
 title: "Retrospectiva 2008"
 date: 2008-12-30 08:00:00 -0000
 tags: ["a vida, o universo e tudo mais"]

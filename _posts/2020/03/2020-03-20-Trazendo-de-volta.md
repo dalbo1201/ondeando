@@ -1,5 +1,6 @@
 ---
 layout: post
+type: texto
 title: "Trazendo de volta"
 date: 2020-03-20
 tags: ["a vida, o universo e tudo mais", "metablog", "pandemia"]

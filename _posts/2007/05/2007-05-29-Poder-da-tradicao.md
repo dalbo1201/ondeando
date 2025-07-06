@@ -1,5 +1,6 @@
 ---
 layout: post
+type: texto
 title: "Poder da tradição"
 date: 2007-05-29 08:00:00 -0000
 tags: ["livros"]

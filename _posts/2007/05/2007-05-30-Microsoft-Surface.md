@@ -1,5 +1,6 @@
 ---
 layout: post
+type: texto
 title: "Microsoft Surface"
 date: 2007-05-30 08:00:00 -0000
 tags: ["informática"]

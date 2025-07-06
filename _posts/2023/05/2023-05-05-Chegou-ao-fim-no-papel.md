@@ -1,5 +1,6 @@
 ---
 layout: post
+type: texto
 title: "Chegou ao fim, no papel"
 date: 2023-05-05
 tags: ["a vida, o universo e tudo mais", "pandemia"]

@@ -1,5 +1,6 @@
 ---
 layout: post
+type: texto
 title: "Novas maneiras de escrever"
 date: 2010-02-28 08:00:00 -0000
 tags: ["informática", "metablog"]

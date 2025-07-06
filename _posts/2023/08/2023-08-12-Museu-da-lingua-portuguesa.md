@@ -1,5 +1,6 @@
 ---
 layout: post
+type: texto
 title: "Museu da lingua portuguesa"
 date: 2023-08-13
 tags: ["a vida, o universo e tudo mais","museus","passeios"]
