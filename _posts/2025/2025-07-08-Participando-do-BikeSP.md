@@ -5,7 +5,7 @@ title: "Participando do Programa BikeSP"
 date: 2025-07-08 13:30:00 -0300
 tags: ["a vida, o universo e tudo mais","esportes, ou só futebol","pensamentos"]
 ---
-Acompanhando as mídias-sociais da Renata Falsani, vereadora aqui de São Paulo e idealizadora do <a href="https://bikeelegal.com/" tilte="Site do Bike Legal">Bike Legal</a>, fiquei sabendo da boa notícia que um projeto de estudo para viabilizar o programa BikeSP iria começar e estavam em busca de voluntários.  
+Acompanhando as mídias-sociais da Renata Falzoni, vereadora aqui de São Paulo e idealizadora do <a href="https://bikeelegal.com/" tilte="Site do Bike Legal">Bike Legal</a>, fiquei sabendo da boa notícia que um projeto de estudo para viabilizar o programa BikeSP iria começar e estavam em busca de voluntários.  
 
 Desde que me mudei para Brasília no meados de 2020 e com a necessidade de ir trabalhar presencial todos os dias me dispous a tentar mudar as coisas e tentar adotar o modal ciclístico na rotina.  
 
