@@ -11,7 +11,7 @@ tags: ["filmes","quadrinhos"]
 </figure>
 Ontem assisti ao Superman (2025) do James Gunn e que alegria é poder rever no cinema um Super-Homem que se importa com as pessoas.  
 
-Não só com as pessoas, mas também com animais. Krypto é uma bela adição ao universo, sem soar infantilizado, coerente na história e *super divertido*. Tem o **Selo Faustina** e se não sabe do que estou falando procure no <a href="www.feitoporelas.com.br" title="site do projeto, vai lá ouvir os podcasts">Feito por Elas</a>.  
+Não só com as pessoas, mas também com animais. Krypto é uma bela adição ao universo, sem soar infantilizado, coerente na história e *super divertido*. Tem o **Selo Faustina** e se não sabe do que estou falando procure no <a href="https://feitoporelas.com.br/" title="site do projeto, vai lá ouvir os podcasts">Feito por Elas</a>.  
 
 Resumidamente porque não dá pra dar *spoiler* nem ficar contando a história ou camadas...  
 
