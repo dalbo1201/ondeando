@@ -5,7 +5,7 @@ title: "Café no dia-a-dia"
 date: 2025-06-09 12:30:00 -0300
 image: /assets/fotos/2025/06/20250418_071547.jpg
 caption: "Café no dia-a-dia [...]"
-tags: ["a vida, o universo e tudo mais", "cozinha", "fotos"]
+tags: ["a vida, o universo e tudo mais", "casa", "fotos"]
 permalink: "/fotolog/cafe-no-dia-a-dia"
 ---
 <figure class="foto-post">

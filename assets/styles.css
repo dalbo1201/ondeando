@@ -267,6 +267,7 @@ figcaption {
   font-size: 27px;
   font-weight: normal;
   line-height: 35px;
+  text-wrap: balance;
   margin-top: 0px;
   margin-bottom: 0px;
 }
@@ -362,16 +363,24 @@ article.blog-article.blog-citacao cite {
 
 
 /* Para Tags */
-.blog-tag {/* estilo de tag */
+.blog-tag {
   font-family: monospace;
   font-size: 14px;
   line-height: 20px;
   max-width: 100%;
-  text-align: left; 
-  margin-top: 15px; /* Define a margem superior */
-  margin-bottom: auto; /* Empurra o bloco descrição para cima */
-  align-self: flex-end; /* Alinha o bloco à direita */
+  text-align: left;
+  margin-top: 15px;
+  margin-bottom: auto;
+  align-self: flex-end;
+  display: flex;        /* organiza como linha */
+  flex-wrap: wrap;      /* permite que as tags pulem de linha */
+  gap: 0.5em;           /* espaço entre tags */
 }
+
+.blog-tag a {
+  white-space: nowrap;  /* impede quebra dentro da tag */
+}
+
 
 /* estilo para lista de posts por tag em tabela */
 ul.lista-tags {

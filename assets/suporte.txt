@@ -5,37 +5,51 @@ texto - post tradicional do blog (post)
 frase  - vai pro blog como citação especials (post)
 
 post tags:
-"aniversário"
-"a vida, o universo e tudo mais"
-"engenharia"
-"esportes, ou só futebol"
-"filmes"
-"séries e TV"
-"fotos"
-"informática"
-"joguinhos"
-"livros"
-"metablog"
-"pensamentos"
-"quadrinhos"
-"museus'
-"shows"
-"passeios"
-
+#a vida, o universo e tudo mais
+#aniversário
+#casa
+#engenharia
+#esportes, ou só futebol
+#filmes
+#fotos
+#gatos
+#informática
+#joguinhos
+#livros
+#metablog
+#museus
+#pandemia
+#passeios
+#pensamentos
+#quadrinhos
+#shows#séries e TV
+#tatuagem
 
 Estrutura de pastas
 |-meusite
+    |-data
+        |-album_posts.yml
+        |-blog_posts.yml
     |-_includes
         |-footer.html
         |-head.html
         |-header.html
-    -_layouts
+        |-modal-aviso.html
+    |-_layouts
         |-agora.html
         |-blog.html
         |-default.html
+        |-erro.html
+        |-feed.html
+        |-foto.html
+        |-fotolog.html
+        |-post-em-tags.html
         |-post.html
         |-profissional.html
         |-tags.html
+    |-_plugins
+        |-generate_album_data_file.rb
+        |-generate_blog_data_file.rb
     |-_posts
         |-2006
             |....

@@ -5,7 +5,7 @@ title: "Móveis Antigos"
 date: 2025-06-19 10:00:00 -0300
 image: /assets/fotos/2025/06/20250619_112007.jpg
 caption: "Um cantinho confortável [...]"
-tags: ["a vida, o universo e tudo mais", "pensamentos"]
+tags: ["a vida, o universo e tudo mais","casa","fotos", "pensamentos"]
 permalink: "/fotolog/moveis-antigos"
 ---
 <figure class="foto-post">

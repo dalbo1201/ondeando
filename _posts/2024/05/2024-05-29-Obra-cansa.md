@@ -3,7 +3,7 @@ layout: post
 type: notas
 title: "Obra cansa"
 date: 2024-05-29 17:00:00 -0300
-tags: ["a vida, o universo e tudo mais"]
+tags: ["a vida, o universo e tudo mais","casa"]
 ---
 Falar que obra é uma coisa que não tá pra brincadeira.  
 

@@ -5,7 +5,7 @@ title: "Compramos uma palmeirinha e ganhamos outra planta na rua"
 image: /assets/fotos/2025/05/20250412_092043.jpg
 caption: "Parece que ainda existe amor em SP [...]"
 date: 2025-05-31 16:15:00 -0300
-tags: ["a vida, o universo e tudo mais", "fotos", "passeios"]
+tags: ["a vida, o universo e tudo mais","casa", "fotos", "passeios"]
 permalink: "/fotolog/compramos-uma-palmeirinha-e-ganhamos-outra-planta-na-rua"
 ---
 <figure class="foto-post">
