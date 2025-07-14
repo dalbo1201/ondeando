@@ -19,7 +19,7 @@ Em 2016 a Prefeitura de SP (na gestão Haddad, PT) aprovou uma lei que tinha com
 
 O programa não foi pra frente por falta de estudos que demonstrassem a viabilidade, mas numa parceria com a USP (pelo Instituto de Matemática) esse estudo será iniciado.
 
-<blockquote class="citacao">(o objetivo é) avaliar a viabilidade do programa que integra bicicleta e transporte público.</blockquote><cite style="text-align: right; display: block;">Fábio Kon, professor do IME-USP e coordenador do projeto</cite>
+<blockquote class="citacao">(o objetivo é) avaliar a viabilidade do programa que integra bicicleta e transporte público.</blockquote><cite>Fábio Kon, professor do IME-USP e coordenador do projeto</cite>
 
 O Instituto desenvolveu um aplicativo no qual os ciclitas registrados ao programa de testes cadastram suas corridas e a partir delas será creditado um valor ao Bilhete Único do ciclista. Alias, é necessário ter um bilhete Único ativo para participar da fase de testes.  
 

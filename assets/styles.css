@@ -295,8 +295,15 @@ blockquote {
   border-left: 7px solid var(--color-link);
   padding-left: 7px;
   padding-top: 10px;
-  padding-bottom: 10px;
 }
+
+cite {
+  display: block;
+  font-style: italic;
+  text-align: right;
+  max-width: 100%;
+}
+
 
 /* INÍCIO Estilo especial para blockquote em posts com type: frase */
 article.blog-article.blog-citacao blockquote {
@@ -330,6 +337,7 @@ article.blog-article.blog-citacao cite {
   margin-top: 40px;
 }
 /* FINAL Estilo especial para blockquote em posts com type: frase */
+
 
 .aviso { 
   font-size: 14px;
