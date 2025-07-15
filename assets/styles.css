@@ -299,13 +299,14 @@ blockquote {
   font-size: 17px;
   font-style: italic;
   margin: 20px 0px 20px 30px;
-  max-width: 75%;
+  max-width: 80%;
 }
 
 .citacao {
   border-left: 7px solid var(--color-link);
   padding-left: 7px;
   padding-top: 10px;
+  padding-bottom: 10px;
 }
 
 cite {
