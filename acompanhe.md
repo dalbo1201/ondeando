@@ -15,7 +15,7 @@ Não quer mais? Fácil: cancele a inscrição no feed.</p>
 
 <aside style="text-align: center;"><code style="background-color: var(--color-link); color: var(--color-background); padding: 2px 5px; display: inline-block;">https://pedro.dalbo.me/feed.xml</code></aside>
 
-<p>Ainda não tem um aplicativo ou leitor de feeds ou quer saber um pouco mais, acesse <a href="https://aboutfeeds.com/" title="Pode usar o tradutor nele sem problemas">este site<sup>[en]</sup></a> que tem mais explicações e dicas de aplicativos.</p>
+<p>Ainda não tem um aplicativo ou leitor de feeds ou quer saber um pouco mais, acesse <a href="https://aboutfeeds.com/" title="Original em inglês">este site<sup>[en]</sup></a> <a href="https://aboutfeeds-com.translate.goog/?_x_tr_sl=en&_x_tr_tl=pt&_x_tr_hl=pt-BR&_x_tr_pto=wapp" title="Traduzido para o português"><sup>[pt-br]</sup></a> que tem mais explicações e dicas de aplicativos.</p>
 
 <p>Se você usa um celular Android me dou a liberdade de recomendar o <a href="https://play.google.com/store/apps/details?id=com.capyreader.app" title="Um leitor que tem uma Capivara de mascote S2">Capy Reader</a>, um aplicativo de leitor de RSS super leve, simples e que tem como ícone uma Capivara. Tem como ser melhor? Dúvido!</p>
 

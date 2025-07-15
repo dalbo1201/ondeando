@@ -167,6 +167,7 @@ h1 { /* cabeçalho de saudação */
   align-self: flex-end; /* Alinha o bloco à direita */
 }
 
+/* INÍCIO Links */
 a:link,
 a:visited,
 a:active,
@@ -192,6 +193,16 @@ a.linkdata:active,
 a.linkdata:hover {
   color: var(--color-data);
 }
+
+.texto-geral a {
+  white-space: nowrap;  /* impede quebra dentro da tag */
+}
+
+.blog-tag a {
+  white-space: nowrap;  /* impede quebra dentro da tag */
+}
+/* INÍCIO Links */
+
 
 figure {
   margin: 0; /* Remove a margem padrão do figure */
@@ -381,10 +392,6 @@ article.blog-article.blog-citacao cite {
   display: flex;        /* organiza como linha */
   flex-wrap: wrap;      /* permite que as tags pulem de linha */
   gap: 0.5em;           /* espaço entre tags */
-}
-
-.blog-tag a {
-  white-space: nowrap;  /* impede quebra dentro da tag */
 }
 
 
