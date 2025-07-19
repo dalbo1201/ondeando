@@ -298,7 +298,7 @@ figcaption {
 blockquote { 
   font-size: 17px;
   font-style: italic;
-  margin: 20px 0px 20px 30px;
+  margin: 20px 0px 20px 15px;
   max-width: 80%;
 }
 
@@ -321,7 +321,7 @@ cite {
 article.blog-article.blog-citacao blockquote {
   font-size: 17px;
   font-style: italic;
-  margin: 20px 0px 20px 30px;
+  margin: 20px 0px 20px 15x;
   max-width: 75%;
   position: relative;
   display: inline-block;
