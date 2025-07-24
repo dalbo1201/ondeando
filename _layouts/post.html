@@ -3,7 +3,7 @@
 {% include header.html %}
 
 <main>
-  <h1><span aria-hidden="true">|</span><span class="h1-menor">meu</span>Blog<span class="h1-menor"> Ondeando</span> </h1>
+  <h1><span aria-hidden="true">|</span><span class="h1-menor">meu</span>Blog</h1>
 
 <article class="blog-article {% if  page.type == 'frase'%}blog-citacao{% elsif page.type == 'notas' %}blog-notas{% endif %}">
   <p class="blog-data">{{ page.date | date: "%d/%m/%Y" }}</p>
