@@ -126,7 +126,7 @@ hr {
 .fotocab {
   width: 50px; 
   height: 50px;
-  border-radius: 50%;
+  border-radius: 15%;
   object-fit: cover;
   border: 1px solid var(--color-link);
   flex-shrink: 0; /* Evita que a imagem diminua além do tamanho mínimo */
@@ -216,12 +216,12 @@ figcaption {
   width: 100%; /* Garante que a legenda ocupe toda a largura do contêiner */
 }
 
-.image-erro {
+.imagem-erro {
   float: right;
   max-width: 30%;
 }
 
-.image-erro img {
+.imagem-erro img {
   width: 100%;
   height: auto;
   border-radius: 50%;
@@ -680,7 +680,7 @@ footer {
 .gallery ul.embedded.blog-posts {
     grid-template-columns: 1fr;
 }
-.image-erro {
+.imagem-erro {
     max-width: 50%; /* <-- Aqui você ajusta o tamanho da imagem em telas pequenas */
 }
 
