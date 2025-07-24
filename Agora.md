@@ -15,8 +15,8 @@ excerpt: Uma atualizaçao quinzenal? Talvez.
 Filmes que vi <a href="https://letterboxd.com/dalbo1201/films/diary/" class="linkcab">&#127916;</a>:
 <ul>
 <li>Star Wars: Episódio I - A ameaça Fantasma&nbsp;| George Lucas, 1999&nbsp;| Disney+;&nbsp;↺</li>
-<li>Jurado Nº2&nbsp;| Clint Eastwood, 2025&nbsp;| HBO Max;&nbsp;</li>
-<li>Mickey 17&nbsp;| Bong Joon Ho, 2025&nbsp;| HBO Max;&nbsp;</li>
+<li>Jurado Nº2&nbsp;| Clint Eastwood, 2025&nbsp;| HBO&nbsp;Max;&nbsp;</li>
+<li>Mickey 17&nbsp;| Bong Joon Ho, 2025&nbsp;| HBO&nbsp;Max;&nbsp;</li>
 <li>Superman&nbsp;| James Gunn, 2025&nbsp;| Cinema;&nbsp;</li>
 <li>The Old Guard 2&nbsp;| Victoria Mahoney, 2025&nbsp;| Netflix.&nbsp;</li>
 </ul>
