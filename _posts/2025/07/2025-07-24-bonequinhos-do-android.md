@@ -4,7 +4,7 @@ type: album
 title: "Meus bonecos do Android"
 date: 2025-07-24 12:00:00 -0300
 image: /assets/fotos/2025/07/bonecos-android.jpg
-caption: "Um cantinho confortável [...]"
+caption: "Meus bonequinhos [...]"
 tags: ["a vida, o universo e tudo mais","casa","fotos"]
 permalink: "/fotolog/bonequinhos-do-android"
 ---
