@@ -7,7 +7,7 @@ excerpt: Um mapa para o site.
 <span aria-hidden="true">|</span>Barra Invertida
 </h1>
 <section class="texto-geral">
-<p>A página <i>/Slash</i> (ou /BarraInvertida) foi nomeada por <a href="https://calebhearth.com/" title="o jardim de Caleb">Caleb Hearth</a> e <a href="https://shellsharks.com/" title="o jardim de Shellsharks">Shellsharks</a>.</p>
+<p>A página <i>/Slash</i> (ou /Barra) foi nomeada por <a href="https://calebhearth.com/" title="o jardim de Caleb">Caleb Hearth</a> e <a href="https://shellsharks.com/" title="o jardim de Shellsharks">Shellsharks</a>.</p>
 <p>Por aqui você encontra os caminhos para todas as páginas deste cantinho na web:</p>
 <ul>
 <li><a href="{{ site.url }}/acompanhe" title="acompanhe">Acompanhe</a>: Explica o que é o FEED/RSS, indica o caminho para o XML que você deverá inserir no seu leitor preferido. Além de recomendar um leitor de FEED, caso não tenha um e use Android.</li>
