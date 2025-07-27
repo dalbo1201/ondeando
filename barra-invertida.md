@@ -4,7 +4,7 @@ title: barra invertida
 excerpt: Um mapa para o site.
 ---
 <h1>
-<span aria-hidden="true">|</span>Barra Invertida
+<span aria-hidden="true">|</span>Barras
 </h1>
 <section class="texto-geral">
 <p>A página <i>/Slash</i> (ou /Barra) foi nomeada por <a href="https://calebhearth.com/" title="o jardim de Caleb">Caleb Hearth</a> e <a href="https://shellsharks.com/" title="o jardim de Shellsharks">Shellsharks</a>.</p>
