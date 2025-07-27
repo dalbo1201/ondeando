@@ -1,8 +1,9 @@
 ---
-layout: feed
-title: Acompanhe este humilde blog
+layout: paginas
+title: Acompanhe
 excerpt: Um caminho para acompanhar aquilo que eu posto neste pequeno cantinho.
 ---
+<h1><span aria-hidden="true">|</span><span class="h1-menor">um</span>Feed<span class="h1-menor"> para acompanhar</span> </h1>
 <section class="texto-geral">
 <p>O FEED ou o <i>famigerado</i> RSS é uma forma simples de acompanhar muitas coisas na internet, entre canais do YouTube, podcasts ou blogs, como este aqui.</p>
 <p>Os feeds colocam você no controle. É como assinar um podcast ou seguir uma empresa no Instagram. A vantagem é que você não precisa pagar ou entregar seu endereço de email, você obtém o conteúdo mais recente sem ter que visitar muitos sites e sem sobrecarregar sua caixa de entrada. Não quer mais? Fácil: cancele a inscrição no feed.</p>

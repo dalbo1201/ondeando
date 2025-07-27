@@ -7,21 +7,22 @@
   <meta name="description" content="Pedro é engenheiro civil apaixonado por tecnologia.">
 
   {% feed_meta %}
-  {% if page.layout == 'default' or page.layout == 'profissional' %}<meta name="robots" content="index,follow">
+  {% if page.title == 'Pedro Dal Bó' or page.title == 'profissional' %}<meta name="robots" content="index,follow">
   {% else %}<meta name="robots" content="noindex,follow">
   {% endif %}
 
-  {% if page.layout == 'default'%}<title>Pedro Dal Bó</title>
-  {% elsif page.layout == 'blog'%}<title>Blog | Pedro Dal Bó</title>
+  {% if page.title == 'Pedro Dal Bó'%}<title>Pedro Dal Bó</title>
+  {% elsif page.title == 'O que estou fazendo'%}<title>Agora | Pedro Dal Bó</title>
+  {% elsif page.title == 'Ondeando'%}<title>Blog | Pedro Dal Bó</title>
   {% elsif page.layout == 'post'%}<title>{{ page.title }} | Blog | Pedro Dal Bó</title>
-  {% elsif page.layout == 'agora'%}<title>Agora | Pedro Dal Bó</title>
+  {% elsif page.title == 'barra invertida'%}<title>Barra Invertida | Pedro Dal Bó</title>
   {% elsif page.layout == 'fotolog'%}<title>Fotolog | Pedro Dal Bó</title>
   {% elsif page.layout == 'foto'%}<title>{{ page.title }} | Fotolog | Pedro Dal Bó</title>
   {% elsif page.layout == 'post-em-tags'%}<title>Posts por Tags | Pedro Dal Bó</title>
   {% elsif page.layout == 'tags'%}<title>Tags | Pedro Dal Bó</title>
-  {% elsif page.layout == 'feed'%}<title>FEED | Pedro Dal Bó</title>
-  {% elsif page.layout == 'erro'%}<title>Erro | Pedro Dal Bó</title>
-  {% elsif page.layout == 'profissional'%}<title>Profissional | Pedro Dal Bó</title>
+  {% elsif page.title == 'Acompanhe'%}<title>FEED | Pedro Dal Bó</title>
+  {% elsif page.title == 'erro'%}<title>Erro | Pedro Dal Bó</title>
+  {% elsif page.title == 'profissional'%}<title>Profissional | Pedro Dal Bó</title>
   {% endif %}
 
   <!-- Links -->

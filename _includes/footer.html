@@ -1,4 +1,4 @@
-{% if page.layout == 'default'%}
+{% if page.title == 'Pedro Dal Bó'%}
 
 <footer>
   <aside class="footer-left">
@@ -10,13 +10,14 @@
     </a>
   </aside>
   <div class="footer-right">
+    <a href="{{ site.url }}/barra-invertida" title="Barra invertida">/...</a>&nbsp;|&nbsp;
     <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/deed.pt-br" title="Licensa de uso">CC BY-NC-SA 4.0</a>&nbsp;|&nbsp;
     2006–2025&nbsp;|
     {% include modal-aviso.html %}
   </div>
 </footer>
 
-{% elsif page.layout == 'profissional' or page.layout == 'erro' %}
+{% elsif page.title == 'profissional' or page.title == 'erro' %}
 
 <footer>
   <div class="footer-right">
@@ -38,7 +39,7 @@
     </a>
   </aside>
   <div class="footer-right">
-    <a rel="alternate" type="application/rss+xml" href="{{ site.url }}/acompanhe" title="Acompanhe">FEED</a>&nbsp;|
+    <a href="{{ site.url }}/barra-invertida" title="Barra invertida">/...</a>&nbsp;|&nbsp;
     <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/deed.pt-br" title="Licensa de uso">CC BY-NC-SA 4.0</a>&nbsp;|&nbsp;
     2006–2025&nbsp;|
     {% include modal-aviso.html %}

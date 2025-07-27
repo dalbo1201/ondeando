@@ -1,8 +1,17 @@
 ---
-layout: agora
+layout: paginas
 title: O que estou fazendo
 excerpt: Uma atualizaçao quinzenal? Talvez.
 ---
+<h1>
+<span aria-hidden="true">|<span class="h1-menor">e </span></span>Agora<span class="h1-menor">, o que estou fazendo?</span>
+</h1>
+<section class="texto-geral">
+    <p>A página /now (ou "/agora" em português) é originada do movimento <a href="https://nownownow.com/about" title="O que é uma página /Now?">Now Page</a> iniciado por Derek Sivers.<br/>
+    Imagine que você tem aquele amigo que não o vê há muito tempo, aqui você conta para ele o que tem acontecido e feito ultimamente.</p>
+    <p>Bom, é isso o que vai encontrar por aqui.</p>
+</section>
+<hr>
 <section class="texto-geral">
 <p>Seguindo com meu trabalho na CEMOSA como engenheiro de projetos rodoviários. Voltei a fazer projetos de terraplenagem, tinha um tempo que havia parado e agora estou tirando o pó da memória.</p>
 <p>Estamos numa batalha para deixar nossos gatos vivendo em alguma harmonia, temos uma evolução, mas ainda pequenas batalhas a vencer.</p>
