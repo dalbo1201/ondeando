@@ -7,7 +7,7 @@ excerpt: Uma atualizaçao quinzenal? Talvez.
 <span aria-hidden="true">|<span class="h1-menor">e </span></span>Agora<span class="h1-menor">, o que estou fazendo?</span>
 </h1>
 <section class="texto-geral">
-    <p>A página /now (ou "/agora" em português) é originada do movimento <a href="https://nownownow.com/about" title="O que é uma página /Now?">Now Page</a> iniciado por Derek Sivers.<br/>
+    <p>A página /now (ou /agora em português) é originada do movimento <a href="https://nownownow.com/about" title="O que é uma página /Now?">Now Page</a> iniciado por Derek Sivers.<br/>
     Imagine que você tem aquele amigo que não o vê há muito tempo, aqui você conta para ele o que tem acontecido e feito ultimamente.</p>
     <p>Bom, é isso o que vai encontrar por aqui.</p>
 </section>
