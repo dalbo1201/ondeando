@@ -1,0 +1,25 @@
+{% include head.html %}
+
+{% include header.html %}
+
+<main>
+  
+  {{ content }}
+
+<ul class="lista-tags" style="margin-left: 15px; line-height: 25px;">
+  {% assign tags = site.tags | sort %}
+  {% for tag in tags %}
+    <li>
+    <a href="/posts-em-tags/#{{ tag[0] | slugify }}" id="{{ tag[0] | slugify }}">#{{ tag[0] }}</a>
+    </li>
+  {% endfor %}
+</ul>
+  
+</main>
+
+<aside style="text-align: center;"><a href="#" class="nav-topo">&#8593 Topo</a></aside>
+
+{% include footer.html %}
+
+</body>
+</html>

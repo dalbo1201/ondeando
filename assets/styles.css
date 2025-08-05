@@ -395,6 +395,18 @@ article.blog-article.blog-citacao cite {
   gap: 0.5em;           /* espaço entre tags */
 }
 
+.nuvem-tag {
+font-family: monospace;
+  font-size: 13px;
+  display: flex;
+  flex-wrap: wrap;
+  text-wrap: balance;
+  justify-content: center;
+
+  gap: 2px 10px;
+}
+
+
 
 /* estilo para lista de posts por tag em tabela */
 ul.lista-tags {
@@ -446,7 +458,7 @@ table.tabela-posts td {
 /* Para Tags */
 
 /* INÍCIO DA Navegação de Paginação */
-.pagination-container {
+.pagination {
   display: flex;
   justify-content: space-between; /* Garante que os itens fiquem nos extremos opostos */
   align-items: center; /* Alinha verticalmente os itens */
@@ -456,15 +468,15 @@ table.tabela-posts td {
   flex-shrink: 0; /* Evita que a paginação encolha */
 }
 
-.pagination-container .nav-recente {
+.pagination .nav-recente {
   margin-right: auto; /* Alinha o link "Anterior" à esquerda */
 }
 
-.pagination-container .nav-anterior {
+.pagination .nav-anterior {
   margin-left: auto; /* Alinha o link "Próximo" à direita */
 }
 
-.pagination-container .nav-topo {
+.pagination .nav-topo {
   margin: auto; /* Centraliza  link "Topo" */
 }
 /* FINAL DA Navegação de Paginação */

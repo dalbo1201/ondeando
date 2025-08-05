@@ -15,7 +15,7 @@
         {% for post in tag[1] %}
           <tr class="linha-post">
             <td class="data-tag">{{ post.date | date: "%d/%m/%Y" }}</td>
-            <td class="titulo-post"><a href="{{ post.url | relative_url }}" class="linkum">{{ post.title }}</a></td>
+            <td class="titulo-post"><a href="{{ post.url | relative_url }}">{{ post.title }}</a></td>
           </tr>
         {% endfor %}
       </table>

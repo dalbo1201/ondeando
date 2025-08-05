@@ -6,18 +6,34 @@
   
   {{ content }}
 
-<ul class="lista-tags" style="margin-left: 15px; line-height: 25px;">
-  {% assign tags = site.tags | sort %}
+{% assign tags = site.tags | sort %}
+
+<section class="nuvem-tag">
+  {% for tag in tags %}
+    <a href="#{{ tag[0] | slugify }}">#{{ tag[0] }}</a> 
+  {% endfor %}
+</section>
+
+<ul class="lista-tags">
   {% for tag in tags %}
     <li>
-    <a href="/posts-em-tags/#{{ tag[0] | slugify }}" id="{{ tag[0] | slugify }}">#{{ tag[0] }}</a>
+      <h3 id="{{ tag[0] | slugify }}">#{{ tag[0] }} <a href="#" class="linkdata">&#8593</a></h3>
+      <table class="tabela-posts">
+        {% for post in tag[1] %}
+          <tr class="linha-post">
+            <td class="data-tag">{{ post.date | date: "%d/%m/%Y" }}</td>
+            <td class="titulo-post"><a href="{{ post.url | relative_url }}">{{ post.title }}</a></td>
+          </tr>
+        {% endfor %}
+      </table>
     </li>
   {% endfor %}
 </ul>
+
   
 </main>
 
-<aside style="text-align: center;"><a href="#" class="linkum nav-topo">&#8593 Topo</a></aside>
+<aside style="text-align: center;"><a href="#" class="nav-topo">&#8593 Topo</a></aside>
 
 {% include footer.html %}
 

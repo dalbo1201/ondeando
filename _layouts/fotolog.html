@@ -30,13 +30,13 @@
 </main>
 
 {% if paginator.total_pages > 1 %} 
-  <section class="pagination-container">
+  <section class="pagination">
     {% if paginator.previous_page %} 
-      <a href="{{ paginator.previous_page_path | relative_url }}" class="linkum nav-recente">&laquo; Recentes</a>
+      <a href="{{ paginator.previous_page_path | relative_url }}" class="nav-recente">&laquo; Recentes</a>
     {% endif %}
-    <a href="#" class="linkum nav-topo">&#8593 Topo</a>
+    <a href="#" class="nav-topo">&#8593 Topo</a>
     {% if paginator.next_page %}
-      <a href="{{ paginator.next_page_path | relative_url }}" class="linkum nav-anterior">Antigos &raquo;</a>
+      <a href="{{ paginator.next_page_path | relative_url }}" class="nav-anterior">Antigos &raquo;</a>
     {% endif %}
   </section>
 {% endif %}
