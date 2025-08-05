@@ -23,23 +23,20 @@ excerpt: Uma atualizaçao quinzenal? Talvez.
 </ul>
 Filmes que vi <a href="https://letterboxd.com/dalbo1201/films/diary/" class="linkcab">&#127916;</a>:
 <ul>
-<li>Star Wars: Episódio I - A ameaça Fantasma&nbsp;| George Lucas, 1999&nbsp;| Disney+;&nbsp;↺</li>
-<li>Jurado Nº2&nbsp;| Clint Eastwood, 2025&nbsp;| HBO&nbsp;Max;&nbsp;</li>
-<li>Mickey 17&nbsp;| Bong Joon Ho, 2025&nbsp;| HBO&nbsp;Max;&nbsp;</li>
-<li>Superman&nbsp;| James Gunn, 2025&nbsp;| Cinema;&nbsp;</li>
-<li>The Old Guard 2&nbsp;| Victoria Mahoney, 2025&nbsp;| Netflix.&nbsp;</li>
+<li>Nesse intervalo não rolou filme... :(</li>
 </ul>
 Séries que estou vendo <a href="https://tvtime.com/r/38uUh" class="linkcab">&#128250;</a>:
 <ul>
 <li>Strange New Worlds&nbsp;| Paramount+&nbsp;| temporada&nbsp;3;</li>
-<li>Yellowjackets&nbsp;| Paramount+&nbsp;| temporada&nbsp;3;</li>
 <li>Arcane&nbsp;| Netflix | temporada&nbsp;2;</li>
 <li>Invencível&nbsp;| Prime Video&nbsp;| temporada&nbsp;2;</li>
+<li>IronHeart&nbsp;| Disney+&nbsp;| temporada&nbsp;1;</li>
+<li>The Leftovers&nbsp;| HBO&nbsp;Max&nbsp;| temporada&nbsp;1;</li>
 <li>Twin Peaks&nbsp;| Mubi&nbsp;| temporada&nbsp;2;&nbsp;↺</li>
 <li>Arquivo X&nbsp;| Disney+&nbsp;| temporada&nbsp;1;&nbsp;↺</li>
 <li>Breaking Bad&nbsp;| Netflix&nbsp;| temporada&nbsp;4.&nbsp;↺</li>
 </ul>
 </section>
 <aside class="atualizacao">
-atualizado em 19 de julho de 2025.
+atualizado em 05 de agosto de 2025.
 </aside>

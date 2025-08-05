@@ -397,12 +397,11 @@ article.blog-article.blog-citacao cite {
 
 .nuvem-tag {
 font-family: monospace;
-  font-size: 13px;
+  font-size: 14px;
   display: flex;
   flex-wrap: wrap;
   text-wrap: balance;
   justify-content: center;
-
   gap: 2px 10px;
 }
 
@@ -480,8 +479,6 @@ table.tabela-posts td {
   margin: auto; /* Centraliza  link "Topo" */
 }
 /* FINAL DA Navegação de Paginação */
-
-
 
 /* Tipos de posts */
  article.blog-article.blog-citacao .blog-title,
@@ -677,7 +674,7 @@ footer {
   justify-content: center;
 }
 
-/* Centraliza a galeria horizontalmente em telas menores */
+/* INÍCIO Centraliza a galeria horizontalmente em telas menores */
 .foto-post {
   justify-content: center;
 }
@@ -692,6 +689,8 @@ footer {
 .gallery ul.embedded.blog-posts {
     grid-template-columns: 1fr;
 }
+/* FINAL Centraliza a galeria horizontalmente em telas menores */
+
 .imagem-erro {
     max-width: 50%; /* <-- Aqui você ajusta o tamanho da imagem em telas pequenas */
 }
@@ -700,4 +699,8 @@ footer {
 .alert-modal {
   max-width: 80%;
 }
+
+.nuvem-tag {
+  font-size: 13px;
+} 
 }
