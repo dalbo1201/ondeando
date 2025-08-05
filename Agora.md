@@ -28,6 +28,7 @@ Filmes que vi <a href="https://letterboxd.com/dalbo1201/films/diary/" class="lin
 Séries que estou vendo <a href="https://tvtime.com/r/38uUh" class="linkcab">&#128250;</a>:
 <ul>
 <li>Strange New Worlds&nbsp;| Paramount+&nbsp;| temporada&nbsp;3;</li>
+<li>Sandman | Netflix&nbsp;| temporada&nbsp;2;</li>
 <li>Arcane&nbsp;| Netflix | temporada&nbsp;2;</li>
 <li>Invencível&nbsp;| Prime Video&nbsp;| temporada&nbsp;2;</li>
 <li>IronHeart&nbsp;| Disney+&nbsp;| temporada&nbsp;1;</li>
