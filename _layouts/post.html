@@ -10,7 +10,7 @@
   <h2 class="blog-title">{{ page.title }}</h2>
   <p class="blog-tag">
     {% for tag in page.tags %}
-    <a href="/posts-em-tags/#{{ tag | slugify }}">#{{ tag }}</a>
+    <a href="/tags/#{{ tag | slugify }}">#{{ tag }}</a>
     {% endfor %}
    </p>
   <div class="blog-post">
