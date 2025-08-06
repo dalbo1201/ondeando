@@ -32,7 +32,7 @@ Séries que estou vendo <a href="https://tvtime.com/r/38uUh" class="linkcab">&#1
 <li>Arcane&nbsp;| Netflix | temporada&nbsp;2;</li>
 <li>Invencível&nbsp;| Prime Video&nbsp;| temporada&nbsp;2;</li>
 <li>IronHeart&nbsp;| Disney+&nbsp;| temporada&nbsp;1;</li>
-<li>The Leftovers&nbsp;| HBO&nbsp;Max&nbsp;| temporada&nbsp;1;</li>
+<li><a href="{{ site.url }}/blog/assistindo-the-leftovers/" title="comecei a assistir">The Leftovers</a>&nbsp;| HBO&nbsp;Max&nbsp;| temporada&nbsp;1;</li>
 <li>Twin Peaks&nbsp;| Mubi&nbsp;| temporada&nbsp;2;&nbsp;↺</li>
 <li>Arquivo X&nbsp;| Disney+&nbsp;| temporada&nbsp;1;&nbsp;↺</li>
 <li>Breaking Bad&nbsp;| Netflix&nbsp;| temporada&nbsp;4.&nbsp;↺</li>
