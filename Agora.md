@@ -16,6 +16,7 @@ excerpt: Uma atualizaçao quinzenal? Talvez.
 <p>Seguindo com meu trabalho na CEMOSA como engenheiro de projetos rodoviários. Voltei a fazer projetos de terraplenagem, tinha um tempo que havia parado e agora estou tirando o pó da memória.</p>
 <p>Estamos numa batalha para deixar nossos gatos vivendo em alguma harmonia, temos uma evolução, mas ainda pequenas batalhas a vencer.</p>
 <p>Seguindo com o <i>hérculeo trabalho</i> de deixar a casa do jeito que a gente gosta e deseja. Tá aí algo que não deve acabar nunca...</p>
+<p><a href="{{ site.url }}/blog/esse-mes-recomecei-a-treinar/" title="voltando a cuidar da saúde">Recomeçando a treinar em casa</a>, o objetivo maior é envelhecer com alguma qualidade de vida. Não quero perder a parca massa muscular que tenho e preciso manter a capacidade de movimentos simples como agachar, levantar do chão. Coisas simples mas que no futuro podem se tornar difíceis de executar. Claro que no processo a gente quer melhorar outras questões, só não é meu objetivo principal.</p>
 </section>
 <section class="estou-fazendo">Estou lendo:
 <ul>
@@ -39,5 +40,5 @@ Séries que estou vendo <a href="https://tvtime.com/r/38uUh" class="linkcab">&#1
 </ul>
 </section>
 <aside class="atualizacao">
-atualizado em 05 de agosto de 2025.
+atualizado em 08 de agosto de 2025.
 </aside>
