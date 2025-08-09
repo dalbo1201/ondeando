@@ -1,0 +1,41 @@
+{% include head.html %}
+
+{% include header.html %}
+
+<main>
+
+  {{ content }}
+
+  {% for post in paginator.posts %}
+    <article class="blog-article {% if post.type == 'frase' %}blog-citacao{% elsif post.type == 'notas' %}blog-notas{% endif %}">
+      <p class="blog-data">
+        <a href="{{ post.url | relative_url }}" class="linkdata"> {{ post.date | date: "%d/%m/%Y" }}</a>
+      </p>
+      <h2 class="blog-title">
+        <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+      </h2>
+      <div class="blog-post">
+        {{ post.content | markdownify }}
+      </div>
+      <p class="blog-seta"><a href="{{ post.url | relative_url }}" class="linkdata">+</a></p>
+    </article>
+  {% endfor %}
+
+</main>
+
+{% if paginator.total_pages > 1 %} 
+  <section class="pagination">
+    {% if paginator.previous_page %} 
+      <a href="{{ paginator.previous_page_path | relative_url }}" class="nav-recente">&laquo; Recentes</a>
+    {% endif %}
+    <a href="#" class="nav-topo">&#8593 Topo</a>
+    {% if paginator.next_page %}
+      <a href="{{ paginator.next_page_path | relative_url }}" class="nav-anterior">Antigos &raquo;</a>
+    {% endif %}
+  </section>
+{% endif %}
+
+{% include footer.html %}
+
+</body>
+</html>

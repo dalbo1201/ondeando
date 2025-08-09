@@ -3,37 +3,29 @@
 {% include header.html %}
 
 <main>
-
+  
   {{ content }}
 
-  {% for post in paginator.posts %}
-    <article class="blog-article {% if post.type == 'frase' %}blog-citacao{% elsif post.type == 'notas' %}blog-notas{% endif %}">
-      <p class="blog-data">
-        <a href="{{ post.url | relative_url }}" class="linkdata"> {{ post.date | date: "%d/%m/%Y" }}</a>
-      </p>
-      <h2 class="blog-title">
-        <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
-      </h2>
-      <div class="blog-post">
-        {{ post.content | markdownify }}
-      </div>
-      <p class="blog-seta"><a href="{{ post.url | relative_url }}" class="linkdata">+</a></p>
-    </article>
-  {% endfor %}
+<ul class="lista-tags">
+  <table class="tabela-posts">
+      {% assign sorted_posts = site.posts | sort: 'date' | reverse %}
+      {% for post in sorted_posts %}
+        <tr class="linha-post">
+          <td class="data-tag">{{ post.date | date: "%d/%m/%Y" }}</td>
+          <td class="titulo-post" style="text-wrap: pretty;">
+            <a href="{{ post.url | relative_url }}" style="display: inline;">{{ post.title }}</a>
+            {% if post.type == "album" %}
+              <span style="display: inline;">&#x1F4F7;</span>
+            {% endif %}
+          </td>
+        </tr>
+      {% endfor %}
+  </table>
+</ul>
 
 </main>
 
-{% if paginator.total_pages > 1 %} 
-  <section class="pagination">
-    {% if paginator.previous_page %} 
-      <a href="{{ paginator.previous_page_path | relative_url }}" class="nav-recente">&laquo; Recentes</a>
-    {% endif %}
-    <a href="#" class="nav-topo">&#8593 Topo</a>
-    {% if paginator.next_page %}
-      <a href="{{ paginator.next_page_path | relative_url }}" class="nav-anterior">Antigos &raquo;</a>
-    {% endif %}
-  </section>
-{% endif %}
+<aside style="text-align: center;"><a href="#" class="nav-topo">&#8593 Topo</a></aside>
 
 {% include footer.html %}
 
