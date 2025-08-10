@@ -3,7 +3,7 @@ layout: post
 type: texto
 title: "Segundo dia: 18/01/2008"
 date: 2008-02-24 08:00:00 -0000
-tags: ["a vida, o universo e tudo mais"]
+tags: ["passeios"]
 ---
 Continuamos a viagem rumo à Foz do Iguaçú.
 
