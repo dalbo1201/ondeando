@@ -312,6 +312,7 @@ blockquote {
 cite {
   display: block;
   font-style: italic;
+  text-wrap: balance;
   text-align: right;
   max-width: 100%;
 }
