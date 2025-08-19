@@ -10,4 +10,4 @@ A diversidade contém tantos tesouros quanto aqueles que nos aguardam em outros 
 </blockquote>
 <cite>Gene Roddenberry, criador de Star Trek</cite>
 
-Há 104 anos nascia o criador de uma série que revolucionária a TV, a ficção científica e seria uma força no entendimento de que a união e aceitar o outro é fundamental pro crescimento da humanidade.
+Há 104 anos nascia o criador de uma série que revolucionária a TV, a ficção científica e seria uma força no entendimento de que a união e aceitar o outro é fundamental para o crescimento da humanidade.
