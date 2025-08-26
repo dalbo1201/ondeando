@@ -3,7 +3,7 @@ layout: post
 type: texto
 title: "Tenho um outro blog que..."
 date: 2025-08-24 12:15:00 -0300
-tags: ["metablog","pensamentos"]
+tags: ["informática","metablog","pensamentos"]
 ---
 Eu tenho um outro blog, o [Historias para Ler](https://historiasparaler.blog.br), que está hospedado no Blogger.  
 
@@ -13,7 +13,7 @@ Não só eu, durante a faculdade convidei alguns amigos do curso de engenharia e
 
 Durante a pandemia, um pouco antes e depois, me esqueci do blog, mas teve gente que manteve uma rotina lá.  
 
-Agradeço a Raquel por isso.  
+Agradeço a <a href="https://raquellinhares.blogspot.com/" title="blog da Raquel">Raquel</a> por isso.  
 
 Voltei a escrever esse ano depois que reativei meu blog pessoal nesta página quando transformei isso aqui em mais que uma página com um resumo profissional e virou **meu cantinho na internet**.  
 
