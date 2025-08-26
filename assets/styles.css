@@ -81,12 +81,13 @@ footer {
 .footer-left {
   display: flex;
   align-items: center;
+  gap: 11px; /* Espaço entre os links */
 }
 
 .footer-right {
   display: flex;
   align-items: center;
-  gap: 5px; /* Espaço entre os links */
+  gap: 3px; /* Espaço entre os links */
   margin-left: auto; /* Garante que fique à direita mesmo se não houver .footer-left */
 }
 
@@ -96,14 +97,15 @@ nav {
 }
 
 nav ul {
-    display: flex;
-    gap: 3px;
-    list-style: none;
-    padding: 0;
-    margin: 0;
+  display: flex;
+  gap: 3px;
+  list-style: none;
+  padding: 0;
+  margin: 0;
 }
+
 nav li {
-    margin: 0;
+  margin: 0;
 }
 
 hr {
@@ -553,7 +555,7 @@ table.tabela-posts td {
   display: inline-block;
   cursor: pointer;
   border-radius: 50%;
-  padding: 0.5em;
+  padding: 0.3em;
   transition: background-color 0.3s ease, color 0.3s ease;
   color: #b90000;
 }
