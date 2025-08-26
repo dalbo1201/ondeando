@@ -5,7 +5,7 @@ title: "Tenho um outro blog que..."
 date: 2025-08-24 12:15:00 -0300
 tags: ["informática","metablog","pensamentos"]
 ---
-Eu tenho um outro blog, o [Historias para Ler](https://historiasparaler.blog.br), que está hospedado no Blogger.  
+Eu tenho um outro blog, o [Histórias para Ler](https://historiasparaler.blog.br), que está hospedado no Blogger.  
 
 Tenho esse blog desde 2007, se não me engano. Nele, eu escrevo apenas comentários sobre os livros que leio.  
 
