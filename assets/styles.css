@@ -680,7 +680,7 @@ footer {
   justify-content: center;
 }
 .foto-post .mais-fotos {
-  width: 100%; /* Ajusta a largura das imagens para 50% em telas menores */
+  width: 100%; /* Ajusta a largura das imagens para 100% em telas menores */
 }
 
 .foto-post-flutua {

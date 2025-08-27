@@ -11,7 +11,7 @@
 {% assign all_posts = site.posts | where: "type", "album" %}
 {% assign offset = paginator.page | minus: 1 | times: paginator.per_page %}
 {% assign posts_to_show = all_posts | slice: offset, paginator.per_page %}
-
+ 
     
     {% for post in posts_to_show %}
       <li>
