@@ -621,6 +621,30 @@ table.tabela-posts td {
 }
 /* FINAL - Botão de alerta */
 
+/* INÍCIO PARA A PÁGINA DE MÍDIAS */
+.social {
+  display: flex;
+  align-items: center;
+  margin: 10px;
+}
+
+.social ul {
+  list-style: none;
+}
+
+.social li {
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 7px;
+}
+
+.social i {
+  font-size: 20px;
+  margin-right: 8px;
+}
+
+/* FINAL PARA A PÁGINA DE MÍDIAS */
+
 
 /* Ajustes para telas menores */
 @media only screen and (max-width: 512px) {
