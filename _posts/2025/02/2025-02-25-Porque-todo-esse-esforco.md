@@ -3,7 +3,7 @@ layout: post
 type: texto
 title: "Por que todo esse esforço?"
 date: 2025-02-25 22:00:00
-tags: ["a vida, o universo e tudo mais", "informática", "metablog"]
+tags: ["a vida, o universo e tudo mais", "metablog", "pensamentos"]
 ---
 As pessoas costumam me perguntar porquê eu tenho um email com um domínio próprio. 
 

@@ -57,6 +57,23 @@ header {
   gap: 10px;
 }
 
+nav {
+  font-size: 14px;
+  font-weight: bold;
+}
+
+nav ul {
+  display: flex;
+  gap: 5px;
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+nav li {
+  margin: 0;
+}
+
 main {
   padding: 0px;
   margin-top: 40px;
@@ -87,25 +104,8 @@ footer {
 .footer-right {
   display: flex;
   align-items: center;
-  gap: 3px; /* Espaço entre os links */
+  gap: 5px; /* Espaço entre os links */
   margin-left: auto; /* Garante que fique à direita mesmo se não houver .footer-left */
-}
-
-nav {
-  font-size: 14px;
-  font-weight: bold;
-}
-
-nav ul {
-  display: flex;
-  gap: 3px;
-  list-style: none;
-  padding: 0;
-  margin: 0;
-}
-
-nav li {
-  margin: 0;
 }
 
 hr {
@@ -194,10 +194,6 @@ a.linkdata:visited,
 a.linkdata:active,
 a.linkdata:hover {
   color: var(--color-data);
-}
-
-.texto-geral a {
-  white-space: nowrap;  /* impede quebra dentro da tag */
 }
 
 .blog-tag a {
@@ -630,6 +626,7 @@ table.tabela-posts td {
 
 .social ul {
   list-style: none;
+  margin-left: -25px;
 }
 
 .social li {
@@ -672,6 +669,14 @@ nav {
   display: flex;
   justify-content: flex-end; /* Alinha a navegação à direita */
   margin-left: auto;
+}
+
+nav ul {
+  flex-wrap: wrap;
+  justify-content: flex-end; /* Alinha a navegação à direita */
+  text-wrap: balance;
+  margin-left: auto;
+  gap: 3px;
 }
 
 nav a {
