@@ -26,7 +26,7 @@ Letterbox</a>
         </a>
 </li>
 <li>
-        <a href="https://skoob.com" title="onde eu catalogo os livros">
+        <a href="https://www.skoob.com.br/share/user/154394" title="onde eu catalogo os livros">
           <i class="fa-solid fa-book"></i>
           Skoob
         </a>
