@@ -1,5 +1,5 @@
 ---
-layout: paginas
+layout: defaut
 title: "Mídias"
 excerpt: Como me encontrar nas mídias sociais por aí.
 ---
