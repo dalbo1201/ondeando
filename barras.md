@@ -15,8 +15,8 @@ excerpt: Um mapa para o site.
 <li><a href="{{ site.url }}/arquivo" title="tudo junto e misturado">/arquivo</a>: Um feed completo com os textos e fotos em ordem cronológica. Sem a separação que criei para o site.</li><br/>
 <li><a href="{{ site.url }}/blog" title="se eu disser, será aqui">/blog</a>: Efetivamente o local em que escrevo alguns dos meus pensamentos, passagens que me agradam lembrar e comento sobre o que achar valer a pena.</li><br/>
 <li><a href="{{ site.url }}/fotolog" title="meu fotolog">/fotolog</a>: Meu álbum de fotos. Local em que eu coloco algumas imagens de momentos que acho valerem a pena compartilhar e algumas vezes vem junto de algum texto, além de apenas uma legenda de foto.</li><br/>
-<li><a href="{{ site.url }}/social" title="minhas mídias sociais">/social</a>: Indicação das <del>redes</del> mídias sociais que continuo frequentando.</li><br/>
 <li><a href="{{ site.url }}/profissional" title="quem é o trabalhador">/profissional</a>: Onde eu me apresento profissionalmente, mostro resumidamente minhas habilidades e capacidades profissionais. Lá tem caminhos para outros sites que podem dar mais informações e contato.</li><br/>
+<li><a href="{{ site.url }}/social" title="minhas mídias sociais">/social</a>: Indicação das <del>redes</del> mídias sociais que continuo frequentando.</li><br/>
 <li><a href="{{ site.url }}/tags" title="do que estou falando e onde">/tags</a>: Apresenta as etiquetas marcadas nas postagens do blog e do fotolog. Indica quais os posts estão separados por cada etiqueta.</li>
 </ul>
 </section>
