@@ -11,28 +11,26 @@ excerpt: Como me encontrar nas mídias sociais por aí.
 <div class="social">
 <ul>
 <li>
-        <a href="https://letterboxd.com/dalbo1201" title="onde eu catalogo os filmes">
-          <i class="fa-brands fa-letterboxd"></i>
-          Letterbox</a>
+  <a href="https://letterboxd.com/dalbo1201" title="onde eu catalogo os filmes">
+  <i class="fa-brands fa-letterboxd"></i>
+  Letterbox</a>
 </li>
 <li>
-        <a href="https://tvtime.com/r/38uUh" title="onde eu catalogo as séries">
-          <i class="fa-solid fa-tv"></i>
-          TV Time
-        </a>
+  <a href="https://tvtime.com/r/38uUh" title="onde eu catalogo as séries">
+  <i class="fa-solid fa-tv"></i>
+  TV Time</a>
 </li>
 <li>
-        <a href="https://www.skoob.com.br/share/user/154394" title="onde eu catalogo os livros">
-          <i class="fa-solid fa-book"></i>
-          Skoob
-        </a>
+  <a href="https://www.skoob.com.br/share/user/154394" title="onde eu catalogo os livros">
+  <i class="fa-solid fa-book"></i>
+  Skoob</a>
 </li>
-<li><a href="https://instagram.com/dalbo1201" title="onde eu, as vezes, posto fotos">
-          <i class="fa-brands fa-instagram"></i>
-          Instagram</a>
+<li>
+ <a href="https://instagram.com/dalbo1201" title="onde eu, as vezes, posto fotos">
+  <i class="fa-brands fa-instagram"></i>
+  Instagram</a>
 </li>
 </ul>
 </div>
 <p>Para links ou contato profissional recomendo que você vá até minha <a href="{{ site.url }}/profissional" title="quem é o trabalhador">seção profissional</a>.</p>
-
 </section>

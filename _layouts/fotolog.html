@@ -7,7 +7,7 @@
 
 
 <section class="gallery">
-  <ul class="embedded blog-posts">
+  <ul class="embedded album-post">
 {% assign all_posts = site.posts | where: "type", "album" %}
 {% assign offset = paginator.page | minus: 1 | times: paginator.per_page %}
 {% assign posts_to_show = all_posts | slice: offset, paginator.per_page %}
@@ -16,9 +16,9 @@
     {% for post in posts_to_show %}
       <li>
       <a href="{{ post.url }}" class="linkdata">
-         <div class="post-date">{{ post.date | date: "%d/%m/%Y" }}</div></a>
+         <div class="album-data">{{ post.date | date: "%d/%m/%Y" }}</div></a>
          <div class="image-wrapper">
-          <a href="{{ post.url }}"><img src="{{ post.image | relative_url }}" alt="{{ post.title }}"></a>
+          <a href="{{ post.url }}"><img src="{{ post.image | relative_url }}" title="{{ post.title }}"></a>
           </div>
       <p class="caption">{{ post.caption }}</p>
       
