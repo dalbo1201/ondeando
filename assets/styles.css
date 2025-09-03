@@ -10,6 +10,7 @@
     --color-link: #75015c;
     --color-link-hover: #6C4800;
     --color-data: #000000;
+    --code-background-color: #383838;
 }
 
 @media (prefers-color-scheme: dark) {
@@ -19,6 +20,7 @@
   --color-link: #F1C6E8;
   --color-link-hover: #FFE0B8;
   --color-data: #E6E6E6;
+  --code-background-color: #e3e3e3;
   }
 }
 
@@ -354,6 +356,16 @@ article.blog-article.blog-citacao cite {
  border: 3px solid var(--color-link-hover); 
  margin: 10px 0px 10px 0px; 
  padding: 10px; 
+}
+
+code.highlight {
+ background-color: var(--color-link-hover);
+ padding: 10px 10px;
+ border-radius: 4px;
+ color: var(--color-background);
+ display: block;
+ unicode-bidi: isolate;
+ overflow-x: auto;
 }
 
 .blog-comentario {
