@@ -145,6 +145,15 @@ h1 { /* cabeçalho de saudação */
  font-weight: normal;
 }
 
+h3 {
+ font-size: 20px;
+ font-weight: normal;
+ line-height: 25px;
+ text-wrap: balance;
+ margin-top: 0px;
+ margin-bottom: 0px;
+}
+
 .texto-geral {
  max-width: 100%;
  text-align: left;
@@ -268,6 +277,7 @@ figcaption {
  margin-bottom: 25px;
 }
 
+h2,
 .blog-title {
  font-size: 27px;
  font-weight: normal;
