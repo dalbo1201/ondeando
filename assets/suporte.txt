@@ -1,29 +1,29 @@
-post type (layout):
+type (layout):
 album - vai para o fotolog (foto)
 notas - vai pro blog sem título (post)
 texto - post tradicional do blog (post)
-frase  - vai pro blog como citação especials (post)
+frase  - vai pro blog como citação especial (post)
 
 post tags:
-#a vida, o universo e tudo mais
-#aniversário
-#casa
-#engenharia
-#esportes, ou só futebol
-#filmes
-#fotos
-#gatos
-#informática
-#joguinhos
-#livros
-#metablog
-#museus
-#pandemia
-#passeios
-#pensamentos
-#quadrinhos
-#shows#séries e TV
-#tatuagem
+a vida, o universo e tudo mais
+aniversário
+casa
+engenharia
+esportes, ou só futebol
+filmes
+fotos
+gatos
+informática
+joguinhos
+livros
+metablog
+museus
+pandemia
+passeios
+pensamentos
+quadrinhos
+showsséries e TV
+tatuagem
 
 Estrutura de pastas
 |-meusite
@@ -36,16 +36,13 @@ Estrutura de pastas
         |-header.html
         |-modal-aviso.html
     |-_layouts
-        |-agora.html
+        |-arquivo.html
         |-blog.html
         |-default.html
-        |-erro.html
-        |-feed.html
         |-foto.html
         |-fotolog.html
-        |-post-em-tags.html
+        |-paginas.html
         |-post.html
-        |-profissional.html
         |-tags.html
     |-_plugins
         |-generate_album_data_file.rb
@@ -55,28 +52,35 @@ Estrutura de pastas
             |....
         |-2007
             |...
-        |-2008
-            |...
         ...
         |-2025
             |...
     |-assets
-        |-album
+        |-_inutilizados
         |-fotos
             |-2007
                 |...
             ...
             |-2025
                 |...
+        |404.png
+        |-foto-pedro-100px.jpg
         |-foto-pedro.jpg
+        |-frss.svg
         |-styles.css
 |-_config.yml
 |-.gitignore
-|-Agora.md
+|-404.md
+|-acompanhe.md
+|-agora.md
+|-arquivo.md
+|-barras.md
 |-blog.md
+|-fotolog.md
 |-Gemfile
 |-Gemfile.lock
 |-index.md
 |-Profissional.md
 |-robots.txt
+|-social.md
 |-tags.md
