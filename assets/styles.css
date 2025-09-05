@@ -314,7 +314,9 @@ figcaption {
  }
  /* fim do Tipos de posts */
 
-/* INÍCIO DOS Estilos para o Blog */
+
+
+ /* INÍCIO DOS Estilos para o Blog */
 .blog-article{
  width: 100%; /* Garante que ocupe toda a largura do contêiner */
  margin-bottom: 25px;
@@ -507,7 +509,7 @@ table.tabela-posts td {
 }
 
 .gallery .album-data {
- font-size: 0.8em;
+ font-size: 15px;
  padding: 0.25em 0;
  color: var(--color-data);
  margin-bottom: 0.5em;
