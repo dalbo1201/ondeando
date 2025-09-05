@@ -15,12 +15,12 @@
       <p class="blog-data">
         <a href="{{ post.url | relative_url }}" class="linkdata"> {{ post.date | date: "%d/%m/%Y" }}</a>
       </p>
-      <h2 class="blog-title">
+      <h2>
         <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
       </h2>
-      <div class="blog-post">
+      <p>
         {{ post.content | markdownify }}
-      </div>
+      </p>
       <p class="blog-seta"><a href="{{ post.url | relative_url }}" class="linkdata">+</a></p>
     </article>
   {% endfor %}

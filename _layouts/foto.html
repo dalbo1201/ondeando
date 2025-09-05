@@ -7,15 +7,15 @@
 
 <article class="blog-article">
   <p class="blog-data">{{ page.date | date: "%d/%m/%Y" }}</p>
-  <h2 class="blog-title">{{ page.title }}</h2>
+  <h2>{{ page.title }}</h2>
   <p class="blog-tag">
     {% for tag in page.tags %}
     <a href="/tags/#{{ tag | slugify }}" class="linkum">#{{ tag }}</a>
     {% endfor %}
    </p>
-  <div class="blog-post">
+  <p>
     {{ content }}
-  </div>
+  </p>
   <p class="blog-comentario">O blog não tem cometários, mas podemos <a href="mailto:pedro@dalbo.me?subject={{ page.title }}">conversar por email</a>.
   </p>
 </article>

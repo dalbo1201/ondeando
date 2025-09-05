@@ -5,11 +5,10 @@ excerpt: Como me encontrar nas mídias sociais por aí.
 ---
 <h1><span aria-hidden="true">|</span><span class="h1-menor">nas</span>Mídias<span class="h1-menor"> Sociais</span></h1>
 
-<section class="texto-geral">
-<p>Sei que esse espaço é exatamente para me <a href="{{ site.url }}/blog/porque-todo-esse-esforco/">afastar um pouco</a> das mídias sociais, mas não tem muito jeito e a gente, ainda, tem essa necessidade de ser presente por aí.</p>
-<p>Por isso, deixo aqui onde podem me encontrar.</p>
-<div class="social">
-<ul>
+Sei que esse espaço é exatamente para me <a href="{{ site.url }}/blog/porque-todo-esse-esforco/">afastar um pouco</a> das mídias sociais, mas não tem muito jeito e a gente, ainda, tem essa necessidade de ser presente por aí.  
+
+Por isso, deixo aqui onde podem me encontrar.
+<ul class="social">
 <li>
   <a href="https://letterboxd.com/dalbo1201" title="onde eu catalogo os filmes">
   <i class="fa-brands fa-letterboxd"></i>
@@ -31,6 +30,5 @@ excerpt: Como me encontrar nas mídias sociais por aí.
   Instagram</a>
 </li>
 </ul>
-</div>
-<p>Para links ou contato profissional recomendo que você vá até minha <a href="{{ site.url }}/profissional" title="quem é o trabalhador">seção profissional</a>.</p>
-</section>
+
+Para links ou contato profissional recomendo que você vá até minha [seção profissional]({{ site.url }}/profissional "quem é o trabalhador").
