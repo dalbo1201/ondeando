@@ -17,7 +17,7 @@
 <ul class="lista-tags">
   {% for tag in tags %}
     <li>
-      <h3 id="{{ tag[0] | slugify }}">#{{ tag[0] }} <a href="#" class="linkdata">&#8593</a></h3>
+      <h3 id="{{ tag[0] | slugify }}">#{{ tag[0] }} <a href="#">&#8593</a></h3>
       <table class="tabela-posts">
         {% for post in tag[1] %}
           <tr class="linha-post">

@@ -9,13 +9,11 @@ Tem um tempo que eu criei meu Fotolog por aqui.
 
 Na época, eu citei a fonte de onde eu tirei a ideia do código, um blog no Bearblog, tá lá [no texto original]({{ site.url }}/blog/criei-meu-fotolog).  
 
-Achava que o site tinha sido deletado, mas ao enviar uma mensagem ao Bruce comentando da minha ideia de divulgar o tutorial dele já que não havia mais o blog.  
+Achava que o site tinha sido deletado, enviei uma mensagem ao Bruce comentando sobre a ideia de divulgar o tutorial dele já que não havia mais o blog. Em sua reposta, ele me permitiu a divulgação, mas me avisou que o blog, na verdade, mudou de endereço. De qualquer forma, ele me motivou a manter a divulgação do tutorial.  
 
-Em sua reposta, ele me permitiu a divulgação, mas me avisou que o blog, na verdade, mudou de endereço. De qualquer forma, ele me motivou a manter a divulgação do tutorial.  
+_Esse novo link já está atualizado na postagem original._
 
-Esse novo link já está atualizado na postagem original.
-
-Criei uma página aqui no site com o código que ele postou na época (estou indicando o site dele como fonte) e colocarei o que eu fiz para o meu site.  
+Criei uma página aqui no site com o código que ele postou na época (estou indicando o site dele como fonte) e coloquei o que eu fiz para o meu site.  
 
 No final, temos uma versão para o Bearblog e outra para sites em Jekyll e *todo mundo fica feliz*.  
 
