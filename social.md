@@ -30,5 +30,3 @@ Por isso, deixo aqui onde podem me encontrar.
   Instagram</a>
 </li>
 </ul>
-
-Para links ou contato profissional recomendo que você vá até minha [seção profissional]({{ site.url }}/profissional "quem é o trabalhador").
