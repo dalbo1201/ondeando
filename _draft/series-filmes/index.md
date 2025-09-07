@@ -3,11 +3,13 @@ layout: paginas
 title: Os seriados do Feito por Elas
 description: Página para as séries que estou vendo no grupo do Telegram do Feito por Elas.
 ---
-# <span aria-hidden="true">|<span class="h1-menor">os </span></span>Seriados<span class="h1-menor"> do Feito por Elas</span>
+# <span aria-hidden="true">|<span class="h1-menor">as </span></span>Séries<span class="h1-menor"> e </span>Filmes
 
-Aqui tentarei deixar os Sobre os episódios das séries/seriados que estamos acompanhando no grupo do Telegram de _Seriados do Feito por Elas_.  
+Um  lugar para unificar textos sobre seriados e filmes que assito. Com certeza não será sobre tudo, mas o que achar que tenho algo que queira (não que precise) dizer.  
 
-[Comentei]({{ site.url }}/blog/assistindo-the-leftovers/) que vimos outras séries, mas não tenho as anotações organizadas e pode ser até que não as consiga mais.  
+Principalmente os seriados que acompanho com o pessoal do grupo do Telegram de _Seriados do Feito por Elas_, já que acabo comentando alguma coisa no grupo.
+
+[Comentei]({{ site.url }}/blog/assistindo-the-leftovers/) que já vimos outras séries lá no grupo, mas não tenho as anotações organizadas e pode ser até que não as consiga mais.  
 
 _Buffy_, a primeira série que vimos, são muitos episódios para procurar os comentários no grupo do Telegram. _Undone_ acredito que consiga ir atrás do que comentei (mas não prometo) e _Felicity_ eu não acompanhei.  
 
@@ -15,9 +17,9 @@ De qualquer forma, foi somente agora, assistindo The Leftovers, que me veio à c
 
 E bem... Essa construção _não totalmente arrumada_ que faz um **Jardim Digital**, pelo que dizem.  
 
-- [The Leftovers]({{ site.url }}/seriados-fpe/the-leftovers).  
+- [The Leftovers]({{ site.url }}/series-filmes/the-leftovers/ "meus comentários episódio a episódio").  
 
-Já comentei sobre algumas outras séries e filmes por aqui. Não foi episódio a episódio, mas pensamentos que me passaram ao terminar uma temporada ou finalizar uma série.
+Já comentei sobre algumas outras séries e filmes por aqui. Não foi episódio a episódio, podem ter sido textos mais elaborados ou pensamentos que tive ao terminar uma temporada, finalizar uma série ou filme.
 - [Wall-E]({{ site.url }}blog/wall-e/);
 - [Toy Story 3]({{ site.url }}/blog/toy-story-3-o-fim-de-uma-saga/);
 - [Onde Vivem os Monstros]({{ site.url }}/blog/onde-vivem-os-monstros/);
