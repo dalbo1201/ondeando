@@ -23,11 +23,13 @@ Seguindo com o _hérculeo trabalho_ de deixar a casa do jeito que a gente gosta 
 Estou lendo:
 <ul>
     <li>Sem Tempo a Perder, Ursula K. Le Guin;</li>
+    <li>Ferreiro do Bosque Maior, J. R. R. Tolkien</li>
 </ul>
 Filmes que vi <a href="https://letterboxd.com/dalbo1201/films/diary/" class="linkcab">&#127916;</a>:
 <ul>
-    <li>Neirud&nbsp;| Fernanda Faya, 2023&nbsp;| Cinema;</li>
-    <li>Noites Alienígenas&nbsp;| Sérgio de Carvalho, 2022&nbsp;| Netflix;</li>
+    <li>Twin Peaks: Fire Walk with Me&nbsp;| David Lynch, 1992&nbsp;| Mubi;</li>
+    <li>Thunderbolts*&nbsp;| Jake Schreier, 2025&nbsp;| Disney+;</li>
+    <li>Twin Peaks: The Missing Pieces&nbsp;| David Lynch, 2014&nbsp;| Mubi.</li>
 </ul>
 Séries que estou vendo <a href="https://tvtime.com/r/38uUh" class="linkcab">&#128250;</a>:
 <ul>
@@ -36,11 +38,11 @@ Séries que estou vendo <a href="https://tvtime.com/r/38uUh" class="linkcab">&#1
     <li>Arcane&nbsp;| Netflix | temporada&nbsp;2;</li>
     <li>Invencível&nbsp;| Prime Video&nbsp;| temporada&nbsp;2;</li>
     <li>Kamen Rider: Black Sun&nbsp;| Prime Video&nbsp;| temporada&nbsp;1;</li>
-    <li><a href="{{ site.url }}/blog/assistindo-the-leftovers/" title="comecei a assistir">The Leftovers</a>&nbsp;| HBO&nbsp;Max&nbsp;| temporada&nbsp;1;</li>
-    <li>Twin Peaks&nbsp;| Mubi&nbsp;| temporada&nbsp;2;&nbsp;↺</li>
+    <li><a href="{{ site.url }}/blog/assistindo-the-leftovers/" title="alguns comentários sobre os episódios">The Leftovers</a>&nbsp;| HBO&nbsp;Max&nbsp;| temporada&nbsp;2;</li>
+    <li>Twin Peaks&nbsp;| Mubi&nbsp;| temporada&nbsp;3;&nbsp;↺</li>
     <li>Arquivo X&nbsp;| Disney+&nbsp;| temporada&nbsp;1;&nbsp;↺</li>
     <li>Breaking Bad&nbsp;| Netflix&nbsp;| temporada&nbsp;4.&nbsp;↺</li>
 </ul>
 <aside class="atualizacao">
-    atualizado em 16 de agosto de 2025.
+    atualizado em 07 de setembro de 2025.
 </aside>
