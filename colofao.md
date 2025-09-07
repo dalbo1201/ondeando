@@ -16,7 +16,7 @@ Este cantinho tem como cores predominantes:
 - French Plum (um roxo escuro, lembrando o magenta) ([#75015c](https://www.color-name.com/hex/75015c "os links, no claro"));  
 - No **modo escuro** as cores se invertem e o French Plum muda para Classic Rose (um rosa claro) ([#F1C6E8](https://www.color-name.com/hex/f1c6e8 "os links, no escuro")).  
 
-**Todos os links abrem a página sobre a página atual**. Adoto essa configuração porque abrir se houer o desejo de abrir em uma nova aba/janela é possível de várias formas. Mas se o interesse não for esse e a configuração padrão for abrir em outra aba/janela não temos como fazê-lo.
+**Todos os links abrem a página sobre a página atual**. Adoto essa configuração porque se houver o desejo de abrir em uma nova aba/janela é possível de várias formas. Mas se o interesse não for esse e a configuração padrão for abrir em outra aba/janela não temos como fazê-lo.
 
 ## Desenvolvimento do site
 - **Escrita dos posts:** (na maioria das vezes) escrevo no celular, usando o aplicativo [Markor](https://github.com/gsantner/markor "o aplicativo em que escrevo"), que me permite trabalhar diretamente em arquivos Markdown;
