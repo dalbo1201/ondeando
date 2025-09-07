@@ -23,7 +23,7 @@ Seguindo com o _hérculeo trabalho_ de deixar a casa do jeito que a gente gosta 
 Estou lendo:
 <ul>
     <li>Sem Tempo a Perder, Ursula K. Le Guin;</li>
-    <li>Ferreiro do Bosque Maior, J. R. R. Tolkien</li>
+    <li>Ferreiro do Bosque Maior, J. R. R. Tolkien.</li>
 </ul>
 Filmes que vi <a href="https://letterboxd.com/dalbo1201/films/diary/" class="linkcab">&#127916;</a>:
 <ul>
