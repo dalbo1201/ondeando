@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Social"
-excerpt: Como me encontrar nas mídias sociais por aí.
+description: Como me encontrar nas mídias sociais por aí.
 ---
 <h1><span aria-hidden="true">|</span><span class="h1-menor">nas</span>Mídias<span class="h1-menor"> Sociais</span></h1>
 

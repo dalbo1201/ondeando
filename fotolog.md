@@ -1,6 +1,7 @@
 ---
 layout: fotolog
 title: Album
+description: Meu álbum de fotos
 pagination:
   enabled: true
   collection: posts  # Use a coleção posts diretamente

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: profissional
-excerpt: Cartão de visitas do Pedro Dal Bó.
+description: Cartão de visitas do Pedro Dal Bó.
 ---
 <h1><span aria-hidden="true">|</span>Profissional</h1>
 <section class="texto-geral">

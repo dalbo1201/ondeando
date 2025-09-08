@@ -1,7 +1,7 @@
 ---
 layout: paginas
 title: barras
-excerpt: Um mapa para o site.
+description: Um mapa para o site.
 ---
 <h1>
 <span aria-hidden="true">|</span>Barras

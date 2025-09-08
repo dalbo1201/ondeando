@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Pedro Dal Bó
-excerpt: Site pessoal, cantinho na internet e cartão de visitas do Pedro Dal Bó.
+title: Ondeando
+description: Site pessoal, cantinho na internet e cartão de visitas do Pedro Dal Bó.
 ---
 # Boas-vindas ;)  
 

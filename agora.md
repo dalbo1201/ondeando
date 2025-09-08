@@ -1,7 +1,7 @@
 ---
 layout: paginas
 title: O que estou fazendo
-excerpt: Uma atualizaçao quinzenal? Talvez.
+description: Uma atualizaçao quinzenal? Talvez.
 ---
 <h1>
 <span aria-hidden="true">|<span class="h1-menor">e </span></span>Agora<span class="h1-menor">, o que estou fazendo?</span>

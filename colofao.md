@@ -1,7 +1,7 @@
 ---
 layout: paginas
 title: Colofão
-excerpt: Bastidores técnicos e inspirações do site
+description: Bastidores técnicos e inspirações do site
 ---
 # <span aria-hidden="true">|<span class="h1-menor">o </span></span>Colofão<span class="h1-menor"> deste cantinho</span>
 

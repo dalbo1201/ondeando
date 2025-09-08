@@ -1,7 +1,7 @@
 ---
 layout: paginas
 title: Acompanhe
-excerpt: Um caminho para acompanhar aquilo que eu posto neste pequeno cantinho.
+description: Um caminho para acompanhar aquilo que eu posto neste pequeno cantinho.
 ---
 <h1><span aria-hidden="true">|</span><span class="h1-menor">um</span>Feed<span class="h1-menor"> para acompanhar</span> </h1>
 <section class="texto-geral">

@@ -1,6 +1,6 @@
 ---
 layout: blog
-title: Ondeando
+title: Blog
 description: um espaço para escrever
 permalink: /blog
 pagination: 
