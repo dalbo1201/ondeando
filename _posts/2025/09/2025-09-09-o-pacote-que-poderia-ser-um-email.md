@@ -1,5 +1,6 @@
 ---
 Layout: post
+type: texto
 title: O pacote que poderia ser um email...
 date: 2025-09-09 12:14:00
 tags: [“informática”]
