@@ -3,7 +3,7 @@ layout: post
 type: texto
 title: "O pacote que poderia ser um email..."
 date: 2025-09-09 12:14:00 -0300
-tags: [“informática”]
+tags: [informática]
 ---
 Essa semana rolou uma promoção com um belo desconto na assinatura do Office365 e aproveitamos para garantir pelo menos 13 meses (depois do registro ganhamos 1 mês de brinde).  
 
