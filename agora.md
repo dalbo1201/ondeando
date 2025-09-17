@@ -22,8 +22,7 @@ Seguindo com o _hérculeo trabalho_ de deixar a casa do jeito que a gente gosta 
 
 Estou lendo:
 <ul>
-    <li>Sem Tempo a Perder, Ursula K. Le Guin;</li>
-    <li>Ferreiro do Bosque Maior, J. R. R. Tolkien.</li>
+    <li>Ainda sem saber.</li>
 </ul>
 Filmes que vi <a href="https://letterboxd.com/dalbo1201/films/diary/" class="linkcab">&#127916;</a>:
 <ul>
@@ -33,7 +32,6 @@ Filmes que vi <a href="https://letterboxd.com/dalbo1201/films/diary/" class="lin
 </ul>
 Séries que estou vendo <a href="https://tvtime.com/r/38uUh" class="linkcab">&#128250;</a>:
 <ul>
-    <li>Strange New Worlds&nbsp;| Paramount+&nbsp;| temporada&nbsp;3;</li>
     <li>Alien: Earth&nbsp;| Disney+&nbsp;| temporada&nbsp;1;</li>
     <li>Arcane&nbsp;| Netflix | temporada&nbsp;2;</li>
     <li>Invencível&nbsp;| Prime Video&nbsp;| temporada&nbsp;2;</li>
@@ -44,5 +42,5 @@ Séries que estou vendo <a href="https://tvtime.com/r/38uUh" class="linkcab">&#1
     <li>Breaking Bad&nbsp;| Netflix&nbsp;| temporada&nbsp;4.&nbsp;↺</li>
 </ul>
 <aside class="atualizacao">
-    atualizado em 07 de setembro de 2025.
+    atualizado em 16 de setembro de 2025.
 </aside>

@@ -1,7 +1,8 @@
 ---
 layout: paginas
 title: Sobre The Leftovers
-description: Comentários sobre a série The Leftovers 
+description: Comentários sobre a série The Leftovers
+permalink: "/blog/assistindo-the-leftovers/comentários"
 ---
 # <span aria-hidden="true">|<span class="h1-menor">sobre </span></span>The Leftovers
 
