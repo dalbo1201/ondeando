@@ -19,6 +19,7 @@ Comentários rápidos e sem muito trabalho editorial sobre os episódios assisti
 </details>
 <details open><summary>Temporada 2</summary>
 <ul><li><a href="#s02e01-02">s02e01-02</a></li>
+<ul><li><a href="#s02e03-04">s02e03-04</a></li>
 <li>em andamento...</li>
 </ul>
 </details>
@@ -146,3 +147,30 @@ Legal ver como foi a situação com a Lily, a adaptação como uma nova família
 Curioso como uma estabilidade familiar e sensação de segurança deram a Jill uma confiança e maturidade 
 
 Gente o que acontece com o Kevin agora? Ele só não morreu porque a água sumiu. Ele precisa muito de uma ajuda...
+
+<h3 id="s02e03-024">s02e03-04 <a href="#">&uarr;</a></h3>
+**e03**  
+Decididamente eu gosto muito da abertura da segunda temporada.  
+
+A Laurie parece que perdeu a fé nos RC depois deles desrespeitarem o luto de toda uma cidade e decidirem como as pessoas devem lidar com seu luto.  
+
+Deve ser muito pesado pro Tom ficar entre os RC durante tanto tempo para conseguir identificar quem está mais vulnerável para "ser resgatado".
+
+Mano essa Meg virou pior que o demônio.  
+
+Um pouco triste pensar em todo o esforço que a Laurie está fazendo, mas que as coisas não são iguais para todos. Assim como o RC tentou forçar as pessoas a "não esquecerem" ela tenta forçar eles a saírem.  
+
+Mas pronto, saímos de uma seita pra criar outra.  
+
+Muito interessante esse caminho que a Laurie e o Tom tomaram, tentando salvar algumas pessoas que eles entendem estarem com os RC, mas sem terem certeza do porquê estarem por lá. Mas muito pior o caminho que eles tomam quando Laurie percebe na primeira derrota que o caminho não é tão simples e confortável. Ela claramente não sabe lidar com essas derrotas e trilhou o caminho mais fácil. Que ódio.
+
+**e04**  
+Os 10 minutos mais assustadores da Nora foram pensando que o Kevin foi arrebatado também.  
+
+Mas tá muito estranha a situação com as garotas e como o Kevin sempre aparece no lugar errado na hora errada. Patty é bem escrota, ela não está errada, mas é aquela coisa, é real ou algo da cabeça dele dizendo o que ele não quer dizer?  
+ 
+Ah, excelente. O maluco da torre vê a Patty, isso diz muito da bagunça do Kevin e do pai.  
+
+Mas é aquela coisa, o seriado não vai pra uma pegada mística, mágica. Mas claramente entrega que as pessoas procuram pelo místico e acabam aceitando essas respostas. Isso é o que acontece o tempo todo, na vida real...  
+
+Agora com o sumisso dessas garotas a coisa vai perder o controle nessa cidade que viveu, até agora, sem passar pelo arrebatamento e com muita gente achando que era um lugar especial.
