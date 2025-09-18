@@ -149,7 +149,7 @@ Curioso como uma estabilidade familiar e sensação de segurança deram a Jill u
 
 Gente o que acontece com o Kevin agora? Ele só não morreu porque a água sumiu. Ele precisa muito de uma ajuda...
 
-<h3 id="s02e03-024">s02e03-04 <a href="#">&uarr;</a></h3>
+<h3 id="#s02e03-04">s02e03-04 <a href="#">&uarr;</a></h3>
 **e03**  
 Decididamente eu gosto muito da abertura da segunda temporada.  
 
