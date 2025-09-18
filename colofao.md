@@ -29,7 +29,7 @@ Este cantinho tem como cores predominantes:
 ## Inspirações
 - O tema inicial do site foi inspirado no site do [Paulo Higa](https://higa.me "site do Higa");
 - Quando ampliei o site para algo próximo de um _proto-jardim-digital_, acabei me inspirando visualmente no site/blog do [Rodrigo Ghedin](https://rodrigo.ghed.in "site do Ghedin") (de quem pedi autorização. Se forem analisar os códigos, o site do Ghedin tem uma elegancia que aqui não existe, mas arrumarei em algum momento);  
-- O [Fotolog]({{ site.url }}/fotolog "meu fotolog") foi inspirada na página do [Bruce Beaumont](https://beaumontphotography.bearblog.dev/ "site do Bruce"). Escrevi mais sobre isso [neste texto]({{ site.url }}/blog/criei-meu-fotolog/).  
+- O [Fotolog]({{ site.url }}/fotolog "meu fotolog") foi inspirado na página do [Bruce Beaumont](https://beaumontphotography.bearblog.dev/ "site do Bruce"). Escrevi mais sobre isso [neste texto]({{ site.url }}/blog/criei-meu-fotolog/).  
 
 ## Filosofia
 - O site não tem nenhum sistema de _analytics_ ou plugins de mídias-sociais;  
