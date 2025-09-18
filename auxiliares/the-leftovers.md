@@ -18,8 +18,9 @@ Comentários rápidos e sem muito trabalho editorial sobre os episódios assisti
 </ul>
 </details>
 <details open><summary>Temporada 2</summary>
-<ul><li><a href="#s02e01-02">s02e01-02</a></li>
-<ul><li><a href="#s02e03-04">s02e03-04</a></li>
+<ul>
+<li><a href="#s02e01-02">s02e01-02</a></li>
+<li><a href="#s02e03-04">s02e03-04</a></li>
 <li>em andamento...</li>
 </ul>
 </details>
