@@ -3,7 +3,7 @@ layout: post
 type: texto
 title: "Indicando"
 date: 2007-10-05 08:00:00 -0000
-tags: ["informática", "metablog"]
+tags: ["informática"]
 ---
 Faz um tempo que eu acompanho um site que infelizmente já morreu, o WinAjuda.
 

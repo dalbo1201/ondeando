@@ -3,7 +3,7 @@ layout: post
 type: texto
 title: "Marcin Stawiartz, ótimas imagens"
 date: 2008-07-04 08:00:00 -0000
-tags: ["fotos", "metablog"]
+tags: ["fotos"]
 ---
 <div class="aviso">Como essas postagens são antigas e recuperadas, muitos links podem levar a lugar algum ou mesmo a lugares que não são mais o que eram na época. Mantenho o texto pela reflexão e lembraça.</div>
 Estava navegando pelo DeviantArt, um ótimo site para ver imagens, fotos e montagens para se colocar como fundo de tela do PC, ou encontrar um *Visual Style* diferente.
