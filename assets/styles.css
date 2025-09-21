@@ -589,6 +589,14 @@ table.tabela-posts td {
 }
 /* FINAL DA NAVEGAÇÃO POR PÁGINA */
 
+
+/* INÍCIO PARA A PÁGINA DO CURRÍCULO*/
+.curriculo {
+ margin: 0px 0px 30px 30px;
+}
+
+/* FINAL PARA A PÁGINA DO CURRÍCULO*/
+
 /* INÍCIO - BOTÃO DE ALERTA */
 /* Botão de alerta */
 .alert-button {
@@ -753,4 +761,8 @@ footer {
 .nuvem-tag {
  font-size: clamp(0.81rem, 1vw, 0.88rem); /* 13–14px */
 } 
+
+.curriculo {
+ margin: 0px 0px 30px 5px;
+}
 }

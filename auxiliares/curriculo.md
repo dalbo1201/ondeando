@@ -13,7 +13,7 @@ permalink: "/profissional/cv"
    <!-- Seção de experiência -->
   <section aria-labelledby="experiencia-titulo">
     <h2 id="experiencia-titulo">Experiência Profissional</h2>
-<article style="margin: 0px 0px 30px 30px">
+<article class="curriculo">
 <p>Desenvolvo projetos geométricos e de terraplenagem de rodovias, ferrovias e vias urbanas com Civil3D. Participo da coordenação interna de contratos na Equipe de Geometria e Terraplenagem, gerenciando e distribuindo tarefas, entrega de produtos, definições e soluções técnicas. Crio modelagens de maquetes eletrônicas e vídeos curtos com Infraworks. Elaborei quantitativos de disciplinas como Obras de Arte Especiais, Túneis e Barreiras Acústicas. Auxilio no acompanhamento e elaboração de relatórios de ATO.</p>
 </article>
 </section>
@@ -21,7 +21,7 @@ permalink: "/profissional/cv"
    <!-- Seção de experiência -->
   <section aria-labelledby="trabalhos-titulo">
     <h2 id="experiencia-titulo">Trabalhos realizados</h2>
-<article style="margin: 0px 0px 30px 30px">
+<article class="curriculo">
       <h3>Cemosa Ingeniería y Control</h3>
       <p><b>Engenheiro Civil</b>: <time datetime="2022-01">janeiro de 2022</time> – atual</p>
         <p>Trabalho desenvolvendo projetos de geometria e terraplenagem de rodovias com Civil3D e auxilio na coordenação interna de contrato da equipe.<br/>
@@ -36,13 +36,13 @@ permalink: "/profissional/cv"
       </ul>
 </article>
 
-<article style="margin: 0px 0px 30px 30px">
+<article class="curriculo">
       <h3>EPL – Empresa de Planejamento e Logística (INFRA S.A.)</h3>
       <p><b>Assessor Técnico (Engenheiro Civil)</b>: <time datetime="2020-07">julho de 2020</time> – <time datetime="2021-12">dezembro de 2021</time></p>
       <p>Trabalhei na análise de projetos funcionais e na realização de estudos técnicos de viabilidade para estruturação de concessões rodoviárias no âmbito do Ministério da Infraestrutura - Governo Federal. Desenvolvi e modelei projetos com Civil3D e Infraworks.</p>
 </article>
 
-<article style="margin: 0px 0px 30px 30px">
+<article class="curriculo">
       <h3>Nova ENGEVIX Engenharia e Projetos S/A</h3>
       <p><b>Engenheiro Civil</b>: <time datetime="2012-01">janeiro de 2012</time> – <time datetime="2020-07">junho de 2020</time></p>
       <p>Elaboraborei projetos de geometria de rodovias e sistemas viários com PowerCivil e auxíliei a coordenação interna de contratos na equipe. Elaborei quantitativos de disciplinas diversas e auxiliei no ATO com o desenvolvimento de relatórios e acompanhamento de instrumentação.<br/>
@@ -58,7 +58,7 @@ permalink: "/profissional/cv"
       </ul>
 </article>
 
-<article style="margin: 0px 0px 30px 30px">
+<article class="curriculo">
       <h3>Prodec Consultoria para Decisão Ltda.</h3>
       <p><b>Engenheiro Civil</b>: <time datetime="2011-04">abril de 2011</time> – <time datetime="2011-12">dezembro de 2011</time><br/>
       <b>Projetista</b>: <time datetime="2010-08">agosto de 2010</time> – <time datetime="2011-03">março de 2011</time>
@@ -77,32 +77,40 @@ permalink: "/profissional/cv"
   <!-- Formação -->
   <section aria-labelledby="formacao-titulo">
     <h2 id="formacao-titulo">Formação</h2>
+  <article class="curriculo">
     <p><b>Universidade Federal do Rio de Janeiro</b><br>Engenharia Civil: 2011</p>
+  </article>
   </section>
 
   <!-- Informática -->
   <section aria-labelledby="informatica-titulo">
     <h2 id="informatica-titulo">Informática</h2>
+    <article class="curriculo">
     <ul>
       <li>PowerCivil v8i – Itis Tecnologia</li>
       <li>AutoCAD Civil 3D – Deskgraphik</li>
       <li>AutoCAD – SENAI Ary Torres</li>
       <li>Infraworks – CadStudio Pro System</li>
     </ul>
+    </article>
   </section>
 
   <!-- Idiomas -->
   <section aria-labelledby="idiomas-titulo">
     <h2 id="idiomas-titulo">Idiomas</h2>
+    <article class="curriculo">
     <p>Inglês: Intermediário</p>
+    </article>
   </section>
  
  <!-- Seção de contato -->
   <section aria-labelledby="contato-titulo">
     <h2 id="contato-titulo">Contato</h2>
+    <article class="curriculo">
     <address>
      <p><a href="mailto:pedro@dalbo.me?subject=Contato profisisonal pelo site" title="Onde falar comigo">pedro@dalbo.me</a><br/>
       <a href="https://www.linkedin.com/in/pedrodalbo" target="_blank" rel="noopener" aria-label="meu perfil no LinkedIn (atualizado)" title="meu perfil no LinkedIn (atualizado)">in/pedrodalbo</a></p>
      <p>Residência em São Paulo, SP</p>
     </address>
+    </article>
   </section>
