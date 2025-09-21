@@ -23,6 +23,7 @@ permalink: "/profissional/cv"
     <h2 id="experiencia-titulo">Trabalhos realizados</h2>
 <article class="curriculo">
       <h3>Cemosa Ingeniería y Control</h3>
+      <em>São Paulo, SP</em>
       <p><b>Engenheiro Civil</b>: <time datetime="2022-01">janeiro de 2022</time> – atual</p>
         <p>Trabalho desenvolvendo projetos de geometria e terraplenagem de rodovias com Civil3D e auxilio na coordenação interna de contrato da equipe.<br/>
         Participação em projetos: </p>
@@ -38,12 +39,14 @@ permalink: "/profissional/cv"
 
 <article class="curriculo">
       <h3>EPL – Empresa de Planejamento e Logística (INFRA S.A.)</h3>
+      <em>Brasília, DF</em>
       <p><b>Assessor Técnico (Engenheiro Civil)</b>: <time datetime="2020-07">julho de 2020</time> – <time datetime="2021-12">dezembro de 2021</time></p>
       <p>Trabalhei na análise de projetos funcionais e na realização de estudos técnicos de viabilidade para estruturação de concessões rodoviárias no âmbito do Ministério da Infraestrutura - Governo Federal. Desenvolvi e modelei projetos com Civil3D e Infraworks.</p>
 </article>
 
 <article class="curriculo">
       <h3>Nova ENGEVIX Engenharia e Projetos S/A</h3>
+      <em>São Paulo, SP</em>
       <p><b>Engenheiro Civil</b>: <time datetime="2012-01">janeiro de 2012</time> – <time datetime="2020-07">junho de 2020</time></p>
       <p>Elaboraborei projetos de geometria de rodovias e sistemas viários com PowerCivil e auxíliei a coordenação interna de contratos na equipe. Elaborei quantitativos de disciplinas diversas e auxiliei no ATO com o desenvolvimento de relatórios e acompanhamento de instrumentação.<br/>
         Participação em projetos: </p>
@@ -60,6 +63,7 @@ permalink: "/profissional/cv"
 
 <article class="curriculo">
       <h3>Prodec Consultoria para Decisão Ltda.</h3>
+      <em>Rio de Janeiro, RJ</em>
       <p><b>Engenheiro Civil</b>: <time datetime="2011-04">abril de 2011</time> – <time datetime="2011-12">dezembro de 2011</time><br/>
       <b>Projetista</b>: <time datetime="2010-08">agosto de 2010</time> – <time datetime="2011-03">março de 2011</time>
       <br/>
