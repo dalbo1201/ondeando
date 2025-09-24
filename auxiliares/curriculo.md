@@ -14,7 +14,7 @@ permalink: "/profissional/cv"
   <section aria-labelledby="experiencia-titulo">
     <h2 id="experiencia-titulo">Experiência Profissional</h2>
 <article class="curriculo">
-<p>Desenvolvo projetos geométricos e de terraplenagem de rodovias, ferrovias e vias urbanas com Civil3D. Participo da coordenação interna de contratos na Equipe de Geometria e Terraplenagem, gerenciando e distribuindo tarefas, entrega de produtos, definições e soluções técnicas. Crio modelagens de maquetes eletrônicas e vídeos curtos com Infraworks. Elaborei quantitativos de disciplinas como Obras de Arte Especiais, Túneis e Barreiras Acústicas. Auxilio no acompanhamento e elaboração de relatórios de ATO.</p>
+<p>Desenvolvo projetos geométricos e de terraplenagem de rodovias, ferrovias e vias urbanas com Civil3D. Participo da coordenação interna de contratos na Equipe de Geometria e Terraplenagem, gerenciando e distribuindo tarefas, entrega de produtos, definições e soluções técnicas. Elavorei modelagens de maquetes eletrônicas e vídeos curtos com Infraworks, alem de quantitativos de disciplinas como Obras de Arte Especiais, Túneis e Barreiras Acústicas. Auxiliei no acompanhamento e elaboração de relatórios de ATO.</p>
 </article>
 </section>
 
