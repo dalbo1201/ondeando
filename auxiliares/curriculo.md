@@ -46,7 +46,7 @@ permalink: "/profissional/cv"
 
 <article class="curriculo">
       <h3>Nova ENGEVIX Engenharia e Projetos S/A</h3>
-      <em>São Paulo, SP</em>
+      <em>Barueri, SP</em>
       <p><b>Engenheiro Civil</b>: <time datetime="2012-01">janeiro de 2012</time> – <time datetime="2020-07">junho de 2020</time></p>
       <p>Elaboraborei projetos de geometria de rodovias e sistemas viários com PowerCivil e auxíliei a coordenação interna de contratos na equipe. Elaborei quantitativos de disciplinas diversas e auxiliei no ATO com o desenvolvimento de relatórios e acompanhamento de instrumentação.<br/>
         Participação em projetos: </p>
