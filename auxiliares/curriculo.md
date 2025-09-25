@@ -92,10 +92,10 @@ permalink: "/profissional/cv"
     <h2 id="informatica-titulo">Informática</h2>
     <article class="curriculo">
     <ul>
-      <li>PowerCivil v8i – Itis Tecnologia;</li>
+      <li>Infraworks – CadStudio Pro System;</li>
+       <li>PowerCivil v8i – Itis Tecnologia;</li>
       <li>AutoCAD Civil 3D – Deskgraphik;</li>
-      <li>AutoCAD – SENAI Ary Torres;</li>
-      <li>Infraworks – CadStudio Pro System.</li>
+      <li>AutoCAD – SENAI Ary Torres.</li>
     </ul>
     </article>
   </section>
