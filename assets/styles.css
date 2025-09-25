@@ -595,6 +595,10 @@ table.tabela-posts td {
  margin: 0px 0px 30px 30px;
 }
 
+address {
+    font-style: normal; /* Remove o itálico */
+  }
+
 /* FINAL PARA A PÁGINA DO CURRÍCULO*/
 
 /* INÍCIO - BOTÃO DE ALERTA */

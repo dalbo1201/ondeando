@@ -82,7 +82,9 @@ permalink: "/profissional/cv"
   <section aria-labelledby="formacao-titulo">
     <h2 id="formacao-titulo">Formação</h2>
   <article class="curriculo">
-    <p><b>Universidade Federal do Rio de Janeiro</b><br>Engenharia Civil: 2011</p>
+    <ul>
+      <li><b>Universidade Federal do Rio de Janeiro</b><br>Engenharia Civil: 2011</li>
+    </ul>
   </article>
   </section>
 
@@ -103,7 +105,10 @@ permalink: "/profissional/cv"
   <section aria-labelledby="idiomas-titulo">
     <h2 id="idiomas-titulo">Idiomas</h2>
     <article class="curriculo">
-    <p>Inglês: Intermediário</p>
+    <ul>
+      <li>Português: Nativo;</li>
+      <li>Inglês: Intermediário.</li>
+    </ul>
     </article>
   </section>
  

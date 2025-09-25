@@ -21,6 +21,7 @@ Comentários rápidos e sem muito trabalho editorial sobre os episódios assisti
 <ul>
 <li><a href="#s02e01-02">s02e01-02</a></li>
 <li><a href="#s02e03-04">s02e03-04</a></li>
+<li><a href="#s02e05-06">s02e05-06</a></li>
 <li>em andamento...</li>
 </ul>
 </details>
@@ -174,4 +175,33 @@ Ah, excelente. O maluco da torre vê a Patty, isso diz muito da bagunça do Kevi
 
 Mas é aquela coisa, o seriado não vai pra uma pegada mística, mágica. Mas claramente entrega que as pessoas procuram pelo místico e acabam aceitando essas respostas. Isso é o que acontece o tempo todo, na vida real...  
 
-Agora com o sumisso dessas garotas a coisa vai perder o controle nessa cidade que viveu, até agora, sem passar pelo arrebatamento e com muita gente achando que era um lugar especial.
+Agora com o sumisso dessas garotas a coisa vai perder o controle nessa cidade que viveu, até agora, sem passar pelo arrebatamento e com muita gente achando que era um lugar especial.  
+
+<h3 id="s02e05-06">s02e05-06 <a href="#">&uarr;</a></h3>
+**e05**  
+Cara, a vida do pastor não é fácil. Vai passar o resto da temporada por um milagre que ele viu acontecer uma vez na cidade do milagre.  
+
+Agora fiquei preocupado com a Mary e o estado de sanidade do Matt.  
+
+Eu não sei o que dizer desse episódio, estou preocupado com o estado de sanidade da galera nesse seriado, principalmente os homens, mas achei que o episódio teve um cuidado pra lidar com as bagunças que deixou.  
+
+Claro, o final foi mais pesado, mas ainda assim o caminho até ele foi mais leve do que poderia. 
+
+Espero que a Nora e o Kevin tenham condição de lidar com o trampo que será cuidar da cunhada.  
+
+**e06**  
+Como que o bombeiro se sentiu quando viu que o filho arrancou o adesivo "aqui ninguém foi arrebatado"?  
+
+Parece que tá dando ruim pros passarinhos de Schrödinger.  
+
+Eu tenho a sensação que em algum momento esse relacionamento da Jill e Michael vai virar um Romeu e Julieta.  
+
+Mano, "o anjo Azreal habita em você" é sacanagem... Essa é a explicação científica das pessoas?  
+
+Quem esconde dinheiro assim no armário tá vendendo metanfetamina, certeza. A dor de ter que aceitar que a filha nunca mais volta deve ser pesada.  
+
+Gente, a primeira vez que a gente vê o pássaro tava vivo na caixa e sai voando e depois nenhum mais ficou vivo.  
+
+E mais uma vez alguém desejou algo e as coincidências matam as pessoas por dentro.  
+
+A Nora que achou que era uma traição, e o Kevin realmente contando tudo pra ela. Triste ver que as mulheres têm que ficar servindo de apoio prum monte de homem maluco. 
