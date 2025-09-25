@@ -82,8 +82,8 @@ permalink: "/profissional/cv"
   <section aria-labelledby="formacao-titulo">
     <h2 id="formacao-titulo">Formação</h2>
   <article class="curriculo">
-  <h3>Universidade Federal do Rio de Janeiro</h3>
-    <p>Engenharia Civil: 2011</p>
+  <h3>Engenharia Civil (2011)</h3>
+    <p>Universidade Federal do Rio de Janeiro</p>
   </article>
   </section>
 
