@@ -92,10 +92,10 @@ permalink: "/profissional/cv"
     <h2 id="informatica-titulo">Informática</h2>
     <article class="curriculo">
     <ul>
-      <li>PowerCivil v8i – Itis Tecnologia</li>
-      <li>AutoCAD Civil 3D – Deskgraphik</li>
-      <li>AutoCAD – SENAI Ary Torres</li>
-      <li>Infraworks – CadStudio Pro System</li>
+      <li>PowerCivil v8i – Itis Tecnologia;</li>
+      <li>AutoCAD Civil 3D – Deskgraphik;</li>
+      <li>AutoCAD – SENAI Ary Torres;</li>
+      <li>Infraworks – CadStudio Pro System.</li>
     </ul>
     </article>
   </section>
@@ -116,8 +116,10 @@ permalink: "/profissional/cv"
     <h2 id="contato-titulo">Contato</h2>
     <article class="curriculo">
     <address>
-     <p><a href="mailto:pedro@dalbo.me?subject=Contato profisisonal pelo site" title="Onde falar comigo">pedro@dalbo.me</a><br/>
-      <a href="https://www.linkedin.com/in/pedrodalbo" target="_blank" rel="noopener" aria-label="meu perfil no LinkedIn (atualizado)" title="meu perfil no LinkedIn (atualizado)">in/pedrodalbo</a></p>
+     <ul>
+      <li><a href="mailto:pedro@dalbo.me?subject=Contato profisisonal pelo site" title="Onde falar comigo">pedro@dalbo.me</a></li>
+      <li><a href="https://www.linkedin.com/in/pedrodalbo" target="_blank" rel="noopener" aria-label="meu perfil no LinkedIn (atualizado)" title="meu perfil no LinkedIn (atualizado)">in/pedrodalbo</a></li>
+</ul>
      <p>Residência em São Paulo, SP</p>
     </address>
     </article>
