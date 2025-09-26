@@ -7,29 +7,11 @@
   <meta name="description" content="Pedro é engenheiro civil apaixonado por tecnologia.">
 
   {% feed_meta %}
-  {% if page.title == 'Ondeando' or page.title == 'profissional' %}<meta name="robots" content="index,follow">
+  {% if page.title == 'Ondeando' or page.title == 'profissional' or page.title == 'currículo' %}<meta name="robots" content="index,follow">
   {% else %}<meta name="robots" content="noindex,follow">
   {% endif %}
 
-  {% if page.title == 'Ondeando'%}<title>Pedro Dal Bó | Ondeando</title>
-  {% elsif page.title == 'O que estou fazendo'%}<title>Agora | Ondeando</title>
-  {% elsif page.title == 'Arquivo'%}<title>Arquivo | Textos e Fotos | Ondeando</title>
-  {% elsif page.title == 'Blog'%}<title>Blog | Ondeando</title>
-  {% elsif page.layout == 'post'%}<title>{{ page.title }} | Blog | Ondeando</title>
-  {% elsif page.title == 'barras'%}<title>Barras | Ondeando</title>
-  {% elsif page.layout == 'fotolog'%}<title>Fotolog | Ondeando</title>
-  {% elsif page.layout == 'foto'%}<title>{{ page.title }} | Fotolog | Ondeando</title>
-  {% elsif page.layout == 'post-em-tags'%}<title>Posts por Tags | Ondeando</title>
-  {% elsif page.layout == 'tags'%}<title>Tags | Ondeando</title>
-  {% elsif page.title == 'Acompanhe'%}<title>FEED | Ondeando</title>
-  {% elsif page.title == 'Social'%}<title>Mídias Sociais | Ondeando</title>
-  {% elsif page.title == 'Colofão'%}<title>Colofão | Ondeando</title>
-  {% elsif page.title == 'Dicas'%}<title>Dicas | Ondeando</title>
-  {% elsif page.title == 'erro'%}<title>Erro | Ondeando</title>
-  {% elsif page.title == 'Sobre The Leftovers'%}<title>Sobre The Leftovers | Ondeando</title>
-  {% elsif page.title == 'profissional'%}<title>Profissional | Pedro Dal Bó</title>
-  {% elsif page.title == 'currículo'%}<title>CV | Profissional | Pedro Dal Bó</title>
-  {% endif %}
+  <title>{{ page.title | truncate: 45, "…"}} | {{ site.title }}</title>
 
   <!-- Links -->
   <link rel="stylesheet" href="https://use.fontawesome.com/releases/v7.0.0/css/all.css">

@@ -5,7 +5,7 @@ description: Página para as séries que estou vendo no grupo do Telegram do Fei
 ---
 # <span aria-hidden="true">|<span class="h1-menor">as </span></span>Séries<span class="h1-menor"> e </span>Filmes
 
-Um  lugar para unificar textos sobre seriados e filmes que assito. Com certeza não será sobre tudo, mas o que achar que tenho algo que queira (não que precise) dizer.  
+Um  lugar para unificar textos sobre seriados e filmes que assisto. Com certeza não será sobre tudo, mas o que achar que tenho algo que queira (não que precise) dizer.  
 
 Principalmente os seriados que acompanho com o pessoal do grupo do Telegram de _Seriados do Feito por Elas_, já que acabo comentando alguma coisa no grupo.
 

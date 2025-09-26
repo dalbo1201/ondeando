@@ -1,6 +1,6 @@
 ---
 layout: paginas
-title: O que estou fazendo
+title: Agora
 description: Uma atualizaçao quinzenal? Talvez.
 ---
 <h1>

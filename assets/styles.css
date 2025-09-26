@@ -8,7 +8,7 @@
     --color-background: #F5F5F5;
     --color-text: #252525;
     --color-link: #75015c;
-    --color-link-hover: #6C4800;
+    --color-link-hover: #755401;
     --color-data: #000000;
 }
 
@@ -17,7 +17,7 @@
   --color-background: #252525;
   --color-text: #F5F5F5;
   --color-link: #F1C6E8;
-  --color-link-hover: #FFE0B8;
+  --color-link-hover: #F1E5C6;
   --color-data: #E6E6E6;
   }
 }
@@ -246,6 +246,28 @@ a.linkdata:hover {
 .blog-tag a {
  white-space: nowrap;  /* impede quebra dentro da tag */
 }
+
+/* Adiciona um ícone após links externos */
+/* Exclui links que começam com #, javascript:, / (mas não //), exclui domínios específicos */
+a[href]:not(:where(
+  /* exclude hash only links */
+  [href^="#"],
+  /* exclude javascript only links */
+  [href^="javascript:" i],  
+  /* exclude relative but not double slash only links */
+  [href^="/"]:not([href^="//"]),
+  /* domains to exclude */
+  [href*="//dalbo.me"],
+  /* subdomains to exclude */
+  [href*="//pedro.dalbo.me"],
+  [href*="http://localhost:4000/"],
+  /* exclui links que só têm imagem */
+  :has(img)
+)):after {
+  content: '↗'; /* Unicode para o ícone de link externo */
+  font-size: 0.9em; /* Tamanho do ícone */  
+}
+
 /* FINAL Links */
 
 
