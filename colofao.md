@@ -8,7 +8,7 @@ description: Bastidores técnicos e inspirações do site
 [Colofão](https://pt.wikipedia.org/wiki/C%C3%B3lofon_(tipografia) "mais sobre o que é Cólofon") (ou Cólofon e em inglês Colophon) é um espaço para contar um pouco dos bastidores técnicos deste cantinho: como ele é feito, quais ferramentas e de onde vêm algumas inspirações. _Hoje no Globo Reporter_.  
 
 ## Descrição do site
-A tipografia é toda com a fonte [Montserrat](https://fonts.google.com/specimen/Montserrat "a fonte deste cantinho"), as setas são [elementos unicode](https://symbl.cc/pt/unicode-table/#arrows "as setas") e alguns ícones da [Font Awesome](https://fontawesome.com "os ícones de mídias-sociais").  
+A tipografia é toda com a fonte [Montserrat](https://fonts.bunny.net/family/montserrat "a fonte deste cantinho"), as setas são [elementos unicode](https://symbl.cc/pt/unicode-table/#arrows "as setas") e alguns ícones da [Font Awesome](https://fontawesome.com "os ícones de mídias-sociais").  
 
 Este cantinho tem como cores predominantes:
 - Cultured (cinza claro, quase branco) ([#F5F5F5](https://www.color-name.com/hex/f5f5f5 "o fundo, ou o texto"));
