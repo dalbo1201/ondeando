@@ -2,8 +2,8 @@
 layout: post
 type: texto
 title: "Não tenho todo esse apego à musicas"
-date: 2025-08-xx 22:30:00 -0300
-tags: ["a vida, o universo e tudo mais"]
+date: 2025-09-27 12:30:00 -0300
+tags: ["a vida, o universo e tudo mais","pensamentos"]
 ---
 Acho muito bacana quando estou conversando e as pessoas trazem uma relação tão íntima com a música.  
 

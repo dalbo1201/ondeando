@@ -22,17 +22,14 @@ Seguindo com o _hérculeo trabalho_ de deixar a casa do jeito que a gente gosta 
 
 Estou lendo:
 <ul>
-    <li>Ainda sem saber.</li>
+    <li>Marry Poppins, P.L. Travers.</li>
 </ul>
 Filmes que vi <a href="https://letterboxd.com/dalbo1201/films/diary/" class="linkcab">&#127916;</a>:
 <ul>
-    <li>Twin Peaks: Fire Walk with Me&nbsp;| David Lynch, 1992&nbsp;| Mubi;</li>
-    <li>Thunderbolts*&nbsp;| Jake Schreier, 2025&nbsp;| Disney+;</li>
-    <li>Twin Peaks: The Missing Pieces&nbsp;| David Lynch, 2014&nbsp;| Mubi.</li>
+    <li>Em dívida com o cinema...</li>
 </ul>
 Séries que estou vendo <a href="https://tvtime.com/r/38uUh" class="linkcab">&#128250;</a>:
 <ul>
-    <li>Alien: Earth&nbsp;| Disney+&nbsp;| temporada&nbsp;1;</li>
     <li>Arcane&nbsp;| Netflix | temporada&nbsp;2;</li>
     <li>Invencível&nbsp;| Prime Video&nbsp;| temporada&nbsp;2;</li>
     <li>Kamen Rider: Black Sun&nbsp;| Prime Video&nbsp;| temporada&nbsp;1;</li>
@@ -41,6 +38,7 @@ Séries que estou vendo <a href="https://tvtime.com/r/38uUh" class="linkcab">&#1
     <li>Arquivo X&nbsp;| Disney+&nbsp;| temporada&nbsp;1;&nbsp;↺</li>
     <li>Breaking Bad&nbsp;| Netflix&nbsp;| temporada&nbsp;4.&nbsp;↺</li>
 </ul>
+
 <aside class="atualizacao">
-    atualizado em 16 de setembro de 2025.
+    atualizado em 27 de setembro de 2025.
 </aside>
