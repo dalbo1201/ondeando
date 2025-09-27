@@ -16,7 +16,7 @@ Este cantinho tem como cores predominantes:
 - French Plum (um roxo escuro, lembrando o magenta) ([#75015c](https://www.color-name.com/hex/75015c "os links, no claro"));  
 - No **modo escuro** as cores se invertem e o French Plum muda para Classic Rose (um rosa claro) ([#F1C6E8](https://www.color-name.com/hex/f1c6e8 "os links, no escuro")).  
 
-Sempre que você avistar o símbolo **↗** ao lado de algum link significa que ele te levará para uma página externa deste pequeno _proto-jardim-digital_.
+Sempre que você avistar o símbolo **↗** ao lado de algum link significa que ele te levará para uma página externa deste pequeno _proto-jardim-digital_. A excessão são os links associados a imagem no rodapé, apesar de irem para páginas externas não tem o símbolo, ~~por questão estética e~~, porquê claramente vão para uma página externa.
 
 **Todos os links abrem a página sobre a página atual**. Adoto essa configuração porque se houver o desejo de abrir em uma nova aba/janela é possível de várias formas. Mas se o interesse não for esse e a configuração padrão for abrir em outra aba/janela não temos como fazê-lo.
 
