@@ -31,4 +31,4 @@ Por isso, deixo aqui onde podem me encontrar.
 </li>
 </ul>
 
-Não vamos nos esquecer que este espaço é social e por isso, além de publicar por aqui o que tem me interessado, você pode <a href="mailto:pedro@dalbo.me?subject=Contato pelo site" title="como falar comigo">falar comigo por aqui</a>.
+Não vamos nos esquecer que este espaço é social e por isso, além de publicar por aqui o que tem me interessado, você pode <a href="mailto:pedro@dalbo.me?subject=Contato pelo site" title="como falar comigo">falar comigo</a>.
