@@ -30,6 +30,7 @@ Filmes que vi <a href="https://letterboxd.com/dalbo1201/films/diary/" class="lin
 </ul>
 Séries que estou vendo <a href="https://tvtime.com/r/38uUh" class="linkcab">&#128250;</a>:
 <ul>
+    <li>Pacificador&nbsp;| HBO Max | temporada&nbsp;2;</li>    
     <li>Arcane&nbsp;| Netflix | temporada&nbsp;2;</li>
     <li>Invencível&nbsp;| Prime Video&nbsp;| temporada&nbsp;2;</li>
     <li>Kamen Rider: Black Sun&nbsp;| Prime Video&nbsp;| temporada&nbsp;1;</li>
