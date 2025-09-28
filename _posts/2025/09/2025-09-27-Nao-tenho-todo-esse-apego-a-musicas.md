@@ -1,7 +1,7 @@
 ---
 layout: post
 type: texto
-title: "Não tenho todo esse apego à musicas"
+title: "Não tenho todo esse apego às musicas"
 date: 2025-09-27 12:30:00 -0300
 tags: ["a vida, o universo e tudo mais","pensamentos"]
 ---
