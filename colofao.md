@@ -5,7 +5,9 @@ description: Bastidores técnicos e inspirações do site
 ---
 # <span aria-hidden="true">|<span class="h1-menor">o </span></span>Colofão<span class="h1-menor"> deste cantinho</span>
 
-[Colofão](https://pt.wikipedia.org/wiki/C%C3%B3lofon_(tipografia) "mais sobre o que é Cólofon") (ou Cólofon e em inglês Colophon) é um espaço para contar um pouco dos bastidores técnicos deste cantinho: como ele é feito, quais ferramentas e de onde vêm algumas inspirações. _Hoje no Globo Reporter_.  
+[Colofão](https://indieweb.org/colophon "mais sobre o que é Cólofon") (ou Cólofon e em inglês Colophon) é um espaço para contar um pouco dos bastidores técnicos deste cantinho: como ele é feito, quais ferramentas e de onde vêm algumas inspirações. _Hoje no Globo Reporter_.  
+
+A ideia, é claro, foi [retirada da literatura](https://pt.wikipedia.org/wiki/C%C3%B3lofon_(tipografia) "o que sao cólofon de livros") onde se apresenta as informações da obra.
 
 ## Descrição do site
 A tipografia é toda com a fonte [Montserrat](https://fonts.bunny.net/family/montserrat "a fonte deste cantinho"), as setas são [elementos unicode](https://symbl.cc/pt/unicode-table/#arrows "as setas") e alguns ícones da [Font Awesome](https://fontawesome.com "os ícones de mídias-sociais").  
