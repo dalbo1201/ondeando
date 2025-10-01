@@ -22,6 +22,7 @@ Comentários rápidos e sem muito trabalho editorial sobre os episódios assisti
 <li><a href="#s02e01-02">s02e01-02</a></li>
 <li><a href="#s02e03-04">s02e03-04</a></li>
 <li><a href="#s02e05-06">s02e05-06</a></li>
+<li><a href="#s02e07-08">s02e07-08</a></li>
 <li>em andamento...</li>
 </ul>
 </details>
@@ -204,4 +205,30 @@ Gente, a primeira vez que a gente vê o pássaro tava vivo na caixa e sai voando
 
 E mais uma vez alguém desejou algo e as coincidências matam as pessoas por dentro.  
 
-A Nora que achou que era uma traição, e o Kevin realmente contando tudo pra ela. Triste ver que as mulheres têm que ficar servindo de apoio prum monte de homem maluco. 
+A Nora que achou que era uma traição, e o Kevin realmente contando tudo pra ela. Triste ver que as mulheres têm que ficar servindo de apoio prum monte de homem maluco.  
+
+<h3 id="s02e07-08">s02e07-08 <a href="#">&uarr;</a></h3>
+
+**e07**  
+"Eu não sou maluco". Kevin não tem jeito, maluco é pouco.  
+
+Além do velho saber das coisas ele também vai resolver? Mas realmente só tem cara maluco nessa cidade.  
+
+Muito curioso o diálogo dele com a Laurie sobre acreditar e tal porque é exatamente o que acontece com o Kevin agora. Mas o nível de loucura da coisa é enorme. Eu não vi isso chegando... o fato do Kevin realmente entrar na onda de uma aventura mística e ainda mais que o velho fosse se matar.  
+
+Essa jornada e busca do Kevin acho que só se resolve internando. 
+
+Sinceramente acho muito nada a ver a Laurie "não acreditar na Nora" de que o Tom não estaria por lá e ao chegar procurar o Kevin. De uma safadeza sem tamanho, mas conveniente demais para a história.  
+
+Aquela coisa, comentar no processo pode dar com os burros n'água, mas não gostei desse caminho. 
+
+**e08**  
+Mas que belo sonho meio bosta esse do Kevin. Aí aparece o pai, por uma chamada de vídeo mágica pela TV pra dizer o que fazer, mas sempre as coisas são pela metade.  
+
+Esses dois episódios não me agradaram isoladamente, a coisa caminhou neles por lados muito fantásticos e místicos, mas deixando aquela sensação de que nada realmente têm de místicos.  
+
+Eu vejo a qualidade de série, mas esses dois episódios não me pegaram e tão me dando no ódio de acompanhar essa situação do Kevin com a Patti.  
+
+Vou falar, se esse episódio não der em nenhuma resolução com o Kevin eu espero que algo caminhe, porque ficarei desapontado.  
+
+E o passarinho mais uma vez levou a pior. Eu acho que o pássaro tem alguma metáfora que eu não tô pegando, não é possível.
