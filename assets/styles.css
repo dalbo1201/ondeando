@@ -204,15 +204,29 @@ main ul {
  padding: 10px; 
 }
 
-code.highlight {
- background-color: var(--color-link);
- padding: 10px 10px;
- border-radius: 4px;
- color: var(--color-background);
- display: block;
- unicode-bidi: isolate;
- overflow-x: auto;
-}
+ /* Container do bloco de código */
+ .tutorial { 
+    font-family: monospace;
+  }
+  
+  pre {
+    background-color: var(--color-link);
+    color: var(--color-background);
+    padding: 12px 16px;
+    border-radius: 6px;
+    width: 100%;
+    white-space: pre-wrap;
+    word-wrap: break-word;
+    overflow-x: auto;
+    }
+
+    /* Fonte do código */
+  pre code {
+    font-family: monospace;
+    font-size: 0.95em;
+    line-height: 1.5;
+    }
+
 /* FINAL ESTILOS GERAIS */
 
 /* INÍCIO Links */
