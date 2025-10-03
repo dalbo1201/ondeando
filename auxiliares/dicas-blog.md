@@ -205,7 +205,7 @@ Se você tem paginação no seu site, coloque esse código entre a configuraçã
 
 </code></pre>
 <div class="tutorial">
-O CSS que usei para a galeria ficou da segiunte forma.
+O CSS que usei para a galeria ficou da seguinte forma.
 </div>
 
 <pre><code>
