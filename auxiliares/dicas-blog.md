@@ -167,7 +167,7 @@ Se quiserem podemos conversar, mas não posso prometer resolver nada. :'(
 
 <p>No meu site, todos as postagens estão no mesmo feed, a separação acontece num plugin que gera um arquivo <em>*.yml</em> com a lista de cada conjunto de postagens e assim tenho um único feed, mas páginas diferentes para textos e fotos.</p>
 
-<p>Essa configuração eu montarei e coloco aqui depois.</br>
+<p>Essa configuração eu montarei e coloco aqui depois.<br/>
 Uso um template para a postagem das fotos.</p>
 </div>
 
@@ -183,11 +183,11 @@ Corpo da postagem com a imagem e textos.
 </code></pre>
 
 <div class="tutorial">
-<p>No corpo da postagem você pode usar a configuração e apresentação pelo CSS da forma que quiser. O importante é que tenha o campo <em>image</em> e <em>caption</em> no Front Matter.</br>
+<p>No corpo da postagem você pode usar a configuração e apresentação pelo CSS da forma que quiser. O importante é que tenha o campo <em>image</em> e <em>caption</em> no Front Matter.<br/>
 No <em>image</em> você coloca a url da imagem  que vai aparecer na galeria e em <em>caption</em> a legenda que vai abaixo da imagem.</p>
 
-<p>O layout da página da galeria (o Fotolog) você coloca a seguir.</br>
-Fique atento que eu não apresento nenhuma configuração <i>Liquid</i> de paginação.</br>
+<p>O layout da página da galeria (o Fotolog) você coloca a seguir.<br/>
+Fique atento que eu não apresento nenhuma configuração <i>Liquid</i> de paginação.<br/>
 Se você tem paginação no seu site, coloque esse código entre a configuração <i>Liquid</i>.</p>
 </div>
 
@@ -205,7 +205,7 @@ Se você tem paginação no seu site, coloque esse código entre a configuraçã
 
 </code></pre>
 <div class="tutorial">
-O CSS que usei para a galeria ficou da segiunte forma.
+O CSS que usei para a galeria ficou da seguinte forma.
 </div>
 
 <pre><code>
