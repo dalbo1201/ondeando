@@ -371,7 +371,7 @@ article.blog-article.blog-citacao blockquote {
  font-size: clamp(1rem, 1.2vw, 1.06rem); /* 16–17px */
  line-height: clamp(1.44rem, 2vw, 1.44rem); /* 23px */
  font-style: italic;
- margin: 20px 0px 20px 15x;
+ margin: 20px 0px 20px 15px;
  max-width: 75%;
  position: relative;
  display: inline-block;
