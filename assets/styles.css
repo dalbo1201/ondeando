@@ -203,33 +203,9 @@ main ul {
  margin: 10px 0px 10px 0px; 
  padding: 10px; 
 }
-
- /* Container do bloco de código */
- .tutorial { 
-    font-family: monospace;
-  }
-  
-  pre {
-    background-color: var(--color-link);
-    color: var(--color-background);
-    padding: 12px 16px;
-    border-radius: 6px;
-    width: 100%;
-    white-space: pre-wrap;
-    word-wrap: break-word;
-    overflow-x: auto;
-    }
-
-    /* Fonte do código */
-  pre code {
-    font-family: monospace;
-    font-size: 0.95em;
-    line-height: 1.5;
-    }
-
 /* FINAL ESTILOS GERAIS */
 
-/* INÍCIO Links */
+/* INÍCIO eSTILOS PARA OS Links */
 a:link,
 a:visited,
 a:active,
@@ -241,7 +217,6 @@ a:hover,
 nav a:hover {
  color: var(--color-link-hover);
 }
-
 
 a.linkcab:link,
 a.linkcab:visited,
@@ -282,9 +257,9 @@ a[href]:not(:where(
   font-size: 0.9em; /* Tamanho do ícone */  
 }
 
-/* FINAL Links */
+/* FINAL eSTILOS PARA OS Links */
 
-
+/* INÍCIO DE ESTILO PARA IMAGENS em posts - NÃO É O FOTOLOG, ESSE VEM DEPOIS*/
 figure {
  margin: 0; /* Remove a margem padrão do figure */
  padding: 0; /* Remove o padding padrão do figure */
@@ -312,7 +287,6 @@ figcaption {
  pointer-events: none;
 }
 
-/* Imagens em posts */
 .foto-post {
  display: flex;
  flex-wrap: wrap;
@@ -345,18 +319,19 @@ figcaption {
  height: auto;
  display: block;
 }
+/* FINAL DE ESTILO PARA IMAGENS em posts - NÃO É O FOTOLOG, ESSE VEM DEPOIS*/
 
-/* Tipos de posts */
- article.blog-article.blog-citacao h2,
+
+/* INÍCIO DOS Tipos de posts */
+article.blog-article.blog-citacao h2,
  article.blog-article.blog-notas h2 {
   display: none !important;
  }
- /* fim do Tipos de posts */
-
+/* FINAL DOS Tipos de posts */
 
 
  /* INÍCIO DOS Estilos para o Blog */
-.blog-article{
+ .blog-article{
  width: 100%; /* Garante que ocupe toda a largura do contêiner */
  margin-bottom: 25px;
 }
@@ -438,7 +413,7 @@ article.blog-article.blog-citacao cite {
 
 .blog-seta { 
  font-size: clamp(1.25rem, 1.5vw, 1.25rem); /* 20px */
-line-height: 1.25rem;
+ line-height: 1.25rem;
  max-width: 97%;
  text-align: right;
  margin-top:10px;
@@ -447,7 +422,7 @@ line-height: 1.25rem;
 /* FINAL DOS Estilos para o Blog */
 
 
-/* Para Tags */
+/* INIÍCIO ESTILOS PARA A PÁGINA DE Tags */
 .blog-tag {
  font-family: monospace;
  font-size: clamp(0.88rem, 0.85vw, 0.94rem); /* 14–15px */
@@ -474,7 +449,7 @@ line-height: 1.25rem;
  gap: 2px 10px;
 }
 
-/* estilo para lista de posts por tag em tabela */
+/* INÍCIO do estilo para lista de posts por tag em tabela */
 ul.lista-tags {
  list-style: none;
  padding-left: 0;
@@ -520,9 +495,8 @@ table.tabela-posts td {
 .titulo-post {
  width: 100%;
 }
-/* fim do estilo para lista de posts por tag em tabela */
-/* Para Tags */
-
+/* FINAL do estilo para lista de posts por tag em tabela */
+/* FINAL ESTILOS PARA A PÁGINA DE Tags */
 
 /* COMEÇO DO MEU FOTOLOG */
 /* Creditos para Bruce Beaumont. No final mudou bastante o código, mas foi dele toda a inspiração*/
@@ -629,14 +603,39 @@ table.tabela-posts td {
 
 /* INÍCIO PARA A PÁGINA DO CURRÍCULO*/
 .curriculo {
- margin: 0px 0px 30px 30px;
+  margin: 0px 0px 30px 30px;
 }
 
 address {
-    font-style: normal; /* Remove o itálico */
-  }
+  font-style: normal; /* Remove o itálico */
+}
 
 /* FINAL PARA A PÁGINA DO CURRÍCULO*/
+
+
+/* INÍCIO DO Container PARA de bloco de código DO dicas-do-blog*/
+.tutorial { 
+  font-family: monospace;
+}
+  
+pre {
+  background-color: var(--color-link);
+  color: var(--color-background);
+  padding: 12px 16px;
+  border-radius: 6px;
+  width: 100%;
+  white-space: pre-wrap;
+  word-wrap: break-word;
+  overflow-x: auto;
+}
+
+/* Fonte do código */
+pre code {
+  font-family: monospace;
+  font-size: 0.95em;
+  line-height: 1.5;
+}
+/* FINAL DO Container PARA de bloco de código DO dicas-do-blog*/
 
 /* INÍCIO - BOTÃO DE ALERTA */
 /* Botão de alerta */
@@ -709,7 +708,6 @@ address {
  pointer-events: auto;
 }
 /* FINAL - Botão de alerta */
-
 
 /* Ajustes para telas menores */
 @media only screen and (max-width: 512px) {
