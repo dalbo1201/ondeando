@@ -188,8 +188,7 @@ No <em>image</em> você coloca a url da imagem  que vai aparecer na galeria e em
 
 <p>Na pasta <i>_layout</i> você coloca o código a seguir que montará a página da galeria (o Fotolog).<br/>
 Fique atento que eu não apresento nenhuma configuração <i>Liquid</i> de paginação.</p>
-<p>Se você tem paginação no seu site, coloque esse código entre a configuração <i>Liquid</i>. Mas fique atento que você precisará configurar o <i>Front Matter</i> da página do fotolog para aceitar a paginação, eu simplesmente copiei a configuração geral do _config.yml e alterei para o número de fotos que quero que apareça por página.<br/>
-Veja que essa já é uma compelxidade maior (colocar uma paginação extra) se você como eu estiver criando duas páginas diferentes de postagem. Se for usar apenas essa no seu blog é seguir com a configuração de paginação normal do Jekyll.</p>
+<p>Se você tem paginação no seu site, coloque esse código no arquivo com o código da galeria.</p>
 </div>
 
 <pre><code>
