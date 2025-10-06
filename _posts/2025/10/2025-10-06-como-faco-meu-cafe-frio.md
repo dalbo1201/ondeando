@@ -2,7 +2,7 @@
 layout: post
 type: texto
 title: "Como eu faço meu café frio" 
-date: 2025-10-04 13:14:15 -0300
+date: 2025-10-06 13:14:15 -0300
 tags: ["a vida, o universo e tudo mais", "casa"]
 ---
 Aproveitando que nessa semana rolou o [Dia Internacional do Café](https://www.ico.org/pt/international-coffee-day/) vou deixar aqui minha receita de café ~~gelado~~ frio, ou cold brew, porque _café gelado_ normalmente é aquele que a gente faz quente e põe gelo pra esfriar.  
