@@ -25,62 +25,75 @@ quadrinhos
 showsséries e TV
 tatuagem
 
-Estrutura de pastas
-|-meusite
-    |-data
-        |-album_posts.yml
-        |-blog_posts.yml
-    |-_includes
-        |-footer.html
-        |-head.html
-        |-header.html
-        |-modal-aviso.html
-    |-_layouts
-        |-arquivo.html
-        |-blog.html
-        |-default.html
-        |-foto.html
-        |-fotolog.html
-        |-paginas.html
-        |-post.html
-        |-tags.html
-    |-_plugins
-        |-generate_album_data_file.rb
-        |-generate_blog_data_file.rb
-    |-_posts
-        |-2006
+Estrutura de pastas:
+|meusite
+    |data
+        |album_posts.yml
+        |blog_posts.yml
+    |_includes
+        |footer.html
+        |head.html
+        |header.html
+        |modal-aviso.html
+    |_layouts
+        |arquivo.html
+        |blog.html
+        |default.html
+        |foto.html
+        |fotolog.html
+        |paginas.html
+        |post.html
+        |tags.html
+    |_plugins
+        |generate_album_data_file.rb
+        |generate_blog_data_file.rb
+    |_posts
+        |2006
             |....
-        |-2007
+        |2007
             |...
         ...
-        |-2025
+        |2025
             |...
-    |-assets
-        |-_inutilizados
-        |-fotos
-            |-2007
+    |assets
+        |favicon
+            |favicon-16.png
+            |favicon-32.png
+            |favicon-180.png
+        |fotos
+            |2007
                 |...
             ...
-            |-2025
+            |2025
                 |...
         |404.png
-        |-foto-pedro-100px.jpg
-        |-foto-pedro.jpg
-        |-frss.svg
-        |-styles.css
-|-_config.yml
-|-.gitignore
-|-404.md
-|-acompanhe.md
-|-agora.md
-|-arquivo.md
-|-barras.md
-|-blog.md
-|-fotolog.md
-|-Gemfile
-|-Gemfile.lock
-|-index.md
-|-Profissional.md
-|-robots.txt
-|-social.md
-|-tags.md
+        |foto-pedro-100px.jpg
+        |foto-pedro.jpg
+        |lerama.png
+        |Pedro Dal Bó.pdf
+        |Pedro Dal Bó.vcf
+        |rss.svg
+        |styles.css
+        |suporte.txt
+    |auxiliares
+        |404.md
+        |curriculo.md
+        |dicas-blog.md
+        |the-leftovers.md
+|_config.yml
+|.gitignore
+|acompanhe.md
+|agora.md
+|arquivo.md
+|barras.md
+|blog.md
+|colofao.md
+|fotolog.md
+|Gemfile
+|Gemfile.lock
+|index.md
+|license.txt
+|Profissional.md
+|robots.txt
+|social.md
+|tags.md

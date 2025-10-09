@@ -5,11 +5,11 @@
 }
 
 :root {
-    --color-background: #F5F5F5;
-    --color-text: #252525;
-    --color-link: #75015c;
-    --color-link-hover: #755401;
-    --color-data: #000000;
+  --color-background: #F5F5F5;
+  --color-text: #252525;
+  --color-link: #75015c;
+  --color-link-hover: #755401;
+  --color-data: #000000;
 }
 
 @media (prefers-color-scheme: dark) {

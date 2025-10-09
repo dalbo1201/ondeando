@@ -23,9 +23,15 @@ Comentários rápidos e sem muito trabalho editorial sobre os episódios assisti
 <li><a href="#s02e03-04">s02e03-04</a></li>
 <li><a href="#s02e05-06">s02e05-06</a></li>
 <li><a href="#s02e07-08">s02e07-08</a></li>
-<li>em andamento...</li>
+<li><a href="#s02e09-10">s02e09-10</a></li>
 </ul>
 </details>
+<details><summary>Temporada 3 - em andamento...</summary>
+<ul>
+
+</ul>
+</details>
+
 
 <aside class="aviso">Atenção que os comentários daqui pra baixo podem, em algum momento, apresentar <b>spoileres da série</b>.<br/>
 Não me responsabilizo pelo que você possa ler sem ter assistido antes.</aside>
@@ -231,4 +237,46 @@ Eu vejo a qualidade de série, mas esses dois episódios não me pegaram e tão 
 
 Vou falar, se esse episódio não der em nenhuma resolução com o Kevin eu espero que algo caminhe, porque ficarei desapontado.  
 
-E o passarinho mais uma vez levou a pior. Eu acho que o pássaro tem alguma metáfora que eu não tô pegando, não é possível.
+E o passarinho mais uma vez levou a pior. Eu acho que o pássaro tem alguma metáfora que eu não tô pegando, não é possível.  
+
+<h3 id="s02e09-10">s02e09-10 <a href="#">&uarr;</a></h3>
+**e09**  
+Mas sempre precisa de uma tragédia... Agora eu quero saber o que a ~~velha~~ senhora falou. 
+
+Eita porra que a Maggie é demoníaca! 
+
+Por alguns momentos eu achei que a Maggie que tivesse levado as garotas, e realmente estavam com ela, mas aparentemente não como eu imaginava.
+
+No final ela tá mais maluca ainda que o resto dos RC e parece que vai zoar ainda mais com a cidade de Jordan.
+
+Tá aí um episódio que fez andar mais coisa que a temporada inteira. Depois de ver esse episódio fiquei com a sensação que as coisas dentro da cidade estão acontecendo devagar demais, quase como uma barriga em alguns momentos.  
+
+Tem muita coisa interessante, claro que tem. Mas esse episódio me pareceu seguir a pegada da série e ao mesmo tempo caminhar mais que o resto. Fiquei muito curioso para ver o final da temporada e saber o que virá na terceira. 
+
+(Ainda não fui procurar o que acontecerá na temporada 3).
+
+**e10**   
+Te falar que o John vai dar muito ruim com o Kevin...
+
+Puta que pariu ela fala mesmo! Aí é sacanagem. A gente passa dois episódios querendo a morte do Matt e no final o milagre aconteceu. 
+
+Gente, as 3 meninas entraram numa espiral, tô curioso de como chegaram a isso. Essa é uma história que eu gostaria de ter visto... como elas chegam nos RC e o que acontece com elas pra elas buscarem o pessoal e serem a favor da invasão.  
+
+Chega a ser irônico como a gente respeita muito facilmente o sistema de poder que é imposto, mas só precisou de uma galera que os enfrentasse para que ocorresse a invasão. E pensando assim, era meio óbvio que se tentassem antes não iria rolar uma chacina para impedir.
+
+E o Kevin levar o tiro e ficar lá esquecido... não, eu não queira ele morto, mas gostaria que houvesse essa coragem no roteiro. Mas né... não poderia acontecer. Agora preocupei com o cachorro, porque achei que ele encontraria a Nora no trailer ao seguir o cachorro, mas ele o abandonou, diferente do cachorro que ficou lá com ele estendido no chão. Achei paia isso aí.
+
+Quem faz isso com um bebê? Essa situação toda ficou muito largada, tipo a mulher é só louca, ok, mas não leva a lugar nenhum e acontece só pra criar um desconforto. Às vezes isso me incomoda.  
+
+Essa cena final foi bonita? Foi. Mas achei meio forçada, poderia ser menos melodramática. Mesmo assim valeu.  
+
+O episódio cresceu bem, teve um bom clímax e entregou o que poderia ser esperado da série lembrando a primeira temporada. 
+
+<h3 id="">ótima temporada <a href="#">&uarr;</a></h3>  
+Dessa vez eu achei a temporada mais equilibrada que a primeira. Os primeiros episódios entregam bem, dão o clima e apresentam o que podem ser o mistério e os conflitos.  
+
+Não é que a temporada dê embarrigadas, mas ela prolonga algumas questões de personagens e esquece outros que poderiam ser mais interessantes, de qualquer forma ela sempre trata com respeito o espectador e é difícil comentar episódios sem o todo porque eles simplesmente escolhem caminhos que a gente vai ver depois. Mas ao mesmo tempo tem histórias interessantes que a gente não vai saber e eu poderia gostar mais.  
+
+De qualquer forma a temporada entrega um esforço, o que é excelente. Não precisa explicar tudo e nem precisa fechar todas as pontas, mas precisa dar um desfecho pra história pra que a gente tenha essa sensação de finalizar e poder ter o sentimento de quero mais. 
+
+Ansioso pela terceira temporada e mesmo sabendo que *todo carnaval tem seu fim* gostaria que esse durasse mais.
