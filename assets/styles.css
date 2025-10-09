@@ -58,20 +58,15 @@ header {
 }
 
 nav {
- font-size: clamp(0.88rem, 0.8vw, 0.94rem); /* 14–15px */
- font-weight: bold;
-}
-
-nav ul {
- display: flex;
- gap: 5px;
- list-style: none;
- padding: 0;
- margin: 0;
-}
-
-nav li {
- margin: 0;
+  width: 100%;
+  display: flex;
+  flex-wrap: wrap;              /* <- permite quebrar para a próxima linha */
+  justify-content: flex-end;     /* mantém alinhado à direita */
+  align-items: center;          /* "right" não é válido aqui — use center ou flex-end */
+  gap: 10px;                  /* controla a distância fixa entre os itens */
+  font-size: clamp(0.88rem, 0.8vw, 0.94rem);
+  font-weight: bold;
+  text-align: right;
 }
 
 main {
@@ -92,6 +87,7 @@ footer {
  display: flex;
  justify-content: space-between;
  align-items: center;
+ gap: 20px;                  /* controla a distância fixa entre os itens */
  margin: 2rem 0 0.8rem 0; /* 40px 0 20px 0 */
  flex-wrap: wrap; /* Caso o conteúdo precise quebrar em telas pequenas */
 }
@@ -99,13 +95,13 @@ footer {
 .footer-left {
  display: flex;
  align-items: center;
- gap: 11px; /* Espaço entre os links */
+ gap: 10px; /* Espaço entre os links */
 }
 
 .footer-right {
  display: flex;
  align-items: center;
- gap: 5px; /* Espaço entre os links */
+ gap: 10px; /* Espaço entre os links */
  margin-left: auto; /* Garante que fique à direita mesmo se não houver .footer-left */
 }
 
@@ -446,7 +442,7 @@ article.blog-article.blog-citacao cite {
  text-wrap: balance;
  justify-content: center;
  margin-bottom: 9px;
- gap: 2px 10px;
+ gap: 5px 10px;
 }
 
 /* INÍCIO do estilo para lista de posts por tag em tabela */
@@ -731,23 +727,8 @@ header {
 }
 
 nav {
- width: 100%;
- display: flex;
- justify-content: flex-end; /* Alinha a navegação à direita */
- margin-left: auto;
-}
-
-nav ul {
- flex-wrap: wrap;
- justify-content: flex-end; /* Alinha a navegação à direita */
- text-wrap: balance;
- margin-left: auto;
- gap: 3px;
-}
-
-nav a {
- margin-left: 5px; /* Reduz o espaço entre os links na navegação */
- font-size: clamp(0.81rem, 1vw, 0.88rem); /* 13–14px */
+ column-gap: 10px; /* espaçamento só horizontal */
+ row-gap: 0;         /* garante que não haja espaço vertical */
 }
 
 footer {
@@ -755,6 +736,7 @@ footer {
  justify-content: center;
  align-items: center;
  text-align: center;
+ row-gap: 9px;         /* garante que não haja espaço vertical */
 }
 
 .footer-right {
@@ -766,7 +748,7 @@ footer {
 
 .footer-left {
  order: 2;
- margin-top: 10px;
+ margin-top: 0px;
  justify-content: center;
 }
 
