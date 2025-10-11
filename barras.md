@@ -1,6 +1,6 @@
 ---
 layout: paginas
-title: barras
+title: Barras
 description: Um mapa para o site.
 ---
 <h1>

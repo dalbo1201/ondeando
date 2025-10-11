@@ -27,7 +27,7 @@ Sempre que você avistar o símbolo **↗** ao lado de algum link significa que 
 - **Revisão:** (em sua maioria) os textos são lidos pela S. (minha companheira) que faz o trabalho de revisar absurdos que escrevo errado;
 - **Publicação:**  
   - O site é construído com o gerador estático [Jekyll](https://jekyllrb.com/);  
-  - O código fica hospedado no [GitHub](https://github.com/) e acabo utilizando GitHub Desktop e Visual Code para facilitar a gestão dos arquivos;  
+  - O código fica hospedado no [GitHub](https://github.com/dalbo1201/ondeando) e acabo utilizando GitHub Desktop e Visual Code para facilitar a gestão dos arquivos;  
   - A montagem e publicação acontecem via [Netlify](https://www.netlify.com/).  
 
 ## Inspirações

@@ -1,6 +1,6 @@
 ---
 layout: paginas
-title: currículo
+title: Currículo
 description: Meu currículo atualizado.
 permalink: "/profissional/cv"
 ---
