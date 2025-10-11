@@ -28,7 +28,7 @@ Sempre que você avistar o símbolo **↗** ao lado de algum link significa que 
 - **Publicação:**  
   - O site é construído com o gerador estático [Jekyll](https://jekyllrb.com/);  
   - O código fica hospedado no [GitHub](https://github.com/) e acabo utilizando GitHub Desktop e Visual Code para facilitar a gestão dos arquivos;  
-  - A publicação e entrega acontecem via [Netlify](https://www.netlify.com/).  
+  - A montagem e publicação acontecem via [Netlify](https://www.netlify.com/).  
 
 ## Inspirações
 - O tema inicial do site foi inspirado no site do [Paulo Higa](https://higa.me "site do Higa");
