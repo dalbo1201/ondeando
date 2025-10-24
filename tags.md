@@ -1,6 +1,6 @@
 ---
 layout: tags
-title: "Tags"
+title: "Etiquetas"
 description: Sobre os assuntos
 permalink: /tags/
 ---

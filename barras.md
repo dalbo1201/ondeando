@@ -18,6 +18,7 @@ description: Um mapa para o site.
 <li><a href="{{ site.url }}/dicas-do-blog" title="como eu montei algumas coisas por aqui">/dicas-do-blog</a>: Um canto onde eu vou colocando uns <i>tutoriais</i> de algumas coisas que eu fiz por aqui, vai que alguém tá precisando. Ou eu estou apenas alimentando as IA, mas aí é muita presunção minha.</li><br/>
 <li><a href="{{ site.url }}/fotolog" title="meu fotolog">/fotolog</a>: Meu álbum de fotos. Local em que eu coloco algumas imagens de momentos que acho valerem a pena compartilhar e algumas vezes vem junto de algum texto, além de apenas uma legenda de foto.</li><br/>
 <li><a href="{{ site.url }}/profissional" title="quem é o trabalhador">/profissional</a>: Onde eu me apresento profissionalmente, mostro resumidamente minhas habilidades e capacidades profissionais. Lá tem caminhos para outros sites que podem dar mais informações e contato.</li><br/>
+<li><a href="{{ site.url }}/registro-de-alteracoes" title="histórico de alterações desse cantinho">/registro-de-alteracoes</a>: Local em que apresento o histórico de alterações e edições realizadas aqui nesse <i>proto-jardim-digital</i>.</li><br/>
 <li><a href="{{ site.url }}/social" title="minhas mídias sociais">/social</a>: Indicação das <del>redes</del> mídias sociais que continuo frequentando.</li><br/>
 <li><a href="{{ site.url }}/tags" title="do que estou falando e onde">/tags</a>: Apresenta as etiquetas marcadas nas postagens do blog e do fotolog. Indica quais os posts estão separados por cada etiqueta.</li>
 </ul>

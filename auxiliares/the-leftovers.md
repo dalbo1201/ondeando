@@ -2,9 +2,9 @@
 layout: paginas
 title: Sobre The Leftovers
 description: Comentários sobre a série The Leftovers
-permalink: "/blog/assistindo-the-leftovers/comentários"
+permalink: "/blog/assistindo-the-leftovers/comentarios"
 ---
-# <span aria-hidden="true">|<span class="h1-menor">sobre </span></span>The Leftovers
+# <span aria-hidden="true">|<span class="h1-menor">sobre</span></span>The Leftovers
 
 Comentários rápidos e sem muito trabalho editorial sobre os episódios assistidos de *The Leftovers*.
 
@@ -17,7 +17,7 @@ Comentários rápidos e sem muito trabalho editorial sobre os episódios assisti
 <li><a href="#s01e09-10">s01e09-10</a></li>
 </ul>
 </details>
-<details open><summary>Temporada 2</summary>
+<details><summary>Temporada 2</summary>
 <ul>
 <li><a href="#s02e01-02">s02e01-02</a></li>
 <li><a href="#s02e03-04">s02e03-04</a></li>
@@ -26,9 +26,11 @@ Comentários rápidos e sem muito trabalho editorial sobre os episódios assisti
 <li><a href="#s02e09-10">s02e09-10</a></li>
 </ul>
 </details>
-<details><summary>Temporada 3 - em andamento...</summary>
+<details open><summary>Temporada 3</summary>
 <ul>
-
+<li><a href="#s03e01-02">s03e01-02</a></li>
+<li><a href="#s03e03-04">s03e03-04</a></li>
+<li>em andamento...</li>
 </ul>
 </details>
 
@@ -132,6 +134,7 @@ Alguns não deixando os outros seguirem em frente, outros tentando apenas fazer 
 
 E isso é muito a vida.
 
+## Temporada 2  
 <h3 id="s02e01-02">s02e01-02 <a href="#">&uarr;</a></h3>
 **e01**  
 Decara essa pegada com uma música mais alegre na abertura destoa bem do que foi a primeira temporada e me deixou curioso. Mesmo a foto com os desaparecidos parecendo o universo tem um ar mais acolhedor.  
@@ -279,4 +282,68 @@ Não é que a temporada dê embarrigadas, mas ela prolonga algumas questões de 
 
 De qualquer forma a temporada entrega um esforço, o que é excelente. Não precisa explicar tudo e nem precisa fechar todas as pontas, mas precisa dar um desfecho pra história pra que a gente tenha essa sensação de finalizar e poder ter o sentimento de quero mais. 
 
-Ansioso pela terceira temporada e mesmo sabendo que *todo carnaval tem seu fim* gostaria que esse durasse mais.
+Ansioso pela terceira temporada e mesmo sabendo que *todo carnaval tem seu fim* gostaria que esse durasse mais.  
+
+## Temporada 3  
+
+<h3 id="s03e01-02">s03e01-02 <a href="#">&uarr;</a></h3>
+
+**e01**  
+Que transição linda para os RC. Mas já fica a dúvida, seriam eles descendentes desses não escolhidos?  
+
+Bem que a gente teve o aviso de que o governo não tinha muita paciência e cuidado com os RC.  
+
+Os óculos de leitura do Kevin... Huahauahau
+
+O Dean voltar é sacanagem e ainda falando tão bem e mais um com uma ideia maluca. E vão "tomar o líder do mundo livre..." Ok 
+
+Hauhaua, essa galera tem um que de vontade de ser uma fraude. Eu acho isso hilário.
+
+Tô começando a achar que o Kevin nunca esteve bem de verdade, a conversa com  a Laurie parece indicar isso. Fora as atitudes dele agora no primeiro episódio.  
+
+Preocupado com o que aconteceu com a Lily e o queviso vai causar na Nora.
+
+Puta merda, que final trágico pro Dean e agora provavelmente teremos o Kevin sendo acompanhado por ele.
+
+As transições das cenas taobmito boas nesse episódio, que evolução.
+
+E gente, esse salto no futuro sem aviso?
+
+No geral, fiquei triste por não ter uma abertura nesse episódio e curioso pelos transtornos que a chegada e morte do Dean podem causar. Mais ainda pelo final do episódio que traz um possível spoiler de que coisas darão errado para nosso casal.
+
+**e02**   
+A abertura ser a mesma, mudando a música me deu uma tristeza, a abertura da temporada 2 era ótima  mas eu esperava algo novo, aí fui pego novamente com a mesma. Pelo menos surpreendeu. 😂  
+
+Mano, esse "ela vai" me soou estranho.  
+
+Tava preocupado com a Lily, mas não posso deixar que querer mandar a merda a garota por ter ido buscá-la. 
+
+Rapaz a Nora não tá bem, mas como estar na situação dela. Como se recuperar verdadeiramente?  
+
+Tinha que ser na Austrália o rolê, né? Na hora eu pensei no pai dele e imaginei que viria mais confusão.  
+
+Gente, acho que o livro de Kevin foi longe demais no espaço tempo. 😂
+
+<h3 id="s03e03-04">s03e03-04 <a href="#">&uarr;</a></h3>  
+
+**e03**  
+Fiquei realmente decepcionado por terem mantido a abertura nessa temporada. Será que já sabiam que ia acabar e não se esforçaram? 🤪
+
+"Prevenindo o apocalipse"... parece que alguém "não melhorou".  
+
+Que jornada maluca essa do Kevin Pai. Fiquei triste quando a fita parou de funcionar.  
+
+Quais as chances de você viajar para a Austrália e encontrar uma comunidade que acredita, assim como você, de que o dilúvio está para acontecer _novamente_?
+
+Mano que história triste a da Grace, ela não cogitou sair procurando porque acreditou no arrebatamento. E mais uma vez ela resolve simplesmente acreditar no que tá escrito num papel aleatório. As pessoas são malucas mesmo. 
+
+**e04**  
+Mano, mas que confusão que será esse passeio pela Austrália.  
+
+Lá vamos nos novamente tendo alucinações. Gente eu acho que manter essa pegada na temporada toda pode ficar cansativo. Mas eu ainda quero saber qual o rolê dessa história toda.  
+
+Rapaz, não se pode mais matar uma criança pelo bem do resto da humanidade, que absurdo.  
+
+E mais uma vez Kevin sendo um belo babaca com a Nora que também não tá bem, mas qual o tempo certo pra superar o desaparecimento da família toda?  
+
+Realmente curioso para saber pra onde vai esse história agora com a separação do do Kevin e Nora. Espero que eles retornem, gosto da dinâmica deles. 

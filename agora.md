@@ -26,20 +26,21 @@ Estou lendo:
 </ul>
 Filmes que vi <a href="https://letterboxd.com/dalbo1201/films/diary/" class="linkcab">&#127916;</a>:
 <ul>
-    <li>Em dívida com o cinema...</li>
+    <li>Black Bag&nbsp;| Steven Soderbergh,&nbsp;2025&nbsp;| Prime Video;</li>
+    <li>A Short Story&nbsp;| Bi Gan,&nbsp;2022&nbsp;| MUBI&nbsp;↺;</li>
+    <li>Sundown&nbsp;| Michel Franco,&nbsp;2022&nbsp;| MUBI;</li>
+    <li>Witches&nbsp;| Elizabeth Sankey,&nbsp;2024&nbsp;| MUBI.</li>
 </ul>
 Séries que estou vendo <a href="https://tvtime.com/r/38uUh" class="linkcab">&#128250;</a>:
 <ul>
-    <li>Pacificador&nbsp;| HBO Max | temporada&nbsp;2;</li>    
     <li>Arcane&nbsp;| Netflix | temporada&nbsp;2;</li>
     <li>Invencível&nbsp;| Prime Video&nbsp;| temporada&nbsp;2;</li>
     <li>Kamen Rider: Black Sun&nbsp;| Prime Video&nbsp;| temporada&nbsp;1;</li>
-    <li><a href="{{ site.url }}/blog/assistindo-the-leftovers/" title="alguns comentários sobre os episódios">The Leftovers</a>&nbsp;| HBO&nbsp;Max&nbsp;| temporada&nbsp;2;</li>
-    <li>Twin Peaks&nbsp;| Mubi&nbsp;| temporada&nbsp;3;&nbsp;↺</li>
+    <li><a href="{{ site.url }}/blog/assistindo-the-leftovers/" title="alguns comentários sobre os episódios">The Leftovers</a>&nbsp;| HBO&nbsp;Max&nbsp;| temporada&nbsp;3;</li>
     <li>Arquivo X&nbsp;| Disney+&nbsp;| temporada&nbsp;1;&nbsp;↺</li>
     <li>Breaking Bad&nbsp;| Netflix&nbsp;| temporada&nbsp;4.&nbsp;↺</li>
 </ul>
 
 <aside class="atualizacao">
-    atualizado em 27 de setembro de 2025.
+    atualizado em 12 de outubro de 2025.
 </aside>

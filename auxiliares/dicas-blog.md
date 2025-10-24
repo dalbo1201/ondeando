@@ -1,7 +1,7 @@
 ---
 layout: paginas
 title: Dicas do blog
-excerpt: Um caminho onde eu vou colocar algumas coisas que eu fiz aqui e acho que vale compartilhar.
+excerpt: Um local onde eu vou colocar algumas coisas que eu fiz aqui e acho que vale compartilhar.
 permalink: "/dicas-do-blog"
 ---
 <h1><span aria-hidden="true">|</span>Dicas<span class="h1-menor"> do blog</span> </h1>
@@ -9,8 +9,6 @@ permalink: "/dicas-do-blog"
 Se você chegou até aqui pode ser que eu tenha algo bacana a dizer que possa ajudar a encontrar mais fácil algum processo que eu já fiquei tentando antes e sofri para resolver.  
 
 Acho que, no final, isso é a antiga web.  
-
-<aside class="aviso">Gente, fica o aviso. Eu não manjo muito (ou nada) de jekyll, markdown ou liquid. O que coloco aqui está exatamente como funciona no meu site (ou no caso do Bruce, como ele postou e não tenho como testar no Bearblog). Use como ponto de partida.</aside>  
 
 <hr>
   
@@ -135,8 +133,9 @@ caption
 &lt;/section&gt;
 
 </code></pre>
+
 <div class="tutorial">
-Example post content
+<p>Example post content.</p>
 </div>
 
 <pre><code>
@@ -204,8 +203,9 @@ Fique atento que eu não apresento nenhuma configuração <i>Liquid</i> de pagin
 </section&gt;
 
 </code></pre>
+
 <div class="tutorial">
-O CSS que usei para a galeria ficou da seguinte forma.
+<p>O CSS que usei para a galeria ficou da seguinte forma.</p>
 </div>
 
 <pre><code>

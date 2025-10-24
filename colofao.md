@@ -2,6 +2,7 @@
 layout: paginas
 title: Colofão
 description: Bastidores técnicos e inspirações do site
+permalink: "/colofao"
 ---
 # <span aria-hidden="true">|<span class="h1-menor">o </span></span>Colofão<span class="h1-menor"> deste cantinho</span>
 
