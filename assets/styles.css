@@ -408,8 +408,8 @@ cite {
 
 /* INÍCIO Estilo especial para blockquote em posts com type: frase */
 article.blog-article.blog-citacao blockquote {
- font-size: clamp(1rem, 1.2vw, 1.06rem); /* 16–17px */
- line-height: clamp(1.44rem, 2vw, 1.44rem); /* 23px */
+ font-size: clamp(1.33rem, 1.2vw, 1.8rem); /* 16–17px */
+ line-height: clamp(1.66rem, 2.2vw, 2.2rem); /* 23px */
  font-style: italic;
  margin: 20px 0px 20px 15px;
  max-width: 75%;

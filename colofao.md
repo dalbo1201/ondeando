@@ -32,9 +32,9 @@ Sempre que você avistar o símbolo **↗** ao lado de algum link significa que 
   - A montagem e publicação acontecem via [Netlify](https://www.netlify.com/).  
 
 ## Inspirações
-- O tema inicial do site foi inspirado no site do [Paulo Higa](https://higa.me "site do Higa");
-- Quando ampliei o site para algo próximo de um _proto-jardim-digital_, acabei me inspirando visualmente no site/blog do [Rodrigo Ghedin](https://rodrigo.ghed.in "site do Ghedin") (de quem pedi autorização. Se forem analisar os códigos, o site do Ghedin tem uma elegancia que aqui não existe, mas arrumarei em algum momento);  
-- O [Fotolog]({{ site.url }}/fotolog "meu fotolog") foi inspirado na página do [Bruce Beaumont](https://beaumontphotography.bearblog.dev/ "site do Bruce"). Escrevi mais sobre isso [neste texto]({{ site.url }}/blog/criei-meu-fotolog/).  
+- O tema inicial do site foi inspirado no site do [@Paulo Higa](https://higa.me "site do Higa");
+- Quando ampliei o site para algo próximo de um _proto-jardim-digital_, acabei me inspirando visualmente no site/blog do [@Rodrigo Ghedin](https://rodrigo.ghed.in "site do Ghedin") (de quem pedi autorização. Se forem analisar os códigos, o site do Ghedin tem uma elegancia que aqui não existe, mas arrumarei em algum momento);  
+- O [Fotolog]({{ site.url }}/fotolog "meu fotolog") foi inspirado na página do [@Bruce Beaumont](https://beaumontphotography.bearblog.dev/ "site do Bruce"). Escrevi mais sobre isso [neste texto]({{ site.url }}/blog/criei-meu-fotolog/) e tento explicar num [tutorial](/dicas-do-blog "como fiz o Fotolog") como o montei.  
 
 ## Filosofia
 - O site não tem nenhum sistema de _analytics_ ou plugins de mídias-sociais;  
@@ -44,5 +44,5 @@ Sempre que você avistar o símbolo **↗** ao lado de algum link significa que 
 O porquê de todo esse espaço [falo mais aqui]({{ site.url }}/blog/porque-todo-esse-esforco/ "porquê criei esse cantinho?").  
 
 <aside class="atualizacao">
-Esta página foi criada por influência do <a href="https://cosmoliko.com/" title="blog do Eliel">Eliel Guilhen</a> que comentou sobre ela num email.
+Esta página foi criada por influência do <a href="https://cosmoliko.com/" title="blog do Eliel">@Eliel Guilhen</a> que comentou sobre ela num email.
 </aside>

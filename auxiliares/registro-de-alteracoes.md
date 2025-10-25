@@ -9,9 +9,15 @@ permalink: "/registro-de-alteracoes"
 O famoso [Changelog<sup>[en]</sup>](https://indieweb.org/release_notes) é simplesmente um resumo das alterações <del> consideradas mais pertinentes</del> realizadas aqui neste meu pequeno canto da internet.
 <hr>
 <h3>Alterações em 2025</h3>
+<h4>25 de outubro</h4>
+<span class="tag-reg">css</span>  
+Atualização do tamanho do texto nas citações quando no <code>type:frase</code> do _front metter_.  
+<span class="tag-reg">ruby</span>  
+Depois da confusão do mentor do Ruby, entrei na onda e troquei [o servidor dos dados para gems](https://gem.coop "novo servidor de dados para gems") do [Ruby](https://www.ruby-lang.org/pt/ "página do Ruby") para o <code>https://gem.coop</code>.
+
 <h4>22 de outubro</h4>
 <span class="tag-reg">novidade</span><span class="tag-reg">página</span>  
-Publiquei esta página, o *Registro de Alterações* desse pequeno _proto-jardim-digital_.
+Publiquei esta página, o **Registro de Alterações** desse pequeno _proto-jardim-digital_.
 
 <h4>20 de outubro</h4>
 <span class="tag-reg">acabamento</span><span class="tag-reg">css</span>  
@@ -94,10 +100,10 @@ Troquei a foto de perfil.
 <span class="tag-reg">jekyll</span>  
 Revisei os <code>post type</code> do _front metter_ para:
 <ul>
-<li>album - vai para o fotolog (foto);</li>
-<li>notas - vai pro blog sem título (post)</li>
-<li>texto - post tradicional do blog (post)</li>
-<li>frase  - vai pro blog como citação especial (post)</li>
+<li>album: vai para o fotolog;</li>
+<li>frase: vai pro blog como citação especial;</li>
+<li>notas: vai pro blog com o título oculto;</li>
+<li>texto: postagem tradicional do blog.</li>
 </ul>
 
 <h4>03 de junho</h4>
@@ -111,7 +117,9 @@ Criei o _modo claro_ e a partir de agora o site se adapta ao tema do sistema. Ai
 <h4>15 de maio</h4>
 <span class="tag-reg">css</span><span class="tag-reg">html</span>  
 [Adicionei o selo](https://pcdomanual.com/lerama-selo-88-31/) do [Lerama](https://lerama.pcdomanual.com/) no rodapé do site. Aproveitei e adicionei um selo do [Histórias para Ler](https://historiasparaler.blog.br) também.  
-Assim ficamos com os dois selos na esquerda e as informações de licença de uso e datas na direita, em telas menores os selos ficam numa segunda linha.
+Assim ficamos com os dois selos na esquerda e as informações de licença de uso e datas na direita, em telas menores os selos ficam numa segunda linha.  
+<span class="tag-reg">html</span>  
+Adicionei no _front matter_ das postagens do Fotolog o <code>permalink:/fotolog/...</code>. A partir de agora, as postagens do Fotolog terão um endereço exclusivo, mesmo que eu tenha que forçá-los.  
 
 <h4>01 de maio</h4>
 <span class="tag-reg">css</span><span class="tag-reg">html</span><span class="tag-reg">novidade</span><span class="tag-reg">página</span>  
