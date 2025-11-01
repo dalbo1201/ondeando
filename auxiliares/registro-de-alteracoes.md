@@ -9,6 +9,10 @@ permalink: "/registro-de-alteracoes"
 O famoso [Changelog<sup>[en]</sup>](https://indieweb.org/release_notes) é simplesmente um resumo das alterações <del> consideradas mais pertinentes</del> realizadas aqui neste meu pequeno canto da internet.
 <hr>
 <h3>Alterações em 2025</h3>
+<h4>01 de novembro</h4>
+<span class="tag-reg">css</span>  
+Retirei das configurações do _dark mode_ as variáveis <code>quote-transparency</code>, <code>code-background-transparency</code> afinal não preciso repetir se são as mesmas do modo claro. Aproveitei e adicionei a varável <code>font-geral</code> para no futuro poder trocar as fontes mais facilmente. _Ideias para o futuro sendo matutadas..._  
+
 <h4>25 de outubro</h4>
 <span class="tag-reg">css</span>  
 Atualização do tamanho do texto nas citações quando no <code>type:frase</code> do _front metter_.  
