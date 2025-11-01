@@ -1,8 +1,8 @@
 ---
 layout: paginas
 title: Dicas do blog
-excerpt: Um local onde eu vou colocar algumas coisas que eu fiz aqui e acho que vale compartilhar.
-permalink: "/dicas-do-blog"
+excerpt: Um caminho onde eu vou colocar algumas coisas que eu fiz aqui e acho que vale compartilhar.
+permalink: "/dicas-do-blog-cp"
 ---
 <h1><span aria-hidden="true">|</span>Dicas<span class="h1-menor"> do blog</span> </h1>
 
@@ -10,13 +10,15 @@ Se você chegou até aqui pode ser que eu tenha algo bacana a dizer que possa aj
 
 Acho que, no final, isso é a antiga web.  
 
+<aside class="aviso">Gente, fica o aviso. Eu não manjo muito (ou nada) de jekyll, markdown ou liquid. O que coloco aqui está exatamente como funciona no meu site (ou no caso do Bruce, como ele postou e não tenho como testar no Bearblog). Use como ponto de partida.</aside>  
+
 <hr>
   
 Minha primeira dica é uma possibilidade de criar uma galeira de fotos, uma capa principal para mostrar as imagens e a partir dela levar para a postagem completa.  
 
 Temos algo como um fotolog, podemos dizer, se você é _das antigas_. Eu achei isso bem legal e [tenho aqui no site]({{ site.url }}/fotolog "meu fotolog").  
 
-Peguei a ideia do [@Bruce Beaumont](https://bruceblog.bearblog.dev/a-lazy-kind-of-photo-gallery-for-bear-blog/ "site do Bruce"), quando ele ensinou a montar a galeria em seu site pessoal. Mandei uma mansagem para ele dizendo que colocaria aqui como um tutorial e tive seu "ok".  
+Peguei a ideia do [Bruce Beaumont](https://bruceblog.bearblog.dev/a-lazy-kind-of-photo-gallery-for-bear-blog/ "site do Bruce"), quando ele ensinou a montar a galeria em seu site pessoal. Mandei uma mansagem para ele dizendo que colocaria aqui como um tutorial e tive seu "ok".  
 
 A seguir, eu vou colar o código que o Bruce disponibilizou originalmente no site pessoal dele, uma solução para o Bearblog. Depois eu coloco a minha adaptação para sites em Jekyll.  
 
@@ -28,15 +30,14 @@ Espero que isso facilite a vida de alguém por aí.
 <h2 id="bearblog">Para Bearblog, <em style="font-height:12px;">o original</em> <a href="#" >↑</a></h2>
 Peço desculpas, não traduzi o conteúdo dele, sigo como no original, mas nada que um _tradutor_ da internet não resolva.  
 
-<div class="tutorial">
-<p>Thumbnails with no cropping, in gridded rows, three per row, and just the title showing. <i>chef's kiss</i>.</p>
+<pre><code class="highlight">
+Thumbnails with no cropping, in gridded rows, three per row, and just the title showing. <i>chef's kiss</i>.
 
-<p>The date is hidden and so is all other post content except the first item which is an image. You can click directly on the thumbnail to view full size, or click on the caption to go to the post itself. I might change it so that the image click brings you to the post instead, not sure. Anyways.</p>
+The date is hidden and so is all other post content except the first item which is an image. You can click directly on the thumbnail to view full size, or click on the caption to go to the post itself. I might change it so that the image click brings you to the post instead, not sure. Anyways.
 
-<p>I use a template for new posts, this adds the tag by default.</p>
-</div>
+I use a template for new posts, this adds the tag by default.
 
-<pre><code>
+<hr style="text-align: left; width: 33%; margin-left: 0;">
 ---
 title:  
 published_date:  
@@ -47,22 +48,20 @@ tags: photos
 
 caption
 
-</code></pre>
+<hr style="text-align: left; width: 33%; margin-left: 0;">
+I can then drag and drop the photo into the prompt. CopyPaste the url to replace the two "(link)" bits. Hit publish and its done.
 
-<div class="tutorial">
-<p>I can then drag and drop the photo into the prompt. CopyPaste the url to replace the two "(link)" bits. Hit publish and its done.</p>
+The photo must be the first item in the post. Any other content will be hidden on the gallery page. This is also styled on just the gallery page, if you wanted this to be universal you could add it to your theme.
 
-<p>The photo must be the first item in the post. Any other content will be hidden on the gallery page. This is also styled on just the gallery page, if you wanted this to be universal you could add it to your theme.</p>
+I'm no expert in CSS or html so there's likely some more nonfunctional bits that can be cut out. If you find some let me know!
 
-<p>I'm no expert in CSS or html so there's likely some more nonfunctional bits that can be cut out. If you find some let me know!</p>
+Thanks for reading, have a great day.
 
-<p>Thanks for reading, have a great day.</p>
+-Bruce
 
-<p>-Bruce</p><br/>
+<hr style="text-align: left; width: 33%; margin-left: 0;">
+Page content
 
-<p>Page content</p>
-</div>
-<pre><code>
 &lt;style>
 /* Credit goes to Sylvia and Robert, I just tinkered with it. Also thanks to Jedda for the initial inspiration.*/
 /* Gallery styles */
@@ -123,22 +122,16 @@ caption
 }
 </style>
 
-</code></pre>
-
-<pre><code>
+<hr style="text-align: left; width: 33%; margin-left: 0;">
 &lt;section&gt; class="gallery">
 {% raw %}
 {{ posts | tag:photos | content:True | limit:10 }}
 {% endraw %}
 &lt;/section&gt;
 
-</code></pre>
-
-<div class="tutorial">
-<p>Example post content.</p>
-</div>
-
-<pre><code>
+<hr style="text-align: left; width: 33%; margin-left: 0;">
+Example post content
+{% raw %}
 ---
 title: Searching for a turquoise signal
 link: searching-for-a-turquoise-signal
@@ -149,7 +142,8 @@ tags: photos
 [![imagename](url)](url)
 
 A really awesome caption
-
+{% endraw %}
+<hr style="text-align: left; width: 33%; margin-left: 0;">
 </code></pre>
 
 <h2 id="jekyll">Para Jekyll, <em style="font-height:12px;">minha versão</em> <a href="#">↑</a></h2>
@@ -161,16 +155,15 @@ Deu certo, como podem [ver aqui]({{ site.url }}/fotolog "meu fotolog"). Testei t
 
 Se quiserem podemos conversar, mas não posso prometer resolver nada. :'(
 
-<div class="tutorial">
-<p>Um prévia da imagem sem corte, num <i>grid</i> em linhas, três imagens por linha. A data fica no topo, a direita e todo o conteúdo da postagem não aparece. Você clica na imagem ou na data e vai para a postagem em si. Abaixo temos a legenda da foto (não é um link).</p>
+<pre><code class="highlight">
+Um prévia da imagem sem corte, num <i>grid</i> em linhas, três imagens por linha. A data fica no topo, a direita e todo o conteúdo da postagem não aparece. Você clica na imagem ou na data e vai para a postagem em si. Abaixo temos a legenda da foto (não é um link).
 
-<p>No meu site, todos as postagens estão no mesmo feed, a separação acontece num plugin que gera um arquivo <em>*.yml</em> com a lista de cada conjunto de postagens e assim tenho um único feed, mas páginas diferentes para textos e fotos.</p>
+No meu site, todos as postagens estão no mesmo feed, a separação acontece num plugin que gera um arquivo <em>*.yml</em> com a lista de cada conjunto de postagens e assim tenho um único feed, mas páginas diferentes para textos e fotos.
 
-<p>Essa configuração eu montarei e coloco aqui depois.<br/>
-Uso um template para a postagem das fotos.</p>
-</div>
+Essa configuração eu montarei e coloco aqui depois.
+Uso um template para a postagem das fotos.
 
-<pre><code>
+<hr style="text-align: left; width: 33%; margin-left: 0;">  
 ---
 title: 
 date: 
@@ -179,18 +172,15 @@ caption: "Legenda da imagem"
 ---
 Corpo da postagem com a imagem e textos.
 
-</code></pre>
+<hr style="text-align: left; width: 33%; margin-left: 0;">
+No corpo da postagem você pode usar a configuração e apresentação pelo CSS da forma que quiser. O importante é que tenha o campo <em>image</em> e <em>caption</em> no Front Matter.
+No <em>image</em> você coloca a url da imagem  que vai aparecer na galeria e em <em>caption</em> a legenda que vai abaixo da imagem.
 
-<div class="tutorial">
-<p>No corpo da postagem você pode usar a configuração e apresentação pelo CSS da forma que quiser. O importante é que tenha o campo <em>image</em> e <em>caption</em> no Front Matter.<br/>
-No <em>image</em> você coloca a url da imagem  que vai aparecer na galeria e em <em>caption</em> a legenda que vai abaixo da imagem.</p>
+O layout da página da galeria (o Fotolog) você coloca a seguir.
+Fique atento que eu não apresento nenhuma configuração <i>Liquid</i> de paginação.
+Se você tem paginação no seu site, coloque esse código entre a configuração <i>Liquid</i>.
 
-<p>Na pasta <i>_layout</i> você coloca o código a seguir que montará a página da galeria (o Fotolog).<br/>
-Fique atento que eu não apresento nenhuma configuração <i>Liquid</i> de paginação.</p>
-<p>Se você tem paginação no seu site, coloque esse código no arquivo com o código da galeria.</p>
-</div>
-
-<pre><code>
+<hr style="text-align: left; width: 33%; margin-left: 0;">
 &lt;section class="gallery">
 &lt;ul class="embedded album-post">
   &lt;li>{% raw %}
@@ -202,13 +192,10 @@ Fique atento que eu não apresento nenhuma configuração <i>Liquid</i> de pagin
 </ul&gt;
 </section&gt;
 
-</code></pre>
+<hr style="text-align: left; width: 33%; margin-left: 0;">
+O CSS que usei para a galeria ficou da segiunte forma.
 
-<div class="tutorial">
-<p>O CSS que usei para a galeria ficou da seguinte forma.</p>
-</div>
-
-<pre><code>
+<hr style="text-align: left; width: 33%; margin-left: 0;">
 /* COMEÇO DO MEU FOTOLOG */
 /* Creditos para Bruce Beaumont.
 No final mudou bastante o código, mas foi dele toda a inspiração*/
@@ -270,6 +257,7 @@ No final mudou bastante o código, mas foi dele toda a inspiração*/
 }
 /* FINAL DO MEU FOTOLOG */
 
+<hr style="text-align: left; width: 33%; margin-left: 0;">
 </code></pre>
 
 Espero muito que esse _tutorial_ seja de ajuda para alguém. Eu apanhei bastante para montar na época, mesmo me parecendo um pouco poluído tem funcionado e fico feliz em poder compartilhar.  

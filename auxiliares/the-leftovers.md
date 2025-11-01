@@ -30,6 +30,7 @@ Comentários rápidos e sem muito trabalho editorial sobre os episódios assisti
 <ul>
 <li><a href="#s03e01-02">s03e01-02</a></li>
 <li><a href="#s03e03-04">s03e03-04</a></li>
+<li><a href="#s03e05-06">s03e05-06</a></li>
 <li>em andamento...</li>
 </ul>
 </details>
@@ -346,4 +347,36 @@ Rapaz, não se pode mais matar uma criança pelo bem do resto da humanidade, que
 
 E mais uma vez Kevin sendo um belo babaca com a Nora que também não tá bem, mas qual o tempo certo pra superar o desaparecimento da família toda?  
 
-Realmente curioso para saber pra onde vai esse história agora com a separação do do Kevin e Nora. Espero que eles retornem, gosto da dinâmica deles. 
+Realmente curioso para saber pra onde vai esse história agora com a separação do do Kevin e Nora. Espero que eles retornem, gosto da dinâmica deles.  
+
+<h3 id="s03e05-06">s03e05-06 <a href="#">&uarr;</a></h3>  
+
+**e05**  
+Que abertura foi essa? Horrível de ouvir, muito baixa e em francês? Achei que estava com problemas na HBO Max.  
+
+Acho que descobrimos qual foi a explosão na Austrália.  
+
+O nível de maluquice é tal que o Matt fica feliz em quase morrer para _provar um ponto_.  
+
+Se você tem um boné vermelho e uma barba pode ser Deus? Eu tenho um boné vermelho... 🤔  
+
+Não posso dizer que eu não ri demais da situação em que o Matt _se meteu_.😅  
+
+Curioso que o Matt pode acreditar que o Kevin é a reencarnação de Jesus, mas o maluco não pode ser deus. Adorei essa história do irmão gêmeo. Gostei desse deus que simplesmente fez. Esse é um belo deus do antigo testamento.  
+
+Apesar da história de deus do antigo testamento eu não gostei do episódio. Para uma temporada de apenas 8 episódios, me ficou com cara de barriga a coisa. Claro, tem mais uma vez uma caminhada no percurso de Matt, mas dessa vez eu não achei que levou à algum lugar que tenha valido a viagem (olha o trocadilho ruim).  
+
+De todo caso, pelo menos me diverti, mas não achei que a história avançou.  
+
+**e06**  
+Pesada esse início da Laurie e faz muito sentido pensando no que aconteceu com ela durante a partida. Pior que ela já foi convertida completamente.  
+
+Curioso com o que aconteceu com o pessoal para eles se separarem. Gente o bagulho desandou completamente de um episódio pro outro.
+
+Gente, esse povo não cansa de matar as pessoas?
+
+Gente que episódio bonito. Emocionante, levou o tempo certo numa história dupla com a Laurie de pêndulo. Ela sendo, de certa forma, o fio condutor do Kevin e Nora no final da jornada deles.
+
+A Laurie cresceu muito nessa temporada. E falar que gostinho de final, um gostinho bom, de uma história bem contada.  
+
+Preocupado com o que vem depois pra manter isso.
