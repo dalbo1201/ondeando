@@ -26,7 +26,23 @@
  <link rel="icon" type="image/png" sizes="16x16" href="{{ site.url }}/assets/favicon/favicon_avatar-16.png">
  <link rel="preconnect" href="https://fonts.bunny.net">
  <link href="https://fonts.bunny.net/css?family=Montserrat|Fraunces|Luckiest+Guy|Special+Elite|Slackey" rel="stylesheet" />
- <link rel="stylesheet" href="{{ site.url }}/assets/styles.css">
+ <link rel="stylesheet" href="{{ site.url }}/assets/styles-tema_junino.css">
 </head>
 
 <body>
+ <div class="balao3"></div> <!-- balão adicional -->
+
+{% include header.html %}
+
+<main>
+
+{{ content }}
+
+</main>
+
+<section class="pagination"><a href="#" class="nav-topo">&#8593 Topo</a></section>
+
+{% include footer.html %}
+
+</body>
+</html>

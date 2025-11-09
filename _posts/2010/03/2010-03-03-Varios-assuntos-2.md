@@ -5,7 +5,7 @@ title: "Vários assuntos"
 date: 2010-03-03 08:00:00 -0000
 tags: ["informática"]
 ---
-<div class="aviso">Como essas postagens são antigas e recuperadas, muitos links podem levar a lugar algum ou mesmo a lugares que não são mais o que eram na época. Mantenho o texto pela reflexão e lembraça.</div>
+<aside class="aviso-caixa"><div class="aviso-texto">Como essas postagens são antigas e recuperadas, muitos links podem levar a lugar algum ou mesmo a lugares que não são mais o que eram na época. Mantenho o texto pela reflexão e lembraça.</div></aside>
 
 <ul>
 <li>Acabei de ler no <a href="https://www.guiadopc.com.br/noticias/13588/windows-7-ja-vendeu-90-milhoes-de-copias-revela-microsoft.html">Guia do PC</a> que o Windows 7 já vendeu 90 milhões de cópias, um belo resultado visto o fiasco que foi o Windows Vista.</li>

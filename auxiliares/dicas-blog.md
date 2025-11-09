@@ -4,7 +4,7 @@ title: Dicas do blog
 excerpt: Um local onde eu vou colocar algumas coisas que eu fiz aqui e acho que vale compartilhar.
 permalink: "/dicas-do-blog"
 ---
-<h1><span aria-hidden="true">|</span>Dicas<span class="h1-menor"> do blog</span> </h1>
+<h1><span aria-hidden="true">|</span><span class="h1-menor">as </span>Dicas<span class="h1-menor"> do blog</span> </h1>
 
 Se você chegou até aqui pode ser que eu tenha algo bacana a dizer que possa ajudar a encontrar mais fácil algum processo que eu já fiquei tentando antes e sofri para resolver.  
 

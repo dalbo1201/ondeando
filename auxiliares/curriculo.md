@@ -5,7 +5,7 @@ description: Meu currículo atualizado.
 permalink: "/profissional/cv"
 ---
 <h1>
-<span aria-hidden="true">|<span class="h1-menor">meu</span></span>Currículo
+<span aria-hidden="true">|<span class="h1-menor">meu </span></span>Currículo
 </h1>
 
 <aside><a href="{{ site.url }}/assets/Pedro Dal Bó.pdf" title="meu currículo atualizado">Currículo em PDF</a></aside>

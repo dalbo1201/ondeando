@@ -5,7 +5,7 @@ title: "Microsoft Surface"
 date: 2007-05-30 08:00:00 -0000
 tags: ["informática"]
 ---
-<div class="aviso">Como essas postagens são antigas e recuperadas, muitos links podem levar a lugar algum ou mesmo a lugares que não são mais o que eram na época. Mantenho o texto pela reflexão e lembraça.</div>
+<aside class="aviso-caixa"><div class="aviso-texto">Como essas postagens são antigas e recuperadas, muitos links podem levar a lugar algum ou mesmo a lugares que não são mais o que eram na época. Mantenho o texto pela reflexão e lembraça.</div></aside>
 Olá para todos,
 
 Existe um site sobre o Windows que estou sempre visitando para saber das novidades da informática, pelo menos as ligadas a Microsoft. O <a href="http://www.winajuda.com.br/">WinAjuda</a>.

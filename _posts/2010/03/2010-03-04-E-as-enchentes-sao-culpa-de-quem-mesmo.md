@@ -5,7 +5,7 @@ title: "E as enchentes são culpa de quem mesmo?"
 date: 2010-03-04 08:00:00 -0000
 tags: ["a vida, o universo e tudo mais", "pensamentos"]
 ---
-<div class="aviso">Como essas postagens são antigas e recuperadas, as fotos estavam numa apresentação em javascript ou algo assim e se perderam. Mantenho o texto pela reflexão e lembraça.</div>
+<aside class="aviso-caixa"><div class="aviso-texto">Como essas postagens são antigas e recuperadas, as fotos estavam numa apresentação em javascript ou algo assim e se perderam. Mantenho o texto pela reflexão e lembraça.</div></aside>
 Hoje recebi um e-mail e nele tem várias fotos de São Paulo na década de 1950 e 1960, todas depois de chuvas e com regiões bem conhecidas na cidade. Todas elas sofrendo de alagamento.
 
 No Museu do Ipiranga vi também uma pintura da região do rio Tiete. Tudo alagado.

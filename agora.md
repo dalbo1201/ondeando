@@ -4,7 +4,7 @@ title: Agora
 description: Uma atualizaçao quinzenal? Talvez.
 ---
 <h1>
-<span aria-hidden="true">|<span class="h1-menor">e </span></span>Agora<span class="h1-menor">, o que estou fazendo?</span>
+<span aria-hidden="true">|</span><span class="h1-menor">e </span>Agora<span class="h1-menor">, o que estou fazendo?</span>
 </h1>
 
 A página /now (ou /agora em português) é originada do movimento [Now Page](https://nownownow.com/about "O que é uma página /Now?") iniciado por [@Derek Sivers](https://sive.rs/ "site pessoal do Derek").  
@@ -22,17 +22,15 @@ Seguindo com o _hérculeo trabalho_ de deixar a casa do jeito que a gente gosta 
 
 Estou lendo:
 <ul>
-    <li>Marry Poppins, P.L. Travers.</li>
+    <li>Porteira 9, Rodrigo Pontes.</li>
 </ul>
 Filmes que vi <a href="https://letterboxd.com/dalbo1201/films/diary/" class="linkcab">&#127916;</a>:
 <ul>
-    <li>Black Bag&nbsp;| Steven Soderbergh,&nbsp;2025&nbsp;| Prime Video;</li>
-    <li>A Short Story&nbsp;| Bi Gan,&nbsp;2022&nbsp;| MUBI&nbsp;↺;</li>
-    <li>Sundown&nbsp;| Michel Franco,&nbsp;2022&nbsp;| MUBI;</li>
-    <li>Witches&nbsp;| Elizabeth Sankey,&nbsp;2024&nbsp;| MUBI.</li>
+    <li>The Man Without a Past&nbsp;| Aki Kaurismäki,&nbsp;2002&nbsp;| MUBI.</li>
 </ul>
 Séries que estou vendo <a href="https://tvtime.com/r/38uUh" class="linkcab">&#128250;</a>:
 <ul>
+    <li>The Wicher&nbsp;| Netflix | temporada&nbsp;4;</li>
     <li>Arcane&nbsp;| Netflix | temporada&nbsp;2;</li>
     <li>Invencível&nbsp;| Prime Video&nbsp;| temporada&nbsp;2;</li>
     <li>Kamen Rider: Black Sun&nbsp;| Prime Video&nbsp;| temporada&nbsp;1;</li>
@@ -42,5 +40,5 @@ Séries que estou vendo <a href="https://tvtime.com/r/38uUh" class="linkcab">&#1
 </ul>
 
 <aside class="atualizacao">
-    atualizado em 12 de outubro de 2025.
+    atualizado em 02 de novembro de 2025.
 </aside>

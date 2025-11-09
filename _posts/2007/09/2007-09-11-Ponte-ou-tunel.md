@@ -21,4 +21,4 @@ Agora, que foi uma opção no mínimo intrigante foi. Com certeza um lado queria
 Abraços a todos,  
 Inté.
 
->*Atualização:A configuração da Ponte-Túnel se dá pela necessidade de manter os gabaritos para não prejudicar o tráfego aéreo e marítmo. mantendo a ponte numa altura que garanta o transito de aviões e executando o túnel num ponto que permita a passagem de navios.*
+<aside class="aviso-caixa"><div class="aviso-texto"><b>Atualização:</b> A configuração da Ponte-Túnel se dá pela necessidade de manter os gabaritos para não prejudicar o tráfego aéreo e marítmo. mantendo a ponte numa altura que garanta o transito de aviões e executando o túnel num ponto que permita a passagem de navios.</div></aside>

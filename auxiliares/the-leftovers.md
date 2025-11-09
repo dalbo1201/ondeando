@@ -4,7 +4,7 @@ title: Sobre The Leftovers
 description: Comentários sobre a série The Leftovers
 permalink: "/blog/assistindo-the-leftovers/comentarios"
 ---
-# <span aria-hidden="true">|<span class="h1-menor">sobre</span></span>The Leftovers
+# <span aria-hidden="true">|<span class="h1-menor">sobre </span></span>The Leftovers
 
 Comentários rápidos e sem muito trabalho editorial sobre os episódios assistidos de *The Leftovers*.
 
@@ -31,13 +31,13 @@ Comentários rápidos e sem muito trabalho editorial sobre os episódios assisti
 <li><a href="#s03e01-02">s03e01-02</a></li>
 <li><a href="#s03e03-04">s03e03-04</a></li>
 <li><a href="#s03e05-06">s03e05-06</a></li>
-<li>em andamento...</li>
+<li><a href="#s03e07-08">s03e07-08</a></li>
 </ul>
 </details>
 
 
-<aside class="aviso">Atenção que os comentários daqui pra baixo podem, em algum momento, apresentar <b>spoileres da série</b>.<br/>
-Não me responsabilizo pelo que você possa ler sem ter assistido antes.</aside>
+<aside class="aviso-caixa"><div class="aviso-texto">Atenção que os comentários daqui pra baixo podem, em algum momento, apresentar <b>spoileres da série</b>.<br/>
+Não me responsabilizo pelo que você possa ler sem ter assistido antes.</div></aside>
 
 <hr>
   
@@ -124,7 +124,7 @@ Parece que o bebê ficará a cargo do Kevin mesmo. (Essa eu escrevi antes do fin
 
 Apesar de toda a confusão, no final foi um bonito final de série.
 
-<h3 id="">ótima temporada <a href="#">&uarr;</a></h3>
+<h3 id="">Ótima temporada <a href="#">&uarr;</a></h3>
 No resumo final a temporada é extremamente interessante, realmente.  
 
 As histórias são bem montadas, não tentam explicar tudo (na verdade não explica nada) e tá tudo bem.  
@@ -276,7 +276,7 @@ Essa cena final foi bonita? Foi. Mas achei meio forçada, poderia ser menos melo
 
 O episódio cresceu bem, teve um bom clímax e entregou o que poderia ser esperado da série lembrando a primeira temporada. 
 
-<h3 id="">ótima temporada <a href="#">&uarr;</a></h3>  
+<h3 id="">Ótima temporada <a href="#">&uarr;</a></h3>  
 Dessa vez eu achei a temporada mais equilibrada que a primeira. Os primeiros episódios entregam bem, dão o clima e apresentam o que podem ser o mistério e os conflitos.  
 
 Não é que a temporada dê embarrigadas, mas ela prolonga algumas questões de personagens e esquece outros que poderiam ser mais interessantes, de qualquer forma ela sempre trata com respeito o espectador e é difícil comentar episódios sem o todo porque eles simplesmente escolhem caminhos que a gente vai ver depois. Mas ao mesmo tempo tem histórias interessantes que a gente não vai saber e eu poderia gostar mais.  
@@ -379,4 +379,46 @@ Gente que episódio bonito. Emocionante, levou o tempo certo numa história dupl
 
 A Laurie cresceu muito nessa temporada. E falar que gostinho de final, um gostinho bom, de uma história bem contada.  
 
-Preocupado com o que vem depois pra manter isso.
+Preocupado com o que vem depois pra manter isso.  
+
+<h3 id="s03e07-08">s03e07-08 <a href="#">&uarr;</a></h3>  
+
+**e07**  
+A barba é uma maquiagem pro homem. 😅 Mas dá muito trabalho ficar tirando e colocando essa barba. 
+
+A lista de tarefas no além me parece inviabilizar as tentativas de impedir um dilúvio.  
+
+E não é que ele amou a Nora. 🥰  
+
+Nada como a tecnologia para não copiar suas genitais.    
+
+Sério que a gente não verá a Nora nem a Laurie e ficaremos nessa ansiedade sobre o que houve com elas?
+
+Esta é a pergunta mais importante do final da série: "por que você está aqui?". Estou na dúvida se ele está pela Nora ou simplesmente por querer fugir e estar morto.  
+
+A trilha é boa, mas uma cena triste assim dele lembrando da Nora e essa musiquinha alegre, vá à merda... 😁  
+
+Ainda acho que poderia ter acabado no episodio 6.  
+
+Essa jornada do Kevin parece muito perdida, assim como ele e o pai estão. Loucos e perdidos.  
+
+O encerramento sem saber o que aconteceria me agradou mais, mas veremos o que vem pelo episódio final.
+
+**e08**  
+Parece que no final ninguém morreu no mergulho ou foi para um além quântico.  
+
+Meio desnecessária a cena da porta, criar um clima de ansiedade para algo que ninguém nem pediu ou esperava e que sabe não fazer sentido soa até infantil.   
+
+Fiquei preocupado que fossem sacrificar o bode, mesmo que no meio do deserto.  
+
+Gostei dos painéis solares.  
+
+A história da Nora sempre me pareceu mais interessante de acompanhar e o desenvolvimento das passagens dela também são melhores, com questões mais complexas e resolvidas de forma mais real e empática.  
+
+No final das contas o arrebatamento realmente aconteceu, continuamos sem saber o motivo, seja divino ou meramente físico, mas sabemos que nao tá jinguem morto e que foram pra algum lugar.  
+
+Mas esse é o problema de dar alguma explicação... Se lá também pessoas sumiram, elas foram para onde? E se a Nora tenta voltar, ela na verdade não deveria ir para onde as pessoas de lá foram? Fica complicado dar uma solução, ou a Nora só inventou tudo isso. Mas não sei se seria do feitio dela mentir sobre isso ao invés de só dizer que desistiu e não soube lidar com isso.  
+
+<h3 id="">Ótima temporada <a href="#">&uarr;</a></h3> 
+
+De toda forma, a série termina com um saldo muito positivo, excelentes episódios, poucas coisas que podemos chamar de barrigas e dando um caminho para todos os personagens.

@@ -4,11 +4,24 @@ title: Registro de Alterações
 description: registro das modificações que faço neste pequeno espaço da internet.
 permalink: "/registro-de-alteracoes"
 ---
-<h1><span aria-hidden="true">|<span class="h1-menor">o</span></span>Registro<span class="h1-menor"> de alterações</span></h1>
+<h1><span aria-hidden="true">|<span class="h1-menor">o </span></span>Registro<span class="h1-menor"> de alterações</span></h1>
 
 O famoso [Changelog<sup>[en]</sup>](https://indieweb.org/release_notes) é simplesmente um resumo das alterações <del> consideradas mais pertinentes</del> realizadas aqui neste meu pequeno canto da internet.
 <hr>
 <h3>Alterações em 2025</h3>
+<h4>09 de novembro</h4>
+<span class="tag-reg">css</span><span class="tag-reg">html</span>  
+Alterei a apresentação da caixa de avisos que tenho por aqui. Antes era o texto com uma borda criando apenas uma caixa. Agora tem um ícone de "informação" e o texto ao lado, a borda da caixa continua, agora arredondada.
+
+<h4>06 de novembro</h4>
+<span class="tag-reg">acabamento</span><span class="tag-reg">html</span>  
+Troca do favicon. Anteriormente era a foto do site, agora temos um desenho. Peguei uma das imagens do avatar criado pela Meta no WhatsApp. Mal dá pra ver, mas ficou engraçadinho.  
+Em algum momento pretendo criar uma página _sobre_ e colocarei o avatar junto com a foto.  
+<span class="tag-reg">html</span>  
+Atualizei os links que levam ao [Lerama](https://lerama.pcdomanual.com/?category=blogs&tag). Com a [união dos diretório de Newsletteres e de Blogs](https://manualdousuario.net/lerama-diretorio-newsletters-brasileiras-fusao/) pelo [@Manual do Usuário](https://manualdousuario.net/) coloquei os links daqui com o filtro para que leve para a página que apresenta apenas os blogs. Se houver interesse do leitor de visualizar as newsletteres lá tem como mudar.  
+Fiz isso [porque o intuíto aqui é valorizar os blogs](/blog/porque-um-blog-e-nao-uma-newsletter), esses espaços pessoais, esquecidos e que tentamos reviver.  
+Nada contra newsletteres.
+
 <h4>01 de novembro</h4>
 <span class="tag-reg">css</span>  
 Retirei das configurações do _dark mode_ as variáveis <code>quote-transparency</code>, <code>code-background-transparency</code> afinal não preciso repetir se são as mesmas do modo claro. Aproveitei e adicionei a varável <code>font-geral</code> para no futuro poder trocar as fontes mais facilmente. _Ideias para o futuro sendo matutadas..._  
@@ -94,7 +107,7 @@ Coloquei um link de acesso à página barras e o botao de alerta no rodapé.
 
 <h4>03 de julho</h4>
 <span class="tag-reg">acabamento</span>  
-Troquei o selo do [Lerama](https://lerama.pcdomanual.com) para a imagem que usa no cabeçalho do site, com o fundo escuro, tirando o selo original com o texto pixelado e fundo azul claro.
+Troquei o selo do [Lerama](https://lerama.pcdomanual.com/?category=blogs&tag) para a imagem que usa no cabeçalho do site, com o fundo escuro, tirando o selo original com o texto pixelado e fundo azul claro.
 
 <h4>22 de junho</h4>
 <span class="tag-reg">acabamento</span><span class="tag-reg">perfil</span>  
@@ -120,7 +133,7 @@ Criei o _modo claro_ e a partir de agora o site se adapta ao tema do sistema. Ai
 
 <h4>15 de maio</h4>
 <span class="tag-reg">css</span><span class="tag-reg">html</span>  
-[Adicionei o selo](https://pcdomanual.com/lerama-selo-88-31/) do [Lerama](https://lerama.pcdomanual.com/) no rodapé do site. Aproveitei e adicionei um selo do [Histórias para Ler](https://historiasparaler.blog.br) também.  
+[Adicionei o selo](https://pcdomanual.com/lerama-selo-88-31/) do [Lerama](https://lerama.pcdomanual.com/?category=blogs&tag) no rodapé do site. Aproveitei e adicionei um selo do [Histórias para Ler](https://historiasparaler.blog.br) também.  
 Assim ficamos com os dois selos na esquerda e as informações de licença de uso e datas na direita, em telas menores os selos ficam numa segunda linha.  
 <span class="tag-reg">html</span>  
 Adicionei no _front matter_ das postagens do Fotolog o <code>permalink:/fotolog/...</code>. A partir de agora, as postagens do Fotolog terão um endereço exclusivo, mesmo que eu tenha que forçá-los.  

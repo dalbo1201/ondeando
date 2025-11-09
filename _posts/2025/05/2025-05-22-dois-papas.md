@@ -9,7 +9,7 @@ tags: ["filmes"]
     <img src="{{ site.baseurl }}/assets/fotos/2025/05/dois-papas.jpg" alt="Anthony Hopkins como Bento XVI, de túnica branca, está tocando piano enquanto Jonathan Pryce, interpretando Jorge Bergoglio, está em pé, ao lado do piano, segurando os óculos próximos a boca, sorrindo e escutando a música." title="Dois Papas e um piano">
 <figcaption>Dois Papas e um piano</figcaption>
 </figure>
-<aside class="aviso">Faz um tempo que <a href="{{ site.baseurl }}/blog/a-certeza-e-inimiga-mortal/">vi esses filmes</a>, mas acabei esquecendo de postar, também.</aside>
+<aside class="aviso-caixa"><div class="aviso-texto">Faz um tempo que <a href="{{ site.baseurl }}/blog/a-certeza-e-inimiga-mortal/">vi esses filmes</a>, mas acabei esquecendo de postar, também.</div></aside>
 *Dia 24 de abril...*  
 
 Essa semana começou com a gente assistindo à Conclave, que por ironia do destino possivelmente foi o filme mais assistindo no Brasil, quiçá *no mundo* (por favor, leia com a voz do comercial da Hyundai e se não conhece, procura no <a href="https://youtu.be/o-LVajfAMtg?si=AX2vEpvkouRR9s5d&t=27">YouTube essa propaganda</a>).  

@@ -7,7 +7,10 @@ description: Um mapa para o site.
 <span aria-hidden="true">|</span>Barras
 </h1>
 <section class="texto-geral">
-<p>A página <i>/slashes</i> (ou /barras em português) serve para você encontrar os caminhos das páginas deste cantinho na web:</p>
+<p>A página <i>/slashes</i> (ou /barras em português) serve para você encontrar os caminhos das páginas deste cantinho na web.</p>
+
+<hr>
+
 <ul class="lista-tags">
 <li><a href="{{ site.url }}/acompanhe" title="acompanhe">/acompanhe</a>: Explica o que é o FEED/RSS, indica o caminho para o XML que você deverá inserir no seu leitor preferido. Além de recomendar um leitor de FEED, caso não tenha um e use Android.</li><br/>
 <li><a href="{{ site.url }}/agora" title="o que estou fazendo">/agora</a>: Um breve resumo das minhas atividades, como se eu fosse contar para um velho amigo o que tenho feito ultimamente. Página (teoricamente) atualizada a cada mês ou quinze dias.</li><br/>

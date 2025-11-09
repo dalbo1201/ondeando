@@ -23,4 +23,4 @@ Vou-me indo.
 Abraços a todos,  
 Inté.
 
-<div class="aviso">No finado antigo blog tinha um botão com meu email e um link "mailto".</div>
+<aside class="aviso-caixa"><div class="aviso-texto">No finado antigo blog tinha um botão com meu email e um link "mailto".</div></aside>

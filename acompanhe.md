@@ -3,7 +3,7 @@ layout: paginas
 title: Acompanhe
 description: Um local explicando o que é FEED, como usar e como acompanhar esse pequeno espaço na internet.
 ---
-<h1><span aria-hidden="true">|</span><span class="h1-menor">um</span>Feed<span class="h1-menor"> para acompanhar</span> </h1>
+<h1><span aria-hidden="true">|</span><span class="h1-menor">um </span>Feed<span class="h1-menor"> para acompanhar</span> </h1>
 <section class="texto-geral">
 <p>Se você chegou até aqui pode ser que queira ler este espaço sem ter que visitá-lo sempre ou aproveitar que está no seu leitor de feeds e só acompanhar.</p>
 
@@ -18,5 +18,5 @@ description: Um local explicando o que é FEED, como usar e como acompanhar esse
 
 <p>Se você usa um celular Android me dou a liberdade de recomendar o <a href="https://play.google.com/store/apps/details?id=com.capyreader.app" title="Um leitor que tem uma Capivara de mascote S2">Capy Reader</a>, um aplicativo de leitor de RSS super leve, simples e que tem como ícone uma Capivara. Tem como ser melhor? Dúvido!</p>
 
-<p>Quer descobrir outros blogs em português, acesse o <a href="https://lerama.pcdomanual.com/" title="Repositório de Blogs pt-br">Lerama</a>, um repositório de blogs mantido pelo <a href="https://manualdousuario.net" title="Excelente blog de tecnologia">Manual do Usuário</a>. Tenho certeza que vai encontrar blogs que irão te agradar.</p>
+<p>Quer descobrir outros blogs em português, acesse o <a href="https://lerama.pcdomanual.com/?category=blogs&tag" title="Repositório de Blogs pt-br">Lerama</a>, um repositório de blogs mantido pelo <a href="https://manualdousuario.net" title="Excelente blog de tecnologia">Manual do Usuário</a>. Tenho certeza que vai encontrar blogs que irão te agradar.</p>
 </section>
