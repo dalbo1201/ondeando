@@ -6,7 +6,7 @@
   <h1><span aria-hidden="true">|</span><span class="h1-menor">meu</span>Blog</h1>
 
 <article class="blog-article {% if  page.type == 'frase'%}blog-citacao{% elsif page.type == 'notas' %}blog-notas{% endif %}">
-  <p class="blog-data">{{ page.date | date: "%d/%m/%Y" }}</p>
+  {% include post-dates.html %}
   <h2>{{ page.title }}</h2>
   <p class="blog-tag">
     {% for tag in page.tags %}

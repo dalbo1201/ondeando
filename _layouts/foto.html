@@ -6,7 +6,7 @@
   <h1><span aria-hidden="true">|</span><span class="h1-menor">meu </span>Álbum<span class="h1-menor"> de fotos</span></h1>
 
 <article class="blog-article">
-  <p class="blog-data">{{ page.date | date: "%d/%m/%Y" }}</p>
+  {% include post-dates.html %}
   <h2>{{ page.title }}</h2>
   <p class="blog-tag">
     {% for tag in page.tags %}

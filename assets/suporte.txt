@@ -1,3 +1,15 @@
+Elementos de datas para atualização de postagens para o front-metter
+date: data de criação (data da atualização)
+created: (data de criação quando a postagem é atualizada)
+updated: (data da atualização anterior caso mais de uma atualização)
+    Exemplo:
+    date: 2024-10-10
+    created: 2023-08-02
+        updated:
+      - 2023-10-01
+      - 2024-01-15
+
+
 type (layout):
 album - vai para o fotolog (foto)
 notas - vai pro blog sem título (post)

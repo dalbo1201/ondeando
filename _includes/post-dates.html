@@ -1,0 +1,47 @@
+<p class="blog-data">
+
+  {% if page.created %}
+
+    {{ page.created | date: "%d/%m/%Y" }}
+
+    {% assign updates = "" %}
+
+    {% if page.updated %}
+      {% for d in page.updated %}
+        {% assign updates = updates | append: d | append:"|" %}
+      {% endfor %}
+    {% endif %}
+
+    {% if page.date != page.created %}
+      {% assign updates = updates | append: page.date %}
+    {% endif %}
+
+    {% assign updates_list = updates | split:"|" | compact %}
+
+    {% if updates_list.size > 0 %}
+      – <i>atualizado em:
+        {% assign last_index = updates_list.size %}
+        {% assign penultimo = last_index | minus: 1 %}
+
+        {% for d in updates_list %}
+          {{ d | date: "%d/%m/%Y" }}
+
+          {% unless forloop.last %}
+            {% if forloop.index == penultimo %}
+              e 
+            {% else %}
+              , 
+            {% endif %}
+          {% endunless %}
+
+        {% endfor %}
+      </i>
+    {% endif %}
+
+  {% else %}
+
+    {{ page.date | date: "%d/%m/%Y" }}
+
+  {% endif %}
+
+</p>
