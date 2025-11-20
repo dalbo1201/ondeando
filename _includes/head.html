@@ -13,7 +13,7 @@
  <meta name="robots" content="noindex,follow">
 {% endif %}
 
-{% if page.title == 'Profissional' or page.title == 'Currículo' %}
+{% if page.title == 'Profissional' or page.title == 'Currículo' or page.title == 'erro'%}
  <title>{{ page.title | truncate: 45, "…"}} | Pedro Dal Bó</title>
 {% else %}
  <title>{{ page.title | truncate: 45, "…"}} | {{ site.title }}</title>
