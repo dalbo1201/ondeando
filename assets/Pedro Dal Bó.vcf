@@ -2,12 +2,12 @@ BEGIN:VCARD
 VERSION:2.1
 N;LANGUAGE=pt-br;CHARSET=Windows-1252:Dal Bó;Pedro
 FN;CHARSET=Windows-1252:Pedro Dal Bó
-ORG;CHARSET=Windows-1252:CEMOSA - Ingeniería y Control
+ORG:Projeta Infraestrutura
 TITLE:Engenheiro Civil, Projetista de Geometria
 X-MS-OL-DEFAULT-POSTAL-ADDRESS:0
 URL;WORK:pedro.dalbo.me/profissional
-EMAIL;PREF;INTERNET:servicosengenharia@dalbo.me
-EMAIL;INTERNET:pedro.dalbo@cemosa.com.br
+EMAIL;PREF;INTERNET:pedro@dalbo.me
+EMAIL;INTERNET:pbo@projetainfraestrutura.com.br
 PHOTO;TYPE=JPEG;ENCODING=BASE64:
  /9j/4AAQSkZJRgABAQEAeAB4AAD/2wBDAAMCAgICAgMCAgIDAwMDBAYEBAQEBAgGBgUGCQgK
  CgkICQkKDA8MCgsOCwkJDRENDg8QEBEQCgwSExIQEw8QEBD/2wBDAQMDAwQDBAgEBAgQCwkL
@@ -634,6 +634,6 @@ PHOTO;TYPE=JPEG;ENCODING=BASE64:
  h5/CuC8QE/2spyf8mu2JLLaFiSTCnX6VM9Xcku6hmGOORcZRsjHbvWvDrEDRIzSKCVBPT/Cs
  i+/48WPcDisISPj7zfnWUo824H//2Q==
 
-X-MS-OL-DESIGN;CHARSET=utf-8:<card xmlns="http://schemas.microsoft.com/office/outlook/12/electronicbusinesscards" ver="1.0" layout="left" bgcolor="ffffff"><img xmlns="" align="tleft" area="32" use="photo"/><fld xmlns="" prop="name" align="left" dir="ltr" style="b" color="000000" size="10"/><fld xmlns="" prop="org" align="left" dir="ltr" color="000000" size="7"/><fld xmlns="" prop="title" align="left" dir="ltr" color="000000" size="8"/><fld xmlns="" prop="blank" size="8"/><fld xmlns="" prop="email" align="left" dir="ltr" color="d48d2a" size="8"/><fld xmlns="" prop="webwork" align="left" dir="ltr" color="000000" size="8"/><fld xmlns="" prop="blank" size="8"/><fld xmlns="" prop="email2" align="left" dir="ltr" color="000000" size="8"/><fld xmlns="" prop="blank" size="8"/><fld xmlns="" prop="blank" size="8"/><fld xmlns="" prop="blank" size="8"/><fld xmlns="" prop="blank" size="8"/><fld xmlns="" prop="blank" size="8"/><fld xmlns="" prop="blank" size="8"/><fld xmlns="" prop="blank" size="8"/><fld xmlns="" prop="blank" size="8"/></card>
-REV:20250204T141410Z
+X-MS-OL-DESIGN;CHARSET=utf-8:<card xmlns="http://schemas.microsoft.com/office/outlook/12/electronicbusinesscards" ver="1.0" layout="left" bgcolor="ffffff"><img xmlns="" align="tleft" area="32" use="photo"/><fld xmlns="" prop="name" align="left" dir="ltr" style="b" color="000000" size="10"/><fld xmlns="" prop="org" align="left" dir="ltr" color="000000" size="7"/><fld xmlns="" prop="title" align="left" dir="ltr" color="000000" size="8"/><fld xmlns="" prop="blank" size="8"/><fld xmlns="" prop="email2" align="left" dir="ltr" color="000000" size="8"/><fld xmlns="" prop="blank" size="8"/><fld xmlns="" prop="email" align="left" dir="ltr" color="d48d2a" size="8"/><fld xmlns="" prop="webwork" align="left" dir="ltr" color="000000" size="8"/><fld xmlns="" prop="blank" size="8"/><fld xmlns="" prop="blank" size="8"/><fld xmlns="" prop="blank" size="8"/><fld xmlns="" prop="blank" size="8"/><fld xmlns="" prop="blank" size="8"/><fld xmlns="" prop="blank" size="8"/><fld xmlns="" prop="blank" size="8"/><fld xmlns="" prop="blank" size="8"/></card>
+REV:20251116T200545Z
 END:VCARD

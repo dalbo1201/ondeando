@@ -17,25 +17,26 @@ texto - post tradicional do blog (post)
 frase  - vai pro blog como citação especial (post)
 
 post tags:
-a vida, o universo e tudo mais
-aniversário
-casa
-engenharia
-esportes, ou só futebol
-filmes
-fotos
-gatos
-informática
-joguinhos
-livros
-metablog
-museus
-pandemia
-passeios
-pensamentos
-quadrinhos
-showsséries e TV
-tatuagem
+ - a vida, o universo e tudo mais
+ - aniversário
+ - casa
+ - engenharia
+ - esportes, ou só futebol
+ - filmes
+ - fotos
+ - gatos
+ - informática
+ - joguinhos
+ - livros
+ - metablog
+ - museus
+ - músicas
+ - pandemia
+ - passeios
+ - pensamentos
+ - quadrinhos
+ - showsséries e TV
+ - tatuagem
 
 Estrutura de pastas:
 |meusite

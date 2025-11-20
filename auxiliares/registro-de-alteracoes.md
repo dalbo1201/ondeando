@@ -10,9 +10,14 @@ O famoso [Changelog<sup>[en]</sup>](https://indieweb.org/release_notes) é simpl
 <hr>
 <h3>Alterações em 2025</h3>
 <h4>14 de novembro</h4>
+<span class="tag-reg">acabamento</span><span class="tag-reg">html</span>  
+Adicionei nas páginas [etiquetas (Tags)](/tags) e do [Arquivo](/arquivo) um aviso sobre o ícone &#x1F4F7; ser relacionado a postagens do [Fotolog](/fotolog).  
+Adicionei essa explicação também no [Colofão](/colofao), me pareceu fazer sentido.
+
+<h4>14 de novembro</h4>
 <span class="tag-reg">liquid</span>  
 Criei uma série de condicionantes para permitir a apresentação de datas de atualização das postagens.  
-O código identifica se a postagem tem datas de atualização e, se possuir, usará a data mais recente para <i>jogar</i> a postagem para o topo do blog. A exibição das datas começa pela data original e depois segue em <b>loop</b> reunindo todas as datas de atualização em ordem cronológica, incluindo <code>,</code> e <code>e</code> quando necessário.  
+O código identifica se a postagem tem datas de atualização e, se possuir, usará a data mais recente para <i>jogar</i> a postagem para o topo do blog. A exibição das datas começa pela data original e depois segue em <i>loop</i> reunindo todas as datas de atualização em ordem cronológica, incluindo <code>,</code> e <code>e</code> quando necessário.  
 Para uma melhor apresentação do código nos arquivos <code>post.html</code> e <code>foto.html</code> criei um arquivo separado <code>post-dates.html</code> usando o <code><code>{&#37; include post-dates.html &#37;}</code></code> para incluir as atualizações nos arquivos do <code>_layouts</code>.
 
 <h4>09 de novembro</h4>
@@ -79,7 +84,7 @@ Publiquei o [Colofão](/colofao).
 
 <h4>16 de setembro</h4>
 <span class="tag-reg">css</span><span class="tag-reg">html</span><span class="tag-reg">novidade</span><span class="tag-reg">página</span>  
-Publiquei a página de comentários sobre a série [_The Leftovers_](/blog/assistindo-the-leftovers/comentarios).
+Publiquei a página de comentários sobre a série [_The Leftovers_](/assistindo/the-leftovers-comentarios).
 
 <h4>09 de setembro</h4>
 <span class="tag-reg">html</span><span class="tag-reg">novidade</span>  
@@ -95,7 +100,7 @@ Publiquei a página [Mídias](/social) que apresentam as <del>redes</del>mídias
 
 <h4>19 de agosto</h4>
 <span class="tag-reg">acabamento</span><span class="tag-reg">html</span><span class="tag-reg">liquid</span>  
-Adicionei nas páginas Arquivo e Tags o unicode &#x1F4F7; para aparecer nas postagens que sejam do Fotolog.
+Adicionei nas páginas [Arquivo](/arquivo) e [etiquetas (Tags)](/tags) o unicode &#x1F4F7; para aparecer nas postagens que sejam do [Fotolog](/fotolog).
 
 <h4>31 de julho</h4>
 <span class="tag-reg">css</span><span class="tag-reg">html</span><span class="tag-reg">jekyll</span><span class="tag-reg">liquid</span><span class="tag-reg">novidade</span><span class="tag-reg">página</span>  

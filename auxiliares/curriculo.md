@@ -18,19 +18,26 @@ permalink: "/profissional/cv"
 </article>
 </section>
 
-   <!-- Seção de experiência -->
+   <!-- Seção de trabalhos e empresas -->
   <section aria-labelledby="trabalhos-titulo">
     <h2 id="experiencia-titulo">Trabalhos realizados</h2>
 <article class="curriculo">
+  <h3>Projeta Infraestrutura</h3>
+  <em>São Paulo, SP</em>
+    <p><b>Engenheiro Civil</b>: <time datetime="2025-11">novembro de 2025</time> – atual</p>
+      <p>Trabalho desenvolvendo projetos de geometria e terraplenagem de rodovias com Civil3D.<br/></p>
+</article>
+
+<article class="curriculo">
       <h3>Cemosa Ingeniería y Control</h3>
       <em>São Paulo, SP</em>
-      <p><b>Engenheiro Civil</b>: <time datetime="2022-01">janeiro de 2022</time> – atual</p>
+      <p><b>Engenheiro Civil</b>: <time datetime="2022-01">janeiro de 2022</time> – <time datetime="2025-11">novembro de 2025</time></p>
         <p>Trabalho desenvolvendo projetos de geometria e terraplenagem de rodovias com Civil3D e auxilio na coordenação interna de contrato da equipe.<br/>
         Participação em projetos: </p>
       <ul>
         <li>Reengenharia para os projetos rodoviários (Lotes 3 e 4), otimizando os projetos dos segmentos rodoviários referentes ao Pacote 3, do km 543+200 ao km 674+700, e ao Pacote 4, do km 674+700 ao km 819+000, totalizando 275,8 km – BR-116/BA – Conc. VIABAHIA;</li>
         <li>Elaboração de estudos técnicos de engenharia para avaliação, qualificação, quantificação e orçamentação especificamente para o Sistema Rodoviário Litoral Paulista;</li>
-        <li>Elaboração de Estudo de Viabilidade Técnica, Econômica e Ambiental (EVTEA) dos RTU03: do km 630+900 ao km 634+000) e TTRU05: do km 832+560 ao km 834+500 e RTU06: do km 869+400 ao km 871+150 – BR-116/BA – Conc. VIABAHIA;</li>
+        <li>Elaboração de Estudo de Viabilidade Técnica, Econômica e Ambiental (EVTEA) dos RTU03: do km 630+900 ao km 634+000 e TTRU05: do km 832+560 ao km 834+500 e RTU06: do km 869+400 ao km 871+150 – BR-116/BA – Conc. VIABAHIA;</li>
         <li>Revisão do projeto executivo das ruas laterais localizadas no km 430+400 ao km 430+800 Pista Norte - Comunidade Chapéu de Couro, km 464+000 ao km 464+500 Pista Sul - São Caetano e km 472+400 ao km 473+400 Pista Sul - Povoado km 50 – BR-116/BA – Conc. VIABAHIA;</li>
         <li>Anteprojeto de duplicação da rodovia RSC-287 – Conc. Rota de Santa Maria/DAER-RS;</li>
         <li>Projeto básico e executivo de duplicação da rodovia SPA-053 – Conc. CCR/DER-SP.</li>
@@ -40,7 +47,7 @@ permalink: "/profissional/cv"
 <article class="curriculo">
       <h3>EPL – Empresa de Planejamento e Logística (INFRA S.A.)</h3>
       <em>Brasília, DF</em>
-      <p><b>Assessor Técnico (Engenheiro Civil)</b>: <time datetime="2020-07">julho de 2020</time> – <time datetime="2021-12">dezembro de 2021</time></p>
+      <p><b>Assessor Técnico II (Engenheiro Civil)</b>: <time datetime="2020-07">julho de 2020</time> – <time datetime="2021-12">dezembro de 2021</time></p>
       <p>Trabalhei na análise de projetos funcionais e na realização de estudos técnicos de viabilidade para estruturação de concessões rodoviárias no âmbito do Ministério da Infraestrutura - Governo Federal. Desenvolvi e modelei projetos com Civil3D e Infraworks.</p>
 </article>
 

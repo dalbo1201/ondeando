@@ -12,7 +12,7 @@ Imagine que você tem aquele amigo que não o vê há muito tempo, aqui você co
 
 Bom, é isso o que vai encontrar por aqui.
 <hr>
-Seguindo com meu trabalho na CEMOSA como engenheiro de projetos rodoviários. Voltei a fazer projetos de terraplenagem, tinha um tempo que havia parado e agora estou tirando o pó da memória.  
+Comecei a trabalhar na [Projeta Infraestrutura](/profissional) como engenheiro de projetos rodoviários a convite do meu amigo Renan que acredita que meu trabalho e experiência podem ajudar à equipe. Fico feliz pela confiança e espero retribuir a altura.  
 
 Estamos numa batalha para deixar nossos gatos vivendo em alguma harmonia, temos uma evolução, mas ainda pequenas batalhas a vencer.  
 
@@ -40,5 +40,5 @@ Séries que estou vendo <a href="https://tvtime.com/r/38uUh" class="linkcab">&#1
 </ul>
 
 <aside class="atualizacao">
-    atualizado em 02 de novembro de 2025.
+    atualizado em 15 de novembro de 2025.
 </aside>
