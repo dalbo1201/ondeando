@@ -12,7 +12,7 @@ tags: ["a vida, o universo e tudo mais", "fotos","filmes", "pandemia", "tatuagem
             <figcaption>Tempo, por Heptapods</figcaption>
 </figure>
 Existe uma famosa frase sobre pessoas que se tatuam.  
-<blockquote class="citacao">Quem começa não para.</blockquote>
+> Quem começa não para.
 Parece que é verdade e hoje fui pra minha segunda tatuagem.  
 
 Eu sei que não é tudo isso, mas vamos deixar assim.  

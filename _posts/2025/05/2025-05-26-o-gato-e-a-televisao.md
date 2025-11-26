@@ -13,7 +13,7 @@ permalink: "/fotolog/o-gato-e-a-televisao"
 <figcaption>A curiosa <b>mania</b> dos gatos ficarem na frente da televisão</figcaption>
 </figure>
 
-<Blockquote class="citacao">Ah... Mas eles gostam de lugares altos.</blockquote>
+> Ah... Mas eles gostam de lugares altos.
 
 Alguns diriam que pontos mais altos são estratégicos para os gatos. Realmente, mas o rack da TV não está lá nessas alturas, além de que nas proximidades temos posições muito mais favoráveis.  
 

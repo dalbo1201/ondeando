@@ -19,7 +19,7 @@ A divisão das postagens foi feita com um plugin que pegou os arquivos para a ga
 
 Gostei demais da solução, ainda mais que consegui colocar uma paginação e assim fica mais leve o carregamento. Acho que ficou elegante, mas sempre falta algum acerto...  
 
-<Blockquote class="citacao">O ótimo é inimigo do bom.</blockquote>
+> O ótimo é inimigo do bom.
 
 Acho bacana ter uma página que funcione como um fotolog (entreguei a idade) e ter um espaço meu com algumas postagens com foco na foto e às vezes algum comentário sobre aquele momento especial. Quem sabe em algum dia seja possível abandonar de vez outras mídias socias que hoje substituem as fotos dos amigos por propagandas e recomendações em feeds infinitos.  
 

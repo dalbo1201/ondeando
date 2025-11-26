@@ -9,7 +9,17 @@ permalink: "/registro-de-alteracoes"
 O famoso [Changelog<sup>[en]</sup>](https://indieweb.org/release_notes) é simplesmente um resumo das alterações <del> consideradas mais pertinentes</del> realizadas aqui neste meu pequeno canto da internet.
 <hr>
 <h3>Alterações em 2025</h3>
-<h4>14 de novembro</h4>
+<h4>23 de novembro</h4>
+<span class="tag-reg">css</span><span class="tag-reg">html</span>  
+Corrigi o CSS e o HTML do elemento <code>blockquote</code> quando numa postagem <code>type:frase</code> que não estava usando as alturas de texto corretamente por aparecer um <code><p></code> a mais na geração do site.  
+Fiz outra pequenas mudanças em tamanho de textos e espaçamentos para tentar melhorar o visual.  
+Espero que isso tenha sido resolvido realmente...  
+
+<h4>21 de novembro</h4>
+<span class="tag-reg">jekyll</span>  
+Alterei o campo <code>author</code> no <code>_config.yml</code> para **dalbo1201**, afinal de contas aqui na internet esse é meu usuário padrão, me parece fazer mais sentido. Sei lá...
+
+<h4>20 de novembro</h4>
 <span class="tag-reg">acabamento</span><span class="tag-reg">html</span>  
 Adicionei nas páginas [etiquetas (Tags)](/tags) e do [Arquivo](/arquivo) um aviso sobre o ícone &#x1F4F7; ser relacionado a postagens do [Fotolog](/fotolog).  
 Adicionei essa explicação também no [Colofão](/colofao), me pareceu fazer sentido.

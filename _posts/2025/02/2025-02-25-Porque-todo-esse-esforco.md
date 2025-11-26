@@ -13,11 +13,11 @@ Sabe aquele problemão que é quando, por algum motivo, alguém precisa mudar o 
 
 Mesmo com essa explicação as pessoas ficam sem entender e *acham graça*.
 
->Spoiler: eu ainda uso serviço de e-mail gratuito, o Gmail, mas já é com domínio próprio.  
+<div class="fleabag">Spoiler: eu ainda uso serviço de e-mail gratuito, o Gmail, mas já é com domínio próprio.</div> 
 
 Agora tem essa história de site, blog, página de agora... E a questão retorna:  
 
-<blockquote class="citacao">Por que todo esse esforço?</blockquote>
+> Por que todo esse esforço?
 
 No mundo atual estamos cada vez mais isolados da web, enfiados em aplicativos que tem apenas como objetivo nos manter lá dentro a qualquer custo e criando todas as dificuldades que possam nos encaminhar para lugares externos à aplicação.
 

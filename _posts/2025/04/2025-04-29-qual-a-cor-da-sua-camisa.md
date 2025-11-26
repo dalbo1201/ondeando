@@ -42,7 +42,7 @@ A Itália e a Holanda usam as cores de suas famílias reais, eu acho isso bem ma
 
 Aliás, essa camisa vermelha nem seria a principal da seleção, e não esqueçamos porque o país chama-se Brasil. Podemos fazer referência - e reverência - aos povos originários dizimados aqui, e resignificar essa escolha para algo que nos una (falei lá no começo da possível justificativa de marketing).  
 
-<blockquote class="citacao">Ah, mas aí você tá querendo arrumar uma desculpa.</blockquote>
+> Ah, mas aí você tá querendo arrumar uma desculpa.
 
 Calma... Claro que essa é apenas uma jogada de marketing da fornecedora de material para tentar alavancar as vendas de camisas, mesmo que seja uma camisa dita reserva. 
 

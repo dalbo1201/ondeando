@@ -7,7 +7,8 @@ tags: ["metablog","pensamentos"]
 ---
 Desde que voltei a escrever no blog percebi algo que vinha me passando desapercebido na internet - o RSS ainda tá meio escondido ou dificl de usar para quem não os conhece.  
 
-<blockquote class="citacao">Atire o primeiro mouse quem nunca bateu em um paredão de código XML ao tentar cadastrar um feed RSS.</blockquote>
+> Atire o primeiro mouse quem nunca bateu em um paredão de código XML ao tentar cadastrar um feed RSS.
+
 <cite>Rodrigo Ghedin, Manual do Usuário.</cite>
 
 Convenhamos, se nos anos 2000 em que não estávamos completamente presos em mídias sociais o RSS já não era algo simples e acessível, hoje que o *Reino da Internet* está bem limitado em feeds infinitos de aplicativos fechados acho que esse é o único momento em que o usuário comum ouve sobre a palavra *FEED*.  

@@ -17,6 +17,6 @@ Tem faltado ao partido dos trabalhadores maior preocupação com a vida do traba
 
 Aliás, um comentário mais polêmico:
 
->**Considero o debate da escala 4x3 muito mais importante que o debate sobre teletrabalho**.  
+<div class="fleabag"><b>Considero o debate da escala 4x3 muito mais importante que o debate sobre teletrabalho</b>.</div>  
 
 Mas isso pode ficar para outro papo.

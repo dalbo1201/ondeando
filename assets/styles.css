@@ -68,7 +68,7 @@ nav {
 
 main {
  margin: 30px auto 60px auto;
- padding: 0 5px;
+ padding: 0 1px;
  display: flex;
  flex-direction: column;
  justify-content: flex-start;
@@ -143,7 +143,7 @@ h2 { /* Títulos de postagem e outros títulos de página */
  line-height: clamp(2rem, 3vw, 2.19rem); /* 32–35px */
  text-wrap: balance;
  margin-top: 0.63rem; /* 10px */
- margin-bottom: 0;
+ margin-bottom: 0.63rem; /* 10px */
 }
 
 h3 {
@@ -170,9 +170,9 @@ p {
  max-width: 100%; /* Faz com que o conteúdo ocupe 100% da largura do contêiner */
  font-size: clamp(1rem, 1.5vw, 1.06rem); /* 16–17px */
  line-height: clamp(1.5rem, 2vw, 1.7rem); /* 23px */
+ margin: 0 0 0.2rem 0;
  overflow-wrap: break-word;
  text-align: left;
- margin: 10px 0px;
 }
 
 main ul {
@@ -324,7 +324,7 @@ a[href]:not(:where(
 
 /* INÍCIO DE ESTILO PARA IMAGENS em posts - NÃO É O FOTOLOG, ESSE VEM DEPOIS*/
 figure {
- margin: 0; /* Remove a margem padrão do figure */
+ margin: 0 0 0.5rem 0; /* Remove a margem padrão do figure */
  padding: 0; /* Remove o padding padrão do figure */
 } 
 
@@ -400,48 +400,64 @@ article.blog-article.blog-citacao h2,
 }
 
 .blog-data {
- font-size: clamp(0.94rem, 0.9vw, 1rem); /* 15–16px */
+ font-size: clamp(0.9rem, 0.9vw, 1rem); /* 15–16px */
  color: var(--color-data);
  margin-bottom: 5px;
 }
 
-blockquote { 
- font-size: clamp(1rem, 1.2vw, 1.06rem); /* 16–17px */
- line-height: clamp(1.44rem, 2vw, 1.44rem); /* 23px */
+.fleabag { /* steegg - quando eu faço um comentário dentro do texto */
+ font-size: clamp(0.95rem, 1.5vw, 1.06rem); /* 16–17px */
+ line-height: clamp(1.5rem, 2vw, 1.7rem); /* 23px */
  font-style: italic;
  margin: 20px 0px 20px 15px;
- max-width: 80%;
+ max-width: 80%; 
 }
 
-.citacao {
+blockquote {
+  margin: 0;
+  padding: 0;
+}
+
+blockquote p{ 
+ display: flex;
+ align-items: flex-start; /* Alinha à esquerda */
+ font-size: clamp(1.1rem, 2vw, 1.2rem); /* 16–17px */
+ line-height: clamp(1.44rem, 2vw, 1.44rem); /* 23px */
+ font-style: italic;
  border-left: 7px solid var(--color-link);
- padding-left: 7px;
- padding-top: 10px;
- padding-bottom: 10px;
+ padding: 10px 0px 10px 10px;
+ margin: 20px 0px 20px 10px;
+ max-width: 80%;
 }
 
 cite {
  display: block;
+ font-size: clamp(1.03rem, 1.5vw, 1.05rem);
  font-style: italic;
  text-wrap: balance;
  text-align: right;
+ margin-bottom: 1rem;
  max-width: 100%;
 }
 
 
 /* INÍCIO Estilo especial para blockquote em posts com type: frase */
-article.blog-article.blog-citacao blockquote {
- font-size: clamp(1.33rem, 1.2vw, 1.8rem); /* 16–17px */
- line-height: clamp(1.66rem, 2.2vw, 2.2rem); /* 23px */
+article.blog-article.blog-citacao blockquote p {
+ font-size: clamp(1.2rem, 2.2vw, 1.6rem);
+ line-height: 1.3;
  font-style: italic;
- margin: 20px 0px 20px 15px;
- max-width: 75%;
+ margin-left: 1.5rem;
+ max-width: 80%;
+ display: block;
  position: relative;
- display: inline-block;
  z-index: 1;
+ border-left: 0px;
+ padding-left: 0px;
+ padding-top: 0px;
+ padding-bottom: 0px;
 }
 
-article.blog-article.blog-citacao blockquote::after {
+article.blog-article.blog-citacao blockquote p::after {
  content: '\201D';
  font-family: 'Fraunces', 'Georgia'; /* Fonte para as aspas */
  font-size: 12.5rem; /* 200px */

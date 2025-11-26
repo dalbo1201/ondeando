@@ -21,4 +21,4 @@ Uma das coisas que aprendi a desenhar na época foi o busto de Saddam Husseim. M
 
 Não tenho fotos desses desenhos, mas tenho na memória e acho curiosa essa lembrança.  
 
-<blockquote class="citacao">A arte realmente é algo a se sentir. Nem sempre entender, mas sempre sentir.</blockquote>
+> A arte realmente é algo a se sentir. Nem sempre entender, mas sempre sentir.

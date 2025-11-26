@@ -13,7 +13,7 @@ tags: ["a vida, o universo e tudo mais","casa", "fotos"]
  </figure>
 Desde que mudamos para esse apartamento eu fiquei na expectativa de colocar uma rede em frente a janela da sala. Na verdade, na primeira visita que fizemos ao apartamento falei para minha companheira:
 
-<blockquote class="citacao">Aqui cabe uma rede.</blockquote>
+> Aqui cabe uma rede.
 
 Em frente a janela fica um degrau que ajuda na sensação de estarmos numa varanda e o janelão ajuda ainda mais nesse sentimento.  
 

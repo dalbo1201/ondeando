@@ -10,7 +10,7 @@ tags: ["informática", "joguinhos"]
 </figure>
 Durante o Carnaval saímos para tomar uma cerveja e no meio do papo um amigo soltou, simples assim, sem mais nenhuma informação:
 
-<blockquote class="citacao">Você que gosta de celular, vou te indicar um negócio. <a href="https://www.blazgracar.com/lok" title="LOK, o joguinho">Baixa o LOK</a>.</blockquote>
+> Você que gosta de celular, vou te indicar um negócio. <a href="https://www.blazgracar.com/lok" title="LOK, o joguinho">Baixa o LOK</a>.
 
 Baixei e deixei pra ver no dia seguinte, com calma, o que seria.  
 
@@ -24,7 +24,6 @@ O jogo começa gratuito e tem uma compra única para liberar todo o resto. Vou t
 
 A criação é do eslveno Blaž Urban Gracar, um desenvolvedor de jogos, além de músico, escritor, um cara das artes.
 
-**Uma curiosidade**  
-
-O jogo para celular é na verdade uma adaptação do jogo de ~~tabuleiro~~ caderno. Exato, na verdade LOK é <a href="https://letibus.bigcartel.com/product/lok" title="LOK, o joguinho em papel">um caderninho</a> de jogo de criptografia com um design super fofo com as criaturinha te ensinando a jogar. Mas se você não quiser em papel existe <a href="https://letibus.itch.io/lok/purchase" title="LOK, o joguinho em PDF">a versão em PDF</a> também.  
-Ambas são pagas, mas com valores bem interessantes, mas cuidado que é em dólar.😬
+<aside class="aviso-caixa"><div class="aviso-texto"><b>Uma curiosidade</b><br/>
+O jogo para celular é na verdade uma adaptação do jogo de ~~tabuleiro~~ caderno. Exato, na verdade LOK é <a href="https://letibus.bigcartel.com/product/lok" title="LOK, o joguinho em papel">um caderninho</a> de jogo de criptografia com um design super fofo com as criaturinha te ensinando a jogar. Mas se você não quiser em papel existe <a href="https://letibus.itch.io/lok/purchase" title="LOK, o joguinho em PDF">a versão em PDF</a> também.<br/>
+Ambas são pagas, mas com valores bem interessantes, mas cuidado que é em dólar.😬</div></aside>

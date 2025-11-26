@@ -13,6 +13,6 @@ Eu, Woody e Mérida sentiremos saudades.
 
 Até mais e obrigado pelos peixes.
 
->*Fica aqui, agora, meu agradecimento ao meu irmão Gabriel, que veio até Brasília para me ajudar a retornar para São Paulo. A viagem de carro não será fácil, mas será melhor com sua companhia.
+<div class="fleabag">Fica aqui, agora, meu agradecimento ao meu irmão Gabriel, que veio até Brasília para me ajudar a retornar para São Paulo. A viagem de carro não será fácil, mas será melhor com sua companhia.</div>
 
 #ficaemcasa #usemascara

@@ -3,9 +3,8 @@ layout: post
 type: frase
 title: "Se o trabalhador consome seu tempo disponível para si..."
 date: 2025-05-01 15:30:00 -0300
-tags: ["livros","pensamentos"]
+tags: ["citações","livros"]
 ---
-<blockquote>
-  Se o trabalhador consome seu tempo disponível para si, então rouba do capitalista.
-</blockquote>
+> Se o trabalhador consome seu tempo disponível para si, então rouba do capitalista.
+
 <cite>Karl Marx</cite>

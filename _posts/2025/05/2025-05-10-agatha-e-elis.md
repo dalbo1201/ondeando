@@ -19,7 +19,7 @@ A construção do avatar e do conteúdo foi feita a partir de vasta pesquisa, re
 
 O objetivo do curso nas palavras deles:
 
-<Blockquote class="citacao">A romancista mais vendida de todos os tempos oferece a você uma oportunidade incomparável de aprender os segredos por trás de sua escrita, em suas próprias palavras.</blockquote>
+> A romancista mais vendida de todos os tempos oferece a você uma oportunidade incomparável de aprender os segredos por trás de sua escrita, em suas próprias palavras.
 
 Afinal de contas são palavras dela ou suposições do que ela diria com base nos textos? Colocar a imagem dela falando, criada por IA, gera uma credibilidade de que a autora "pensa" tudo isso que não parece real.  
 

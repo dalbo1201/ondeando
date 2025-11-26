@@ -19,7 +19,7 @@ A partir daí temos um filme de retorno, recuperação de um antigo herói que s
 
 Na sequência surgem mais mulheres trabalhando, pois uma crise econômica na Itália dos anos 30 fez com que sobrassem apenas as mulheres na cidade para executarem o trabalho, e Porco não fica confiante de que terá um bom resultado com isso, principalmente tendo a jovem Fio projetando seu novo avião. Mas Piccolo o tranquiliza.
 
-<blockquote class="citacao">As mulheres têm fibra e trabalham duro.</blockquote>
+> As mulheres têm fibra e trabalham duro.
 
 Com essa necessidade de justificar que o trabalho não será pior por ser realizado apenas por mulheres, *parece* que mesmo em 1992 Miyazaki chamava atenção pra essas situações de misoginia.  
 
