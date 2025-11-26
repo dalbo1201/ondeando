@@ -9,6 +9,9 @@ permalink: "/registro-de-alteracoes"
 O famoso [Changelog<sup>[en]</sup>](https://indieweb.org/release_notes) é simplesmente um resumo das alterações <del> consideradas mais pertinentes</del> realizadas aqui neste meu pequeno canto da internet.
 <hr>
 <h3>Alterações em 2025</h3>
+<h4>26 de novembro</h4>
+<span class="tag-reg">html</span><span class="tag-reg">páginas</span>  
+Adicionei a página [Assistindo](/assistindo) onde tem a reunião de textos comentando o que vejo, mas principalmente as séries que vejo no Grupo de Séries do [Feito por Elas](https://feitoporelas.com.br). 
 <h4>23 de novembro</h4>
 <span class="tag-reg">css</span><span class="tag-reg">html</span>  
 Corrigi o CSS e o HTML do elemento <code>blockquote</code> quando numa postagem <code>type:frase</code> que não estava usando as alturas de texto corretamente por aparecer um <code><p></code> a mais na geração do site.  
