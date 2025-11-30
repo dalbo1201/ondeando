@@ -246,6 +246,7 @@ code {
  opacity: 1; 
  color: var(--color-background);
  border-radius: 4px;
+ margin-bottom: 0.8rem;
  padding: 3px 5px;
 }
 
