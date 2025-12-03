@@ -11,6 +11,7 @@ Comentários rápidos e sem muito trabalho editorial sobre os episódios assisti
 <details open><summary>Temporada 1</summary>
 <ul>
 <li><a href="#t01e01-02">t01e01-02</a></li>
+<li><a href="#t01e03-04">t01e03-04</a></li>
 </ul>
 </details>
 
@@ -43,4 +44,27 @@ A típica relação entre o filho pródigo e aquele que ficou tá pelo menos se 
 
 Tenho alguns receios de como pode caminhar essa relação. É ótimo rever séries antigas, principalmente da HBO, porque eles tem um cuidado com o que apresentam e os temas quando voltados ao público adulto não costumam caminhar para esculhambação (pelo menos é a minha memória).  
 
-Pelo que entendi a premissa da série vai ficar na relação familiar, na gerencia da funerária e na possiveldisputa com a grande coorporação que quer dominar o nicho dos atos fúnebres. Se durou 5 temporadas na HBO deve valer a pena.
+Pelo que entendi a premissa da série vai ficar na relação familiar, na gerencia da funerária e na possiveldisputa com a grande coorporação que quer dominar o nicho dos atos fúnebres. Se durou 5 temporadas na HBO deve valer a pena.  
+
+<h3 id="t01e03-04">t01e03-04 <a href="#">&uarr;</a></h3>
+
+**e03**  
+Gente, estragaram o velório do Romano...  
+
+Um episódio de caça ~~ao tesouro~~ ao pé, apesar dos motivos não serem os melhores, não deixa de ser divertido ver um pé sendo furtado para assustar um babaca juvenil.  
+
+Claramente eles não poderiam vender a funerária, ou seria o fim da série. E provavelmente ficaremos com esse _fantasma_ rondando até o fim.  
+
+É bacana que apesar de toda a confusão nas relações dos irmãos, ao final eles não se odeiam, o que seria bem triste de ver.  
+Existe uma chance de ficarem _amiguinhos_.  
+
+Achei o melhor episódio entre os 4 primeiros.  
+
+**e04**  
+Essa coisa de descobrir quem botou fogo pode ser curioso, mas também cansativo.  
+
+Cheguei a pensar que a mãe pudesse ter feito, mas passo a pensar que a chance seja maior de a Brenda ter feito, ou ter arrumado alguém pra fazer.  
+
+Toda a questão da sexualidade do David tá bem construída, com bons diálogos e a relação dele com o Paco foi muito divertida.  
+
+Excelente também a forma que eles levam o fato de os estadounidenses saberem tão pouco de Porto Rico a ponto de acharem que o Frederico fosse mexicano. Ao mesmo tempo foi ótima a participação dele nas negociações e gosto muito do personagem, espero que ganhe mais espaço.

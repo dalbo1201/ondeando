@@ -1018,7 +1018,7 @@
   url: "/fotolog/os-adesivos-do-meu-laptop"
   date: 2025-11-15 10:00:00.000000000 -03:00
   image: "/assets/fotos/2025/11/adesivos-no-laptop.jpg"
-  caption: Os adesivos no meu laptop
+  caption: Os adesivos no meu laptop [...]
 - title: Outras novidades por aqui
   url: "/blog/outras-novidades-por-aqui/"
   date: 2025-11-20 10:14:15.000000000 -03:00
@@ -1034,3 +1034,13 @@
   date: 2025-11-26 09:05:00.000000000 -03:00
   image:
   caption:
+- title: Dessa vez participei da black friday...
+  url: "/blog/dessa-vez-participei-da-black-friday/"
+  date: 2025-11-30 12:00:00.000000000 -03:00
+  image:
+  caption:
+- title: Mais um fusca
+  url: "/fotolog/mais-um-fusca"
+  date: 2025-12-02 12:00:00.000000000 -03:00
+  image: "/assets/fotos/2025/12/20250720_163807.jpg"
+  caption: Mais um fusca [...]

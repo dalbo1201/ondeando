@@ -1,0 +1,19 @@
+- [The Leftovers]({{ site.url }}/series-filmes/the-leftovers/ "meus comentários episódio a episódio").  
+
+Já comentei sobre algumas outras séries e filmes por aqui. Não foi episódio a episódio, podem ter sido textos mais elaborados ou pensamentos que tive ao terminar uma temporada, finalizar uma série ou filme.
+- [Wall-E]({{ site.url }}blog/wall-e/);
+- [Toy Story 3]({{ site.url }}/blog/toy-story-3-o-fim-de-uma-saga/);
+- [Onde Vivem os Monstros]({{ site.url }}/blog/onde-vivem-os-monstros/);
+- [O Senhor dos Anéis: A Guerra dos Rohirrim]({{ site.url }}/blog/a-guerra-dos-rohirrim/);
+- [Sobre assistir filmes do Studio Ghibli]({{ site.url }}/blog/re-vendo-ghibli/);
+- [A Viagem de Chihiro]({{ site.url }}/blog/a-viagem-de-chihiro/);
+- [Porco Rosso]({{ site.url }}/blog/porco-rosso/);
+- [Dois Papas]({{ site.url }}/blog/dois-papas/);
+- [Sobre The White Lotus, temporada 3]({{ site.url }}/blog/fiquei-um-pouco-decepcionado-com-o-final-de-twl/);
+- [Andor e Rogue One]({{ site.url }}/blog/andor-e-rogue-one/);
+- [Sobre rever Twin Peaks]({{ site.url }}/blog/o-retorno-de-twin-peaks/); 
+- [Sobre Breaking Bad, temporada 1]({{ site.url }}/blog/reassistindo-breaking-bad/); 
+- [Vi Superman (do James Gunn)]({{ site.url }}/blog/vi-superman-do-gunn/);
+- [Sobre Hacks, temporada 3]({{ site.url }}/blog/expectativas-em-hacks/); 
+- [Às vezes quero sumir]({{ site.url }}/blog/as-vezes-quero-sumir/);
+

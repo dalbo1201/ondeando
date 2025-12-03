@@ -4,7 +4,7 @@ type: album
 title: "Os adesivos no meu laptop"
 date: 2025-11-15 10:00:00 -0300
 image: /assets/fotos/2025/11/adesivos-no-laptop.jpg
-caption: "Os adesivos no meu laptop"
+caption: "Os adesivos no meu laptop [...]"
 tags: ["a vida, o universo e tudo mais", "fotos", "informática"]
 permalink: "/fotolog/os-adesivos-do-meu-laptop"
 ---
