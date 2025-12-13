@@ -9,29 +9,33 @@ permalink: "/registro-de-alteracoes"
 O famoso [Changelog<sup>[en]</sup>](https://indieweb.org/release_notes) é simplesmente um resumo das alterações <del> consideradas mais pertinentes</del> realizadas aqui neste meu pequeno canto da internet.
 <hr>
 <h3>Alterações em 2025</h3>
+<h4>13 de dezembro</h4>
+<span class="tag-reg">html</span>  
+Adicionei a _tag_ sobreescrita `[en]` nos links que levam para sites em inglês.  
+<span class="tag-reg">css</span>  
+Fiz um acerto fino na margem da classe `blog-tag` onde a tag da postagem fica com um afastamento do texto da postagem.  
+
 <h4>26 de novembro</h4>
 <span class="tag-reg">html</span><span class="tag-reg">páginas</span>  
 Adicionei a página [Assistindo](/assistindo) onde tem a reunião de textos comentando o que vejo, mas principalmente as séries que vejo no Grupo de Séries do [Feito por Elas](https://feitoporelas.com.br). 
+
 <h4>23 de novembro</h4>
 <span class="tag-reg">css</span><span class="tag-reg">html</span>  
-Corrigi o CSS e o HTML do elemento <code>blockquote</code> quando numa postagem <code>type:frase</code> que não estava usando as alturas de texto corretamente por aparecer um <code><p></code> a mais na geração do site.  
-Fiz outra pequenas mudanças em tamanho de textos e espaçamentos para tentar melhorar o visual.  
-Espero que isso tenha sido resolvido realmente...  
+Corrigi o CSS e o HTML do elemento `blockquote` quando numa postagem `type:frase` que não estava usando as alturas de texto corretamente por aparecer um `<p>` a mais na geração do site. Fiz outra pequenas mudanças em tamanho de textos e espaçamentos para tentar melhorar o visual. Espero que isso tenha sido resolvido realmente...  
 
 <h4>21 de novembro</h4>
 <span class="tag-reg">jekyll</span>  
-Alterei o campo <code>author</code> no <code>_config.yml</code> para **dalbo1201**, afinal de contas aqui na internet esse é meu usuário padrão, me parece fazer mais sentido. Sei lá...
+Alterei o campo `author` no `_config.yml` para **dalbo1201**, afinal de contas aqui na internet esse é meu usuário padrão, me parece fazer mais sentido. Sei lá...
 
 <h4>20 de novembro</h4>
 <span class="tag-reg">acabamento</span><span class="tag-reg">html</span>  
-Adicionei nas páginas [etiquetas (Tags)](/tags) e do [Arquivo](/arquivo) um aviso sobre o ícone &#x1F4F7; ser relacionado a postagens do [Fotolog](/fotolog).  
-Adicionei essa explicação também no [Colofão](/colofao), me pareceu fazer sentido.
+Adicionei nas páginas [etiquetas (Tags)](/tags) e do [Arquivo](/arquivo) um aviso sobre o ícone &#x1F4F7; ser relacionado a postagens do [Fotolog](/fotolog). Adicionei essa explicação também no [Colofão](/colofao), me pareceu fazer sentido.
 
 <h4>14 de novembro</h4>
 <span class="tag-reg">liquid</span>  
 Criei uma série de condicionantes para permitir a apresentação de datas de atualização das postagens.  
-O código identifica se a postagem tem datas de atualização e, se possuir, usará a data mais recente para <i>jogar</i> a postagem para o topo do blog. A exibição das datas começa pela data original e depois segue em <i>loop</i> reunindo todas as datas de atualização em ordem cronológica, incluindo <code>,</code> e <code>e</code> quando necessário.  
-Para uma melhor apresentação do código nos arquivos <code>post.html</code> e <code>foto.html</code> criei um arquivo separado <code>post-dates.html</code> usando o <code><code>{&#37; include post-dates.html &#37;}</code></code> para incluir as atualizações nos arquivos do <code>_layouts</code>.
+O código identifica se a postagem tem datas de atualização e, se possuir, usará a data mais recente para <i>jogar</i> a postagem para o topo do blog. A exibição das datas começa pela data original e depois segue em <i>loop</i> reunindo todas as datas de atualização em ordem cronológica, incluindo `,` e `e` quando necessário.  
+Para uma melhor apresentação do código nos arquivos `post.html` e `foto.html` criei um arquivo separado `post-dates.html` usando o `{ { include post-dates.html }}` para incluir as atualizações nos arquivos do `_layouts`.
 
 <h4>09 de novembro</h4>
 <span class="tag-reg">css</span><span class="tag-reg">html</span>  
@@ -46,13 +50,13 @@ Nada contra newsletteres.
 
 <h4>01 de novembro</h4>
 <span class="tag-reg">css</span>  
-Retirei das configurações do _dark mode_ as variáveis <code>quote-transparency</code>, <code>code-background-transparency</code> afinal não preciso repetir se são as mesmas do modo claro. Aproveitei e adicionei a varável <code>font-geral</code> para no futuro poder trocar as fontes mais facilmente. _Ideias para o futuro sendo matutadas..._  
+Retirei das configurações do _dark mode_ as variáveis `quote-transparency`, `code-background-transparency` afinal não preciso repetir se são as mesmas do modo claro. Aproveitei e adicionei a varável `font-geral` para no futuro poder trocar as fontes mais facilmente. _Ideias para o futuro sendo matutadas..._  
 
 <h4>25 de outubro</h4>
 <span class="tag-reg">css</span>  
-Atualizei o tamanho do texto nas citações quando no <code>type:frase</code> do _front metter_.  
+Atualizei o tamanho do texto nas citações quando no `type:frase` do _front metter_.  
 <span class="tag-reg">ruby</span>  
-Depois da confusão do mentor do Ruby, entrei na onda e troquei [o servidor dos dados para gems](https://gem.coop "novo servidor de dados para gems") do [Ruby](https://www.ruby-lang.org/pt/ "página do Ruby") para o <code>https://gem.coop</code>.
+Depois da confusão do mentor do Ruby, entrei na onda e troquei [o servidor dos dados para gems<sup>[en]</sup>](https://gem.coop "novo servidor de dados para gems") do [Ruby<sup>[en]</sup>](https://www.ruby-lang.org/pt/ "página do Ruby") para o `https://gem.coop`.
 
 <h4>22 de outubro</h4>
 <span class="tag-reg">novidade</span><span class="tag-reg">página</span>  
@@ -60,15 +64,15 @@ Publiquei esta página, o **Registro de Alterações** desse pequeno _proto-jard
 
 <h4>20 de outubro</h4>
 <span class="tag-reg">acabamento</span><span class="tag-reg">css</span>  
-Aumentei a distância entre linhas do <code>&lt;nav></code> para ficar melhor para clicar, com o dedo, em telas pequenas.
+Aumentei a distância entre linhas do `<nav>` para ficar melhor para clicar, com o dedo, em telas pequenas.
 
 <h4>17 de outubro</h4>
 <span class="tag-reg">acabamento</span><span class="tag-reg">css</span>  
-Revisei a cor de fundo, o texto e a transparência para todas as situações em que uso <code>&lt;code></code>.
+Revisei a cor de fundo, o texto e a transparência para todas as situações em que uso `<code>`.
 
 <h4>11 de outubro</h4>
 <span class="tag-reg">acabamento</span><span class="tag-reg">liquid</span>  
-Revisei o código do <code>&lt;title></code> presente no <code>head.html</code>. Ficou bem mais simples, puxando o <code>title</code> presente no _Front Metter_.
+Revisei o código do `<title>` presente no `head.html`. Ficou bem mais simples, puxando o `title` presente no _Front Metter_.
 
 <h4>08 de outubro</h4>
 <span class="tag-reg">acabamento</span><span class="tag-reg">css</span>  
@@ -137,7 +141,7 @@ Troquei a foto de perfil.
 
 <h4>16 de junho</h4>
 <span class="tag-reg">jekyll</span>  
-Revisei os <code>post type</code> do _front metter_ para:
+Revisei os `post type` do _front metter_ para:
 <ul>
 <li>album: vai para o fotolog;</li>
 <li>frase: vai pro blog como citação especial;</li>
@@ -157,7 +161,7 @@ Criei o _modo claro_ e a partir de agora o site se adapta ao tema do sistema. Ai
 <span class="tag-reg">css</span><span class="tag-reg">html</span>  
 [Adicionei o selo](https://pcdomanual.com/lerama-selo-88-31/) do [Lerama](https://lerama.pcdomanual.com/?category=blogs&tag) no rodapé do site. Aproveitei e adicionei um selo do [Histórias para Ler](https://historiasparaler.blog.br) também.  Assim ficamos com os dois selos na esquerda e as informações de licença de uso e datas na direita, em telas menores os selos ficam numa segunda linha.  
 <span class="tag-reg">html</span>  
-Adicionei no _front matter_ das postagens do Fotolog o <code>permalink:/fotolog/...</code>. A partir de agora, as postagens do Fotolog terão endereços exclusivos, mesmo que eu tenha que forçá-los.  
+Adicionei no _front matter_ das postagens do Fotolog o `permalink:/fotolog/...`. A partir de agora, as postagens do Fotolog terão endereços exclusivos, mesmo que eu tenha que forçá-los.  
 
 <h4>01 de maio</h4>
 <span class="tag-reg">css</span><span class="tag-reg">html</span><span class="tag-reg">novidade</span><span class="tag-reg">página</span>  
@@ -173,11 +177,11 @@ Retirei o justificado dos textos em tela pequena.
 
 <h4>17 de abril</h4>
 <span class="tag-reg">Jekyll</span>  
-Revisei o <code>_config.yml</code> para aparecer o autor do blog no FEED para os leitores me identificarem.
+Revisei o `_config.yml` para aparecer o autor do blog no FEED para os leitores me identificarem.
 
 <h4>11 de abril</h4>
 <span class="tag-reg">css</span><span class="tag-reg">html</span><span class="tag-reg">jekyll</span><span class="tag-reg">liquid</span><span class="tag-reg">novidade</span><span class="tag-reg">página</span>  
-Revisei o <code>_config.yml</code> para permitir o uso de tags no blog. Criei a página de [tags](/tags) para guardar os posts _etiquetados_ e no topo da página uma nuvem de tags para permitir uma busca direta.  
+Revisei o `_config.yml` para permitir o uso de tags no blog. Criei a página de [tags](/tags) para guardar os posts _etiquetados_ e no topo da página uma nuvem de tags para permitir uma busca direta.  
 <span class="tag-reg">acabamento</span><span class="tag-reg">tipografia</span>  
 Troquei a fonte do site para a [Montserrat](https://fonts.google.com/specimen/Montserrat) usando o Google Fonts.
 
@@ -187,7 +191,7 @@ Adicionei um link no final das páginas que leva ao topo.
 
 <h4>02 de abril</h4>
 <span class="tag-reg">css</span><span class="tag-reg">html</span><span class="tag-reg">jekyll</span>  
-Configurei o estilo no css para que as postagens de citações de frases tenham a configuração associada ao <code>post type</code> no _front metter_.
+Configurei o estilo no css para que as postagens de citações de frases tenham a configuração associada ao `post type` no _front metter_.
 
 <h4>21 de março</h4>
 <span class="tag-reg">css</span>  
@@ -195,7 +199,7 @@ Coloquei os textos justificados no site todo quando em telas pequenas.
 
 <h4>20 de março</h4>
 <span class="tag-reg">css</span>  
-Reconfigurei o css do elemento <code>&lt;a></code> para que os links gerais tenham o estilo certo sem precisar de uma classe específica.
+Reconfigurei o css do elemento `<a>` para que os links gerais tenham o estilo certo sem precisar de uma classe específica.
 
 <h4>16 de março</h4>
 <span class="tag-reg">acabamento</span>  
@@ -203,7 +207,7 @@ Coloquei o aviso de _não tem comentário no blog, mas podemos conversar por ema
 
 <h4>11 de março</h4>
 <span class="tag-reg">css</span><span class="tag-reg">liquid</span><span class="tag-reg">jekyll</span>  
-Alterei a forma como o CSS interpreta o código no _front metter_ para que o título da postagem fique oculto quando nele estiver <code>type:notas</code>.  
+Alterei a forma como o CSS interpreta o código no _front metter_ para que o título da postagem fique oculto quando nele estiver `type:notas`.  
 
 <h4>23 de fevereiro</h4>
 <span class="tag-reg">css</span><span class="tag-reg">html</span><span class="tag-reg">jekyll</span><span class="tag-reg">liquid</span><span class="tag-reg">novidade</span><span class="tag-reg">ruby</span>  

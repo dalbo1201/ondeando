@@ -9,7 +9,8 @@ Estava tomando uma cerveja da cervejaria Eisenbahn, a Weizenbier, e nela tem um 
 
 No rótulo tem uma chamada *chamativa*.
 
->Sabor frutado que surpreende. **ACESSE O QRCODE PARA MAIS DETALHES**
+<div class="fleabag">Sabor frutado que surpreende.<br/>
+<b>ACESSE O QRCODE PARA MAIS DETALHES</b></div>
 
 E caímos numa página <a href="https://scnv.io/aNB5?qr=1">avisando que o qrcode expirou</a>.
 

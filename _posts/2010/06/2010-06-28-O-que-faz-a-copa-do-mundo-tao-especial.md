@@ -11,7 +11,7 @@ A cada quatro anos temos esse mega evento esportivo. O mundo para, o Brasil para
 
 Me surpreende como é a relação das pessoas com o futebol entre as Copas do Mundo.
 <figure class="foto-post-flutua">
-    <img src="{{ site.baseurl }}/assets/fotos/2010/06/Copas-do-mundo.jpg" alt="imagem das marcas das Copas do Mundo de 2002,2006 e 2014" title="imagem das marcas das Copas do Mundo de 2002,2006 e 2014">
+    <img src="/assets/fotos/2010/06/Copas-do-mundo.jpg" alt="imagem das marcas das Copas do Mundo de 2002,2006 e 2014" title="imagem das marcas das Copas do Mundo de 2002,2006 e 2014">
 </figure>
 Nesse mês o Brasil inteiro é apaixonado por futebol, ninguém quer perder jogo algum. Todos entendem absolutamente tudo de futebol e sabem criticar o porquê de cada decisão principalmente do técnico da seleção brasileira.
 

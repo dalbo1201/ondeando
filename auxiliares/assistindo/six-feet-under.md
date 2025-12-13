@@ -12,6 +12,7 @@ Comentários rápidos e sem muito trabalho editorial sobre os episódios assisti
 <ul>
 <li><a href="#t01e01-02">t01e01-02</a></li>
 <li><a href="#t01e03-04">t01e03-04</a></li>
+<li><a href="#t01e05-06">t01e05-06</a></li>
 </ul>
 </details>
 
@@ -68,3 +69,17 @@ Cheguei a pensar que a mãe pudesse ter feito, mas passo a pensar que a chance s
 Toda a questão da sexualidade do David tá bem construída, com bons diálogos e a relação dele com o Paco foi muito divertida.  
 
 Excelente também a forma que eles levam o fato de os estadounidenses saberem tão pouco de Porto Rico a ponto de acharem que o Frederico fosse mexicano. Ao mesmo tempo foi ótima a participação dele nas negociações e gosto muito do personagem, espero que ganhe mais espaço.
+
+<h3 id="t01e05-06">t01e05-06 <a href="#">&uarr;</a></h3>
+
+**e05**  
+Um episódio interessante com algumas novidades, como David mostrando pro irmão que é gay e ao mesmo tempo Keith dando piti porque David está numa outra pegada religiosa. A discussão deles foi muito boa. 
+
+Achei ótima a relação da Ruth com a Claire, o fato de existir diálogos adultos entre elas e não ficar na loucura de adolecente revoltada e mãe beata faz a série crescer.  
+
+Gente, a Brenda não é apenas uma pessoa complicada, mas que família maluca. Num episódio em que o defunto é uma estrela pornô, cheguei a pensar que os pais da Brenda fariam uma _proposta indecente_ pro Nate. E esse "irmão" com a mesma tattoo... Quanta história mal contada.  
+
+**e06**  
+Gente, essa família é muito louca... Quer dizer que papai além de ter bom humor é maconheiro e tem um esconderijo. Não deixa de ser divertido, mas meio clichê. Ainda mais por ser o Nate, o filho pródigo que descobre tudo, fica curioso, e David, o filho que ficou em casa, pouco se importa.  
+
+Como a Ruth é uma personagem interessante, ela tem seu luto, mas não deixa de ser uma pessoa com sentimentos, interesses e como é bacana ver uma série que trata os idosos de maneira tridimensional. Essa relação dela com o florista russo foi ótima. Fiquei com pena dele no final do episódio.

@@ -16,7 +16,7 @@ Sabem o Minority Report? Pois é, estamos realmente chegando muito perto... Não
 
 O equipamento que criaram funciona todo a base do toque dos dedos, o famoso touch-screen, mas não é simplesmente o uso de mouse, na verdade nem existe um...
 
-Vejam o <a href="http://on10.net/Blogs/larry/first-look-microsoft-surfacing-computing/" class="linkum">link para o vídeo Microsoft Surface</a>. Infelizmente é em inglês, mas como dizem: "Uma imagem vale mais do que mil palavras".
+Vejam o <a href="http://on10.net/Blogs/larry/first-look-microsoft-surfacing-computing/" class="linkum">link para o vídeo Microsoft Surface<sup>[en]</sup></a>. Infelizmente é em inglês, mas como dizem: "Uma imagem vale mais do que mil palavras".
 
 E este é o link para a notícia no WinAjuda: <a href="http://www.winajuda.com/2007/05/30/noticias/microsoft-surface-a-computacao-do-futuro/" class="linkum">Microsoft Surface: a computação do futuro</a>.
 

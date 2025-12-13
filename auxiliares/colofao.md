@@ -13,32 +13,34 @@ A ideia, é claro, foi [retirada da literatura](https://pt.wikipedia.org/wiki/C%
 <hr>
 
 ## Descrição do site
-A tipografia é toda com a fonte [Montserrat](https://fonts.bunny.net/family/montserrat "a fonte deste cantinho"), as setas são [elementos unicode](https://symbl.cc/pt/unicode-table/#arrows "as setas") e alguns ícones da [Font Awesome](https://fontawesome.com "os ícones de mídias-sociais").  
+A tipografia é toda com a fonte [Montserrat<sup>[en]</sup>](https://fonts.bunny.net/family/montserrat "a fonte deste cantinho"), as setas são [elementos unicode<sup>[en]</sup>](https://symbl.cc/pt/unicode-table/#arrows "as setas") e alguns ícones da [Font Awesome<sup>[en]</sup>](https://fontawesome.com "os ícones de mídias-sociais").  
 
 Este cantinho tem como cores predominantes:
-- Cultured (cinza claro, quase branco) ([#F5F5F5](https://www.color-name.com/hex/f5f5f5 "o fundo, ou o texto"));
-- Raisin Black (cinza escuro, quase preto) ([#252525](https://www.color-name.com/hex/252525 "o texto, ou o fundo")) e o
-- French Plum (um roxo escuro, lembrando o magenta) ([#75015c](https://www.color-name.com/hex/75015c "os links, no claro"));  
-- No **modo escuro** as cores se invertem e o French Plum muda para Classic Rose (um rosa claro) ([#F1C6E8](https://www.color-name.com/hex/f1c6e8 "os links, no escuro")).  
+- Cultured (cinza claro, quase branco) ([#F5F5F5<sup>[en]</sup>](https://www.color-name.com/hex/f5f5f5 "o fundo, ou o texto"));
+- Raisin Black (cinza escuro, quase preto) ([#252525<sup>[en]</sup>](https://www.color-name.com/hex/252525 "o texto, ou o fundo")) e o
+- French Plum (um roxo escuro, lembrando o magenta) ([#75015c<sup>[en]</sup>](https://www.color-name.com/hex/75015c "os links, no claro"));  
+- No **modo escuro** as cores se invertem e o French Plum muda para Classic Rose (um rosa claro) ([#F1C6E8<sup>[en]</sup>](https://www.color-name.com/hex/f1c6e8 "os links, no escuro")).  
 
 Sempre que você avistar o símbolo **↗** ao lado de algum link significa que ele te levará para uma página externa deste pequeno _proto-jardim-digital_. A excessão são os links associados a imagem no rodapé, apesar de irem para páginas externas não tem o símbolo, ~~por questão estética e~~, porquê claramente vão para uma página externa.  
 
-Nas páginas das [etiquetas (Tags)](/tags) e do [Arquivo](/arquivo) quando tiver o ícone &#x1F4F7; significa que a postagem está no [Fotolog](/fotolog).
+Nas páginas que encontrar o ícone &#x1F4F7; significa que a postagem está no [Fotolog](/fotolog).  
+
+Os links que não levarem para páginas em português para você saber que estou indicando um texto em outro idioma, coloco uma _tag_ sobreescrita `[idioma]`.
 
 **Todos os links abrem a página sobre a página atual**. Adoto essa configuração porque se houver o desejo de abrir em uma nova aba/janela é possível de várias formas. Mas se o interesse não for esse e a configuração padrão for abrir em outra aba/janela não temos como fazê-lo.
 
 ## Desenvolvimento do site
-- **Escrita dos posts:** (na maioria das vezes) escrevo no celular, usando o aplicativo [Markor](https://github.com/gsantner/markor "o aplicativo em que escrevo"), que me permite trabalhar diretamente em arquivos Markdown;
+- **Escrita dos posts:** (na maioria das vezes) escrevo no celular, usando o aplicativo [Markor<sup>[en]</sup>](https://github.com/gsantner/markor "o aplicativo em que escrevo"), que me permite trabalhar diretamente em arquivos Markdown;
 - **Revisão:** (em sua maioria) os textos são lidos pela S. (minha companheira) que faz o trabalho de revisar absurdos que escrevo errado;
 - **Publicação:**  
-  - O site é construído com o gerador estático [Jekyll](https://jekyllrb.com/);  
-  - O código fica hospedado no [GitHub](https://github.com/dalbo1201/ondeando) e acabo utilizando GitHub Desktop e Visual Code para facilitar a gestão dos arquivos;  
-  - A montagem e publicação acontecem via [Netlify](https://www.netlify.com/).  
+  - O site é construído com o gerador estático [Jekyl<sup>[en]</sup>](https://jekyllrb.com/);  
+  - O código fica hospedado no [GitHub<sup>[en]</sup>](https://github.com/dalbo1201/ondeando) e acabo utilizando GitHub Desktop e Visual Code para facilitar a gestão dos arquivos;  
+  - A montagem e publicação acontecem via [Netlify<sup>[en]</sup>](https://www.netlify.com/).  
 
 ## Inspirações
 - O tema inicial do site foi inspirado no site do [@Paulo Higa](https://higa.me "site do Higa");
 - Quando ampliei o site para algo próximo de um _proto-jardim-digital_, acabei me inspirando visualmente no site/blog do [@Rodrigo Ghedin](https://rodrigo.ghed.in "site do Ghedin") (de quem pedi autorização. Se forem analisar os códigos, o site do Ghedin tem uma elegancia que aqui não existe, mas arrumarei em algum momento);  
-- O [Fotolog]({{ site.url }}/fotolog "meu fotolog") foi inspirado na página do [@Bruce Beaumont](https://beaumontphotography.bearblog.dev/ "site do Bruce"). Escrevi mais sobre isso [neste texto]({{ site.url }}/blog/criei-meu-fotolog/) e tento explicar num [tutorial](/dicas-do-blog "como fiz o Fotolog") como o montei.  
+- O [Fotolog]({{ site.url }}/fotolog "meu fotolog") foi inspirado na página do [@Bruce Beaumont<sup>[en]</sup>](https://beaumontphotography.bearblog.dev/ "site do Bruce"). Escrevi mais sobre isso [neste texto]({{ site.url }}/blog/criei-meu-fotolog/) e tento explicar num [tutorial](/dicas-do-blog "como fiz o Fotolog") como o montei.  
 
 ## Filosofia
 - O site não tem nenhum sistema de _analytics_ ou plugins de mídias-sociais;  

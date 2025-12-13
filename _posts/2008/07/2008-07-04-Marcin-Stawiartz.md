@@ -10,9 +10,9 @@ Estava navegando pelo DeviantArt, um ótimo site para ver imagens, fotos e monta
 
 Procurando uma imagem de alguma construção, encontrei uma foto da Torre Eiffel, na imagem aparecia o autor da foto, na verdade um site. Fui atrás e descobrir o que mais ele tem. Devo dizer que encontrei um ótimo lugar para procurar imagens diferentes e de muita qualidade, vale a visita.
 
-É o <a href="https://www.stawiarz.com/">Marcin Stawiartz Photograph</a>.
+É o <a href="https://www.stawiarz.com/">Marcin Stawiartz Photograph<sup>[en]</sup></a>.
 
-Lá tem imagens e preto-e-branco, coloridas. Só que num <a href="https://www.deviantart.com/angelreich/foto-post">perfil do DevinatArt</a> que abriga suas imagens e fotos tem também algumas que me parecem montagem, e isso não tira a qualidade delas, apenas não é o que mais me agrada.  
+Lá tem imagens e preto-e-branco, coloridas. Só que num <a href="https://www.deviantart.com/angelreich/foto-post">perfil do DevinatArt<sup>[en]</sup></a> que abriga suas imagens e fotos tem também algumas que me parecem montagem, e isso não tira a qualidade delas, apenas não é o que mais me agrada.  
 
 Não tenho duvidas de que alguma coisa por lá vai te agradar. Não deixe de visitar os dois sites.
 

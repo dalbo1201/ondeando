@@ -15,7 +15,7 @@ Convenhamos, se nos anos 2000 em que não estávamos completamente presos em mí
 
 Mas o que estou querendo dizer com isso?  
 
-Não faz muito tempo, bati lá no <a href="https://manualdousuario.net/links-do-dia-20250602/" title="''Links do Dia'' com a recomendação da página">Manual do Usuário</a> com um link que apresentava o <a href="https://subscribeopenly.net/" title="Vamos deixar a página de RSS acessível">Subscribe Openly</a>. Um site que cria facilmente uma página agradável, além de apresentar qual é o endereço que a pessoa tem que copiar para o RSS indica quais aplicativos usar.  
+Não faz muito tempo, bati lá no <a href="https://manualdousuario.net/links-do-dia-20250602/" title="''Links do Dia'' com a recomendação da página">Manual do Usuário</a> com um link que apresentava o <a href="https://subscribeopenly.net/" title="Vamos deixar a página de RSS acessível">Subscribe Openly<sup>[en]</sup></a>. Um site que cria facilmente uma página agradável, além de apresentar qual é o endereço que a pessoa tem que copiar para o RSS indica quais aplicativos usar.  
 
 É disso que estou falando.  
 
@@ -23,6 +23,6 @@ Fiquei intrigado, eu mesmo não tinha mais isso. Lembro de no meu antigo blog te
 
 O mais curioso é que fui atrás de outros blogs e sites que acompanho e muitos deles não tem seus RSS fáceis de encontrar e quando os tem, muitos nos jogam naquele grande paredão de XML que não nos dizem nada.  
 
-Por que fiz o mesmo quando trouxe meu blog para cá? Não sei, mas corrigi isso e hoje <a href="{{ site.url }}/acompanhe" title="Minha página de FEED">meus links de FEED/RSS</a> levam para uma página explicando, e apresentando o endereço. Tomei a liberdade de fazer algo que ficasse mais com a cara da minha página, mas sempre é possível aproveitar a <a href="https://jamesg.blog/2025/05/31/announcing-subscribe-openly" title="Postagem de apresentação do projeto">criação do James</a>.  
+Por que fiz o mesmo quando trouxe meu blog para cá? Não sei, mas corrigi isso e hoje <a href="{{ site.url }}/acompanhe" title="Minha página de FEED">meus links de FEED/RSS</a> levam para uma página explicando, e apresentando o endereço. Tomei a liberdade de fazer algo que ficasse mais com a cara da minha página, mas sempre é possível aproveitar a <a href="https://jamesg.blog/2025/05/31/announcing-subscribe-openly" title="Postagem de apresentação do projeto">criação do James<sup>[en]</sup></a>.  
 
 Fica aqui o convite, vamos criar páginas que nos levem a lugares mais convidativos e calorosos. O FEED/RSS já é pouco conhecido, lembrado. Precisamos deixá-lo mais acessível.

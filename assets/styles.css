@@ -175,9 +175,13 @@ p {
  text-align: left;
 }
 
+sup {
+ font-size: 0.8rem; /* 12px */
+}
+
 main ul {
  font-size: clamp(1rem, 1.2vw, 1.06rem); /* 16–17px */
- line-height: clamp(1.44rem, 2vw, 1.44rem); /* 23px */
+ line-height: 1.44rem; /* 23px */
  max-width: 100%;
  margin-top: 0;
  text-align: left;
@@ -407,11 +411,44 @@ article.blog-article.blog-citacao h2,
  margin-bottom: 5px;
 }
 
+.blog-tag {
+ font-family: monospace;
+ font-size: clamp(0.88rem, 0.85vw, 0.94rem); /* 14–15px */
+ line-height: 1.25rem; /* 20px */
+ max-width: 100%;
+ text-align: left;
+ margin-top: 15px;
+ margin-bottom: 10px;
+ align-self: flex-end;
+ display: flex;        /* organiza como linha */
+ flex-wrap: wrap;      /* permite que as tags pulem de linha */
+ gap: 0.5em;           /* espaço entre tags */
+}
+
+.blog-comentario {
+ font-size: clamp(0.94rem, 0.9vw, 1rem); /* 15–16px */
+ line-height: 1.25rem; /* 20px */
+ text-wrap: balance;
+ max-width: 100%;
+ text-align: right;
+ margin-top: 40px;
+ align-self: flex-end;
+}
+
+.blog-seta { 
+ font-size: clamp(1.25rem, 1.5vw, 1.25rem); /* 20px */
+ line-height: 1.25rem;
+ max-width: 97%;
+ text-align: right;
+ margin-top:10px;
+ align-self: flex-end;
+}
+
 .fleabag { /* steegg - quando eu faço um comentário dentro do texto */
  font-size: clamp(0.95rem, 1.5vw, 1.06rem); /* 16–17px */
  line-height: clamp(1.5rem, 2vw, 1.7rem); /* 23px */
  font-style: italic;
- margin: 20px 0px 20px 15px;
+ margin: 20px 0px 20px 20px;
  max-width: 80%; 
 }
 
@@ -421,8 +458,6 @@ blockquote {
 }
 
 blockquote p{ 
- display: flex;
- align-items: flex-start; /* Alinha à esquerda */
  font-size: clamp(1.1rem, 2vw, 1.2rem); /* 16–17px */
  line-height: clamp(1.44rem, 2vw, 1.44rem); /* 23px */
  font-style: italic;
@@ -480,44 +515,10 @@ article.blog-article.blog-citacao cite {
  margin-top: 40px;
 }
 /* FINAL Estilo especial para blockquote em posts com type: frase */
-
-
-.blog-comentario {
- font-size: clamp(0.94rem, 0.9vw, 1rem); /* 15–16px */
- line-height: 1.25rem; /* 20px */
- text-wrap: balance;
- max-width: 100%;
- text-align: right;
- margin-top: 40px;
- align-self: flex-end;
-}
-
-.blog-seta { 
- font-size: clamp(1.25rem, 1.5vw, 1.25rem); /* 20px */
- line-height: 1.25rem;
- max-width: 97%;
- text-align: right;
- margin-top:10px;
- align-self: flex-end;
-}
 /* FINAL DOS Estilos para o Blog */
 
 
 /* INIÍCIO ESTILOS PARA A PÁGINA DE Tags */
-.blog-tag {
- font-family: monospace;
- font-size: clamp(0.88rem, 0.85vw, 0.94rem); /* 14–15px */
- line-height: 1.25rem; /* 20px */
- max-width: 100%;
- text-align: left;
- margin-top: 15px;
- margin-bottom: auto;
- align-self: flex-end;
- display: flex;        /* organiza como linha */
- flex-wrap: wrap;      /* permite que as tags pulem de linha */
- gap: 0.5em;           /* espaço entre tags */
-}
-
 .nuvem-tag {
  font-family: monospace;
  font-size: clamp(0.88rem, 0.85vw, 0.94rem); /* 14–15px */
