@@ -20,12 +20,14 @@ post tags:
  - a vida, o universo e tudo mais
  - aniversário
  - casa
+ - citações
  - engenharia
  - esportes, ou só futebol
  - filmes
  - fotos
  - gatos
  - informática
+ - internet
  - joguinhos
  - livros
  - metablog
@@ -35,7 +37,8 @@ post tags:
  - passeios
  - pensamentos
  - quadrinhos
- - showsséries e TV
+ - shows
+ - séries e TV
  - tatuagem
 
 Estrutura de pastas:

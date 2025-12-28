@@ -7,7 +7,7 @@ description: Uma atualizaçao quinzenal? Talvez.
 <span aria-hidden="true">|</span><span class="h1-menor">e </span>Agora<span class="h1-menor">, o que estou fazendo?</span>
 </h1>
 
-A página /now (ou /agora em português) é originada do movimento [Now Page](https://nownownow.com/about "O que é uma página /Now?") iniciado por [@Derek Sivers](https://sive.rs/ "site pessoal do Derek").  
+A página /now (ou /agora em português) é originada do movimento [Now Page<sup>[en]</sup>](https://nownownow.com/about "O que é uma página /Now?") iniciado por [@Derek Sivers<sup>[en]</sup>](https://sive.rs/ "site pessoal do Derek").  
 Imagine que você tem aquele amigo que não o vê há muito tempo, aqui você conta para ele o que tem acontecido e feito ultimamente.  
 
 Bom, é isso o que vai encontrar por aqui.
@@ -24,13 +24,11 @@ E o tempo todo brincando de mexer nesse _meu espaço da internet_, um hobby para
 
 Estou lendo:
 <ul>
-    <li>Porteira 9, Rodrigo Pontes.</li>
+    <li>Chomsky & Mujica, Sobrevivendo ao século XXI&nbsp;| Saúl Alvídrez.</li>
 </ul>
 Filmes que vi <a href="https://letterboxd.com/dalbo1201/films/diary/" class="linkcab">&#127916;</a>:
 <ul>
-    <li>The Spine of Night&nbsp;| Morgan Galen King, Philip Gelatt,&nbsp;2021&nbsp;| Prime&nbsp;Video;</li>
-    <li>O Dragão de Rozan&nbsp;| 2025&nbsp;| YouTube;</li>
-    <li>O Quarteto Fantástico: Primeiros Passos&nbsp;| Matt Shakman,&nbsp;2025&nbsp;| Disney+.</li>
+    <li>O Agente Secreto&nbsp;| Kleber Mendonça Filho,&nbsp;2025&nbsp;| Cinema.</li>
 </ul>
 Séries que estou vendo <a href="https://tvtime.com/r/38uUh" class="linkcab">&#128250;</a>:
 <ul>
@@ -39,9 +37,8 @@ Séries que estou vendo <a href="https://tvtime.com/r/38uUh" class="linkcab">&#1
     <li>Kamen Rider: Black Sun&nbsp;| Prime Video&nbsp;| temporada&nbsp;1;</li>
     <li><a href="/assistindo/six-feet-under-comentarios" title="alguns comentários sobre os episódios">A Sete Palmos</a>&nbsp;| HBO&nbsp;Max&nbsp;| temporada&nbsp;1;</li>
     <li>Arquivo X&nbsp;| Disney+&nbsp;| temporada&nbsp;1;&nbsp;↺</li>
-    <li>Breaking Bad&nbsp;| Netflix&nbsp;| temporada&nbsp;5.&nbsp;↺</li>
 </ul>
 
 <aside class="atualizacao">
-    atualizado em 29 de novembro de 2025.
+    atualizado em 24 de dezembro de 2025.
 </aside>

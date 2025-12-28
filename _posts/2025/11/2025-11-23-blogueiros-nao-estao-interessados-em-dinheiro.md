@@ -9,7 +9,7 @@ tags:
 ---
 > The web might be obsessed with money, but I’d say most bloggers are not.
 
-<cite><a href="https://wrywriter.ca/">Alexandra Wolfe<sup>[en]</sup></a> na sua entrevista para a sessão <a href="https://manuelmoreale.com/interview/alexandra-wolfe">People & Blogs<sup>[en]</sup></a></cite>
+<cite><a href="https://wrywriter.ca/">@Alexandra Wolfe<sup>[en]</sup></a> na sua entrevista para a sessão <a href="https://manuelmoreale.com/interview/alexandra-wolfe">People & Blogs<sup>[en]</sup></a></cite>
 
 Eu diria que no âmbito geral do universo de blogs ~~pessoais~~ isso é uma realidade. É o que torna esses espaços tão interessantes e de descobertas tão bacanas.  
 

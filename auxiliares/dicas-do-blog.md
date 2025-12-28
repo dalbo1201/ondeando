@@ -14,9 +14,9 @@ Acho que, no final, isso é a antiga web.
   
 Minha primeira dica é uma possibilidade de criar uma galeira de fotos, uma capa principal para mostrar as imagens e a partir dela levar para a postagem completa.  
 
-Temos algo como um fotolog, podemos dizer, se você é _das antigas_. Eu achei isso bem legal e [tenho aqui no site]({{ site.url }}/fotolog "meu fotolog").  
+Temos algo como um fotolog, podemos dizer, se você é _das antigas_. Eu achei isso bem legal e [tenho aqui no site](/fotolog "meu fotolog").  
 
-Peguei a ideia do [@Bruce Beaumont](https://bruceblog.bearblog.dev/a-lazy-kind-of-photo-gallery-for-bear-blog/ "site do Bruce"), quando ele ensinou a montar a galeria em seu site pessoal. Mandei uma mansagem para ele dizendo que colocaria aqui como um tutorial e tive seu "ok".  
+Peguei a ideia do [@Bruce Beaumont<sup>[en]</sup>](https://bruceblog.bearblog.dev/a-lazy-kind-of-photo-gallery-for-bear-blog/ "site do Bruce"), quando ele ensinou a montar a galeria em seu site pessoal. Mandei uma mansagem para ele dizendo que colocaria aqui como um tutorial e tive seu "ok".  
 
 A seguir, eu vou colar o código que o Bruce disponibilizou originalmente no site pessoal dele, uma solução para o Bearblog. Depois eu coloco a minha adaptação para sites em Jekyll.  
 

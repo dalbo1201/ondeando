@@ -9,6 +9,11 @@ permalink: "/registro-de-alteracoes"
 O famoso [Changelog<sup>[en]</sup>](https://indieweb.org/release_notes) é simplesmente um resumo das alterações <del> consideradas mais pertinentes</del> realizadas aqui neste meu pequeno canto da internet.
 <hr>
 <h3>Alterações em 2025</h3>
+<h4>28 de dezembro</h4>
+<span class="tag-reg">acabamento</span>  
+Troquei o nome da página <code>Meu Álbum de fotos</code> para <code>Meu Fotolog</code>. Não sei porque não era assim desde o começo, a <code>url</code> é <code>fotolog</code>, o link na barra de navegação também, mas o nome não era. Assim acho que fica melhor, mantem a ideia real da página.  
+<span class="tag-reg">acabamento</span>  
+Atualizei, no rodapé, o banner do [Histórias para Ler](https://historiasparaler.blog.br "meu blog sobre livros") para ficar compatível com o novo visual do blog. Aproveitei e adicionei o selo <code>escrito por um humano</code> criado pelo [Andy Carolan<sup>[en]</sup>](https://andycarolan.com/) e disponibilizado em pt-br pelo [Manual do Usuário](https://manualdousuario.net/selos-feito-por-humano-baixar/).
 <h4>13 de dezembro</h4>
 <span class="tag-reg">html</span>  
 Adicionei a _tag_ sobreescrita `[en]` nos links que levam para sites em inglês.  
@@ -45,7 +50,7 @@ Alterei a apresentação da caixa de avisos que tenho por aqui. Antes era o text
 <span class="tag-reg">acabamento</span><span class="tag-reg">html</span>  
 Troquei o favicon. Anteriormente era a foto do site, agora temos um desenho - peguei uma das imagens do avatar criado pela Meta no WhatsApp. Mal dá pra ver, mas ficou engraçadinho. Em algum momento pretendo criar uma página _sobre_ e colocarei o avatar junto com a foto.  
 <span class="tag-reg">html</span>  
-Atualizei os links que levam ao [Lerama](https://lerama.pcdomanual.com/?category=blogs&tag). Com a [união dos diretórios de <i>Newsletteres</i> e de Blogs](https://manualdousuario.net/lerama-diretorio-newsletters-brasileiras-fusao/) pelo [@Manual do Usuário](https://manualdousuario.net/) coloquei os links com o filtro do Lerama para a página que apresenta apenas os blogs. Se houver interesse do leitor de visualizar as <i>newsletteres</i> lá tem como mudar. Fiz isso [porque o intuito aqui é valorizar os blogs](/blog/porque-um-blog-e-nao-uma-newsletter), esses espaços pessoais esquecidos que tentamos reviver.  
+Atualizei os links que levam ao [Lerama](https://lerama.pcdomanual.com/?category=blogs&tag). Com a [união dos diretórios de <i>Newsletteres</i> e de Blogs](https://manualdousuario.net/lerama-diretorio-newsletters-brasileiras-fusao/) pelo [Manual do Usuário](https://manualdousuario.net/) coloquei os links com o filtro do Lerama para a página que apresenta apenas os blogs. Se houver interesse do leitor de visualizar as <i>newsletteres</i> lá tem como mudar. Fiz isso [porque o intuito aqui é valorizar os blogs](/blog/porque-um-blog-e-nao-uma-newsletter), esses espaços pessoais esquecidos que tentamos reviver.  
 Nada contra newsletteres.
 
 <h4>01 de novembro</h4>

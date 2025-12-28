@@ -3,7 +3,10 @@ layout: post
 type: texto
 title: "Como eu fiz o fotolog"
 date: 2025-10-03 07:45:00 -0300
-tags: ["metablog", "informática"]
+tags: 
+- metablog
+- informática
+- internet
 ---
 Tem um tempo que eu [criei meu Fotolog]({{ site.url }}/blog/criei-meu-fotolog). Na época eu citei a fonte de onde eu tirei a ideia do código, um blog no Bearblog.  
 

@@ -14,4 +14,4 @@ pagination:
     before: 2
     after: 2
 ---
-<h1><span aria-hidden="true">|</span><span class="h1-menor">meu </span>Álbum<span class="h1-menor"> de fotos</span></h1>
+<h1><span aria-hidden="true">|</span><span class="h1-menor">meu </span>Fotolog</h1>

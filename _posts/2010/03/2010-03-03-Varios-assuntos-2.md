@@ -3,7 +3,9 @@ layout: post
 type: notas
 title: "Vários assuntos"
 date: 2010-03-03 08:00:00 -0000
-tags: ["informática"]
+tags: 
+- informática
+- internet
 ---
 <aside class="aviso-caixa"><div class="aviso-texto">Como essas postagens são antigas e recuperadas, muitos links podem levar a lugar algum ou mesmo a lugares que não são mais o que eram na época. Mantenho o texto pela reflexão e lembraça.</div></aside>
 

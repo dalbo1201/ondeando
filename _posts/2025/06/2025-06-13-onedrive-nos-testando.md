@@ -3,7 +3,10 @@ layout: post
 type: texto
 title: "OneDrive nos testando"
 date: 2025-06-13 19:30:00 -0300
-tags: ["a vida, o universo e tudo mais", "informática"]
+tags: 
+- a vida, o universo e tudo mais
+- informática
+- internet
 ---
 Tem algumas semanas já que, ao visitar meus pais, minha mãe me pediu para dar uma olhada no laptop e no PC.  
 

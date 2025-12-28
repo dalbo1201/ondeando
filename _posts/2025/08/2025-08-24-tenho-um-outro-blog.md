@@ -3,7 +3,11 @@ layout: post
 type: texto
 title: "Tenho um outro blog que..."
 date: 2025-08-24 12:15:00 -0300
-tags: ["informática","metablog","pensamentos"]
+tags: 
+- informática
+- internet
+- metablog
+- pensamentos
 ---
 Eu tenho um outro blog, o [Histórias para Ler](https://historiasparaler.blog.br), que está hospedado no Blogger.  
 

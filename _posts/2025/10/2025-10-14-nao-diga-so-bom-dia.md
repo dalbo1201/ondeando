@@ -3,7 +3,10 @@ layout: post
 type: notas
 title: "Não diga só bom dia"
 date: 2025-10-14 13:14:15
-tags: ["a vida, o universo e tudo mais", "informática"]
+tags: 
+- a vida, o universo e tudo mais
+- informática
+- internet
 ---
 Tem uns meses que fui apresentado à pagina [No Hello](https://nohello.net/pt-br).  
 

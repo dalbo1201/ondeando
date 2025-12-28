@@ -12,7 +12,7 @@ Por isso, deixo aqui onde podem me encontrar.
 <li>
   <a href="https://letterboxd.com/dalbo1201" title="onde eu catalogo os filmes">
   <i class="fa-brands fa-letterboxd"></i>
-  Letterbox</a>
+  Letterbox<sup>[en]</sup></a>
 </li>
 <li>
   <a href="https://tvtime.com/r/38uUh" title="onde eu catalogo as séries">

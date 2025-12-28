@@ -5,7 +5,7 @@ title: "Dessa vez participei da black friday..."
 date: 2025-11-30 12:00:00 -0300
 tags:
  - a vida, o universo e tudo mais
- - informatica
+ - informática
 ---
 Dessa vez participei da Black Friday ativamente.  
 
