@@ -112,4 +112,4 @@ Estrutura de pastas:
 |Profissional.md
 |robots.txt
 |social.md
-|tags.md
+|etiquetas.md

@@ -228,6 +228,11 @@ main ul {
 .aviso-texto > p {
   margin: 0;
 }
+
+.aviso-caixa ul /* avisos gerais*/ {
+ margin: 0;
+ padding-left: 2rem; /* recuo para listas */
+}
 /* FINAL ESTILOS DE AVISO*/
 
 code {
@@ -690,7 +695,6 @@ table.tabela-posts td {
 address {
   font-style: normal; /* Remove o itálico */
 }
-
 /* FINAL PARA A PÁGINA DO CURRÍCULO*/
 
 

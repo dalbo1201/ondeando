@@ -25,7 +25,7 @@ Sempre que você avistar o símbolo **↗** ao lado de algum link significa que 
 
 Nas páginas que encontrar o ícone &#x1F4F7; significa que a postagem está no [Fotolog](/fotolog).  
 
-Os links que não levarem para páginas em português coloco uma _tag_ sobreescrita `[idioma]`, assim tem como saber que estou indicando um texto em outro idioma.  
+Os links que não levarem para páginas em português coloco uma _etiqueta_ sobreescrita `[idioma]`, assim tem como saber que estou indicando um texto em outro idioma.  
 
 **Todos os links abrem a página sobre a página atual**. Adoto essa configuração porque se houver o desejo de abrir em uma nova aba/janela é possível de várias formas. Mas se o interesse não for esse e a configuração padrão for abrir em outra aba/janela não temos como fazê-lo.
 
@@ -38,9 +38,9 @@ Os links que não levarem para páginas em português coloco uma _tag_ sobreescr
   - A montagem e publicação acontecem via [Netlify<sup>[en]</sup>](https://www.netlify.com/).  
 
 ## Inspirações
-- O tema inicial do site foi inspirado no site do [@Paulo Higa](https://higa.me "site do Higa");
-- Quando ampliei o site para algo próximo de um _proto-jardim-digital_, acabei me inspirando visualmente no site/blog do [@Rodrigo Ghedin](https://rodrigo.ghed.in "site do Ghedin") (de quem pedi autorização. Se forem analisar os códigos, o site do Ghedin tem uma elegancia que aqui não existe, mas arrumarei em algum momento);  
-- O [Fotolog](/fotolog "meu fotolog") foi inspirado na página do [@Bruce Beaumont<sup>[en]</sup>](https://beaumontphotography.bearblog.dev/ "site do Bruce"). Escrevi mais sobre isso [neste texto](/blog/criei-meu-fotolog/) e tento explicar num [tutorial](/dicas-do-blog "como fiz o Fotolog") como o montei.  
+- O tema inicial do site foi inspirado no site do [@Paulo Higa](https://web.archive.org/web/20151103091229/http://higa.me/ "site do Higa quando me inspirei");
+- Quando ampliei o site para algo próximo de um _proto-jardim-digital_, acabei me inspirando visualmente no site/blog do [@Rodrigo Ghedin](https://web.archive.org/web/20250301092841/https://rodrigo.ghed.in/ "site do Ghedin quando me inspirei") (de quem pedi autorização. Se forem analisar os códigos, o site do Ghedin tem uma elegancia que aqui não existe, mas arrumarei em algum momento);  
+- O [Fotolog](/fotolog "meu fotolog") foi inspirado na página do [@Beaumont Photography<sup>[en]</sup>](https://beaumontphotography.bearblog.dev/ "site do Bruce"). Escrevi mais sobre isso [neste texto](/blog/criei-meu-fotolog/) e tento explicar num [tutorial](/dicas-do-blog "como fiz o Fotolog") como o montei.  
 
 ## Filosofia
 - O site não tem nenhum sistema de _analytics_ ou plugins de mídias-sociais;  

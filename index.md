@@ -1,13 +1,13 @@
 ---
 layout: default
-title: Pedro Dal Bó
+title: Ondeando
 description: Site pessoal, cantinho na internet e cartão de visitas do Pedro Dal Bó.
 ---
 # Boas-vindas ;)  
 
-Meu nome é Pedro Dal Bó e este é meu espaço na internet, um cantinho mais pessoal longe de tantos algorítimos e feeds infinitos.  
+Este é meu espaço na internet, um cantinho mais pessoal longe de tantos algorítimos e feeds infinitos.  
 
-Carinhosamente eu chamo este lugar de [**Ondeando**]({{ site.url }}/blog/meu-lugar-predileto/ "porquê chamo assim").  
+Carinhosamente eu chamo este lugar de [**Ondeando**](/blog/meu-lugar-predileto/ "porquê chamo assim").  
 
 Alí em cima você descobre um pouco o que eu tenho feito nos últimos dias ou meses. Nada que abale minha privacidade, leitura, filmes, pensamentos sobre _a vida, o universo e tudo mais_.  
 

@@ -19,6 +19,6 @@ permalink: "/fotolog/uma-arvore-sozinha"
 
 Viajei a trabalho umas semanas atrás e durante a viagem encontrei essa árvore, sozinha, a beira da rodovia.  
 
-Fiquei imaginando se ela continuará por aí depois de alguns anos ou se ela será removida. Lembrei de tantas outras que serão removidas e que estão acompanhadas de tantas outras.  
+Fiquei imaginando se ela continuará por aí depois de alguns anos ou se ela será removida. Lembrei de tantas outras que serão removidas e que não estão sozinhas...  
 
 Especialmente por essa ficarei na torcida de sua permanência.

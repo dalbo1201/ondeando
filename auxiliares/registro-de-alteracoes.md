@@ -8,6 +8,23 @@ permalink: "/registro-de-alteracoes"
 
 O famoso [Changelog<sup>[en]</sup>](https://indieweb.org/release_notes) é simplesmente um resumo das alterações <del> consideradas mais pertinentes</del> realizadas aqui neste meu pequeno canto da internet.
 <hr>
+<h3>Alterações em 2026</h3>
+<h4>08 de janeiro</h4>
+<span class="tag-reg">acabamento</span> 
+Coloquei na página [AGORA](/agora) uma chamada para a página [ASSISTINDO](/assistindo). Essa era uma página que estava perdinda no _fundo do baú_ quase impossível de ser acessada, agora só ficou _muito difícil_.
+<h4>04 de janeiro</h4>
+<span class="tag-reg">acabamento</span><span class="tag-reg">html</span>  
+Troquei o nome e url da página _tags_ para _etiquetas_.  
+<span class="tag-reg">acabamento</span><span class="tag-reg">html</span>  
+Tirei das páginas [Etiquetas](/etiquetas) e do [Arquivo](/arquivo) um aviso sobre o ícone &#x1F4F7; ser relacionado a postagens do [Fotolog](/fotolog), não gostei da estética da caixa de aviso na página. Deixei essa explicação apenas no [Colofão](/colofao).  
+<span class="tag-reg">acabamento</span><span class="tag-reg">html</span>  
+Alterei as <code>title tags</code> para a página principal e de erro aqui do _proto-jardim-digital_.
+<h4>03 de janeiro</h4>
+<span class="tag-reg">css</span><span class="tag-reg">html</span>  
+Criei uma regra específica para <code><ul></code> usados dentro da _janela de avisos_, com margens e deslocamento horizontal menores que o padrão que ficava tudo muito distante e um pouco desproporcional.
+<h4>02 de janeiro</h4>
+<span class="tag-reg">acabamento</span><span class="tag-reg">html</span>  
+Criei na página [Agora](/agora) uma separação por seções para as descrições do que estou fazendo. Veremos até quando ficará assim.
 <h3>Alterações em 2025</h3>
 <h4>28 de dezembro</h4>
 <span class="tag-reg">acabamento</span>  
@@ -19,40 +36,32 @@ Atualizei, no rodapé, o banner do [Histórias para Ler](https://historiasparale
 Adicionei a _tag_ sobreescrita `[en]` nos links que levam para sites em inglês.  
 <span class="tag-reg">css</span>  
 Fiz um acerto fino na margem da classe `blog-tag` onde a tag da postagem fica com um afastamento do texto da postagem.  
-
 <h4>26 de novembro</h4>
 <span class="tag-reg">html</span><span class="tag-reg">páginas</span>  
 Adicionei a página [Assistindo](/assistindo) onde tem a reunião de textos comentando o que vejo, mas principalmente as séries que vejo no Grupo de Séries do [Feito por Elas](https://feitoporelas.com.br). 
-
 <h4>23 de novembro</h4>
 <span class="tag-reg">css</span><span class="tag-reg">html</span>  
 Corrigi o CSS e o HTML do elemento `blockquote` quando numa postagem `type:frase` que não estava usando as alturas de texto corretamente por aparecer um `<p>` a mais na geração do site. Fiz outra pequenas mudanças em tamanho de textos e espaçamentos para tentar melhorar o visual. Espero que isso tenha sido resolvido realmente...  
-
 <h4>21 de novembro</h4>
 <span class="tag-reg">jekyll</span>  
 Alterei o campo `author` no `_config.yml` para **dalbo1201**, afinal de contas aqui na internet esse é meu usuário padrão, me parece fazer mais sentido. Sei lá...
-
 <h4>20 de novembro</h4>
 <span class="tag-reg">acabamento</span><span class="tag-reg">html</span>  
-Adicionei nas páginas [etiquetas (Tags)](/tags) e do [Arquivo](/arquivo) um aviso sobre o ícone &#x1F4F7; ser relacionado a postagens do [Fotolog](/fotolog). Adicionei essa explicação também no [Colofão](/colofao), me pareceu fazer sentido.
-
+Adicionei nas páginas [etiquetas (Tags)](/etiquetas) e do [Arquivo](/arquivo) um aviso sobre o ícone &#x1F4F7; ser relacionado a postagens do [Fotolog](/fotolog). Adicionei essa explicação também no [Colofão](/colofao), me pareceu fazer sentido.
 <h4>14 de novembro</h4>
 <span class="tag-reg">liquid</span>  
 Criei uma série de condicionantes para permitir a apresentação de datas de atualização das postagens.  
 O código identifica se a postagem tem datas de atualização e, se possuir, usará a data mais recente para <i>jogar</i> a postagem para o topo do blog. A exibição das datas começa pela data original e depois segue em <i>loop</i> reunindo todas as datas de atualização em ordem cronológica, incluindo `,` e `e` quando necessário.  
 Para uma melhor apresentação do código nos arquivos `post.html` e `foto.html` criei um arquivo separado `post-dates.html` usando o `{ { include post-dates.html }}` para incluir as atualizações nos arquivos do `_layouts`.
-
 <h4>09 de novembro</h4>
 <span class="tag-reg">css</span><span class="tag-reg">html</span>  
 Alterei a apresentação da caixa de avisos que tenho por aqui. Antes era o texto com uma borda criando apenas uma caixa. Agora tem um ícone de "informação" e o texto ao lado, a borda da caixa continua, agora arredondada.
-
 <h4>06 de novembro</h4>
 <span class="tag-reg">acabamento</span><span class="tag-reg">html</span>  
 Troquei o favicon. Anteriormente era a foto do site, agora temos um desenho - peguei uma das imagens do avatar criado pela Meta no WhatsApp. Mal dá pra ver, mas ficou engraçadinho. Em algum momento pretendo criar uma página _sobre_ e colocarei o avatar junto com a foto.  
 <span class="tag-reg">html</span>  
 Atualizei os links que levam ao [Lerama](https://lerama.pcdomanual.com/?category=blogs&tag). Com a [união dos diretórios de <i>Newsletteres</i> e de Blogs](https://manualdousuario.net/lerama-diretorio-newsletters-brasileiras-fusao/) pelo [Manual do Usuário](https://manualdousuario.net/) coloquei os links com o filtro do Lerama para a página que apresenta apenas os blogs. Se houver interesse do leitor de visualizar as <i>newsletteres</i> lá tem como mudar. Fiz isso [porque o intuito aqui é valorizar os blogs](/blog/porque-um-blog-e-nao-uma-newsletter), esses espaços pessoais esquecidos que tentamos reviver.  
 Nada contra newsletteres.
-
 <h4>01 de novembro</h4>
 <span class="tag-reg">css</span>  
 Retirei das configurações do _dark mode_ as variáveis `quote-transparency`, `code-background-transparency` afinal não preciso repetir se são as mesmas do modo claro. Aproveitei e adicionei a varável `font-geral` para no futuro poder trocar as fontes mais facilmente. _Ideias para o futuro sendo matutadas..._  
@@ -122,7 +131,7 @@ Publiquei a página [Mídias](/social) que apresentam as <del>redes</del>mídias
 
 <h4>19 de agosto</h4>
 <span class="tag-reg">acabamento</span><span class="tag-reg">html</span><span class="tag-reg">liquid</span>  
-Adicionei nas páginas [Arquivo](/arquivo) e [etiquetas (Tags)](/tags) o unicode &#x1F4F7; para aparecer nas postagens que sejam do [Fotolog](/fotolog).
+Adicionei nas páginas [Arquivo](/arquivo) e [etiquetas (Tags)](/etiquetas) o unicode &#x1F4F7; para aparecer nas postagens que sejam do [Fotolog](/fotolog).
 
 <h4>31 de julho</h4>
 <span class="tag-reg">css</span><span class="tag-reg">html</span><span class="tag-reg">jekyll</span><span class="tag-reg">liquid</span><span class="tag-reg">novidade</span><span class="tag-reg">página</span>  
@@ -186,7 +195,7 @@ Revisei o `_config.yml` para aparecer o autor do blog no FEED para os leitores m
 
 <h4>11 de abril</h4>
 <span class="tag-reg">css</span><span class="tag-reg">html</span><span class="tag-reg">jekyll</span><span class="tag-reg">liquid</span><span class="tag-reg">novidade</span><span class="tag-reg">página</span>  
-Revisei o `_config.yml` para permitir o uso de tags no blog. Criei a página de [tags](/tags) para guardar os posts _etiquetados_ e no topo da página uma nuvem de tags para permitir uma busca direta.  
+Revisei o `_config.yml` para permitir o uso de tags no blog. Criei a página de [tags](/etiquetas) para guardar os posts _etiquetados_ e no topo da página uma nuvem de tags para permitir uma busca direta.  
 <span class="tag-reg">acabamento</span><span class="tag-reg">tipografia</span>  
 Troquei a fonte do site para a [Montserrat](https://fonts.google.com/specimen/Montserrat) usando o Google Fonts.
 
