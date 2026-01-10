@@ -20,5 +20,5 @@ A série do momento é [~~A Sete Palmos~~ _Six Feet Under_](/assistindo/six-feet
 
 E bem... Essa construção _não totalmente arrumada_ é que faz um **Jardim Digital**, pelo que dizem.  
 
-Eu ainda tenho duas **etiquetas** de postagens sobre [filmes](/tags/#filmes) e [séries e TV](/tags/#séries-e-tv) que podem interessar.
+Eu ainda tenho duas **etiquetas** de postagens sobre [filmes](/etiquetas/#filmes) e [séries e TV](/etiquetas/#séries-e-tv) que podem interessar.
 
