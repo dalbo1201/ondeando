@@ -10,27 +10,29 @@ O famoso [Changelog<sup>[en]</sup>](https://indieweb.org/release_notes) é simpl
 <hr>
 <h3>Alterações em 2026</h3>
 <h4>08 de janeiro</h4>
-<span class="tag-reg">acabamento</span> 
-Coloquei na página [AGORA](/agora) uma chamada para a página [ASSISTINDO](/assistindo). Essa era uma página que estava perdinda no _fundo do baú_ quase impossível de ser acessada, agora só ficou _muito difícil_.
+<span class="tag-reg">acabamento</span>  
+Coloquei na página [AGORA](/agora) uma chamada para a página [ASSISTINDO](/assistindo). Essa era uma página que estava perdida no _fundo do baú_ quase impossível de ser acessada, agora só ficou _muito difícil_.
 <h4>04 de janeiro</h4>
 <span class="tag-reg">acabamento</span><span class="tag-reg">html</span>  
 Troquei o nome e url da página _tags_ para _etiquetas_.  
 <span class="tag-reg">acabamento</span><span class="tag-reg">html</span>  
-Tirei das páginas [Etiquetas](/etiquetas) e do [Arquivo](/arquivo) um aviso sobre o ícone &#x1F4F7; ser relacionado a postagens do [Fotolog](/fotolog), não gostei da estética da caixa de aviso na página. Deixei essa explicação apenas no [Colofão](/colofao).  
+Tirei das páginas [ETIQUETAS](/etiquetas) e [ARQUIVO](/arquivo) o aviso sobre o ícone &#x1F4F7; ser relacionado a postagens do [FOTOLOG](/fotolog), não gostei da estética da caixa de aviso na página. Deixei essa explicação apenas no [COLOFÃO](/colofao).  
 <span class="tag-reg">acabamento</span><span class="tag-reg">html</span>  
-Alterei as <code>title tags</code> para a página principal e de erro aqui do _proto-jardim-digital_.
+Alterei as `title tags` para a página principal e de erro aqui do _proto-jardim-digital_.
 <h4>03 de janeiro</h4>
 <span class="tag-reg">css</span><span class="tag-reg">html</span>  
-Criei uma regra específica para <code><ul></code> usados dentro da _janela de avisos_, com margens e deslocamento horizontal menores que o padrão que ficava tudo muito distante e um pouco desproporcional.
+Criei uma regra específica para `<ul>` usados dentro da _janela de avisos_, com margens e deslocamento horizontal menores que o padrão que ficava tudo muito distante e um pouco desproporcional.
 <h4>02 de janeiro</h4>
 <span class="tag-reg">acabamento</span><span class="tag-reg">html</span>  
-Criei na página [Agora](/agora) uma separação por seções para as descrições do que estou fazendo. Veremos até quando ficará assim.
+Criei na página [AGORA](/agora) uma separação por seções para as descrições do que estou fazendo. Veremos até quando ficará assim.
 <h3>Alterações em 2025</h3>
 <h4>28 de dezembro</h4>
 <span class="tag-reg">acabamento</span>  
-Troquei o nome da página <code>Meu Álbum de fotos</code> para <code>Meu Fotolog</code>. Não sei porque não era assim desde o começo, a <code>url</code> é <code>fotolog</code>, o link na barra de navegação também, mas o nome não era. Assim acho que fica melhor, mantem a ideia real da página.  
+Troquei o nome da página de TAGS para ETIQUETAS. Estava me inccomodando.
 <span class="tag-reg">acabamento</span>  
-Atualizei, no rodapé, o banner do [Histórias para Ler](https://historiasparaler.blog.br "meu blog sobre livros") para ficar compatível com o novo visual do blog. Aproveitei e adicionei o selo <code>escrito por um humano</code> criado pelo [Andy Carolan<sup>[en]</sup>](https://andycarolan.com/) e disponibilizado em pt-br pelo [Manual do Usuário](https://manualdousuario.net/selos-feito-por-humano-baixar/).
+Troquei o nome da página `Meu Álbum de fotos` para `Meu Fotolog`. Não sei porque não era assim desde o começo, a `url` é `fotolog`, o link na barra de navegação também, mas o nome não era. Assim acho que fica melhor, mantem a ideia real da página.  
+<span class="tag-reg">acabamento</span>  
+Atualizei, no rodapé, o banner do [Histórias para Ler](https://historiasparaler.blog.br "meu blog sobre livros") para ficar compatível com o novo visual do blog. Aproveitei e adicionei o selo `escrito por um humano` criado pelo [Andy Carolan<sup>[en]</sup>](https://andycarolan.com/) e disponibilizado em pt-br pelo [Manual do Usuário](https://manualdousuario.net/selos-feito-por-humano-baixar/).
 <h4>13 de dezembro</h4>
 <span class="tag-reg">html</span>  
 Adicionei a _tag_ sobreescrita `[en]` nos links que levam para sites em inglês.  
@@ -38,7 +40,7 @@ Adicionei a _tag_ sobreescrita `[en]` nos links que levam para sites em inglês.
 Fiz um acerto fino na margem da classe `blog-tag` onde a tag da postagem fica com um afastamento do texto da postagem.  
 <h4>26 de novembro</h4>
 <span class="tag-reg">html</span><span class="tag-reg">páginas</span>  
-Adicionei a página [Assistindo](/assistindo) onde tem a reunião de textos comentando o que vejo, mas principalmente as séries que vejo no Grupo de Séries do [Feito por Elas](https://feitoporelas.com.br). 
+Adicionei a página [ASSISTINDO](/assistindo) onde tem a reunião de textos comentando o que vejo, mas principalmente as séries que vejo no Grupo de Séries do [Feito por Elas](https://feitoporelas.com.br). 
 <h4>23 de novembro</h4>
 <span class="tag-reg">css</span><span class="tag-reg">html</span>  
 Corrigi o CSS e o HTML do elemento `blockquote` quando numa postagem `type:frase` que não estava usando as alturas de texto corretamente por aparecer um `<p>` a mais na geração do site. Fiz outra pequenas mudanças em tamanho de textos e espaçamentos para tentar melhorar o visual. Espero que isso tenha sido resolvido realmente...  
@@ -47,7 +49,7 @@ Corrigi o CSS e o HTML do elemento `blockquote` quando numa postagem `type:frase
 Alterei o campo `author` no `_config.yml` para **dalbo1201**, afinal de contas aqui na internet esse é meu usuário padrão, me parece fazer mais sentido. Sei lá...
 <h4>20 de novembro</h4>
 <span class="tag-reg">acabamento</span><span class="tag-reg">html</span>  
-Adicionei nas páginas [etiquetas (Tags)](/etiquetas) e do [Arquivo](/arquivo) um aviso sobre o ícone &#x1F4F7; ser relacionado a postagens do [Fotolog](/fotolog). Adicionei essa explicação também no [Colofão](/colofao), me pareceu fazer sentido.
+Adicionei nas páginas [TAGS](/etiquetas) e do [ARQUIVO](/arquivo) um aviso sobre o ícone &#x1F4F7; ser relacionado a postagens do [FOTOLOG](/fotolog). Adicionei essa explicação também no [COLOFÃO](/colofao), me pareceu fazer sentido.
 <h4>14 de novembro</h4>
 <span class="tag-reg">liquid</span>  
 Criei uma série de condicionantes para permitir a apresentação de datas de atualização das postagens.  
@@ -82,7 +84,7 @@ Aumentei a distância entre linhas do `<nav>` para ficar melhor para clicar, com
 
 <h4>17 de outubro</h4>
 <span class="tag-reg">acabamento</span><span class="tag-reg">css</span>  
-Revisei a cor de fundo, o texto e a transparência para todas as situações em que uso `<code>`.
+Revisei a cor de fundo, o texto e a transparência para todas as situações em que uso ```.
 
 <h4>11 de outubro</h4>
 <span class="tag-reg">acabamento</span><span class="tag-reg">liquid</span>  
@@ -95,7 +97,7 @@ Reorganizei a estrutura do HTML e do CSS (para telas maiores) para que o cabeça
 
 <h4>02 de outubro</h4>
 <span class="tag-reg">css</span><span class="tag-reg">html</span><span class="tag-reg">novidade</span><span class="tag-reg">página</span><span class="tag-reg">tutorial</span>  
-Publiquei a página [Dicas do Blog](/dicas-do-blog). Nela eu pretendo colocar _tutoriais_ que ajudem a resolver problemas como os que eu passei no blog.  
+Publiquei a página [DICAS DO BLOG](/dicas-do-blog). Nela eu pretendo colocar _tutoriais_ que ajudem a resolver problemas como os que eu passei no blog.  
 Comecei com **Como fiz meu Fotolog**.
 
 <h4>28 de setembro</h4>
@@ -105,13 +107,13 @@ Troquei o site que serve de serviço para as fontes, sai o Google Fonts entra o 
 
 <h4>25 de setembro</h4>
 <span class="tag-reg">acabamento</span><span class="tag-reg">página</span>  
-Atualizei a página [profissional](/profissional) com texto e link que levam para o meu currículo.  
+Atualizei a página [PROFISSIONALl](/profissional) com texto e link que levam para o meu currículo.  
 <span class="tag-reg">css</span><span class="tag-reg">html</span><span class="tag-reg">novidade</span><span class="tag-reg">página</span>  
-Publiquei a página com o [meu currículo](/profissional/cv).
+Publiquei a página com o [MEU CURRÍCULO](/profissional/cv).
 
 <h4>18 de setembro</h4>
 <span class="tag-reg">css</span><span class="tag-reg">html</span><span class="tag-reg">novidade</span><span class="tag-reg">página</span>  
-Publiquei o [Colofão](/colofao).
+Publiquei o [COLOFÃO](/colofao).
 
 <h4>16 de setembro</h4>
 <span class="tag-reg">css</span><span class="tag-reg">html</span><span class="tag-reg">novidade</span><span class="tag-reg">página</span>  
@@ -127,23 +129,23 @@ Alterei o nome da página Midias para Social. Me pareceu um nome melhor.
 
 <h4>27 de agosto</h4>
 <span class="tag-reg">css</span><span class="tag-reg">html</span><span class="tag-reg">novidade</span><span class="tag-reg">página</span>  
-Publiquei a página [Mídias](/social) que apresentam as <del>redes</del>mídias-sociais em que estou presente, ainda.
+Publiquei a página [MÍDIAS](/social) que apresentam as <del>redes</del>mídias-sociais em que estou presente, ainda.
 
 <h4>19 de agosto</h4>
 <span class="tag-reg">acabamento</span><span class="tag-reg">html</span><span class="tag-reg">liquid</span>  
-Adicionei nas páginas [Arquivo](/arquivo) e [etiquetas (Tags)](/etiquetas) o unicode &#x1F4F7; para aparecer nas postagens que sejam do [Fotolog](/fotolog).
+Adicionei nas páginas [ARQUIVO](/arquivo) e [TAGS](/etiquetas) o unicode &#x1F4F7; para aparecer nas postagens que sejam do [FOTOLOG](/fotolog).
 
 <h4>31 de julho</h4>
 <span class="tag-reg">css</span><span class="tag-reg">html</span><span class="tag-reg">jekyll</span><span class="tag-reg">liquid</span><span class="tag-reg">novidade</span><span class="tag-reg">página</span>  
-Publiquei a página [Arquivo](/arquivo) que apresenta uma lista de todas as postagens, apenas com data e título.
+Publiquei a página [ARQUIVO](/arquivo) que apresenta uma lista de todas as postagens, apenas com data e título.
 
 <h4>27 de julho</h4>
 <span class="tag-reg">css</span><span class="tag-reg">html</span><span class="tag-reg">novidade</span><span class="tag-reg">página</span>  
-Publiquei a página [Barras](/barras) que indica todas as páginas existentes no meu pequeno _proto-jardim-digital_.  
+Publiquei a página [BARRAS](/barras) que indica todas as páginas existentes no meu pequeno _proto-jardim-digital_.  
 <span class="tag-reg">css</span><span class="tag-reg">html</span><span class="tag-reg">novidade</span>   
 Criei um botão de alerta de conteúdo.  
 
-Coloquei um link de acesso à página [Barras](/barras) e o botão de alerta no rodapé.
+Coloquei um link de acesso à página [BARRAS](/barras) e o botão de alerta no rodapé.
 
 <h4>03 de julho</h4>
 <span class="tag-reg">acabamento</span>  
@@ -179,11 +181,11 @@ Adicionei no _front matter_ das postagens do Fotolog o `permalink:/fotolog/...`.
 
 <h4>01 de maio</h4>
 <span class="tag-reg">css</span><span class="tag-reg">html</span><span class="tag-reg">novidade</span><span class="tag-reg">página</span>  
-[Publiquei](/blog/minha-pagina-404/) minha página de [erro 404](/404).
+[Publiquei](/blog/minha-pagina-404/) minha página de [ERRO 404](/404).
 
 <h4>25 de abril</h4>
 <span class="tag-reg">css</span><span class="tag-reg">html</span><span class="tag-reg">jekyll</span><span class="tag-reg">liquid</span><span class="tag-reg">novidade</span><span class="tag-reg">página</span>  
-Criei meu [Fotolog](/fotolog).
+Criei meu [FOTOLOG](/fotolog).
 
 <h4>22 de abril</h4>
 <span class="tag-reg">css</span>  
@@ -195,7 +197,7 @@ Revisei o `_config.yml` para aparecer o autor do blog no FEED para os leitores m
 
 <h4>11 de abril</h4>
 <span class="tag-reg">css</span><span class="tag-reg">html</span><span class="tag-reg">jekyll</span><span class="tag-reg">liquid</span><span class="tag-reg">novidade</span><span class="tag-reg">página</span>  
-Revisei o `_config.yml` para permitir o uso de tags no blog. Criei a página de [tags](/etiquetas) para guardar os posts _etiquetados_ e no topo da página uma nuvem de tags para permitir uma busca direta.  
+Revisei o `_config.yml` para permitir o uso de tags no blog. Criei a página de [TAGS](/etiquetas) para guardar os posts _etiquetados_ e no topo da página uma nuvem de tags para permitir uma busca direta.  
 <span class="tag-reg">acabamento</span><span class="tag-reg">tipografia</span>  
 Troquei a fonte do site para a [Montserrat](https://fonts.google.com/specimen/Montserrat) usando o Google Fonts.
 
