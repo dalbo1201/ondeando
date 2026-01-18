@@ -3,7 +3,7 @@ layout: default
 title: "Social"
 description: Como me encontrar nas míd ias sociais poraí.
 ---
-<h1><span aria-hidden="true">|</span><span class="h1-menor">nas </span>Mídias<span class="h1-menor"> Sociais</span></h1>
+<h2><span aria-hidden="true">|</span><span class="h2-menor">nas </span>Mídias<span class="h2-menor"> Sociais</span></h2>
 
 Sei que esse espaço é exatamente para me [afastar um pouco](/blog/porque-todo-esse-esforco/) das mídias sociais, mas não tem muito jeito e a gente, ainda, tem essa necessidade de ser presente por aí.  
 

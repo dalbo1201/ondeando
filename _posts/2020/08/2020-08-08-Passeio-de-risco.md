@@ -7,7 +7,7 @@ caption: "Passeio por BSB [...]"
 date: 2020-08-08
 tags: ["a vida, o universo e tudo mais", "passeios",  "pandemia"]
 ---
-<figure class="foto-post">
+<figure>
 <div class="mais-fotos">
     <img src="{{ site.baseurl }}/assets/fotos/2020/08/20200808_120403.jpg" title="redes pra vender">
 </div>

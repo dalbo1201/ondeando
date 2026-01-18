@@ -5,7 +5,7 @@ title: "Vi Superman (do James Gunn)"
 date: 2025-07-09 19:30:00 -0300
 tags: ["filmes","quadrinhos"]
 ---
-<figure class="foto-post">
+<figure>
 <img src="{{ site.baseurl }}/assets/fotos/2025/07/Superman-e-Krypto.avif" alt="Superman (do filme de James Gunn), junto com Krypto, o supercão, sentados na Lua olhando para o planeta Terra." title="Esse trampo de petsitter...">
 <figcaption>Faltou a capinha do Krypto aqui...</figcaption>
 </figure>

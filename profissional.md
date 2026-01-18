@@ -3,7 +3,7 @@ layout: default
 title: Profissional
 description: Cartão de visitas do Pedro Dal Bó.
 ---
-<h1><span aria-hidden="true">|</span>Profissional</h1>
+<h2><span aria-hidden="true">|</span>Profissional</h2>
 <section class="texto-geral">
   <p>Sou formado em engenharia civil pela <a href="http://www.ufrj.br/" title="Onde estudei">UFRJ</a>, atuo na elaboração de projetos rodoviários e ferroviários, de geometria e terraplenagem.</p>
   <p>Atualmente trabalho na <a href="https://projetainfraestrutura.com.br/" title="Onde trabalho">Projeta Infraestrutura</a> no desenvolvimento de projetos geométricos e de terraplenagem de rodovias com software Civil3D.</p>

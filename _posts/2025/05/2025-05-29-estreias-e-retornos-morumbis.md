@@ -8,7 +8,7 @@ date: 2025-05-29 22:40:00 -0300
 tags: ["a vida, o universo e tudo mais", "esportes, ou só futebol", "fotos"]
 permalink: "/fotolog/estreias-e-retornos-no-morumbis"
 ---
-<figure class="foto-post">
+<figure>
 <img src="{{ site.baseurl }}/assets/fotos/2025/05/20250527_184257.jpg" alt="Três adultos e uma criança no primeiro plano. Estão na arquibancada do estádio do Morumbi. Pedro está focado e as outras 3 pessoas desfocadas por questão de privacidade. A foto está em preto e branco com os 4 em cores com camisas do SPFC." title="Nós no MorumBIS">
 <figcaption>Retornos e estréia</figcaption>
 </figure>

@@ -3,7 +3,7 @@ layout: paginas
 title: Acompanhe
 description: Um local explicando o que é FEED, como usar e como acompanhar esse pequeno espaço na internet.
 ---
-<h1><span aria-hidden="true">|</span><span class="h1-menor">um </span>Feed<span class="h1-menor"> para acompanhar</span> </h1>
+<h2><span aria-hidden="true">|</span><span class="h2-menor">um </span>Feed<span class="h2-menor"> para acompanhar</span> </h2>
 <section class="texto-geral">
 <p>Se você chegou até aqui pode ser que queira ler este espaço sem ter que visitá-lo sempre ou aproveitar que está no seu leitor de feeds e só acompanhar.</p>
 

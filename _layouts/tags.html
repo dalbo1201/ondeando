@@ -2,7 +2,7 @@
 
 {% include header.html %}
 
-<main>
+  <div class="main-wrapper"> <main>
   
   {{ content }}
 
@@ -17,7 +17,7 @@
 <ul class="lista-tags">
   {% for tag in tags %}
     <li>
-      <h3 id="{{ tag[0] | slugify }}">#{{ tag[0] }} <a href="#">&#8593</a></h3>
+      <h4 id="{{ tag[0] | slugify }}">#{{ tag[0] }} <a href="#">&#8593</a></h4>
       <table class="tabela-posts">
         {% for post in tag[1] %}
           <tr class="linha-post">
@@ -38,7 +38,7 @@
 
 <section style="text-align: center;"><a href="#" class="nav-topo">&#8593 Topo</a></section>
 
-{% include footer.html %}
+  </div> {% include footer.html %}
 
 </body>
 </html>

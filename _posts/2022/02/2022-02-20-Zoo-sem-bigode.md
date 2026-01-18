@@ -7,7 +7,7 @@ caption: "De cara limpa [...]"
 date: 2022-02-20
 tags: ["a vida, o universo e tudo mais", "passeios", "pandemia"]
 ---
-<figure class="foto-post">
+<figure>
             <img src="{{ site.baseurl }}/assets/fotos/2022/02/20220220_104349.jpg" alt="Selfie minha de chapeu Panamá branco, sem bigode, sorrindo" title="Eu sem bigode">
             <figcaption>De cara limpa</figcaption>
 </figure>

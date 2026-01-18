@@ -4,7 +4,7 @@ title: Os seriados do Feito por Elas
 description: Página para as séries que estou vendo no grupo do Telegram do Feito por Elas.
 permalink: "/assistindo"
 ---
-# <span aria-hidden="true">|<span class="h1-menor">as </span></span>Séries<span class="h1-menor"> e </span>Filmes
+# <span aria-hidden="true">|<span class="h2-menor">as </span></span>Séries<span class="h2-menor"> e </span>Filmes
 
 Um  lugar para unificar textos sobre seriados e filmes que assisto. Com certeza não será sobre tudo, mas sobre o que achar que tenho algo que queira (não que precise) dizer.  
 

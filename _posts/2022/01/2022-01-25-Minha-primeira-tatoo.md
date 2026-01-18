@@ -7,7 +7,7 @@ caption: "Minha primeira tatoo [...]"
 date: 2022-01-25
 tags: ["a vida, o universo e tudo mais", "filmes", "fotos", "pandemia", "tatuagem"]
 ---
-<figure class="foto-post">
+<figure>
             <img src="{{ site.baseurl }}/assets/fotos/2022/01/20220125_113641.jpg" alt="Imagem do meu antebraçoesquerdo com a tatuagem da Enterprise, nave espacial de Star Trek em tracos simples, apenas linhas grossas" title="Minha primeira tatoo">
 <figcaption>Minha primeira tatoo</figcaption>
 </figure>

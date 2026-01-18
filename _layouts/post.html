@@ -2,12 +2,12 @@
 
 {% include header.html %}
 
-<main>
-  <h1><span aria-hidden="true">|</span><span class="h1-menor">meu </span>Blog</h1>
+  <div class="main-wrapper"> <main>
+  <h2><span aria-hidden="true">|</span><span class="h2-menor">meu </span>Blog</h2>
 
 <article class="blog-article {% if  page.type == 'frase'%}blog-citacao{% elsif page.type == 'notas' %}blog-notas{% endif %}">
   {% include post-dates.html %}
-  <h2>{{ page.title }}</h2>
+  <h3>{{ page.title }}</h3>
   <p class="blog-tag">
     {% for tag in page.tags %}
     <a href="/etiquetas/#{{ tag | slugify }}">#{{ tag }}</a>
@@ -24,7 +24,7 @@
 
 <section style="text-align: center;"><a href="#" class="nav-topo">&#8593 Topo</a></section>
 
-{% include footer.html %}
+  </div> {% include footer.html %}
 
 </body>
 </html>

@@ -4,7 +4,7 @@ title: Sobre A Sete Palmos
 description: Comentários sobre a série Sex Feet Under ou A Sete Palmos
 permalink: "/assistindo/six-feet-under-comentarios"
 ---
-# <span aria-hidden="true">|<span class="h1-menor">sobre </span></span>A Sete Palmos
+# <span aria-hidden="true">|<span class="h2-menor">sobre </span></span>A Sete Palmos
 
 Comentários rápidos e sem muito trabalho editorial sobre os episódios assistidos de ~~A Sete Palmos~~ _Six Feet Under_.
 
@@ -28,7 +28,7 @@ Não me responsabilizo pelo que você possa ler sem ter assistido antes.</div></
 Diferente de _[The Leftovers](/assistindo/the-leftovers-comentarios)_, _A Sete Palmos_ (ou _Six Feet Under_, cada hora chamarei de uma forma...) passou pelo meu radar, mas eu não sei porque não a assisti. Olhando em retrocesso, na minha juventude (a série é de 2001-2005) eu não tinha acesso constante à HBO e possivelmente não veio com força para ficar buscando pela _Locadora do Paulo Coelho_.  
 
 ## Temporada 1 
-<h3 id="t01e01-02">t01e01-02 <a href="#">&uarr;</a></h3>
+<h4 id="t01e01-02">t01e01-02 <a href="#">&uarr;</a></h4>
 **e01**  
 Um filho revoltado que volta ao lar, outro filho que ficou pela culpa e agora sente que pode perder o protagonismo com o retorno do irmão e uma irmã rebelde. Uma família típica dos anos 90-00.
 
@@ -51,7 +51,7 @@ Tenho alguns receios de como pode caminhar essa relação. É ótimo rever séri
 
 Pelo que entendi a premissa da série vai ficar na relação familiar, na gerencia da funerária e na possiveldisputa com a grande coorporação que quer dominar o nicho dos atos fúnebres. Se durou 5 temporadas na HBO deve valer a pena.  
 
-<h3 id="t01e03-04">t01e03-04 <a href="#">&uarr;</a></h3>
+<h4 id="t01e03-04">t01e03-04 <a href="#">&uarr;</a></h4>
 
 **e03**  
 Gente, estragaram o velório do Romano...  
@@ -74,7 +74,7 @@ Toda a questão da sexualidade do David tá bem construída, com bons diálogos 
 
 Excelente também a forma que eles levam o fato de os estadounidenses saberem tão pouco de Porto Rico a ponto de acharem que o Frederico fosse mexicano. Ao mesmo tempo foi ótima a participação dele nas negociações e gosto muito do personagem, espero que ganhe mais espaço.
 
-<h3 id="t01e05-06">t01e05-06 <a href="#">&uarr;</a></h3>
+<h4 id="t01e05-06">t01e05-06 <a href="#">&uarr;</a></h4>
 
 **e05**  
 Um episódio interessante com algumas novidades, como David mostrando pro irmão que é gay e ao mesmo tempo Keith dando piti porque David está numa outra pegada religiosa. A discussão deles foi muito boa. 
@@ -88,7 +88,7 @@ Gente, essa família é muito louca... Quer dizer que papai além de ter bom hum
 
 Como a Ruth é uma personagem interessante, ela tem seu luto, mas não deixa de ser uma pessoa com sentimentos, interesses e como é bacana ver uma série que trata os idosos de maneira tridimensional. Essa relação dela com o florista russo foi ótima. Fiquei com pena dele no final do episódio.
 
-<h3 id="t01e07-08">t01e07-08 <a href="#">&uarr;</a></h3>
+<h4 id="t01e07-08">t01e07-08 <a href="#">&uarr;</a></h4>
 
 **e07**  
 Tá aí um episódio em que aconteceu bastante coisa e foi bem divertido.   
@@ -116,7 +116,7 @@ Tá divertido ver o trio Ruth, Nikolai e Hiram. Mas eu acho a relação Ruth-Nik
 
 Parece que os irmãos estão se entendendo rápido, acho isso bom que a trama fica muito mais interessante explorando outros pontos das relações e não picuinhas chatas e repetitivas.  
 
-<h3 id="t01e09-10">t01e09-10 <a href="#">&uarr;</a></h3>
+<h4 id="t01e09-10">t01e09-10 <a href="#">&uarr;</a></h4>
 
 **e09**  
 Não sei bem o que dizer, achei pesado demais a morte do garotinho, principalmente porque a gente conhece a situação do _garoto do pé_.  
@@ -138,7 +138,7 @@ Esse irmão da Brenda é bem mais dificil do que se esperava e não sei se eu co
 
 Continuo torcendo pela Ruth e o Nikolai.
 
-<h3 id="t01e11-12">t01e11-12 <a href="#">&uarr;</a></h3>
+<h4 id="t01e11-12">t01e11-12 <a href="#">&uarr;</a></h4>
 
 **e11**  
 Sério, mais uma criança? Dá muita dó, não curto esses infanticídios nos episódios.  
@@ -156,7 +156,7 @@ A situação do Billy está impossível realmente, curioso como tudo descambou e
 
 Outra relação que eu acho interessante são as cenas da Clare e o psicólogo da escola. São sempre boas conversas e acho uma série de conversas que fluem bem e são bem conduzidas.  
 
-<h3 id="t01e13">t01e13 <a href="#">&uarr;</a></h3>
+<h4 id="t01e13">t01e13 <a href="#">&uarr;</a></h4>
 
 **e13**  
 A possibilidade de morte é um excelente gancho para a próxima temporada. Meio clichê, ainda mais numa série que fala de mortos, mas vamos lá lidar com o Nate escondendo esse possível grave problema de saúde por uma dezena de episódios.  
@@ -173,7 +173,7 @@ E bacana o episódio (e a temporada) terminar com uma festa de batismo que _simb
 
 Simbólica a saída do Nathaniel pelas escadas, talvez o vejamos menos na temporada 2.  
 
-<h3 id="">Bela temporada <a href="#">&uarr;</a></h3> 
+<h4 id="">Bela temporada <a href="#">&uarr;</a></h4> 
 Uma temporada sentimentalmente equilibrada, triste e divertida. Alguns episódios pesados como o das crianças, ou o ataque do Billy, mas com momentos cômicos, como o Nate falando com o pai no _quartinho secreto_ ou o _pé do morto_ no armário do Gabriel.  
 
 Uma série que lida bem com os temas que aborda e que me parece bem adiante da época. Não apenas com o tema da homossexualidade, mas com a tomada de decisão na vida da Ruth, uma mulher que casou cedo demais, ficou presa à familia e soube lidar com o luto sem se esconder do que a vida tem a lhe oferecer agora.  

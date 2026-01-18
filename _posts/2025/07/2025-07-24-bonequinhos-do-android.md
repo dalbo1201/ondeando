@@ -8,7 +8,7 @@ caption: "Meus bonequinhos [...]"
 tags: ["a vida, o universo e tudo mais","casa","fotos"]
 permalink: "/fotolog/bonequinhos-do-android"
 ---
-<figure class="foto-post">
+<figure>
 <img src="/assets/fotos/2025/07/bonecos-android.jpg" alt="Bonecos do Android, robô mascote do sistema operacional novel do Google, em vários temas" title="Meus bonecos do Android">
 <figcaption>Meus Andróids</figcaption>
 </figure>

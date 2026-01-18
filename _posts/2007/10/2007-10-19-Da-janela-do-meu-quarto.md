@@ -5,7 +5,7 @@ title: "Da janela do meu quarto"
 date: 2007-10-19 08:00:00 -0000
 tags: ["a vida, o universo e tudo mais", "fotos"]
 ---
-<figure class="foto-post">
+<figure>
      <img src="{{ site.baseurl }}/assets/fotos/2007/10/Vista da janela.JPG" alt="vista da janela" title="vista da janela, a copa de uma árvore">
 </figure>
 

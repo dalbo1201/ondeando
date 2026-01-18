@@ -4,7 +4,7 @@ title: Dicas do blog
 excerpt: Um local onde eu vou colocar algumas coisas que eu fiz aqui e acho que vale compartilhar.
 permalink: "/dicas-do-blog"
 ---
-<h1><span aria-hidden="true">|</span><span class="h1-menor">as </span>Dicas<span class="h1-menor"> do blog</span> </h1>
+<h2><span aria-hidden="true">|</span><span class="h2-menor">as </span>Dicas<span class="h2-menor"> do blog</span> </h2>
 
 Se você chegou até aqui pode ser que eu tenha algo bacana a dizer que possa ajudar a encontrar mais fácil algum processo que eu já fiquei tentando antes e sofri para resolver.  
 
@@ -25,7 +25,7 @@ Espero que isso facilite a vida de alguém por aí.
 <li><a href="#bearblog">Para Bearblog</a>,<em> o original</em>;</li>
 <li><a href="#jekyll">Para Jekyll</a>,<em> minha versão</em>.</li>
 </ul>
-<h3 id="bearblog">Para Bearblog, <em style="font-height:12px;">o original</em> <a href="#" >↑</a></h3>
+<h4 id="bearblog">Para Bearblog, <em style="font-height:12px;">o original</em> <a href="#" >↑</a></h4>
 Peço desculpas, não traduzi o conteúdo dele, sigo como no original, mas nada que um _tradutor_ da internet não resolva.  
 
 <div class="tutorial">
@@ -152,7 +152,7 @@ A really awesome caption
 
 </code></pre>
 
-<h3 id="jekyll">Para Jekyll, <em style="font-height:12px;">minha versão</em> <a href="#">↑</a></h3>
+<h4 id="jekyll">Para Jekyll, <em style="font-height:12px;">minha versão</em> <a href="#">↑</a></h4>
 Peço desculpas, e mais uma vez lembro que eu não tenho grandes conhecimentos em Jekyll, Liquid, HMTL e CSS. A maior parte do que fiz foi usando uma IA (sim, malz) e comparando com o código do Bruce para ver se estava fazendo sentido. Claro, publicando e vendo como ficava.  
 
 Deu certo, como podem [ver aqui]({{ site.url }}/fotolog "meu fotolog"). Testei tudo num outro projeto que eu tenho, copiando e colocando os códigos e também fui vencedor nessa tentativa.  

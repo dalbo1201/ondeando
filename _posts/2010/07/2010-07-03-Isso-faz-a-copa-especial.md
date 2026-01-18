@@ -8,7 +8,7 @@ tags: ["esportes, ou só futebol"]
 É inacreditável o que uma Copa do Mundo pode te apresentar em menos de um dia. Na parte da manhã você participa da história ao ver a Holanda passar pelo Brasil nas quartas de final e aumentar suas chances de pela primeira vez na História colocar uma tão sonhada estrela no escudo da sua seleção. E em menos de algumas horas depois, vemos a linda Celeste, primeira Campeã Mundial, voltar a jogar uma semi final…
 
 Acho que são essas coisas que <a href="/blog/O-que-faz-a-copa-do-mundo-tao-especial">fazem a Copa do Mundo o torneio mais lindo</a> de se ver.  
-<figure class="foto-post">
+<figure>
     <img src="/assets/fotos/2010/07/Urugaui-x-Gana -sai-Lugano.jpg" alt="Lugano saindo de campo" title="imagem do Lugano saindo de campo após a expulsão">
 </figure>
 Hoje ao acordar, parecia que eu já sabia o resultado do jogo. Alias, venho cantando essa bola a algum tempo nas rodas entre amigos. Não acreditem que o Brasil tivesse como passar. Não pela Holanda exatamente, mas por qualquer seleção que se colocasse a marcar nossa Canarinho e pensasse em ficar com o domínio da bola.

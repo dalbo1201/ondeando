@@ -14,4 +14,4 @@ pagination:
     before: 2
     after: 2
 ---
-<h1><span aria-hidden="true">|</span><span class="h1-menor">meu </span>Fotolog</h1>
+<h2><span aria-hidden="true">|</span><span class="h2-menor">meu </span>Fotolog</h2>

@@ -544,11 +544,11 @@
   date: 2022-12-02 00:00:00.000000000 -03:00
   image:
   caption:
-- title: Ano novo e Vila Velha
+- title: Ano Novo E Vila Velha
   url: "/blog/ano-novo-e-vila-velha/"
   date: 2023-01-01 00:00:00.000000000 -03:00
-  image: "/assets/fotos/2023/01/20230101_044204.jpg"
-  caption: Nós em Vila Velha [...]
+  image:
+  caption:
 - title: 38 passados
   url: "/blog/38-passados/"
   date: 2023-01-12 00:00:00.000000000 -03:00
@@ -639,11 +639,11 @@
   date: 2024-01-02 00:00:00.000000000 -03:00
   image:
   caption:
-- title: 39 tá aí
+- title: 39 Ta Ai
   url: "/blog/39-ta-ai/"
   date: 2024-01-12 00:00:00.000000000 -03:00
-  image: "/assets/fotos/2024/01/20240112_153801.jpg"
-  caption: Café de presente é uma ótima ideia [...]
+  image:
+  caption:
 - title: A jornada da nova morada
   url: "/blog/a-jornada-da-nova-morada/"
   date: 2024-01-15 00:00:00.000000000 -03:00
@@ -686,9 +686,9 @@
   caption:
 - title: Doutora
   url: "/blog/doutora/"
-  date: 2024-09-05 21:30:00.000000000 -03:00
-  image: "/assets/fotos/2024/09/20240905_153648.jpg"
-  caption: Doutora
+  date: 2024-09-05 00:00:00.000000000 -03:00
+  image:
+  caption:
 - title: Billy Wilder
   url: "/blog/billy-wilder/"
   date: 2024-09-27 20:00:00.000000000 -03:00
@@ -874,11 +874,11 @@
   date: 2025-05-29 22:40:00.000000000 -03:00
   image: "/assets/fotos/2025/05/20250527_184257.jpg"
   caption: Retornos e estréia [...]
-- title: Compramos uma palmeirinha e ganhamos outra planta na rua
-  url: "/fotolog/compramos-uma-palmeirinha-e-ganhamos-outra-planta-na-rua"
-  date: 2025-05-31 16:15:00.000000000 -03:00
-  image: "/assets/fotos/2025/05/20250412_092043.jpg"
-  caption: Parece que ainda existe amor em SP [...]
+- title: Compramos Uma Palmeirinha E Ganhamos Na Rua
+  url: "/blog/compramos-uma-palmeirinha-e-ganhamos-na-rua/"
+  date: 2025-05-31 00:00:00.000000000 -03:00
+  image:
+  caption:
 - title: Criei meu fotolog
   url: "/blog/criei-meu-fotolog/"
   date: 2025-06-03 12:45:00.000000000 -03:00
@@ -1064,3 +1064,18 @@
   date: 2025-12-28 12:00:00.000000000 -03:00
   image: "/assets/fotos/2025/12/20251218_110340~2.jpg"
   caption: Uma árvore sozinha [...]
+- title: Minha imaginação me torna...
+  url: "/blog/minha-imaginacao/"
+  date: 2026-01-10 12:15:00.000000000 -03:00
+  image:
+  caption:
+- title: Definitivamente nos enta...
+  url: "/fotolog/41"
+  date: 2026-01-12 12:00:00.000000000 -03:00
+  image: "/assets/fotos/2026/01/20260111_225448-COLLAGE.jpg"
+  caption: definitivamente nos enta... [...]
+- title: Ano novo, visual novo
+  url: "/blog/novo-visual/"
+  date: 2026-01-13 12:00:00.000000000 -03:00
+  image:
+  caption:

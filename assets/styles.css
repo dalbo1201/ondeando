@@ -1,101 +1,145 @@
-*,
-*::before,
-*::after {
-  box-sizing: border-box;
-}
+/* --- RESET E VARIÁVEIS --- */
+*, *::before, *::after { box-sizing: border-box; }
 
 :root {
-  --color-background: #F5F5F5;
-  --color-text: #252525;
-  --color-link: #75015c;
-  --color-link-hover: #755401;
-  --color-data: #000000;
-  --quote-transparency: 0.45;
-  --code-background-transparency: 0.7;
-  --font-geral: 'Montserrat', 'sans-serif';
+ --color-background: #F5F5F5;
+ --color-text: #252525;
+ --color-link: #75015c;
+ --color-link-hover: #755401;
+ --color-data: #000000;
+ --quote-transparency: 0.45;
+ --code-background-transparency: 0.7;
+ --font-geral: 'Montserrat', sans-serif;
 }
 
 @media (prefers-color-scheme: dark) {
-  :root {
+ :root {
   --color-background: #252525;
   --color-text: #F5F5F5;
   --color-link: #F1C6E8;
   --color-link-hover: #F1E5C6;
   --color-data: #E6E6E6;
-  }
+ }
 }
 
-html {
-  scroll-behavior: smooth; /* Para rolagem suave */
-  min-height: 100vh;
-  width: calc(100% - 5px); /* Ajuste conforme necessário */
-}
+html { scroll-behavior: smooth; }
 
+/* UNIFICADO: Body agora é o container principal */
 body {
- display: flex;
- flex-direction: column;
  background: var(--color-background);
  color: var(--color-text);
  font-family: var(--font-geral);
- margin: auto;
+ margin: 0 auto;
+ padding: 0 5px; /* Padding mobile */
+ max-width: 790px; /* Largura mobile/padrão */
+ display: flex;
+ flex-direction: column;
+ flex-wrap: wrap;
+ min-height: 100vh;
 }
 
+/* Estrutura Auxiliar */
+.main-wrapper {
+ width: 100%;
+ display: flex;
+ flex-direction: column;
+ flex: 1; /* Garante que o conteúdo empurre o footer para baixo */
+}
+
+/* --- HEADER E NAV (MOBILE FIRST) --- */
 header {
  display: flex;
- flex-direction: row;
- justify-content: space-between;
- margin: 15px auto 15px auto;
- box-sizing: border-box; /* Inclui padding e bordas nas dimensões do elemento */
- width: 95%; /* Ocupa toda a largura */
+ flex-direction: column;
+ align-items: center; 
+ text-align: center;
+ margin: 15px 0;
+ width: 100%;
 }
 
 .top-header {
  display: flex;
- justify-content: flex-start; /* Alinha à esquerda */
  align-items: center;
- gap: 10px;
+ gap: 5px;
+ width: 100%;
+ margin-bottom: 20px;
+}
+
+.header-text-container {
+ display: flex;
+ flex-direction: column;
+ text-align: left;
 }
 
 nav {
+ width: 100%;
  display: flex;
- flex-wrap: wrap;              /* <- permite quebrar para a próxima linha */
- justify-content: flex-end;     /* mantém alinhado à direita */
- align-items: center;          /* "right" não é válido aqui — use center ou flex-end */
- gap: 25px 15px;                  /* controla a distância fixa entre os itens */
+ flex-wrap: wrap;
+ justify-content: right; /* pra direita no mobile */
+ gap: 15px 15px;
  font-size: clamp(0.88rem, 0.8vw, 0.94rem);
  font-weight: bold;
 }
 
-main {
- margin: 30px auto 60px auto;
- padding: 0 1px;
- display: flex;
+/* --- MÁGICA DO DESKTOP (UNIFICADA) --- */
+@media screen and (min-width: 50rem) {
+body {
+ max-width: 1200px;
+ flex-direction: row;
+ gap: 10px;
+ padding: 0 40px;
+}
+
+header {
+ width: 260px;
+ position: sticky;
+ top: 30px;
+ height: fit-content;
+ margin-top: 30px;
+ border-right: 1px solid #eee;
+ padding-right: 50px;
+ align-items: flex-start;
+ text-align: left;
+}
+
+.top-header {
  flex-direction: column;
- justify-content: flex-start;
- overflow-wrap: break-word;
- width: 49rem;
+ align-items: flex-start;
+}
+
+nav {
+ flex-direction: column;
+ align-items: flex-start;
+ margin-top: 20px;
+}
+
+.main-wrapper {
+ width: 900px;
+ padding-top: 40px;
+}
 }
 
 footer {
+ width: 100%;
+ margin: 10px auto 20px;
  display: flex;
- flex-direction: row;
+ flex-wrap: wrap;
  justify-content: space-between;
- flex-wrap: wrap; /* Caso o conteúdo precise quebrar em telas pequenas */
- font-size: clamp(0.88rem, 0.8vw, 0.94rem); /* 14–15px */
- margin: 30px auto 20px auto; 
- width: 80%; /* Ajuste conforme necessário */
+ align-items: center;
+
+ padding-top: 8px;
+ font-size: clamp(0.88rem, 0.8vw, 0.94rem);
 }
 
 .footer-left {
  display: flex;
  align-items: center;
- gap: 10px; /* Espaço entre os links */
+ gap: 0 10px; /* Espaço entre os links */
 }
 
 .footer-right {
  display: flex;
  align-items: center;
- gap: 10px; /* Espaço entre os links */
+ gap: 0 10px; /* Espaço entre os links */
  margin-left: auto; /* Garante que fique à direita mesmo se não houver .footer-left */
 }
 
@@ -108,16 +152,8 @@ hr {
  margin-bottom: 10px; /* Espaço entre o hr e o conteúdo abaixo */
 }
 
-.namecab {
- font-size: clamp(2rem, 3vw, 2.3rem); /* 24–30px */
- font-weight: 700;
- white-space: nowrap; /* Evita quebra de linha no nome */
- display: inline;
- margin-left: 0;
-}
-
 .fotocab {
- width: 3.13rem;  /* 50px */
+ width: 3.13rem; /* 50px */
  height: 3.13rem;
  border-radius: 15%;
  object-fit: cover;
@@ -125,19 +161,35 @@ hr {
  flex-shrink: 0; /* Evita que a imagem diminua além do tamanho mínimo */
 }
 
-/* INÍCIO  dos Estilos de títulos */
-h1 { /* cabeçalho de saudação */
+/* INÍCIO dos Estilos de títulos */
+h1 {
+ font-size: clamp(2rem, 3vw, 2.3rem); /* 24–30px */
+ font-weight: 700;
+ white-space: nowrap; /* Evita quebra de linha no nome */
+ display: inline;
+ margin: 0 0 0 5px;
+}
+
+.h1-menor { /* subtítulo do cabeçalho */
+ font-size: .88rem;
+ font-weight: normal;
+ font-style: italic;
+ line-height: 1rem; /* 32–35px */
+ margin-left: 10px;
+}
+
+h2 { /* cabeçalho de saudação */
  font-size: clamp(2.4rem, 4vw, 2.7rem); /* mínimo 35px → 40px */
  margin-top: 0;
  margin-bottom: 2.5rem; /* 40px */
 }
 
-.h1-menor { /* cabeçalho de saudação menor */
+.h2-menor { /* cabeçalho de saudação menor */
  font-size: clamp(1rem, 1.3vw, 1.3rem); /* 16–17px */
  font-weight: normal;
 }
 
-h2 { /* Títulos de postagem e outros títulos de página */
+h3 { /* Títulos de postagem e outros títulos de página */
  font-size: clamp(1.8rem, 3vw, 2rem); /* 27px → 27px */
  font-weight: normal;
  line-height: clamp(2rem, 3vw, 2.19rem); /* 32–35px */
@@ -146,7 +198,7 @@ h2 { /* Títulos de postagem e outros títulos de página */
  margin-bottom: 0.63rem; /* 10px */
 }
 
-h3 {
+h4 {
  font-size: clamp(1.3rem, 2.5vw, 1.5rem); /* mínimo 21px */
  font-weight: normal;
  line-height: clamp(1.44rem, 1.5vw, 1.56rem); /* 23–25px */
@@ -155,14 +207,15 @@ h3 {
  margin-bottom: 0.1rem; /* 10px */
 }
 
-h4 {
+h5 {
  max-width: 100%; /* Faz com que o conteúdo ocupe 100% da largura do contêiner */
+ font-size: clamp(1.02rem, 2.5vw, 1.08rem); /* mínimo 21px */
  font-weight: bolder;
  text-wrap: balance;
  text-align: left;
  margin: 10px 0px 0px 0px;
 }
-/* FINAL  dos Estilos de títulos */
+/* FINAL dos Estilos de títulos */
 
 
 /* início dos Estilos de textos */
@@ -201,32 +254,32 @@ main ul {
 
 /* INÍCIO ESTILOS DE AVISO*/
 .aviso-caixa {
-  display: flex;
-  flex-direction: row;
-  border: 3px solid var(--color-link-hover); 
-  border-radius: 0.5rem;
-  color: var(--color-text);
-  font-size: clamp(0.88rem, 0.9vw, 0.94rem); /* 14–15px */
-  padding: 0.5rem 0.5rem;
-  gap: clamp(0.5rem, 0.9vw, 1rem);
-  align-items: center;
-  align-self: stretch;
-  box-sizing: border-box;
-  width: 100%;
-  margin-top: 0.5rem;
-  margin-bottom: 0.5rem;
-  line-height: 1.5;
+ display: flex;
+ flex-direction: row;
+ border: 3px solid var(--color-link-hover); 
+ border-radius: 0.5rem;
+ color: var(--color-text);
+ font-size: clamp(0.88rem, 0.9vw, 0.94rem); /* 14–15px */
+ padding: 0.5rem 0.5rem;
+ gap: clamp(0.5rem, 0.9vw, 1rem);
+ align-items: center;
+ align-self: stretch;
+ box-sizing: border-box;
+ width: 100%;
+ margin-top: 0.5rem;
+ margin-bottom: 0.5rem;
+ line-height: 1.5;
 }
 
 .aviso-caixa::before {
-  content: '\24D8'; /* código unicode do ícone */
-  font-family: 'Fraunces', 'sans-serif'; /* Fonte */
-  font-size: 2rem; /* 14–15px */
-  color: var(--color-link-hover);
+ content: '\24D8'; /* código unicode do ícone */
+ font-family: 'Fraunces', 'sans-serif'; /* Fonte */
+ font-size: 2rem; /* 14–15px */
+ color: var(--color-link-hover);
 }
 
 .aviso-texto > p {
-  margin: 0;
+ margin: 0;
 }
 
 .aviso-caixa ul /* avisos gerais*/ {
@@ -270,40 +323,69 @@ code {
  padding: 1px 6px;
  border-radius: 4px;
  margin: 5px;
- white-space: nowrap;  /* impede quebra dentro da tag */
+ white-space: nowrap; /* impede quebra dentro da tag */
  vertical-align: middle; /* Alinha verticalmente com o texto */
 }
 
 /* FINAL ESTILOS GERAIS */
 
-/* INÍCIO eSTILOS PARA OS Links */
-a:link,
-a:visited,
-a:active,
-nav a {
+/* INÍCIO ESTILOS PARA OS Links */
+/* INÍCIO CONFIGURAÇÃO GERAL (ONDA) */
+/* --- 1. CONFIGURAÇÃO (ONDA) --- */
+a, nav a {
+ border-radius: 7px;
+ padding: 0.11em;
+ display: inline-block; 
+ line-height: 1.2;
+/* Gradiente Vertical com sua variável de transparência */
+ background-image: linear-gradient(to top, rgb(from var(--color-link) r g b / var(--code-background-transparency)) 50%, transparent 50%);
+ background-size: 100% 200%;
+ background-position: top;
+ transition: background-position 0.3s ease, color 0.3s ease;
+ color: var(--color-link);
+ text-decoration: underline solid .125rem;
+}
+
+/* --- 2. ESTADOS DE COR E HOVER --- */
+a:link, a:visited, a:active, nav a {
  color: var(--color-link);
 }
 
 a:hover, nav a:hover {
- color: var(--color-link-hover);
+ cursor: pointer;
+ color: var(--color-background);
+ background-position: bottom;
+ text-decoration: underline solid .125rem;
 }
 
-a.linkcab:link,
-a.linkcab:visited,
-a.linkcab:active,
-a.linkcab:hover {
- color: var(--color-text);
+/* --- 3. EXCEÇÕES (IMAGENS, CABEÇALHO E DATA) --- */
+/* Removemos o preenchimento, padding e a transição para evitar "fantasmas" do efeito */
+a:has(img),
+a.linkcab,
+a.linkdata {
+  background: none !important;
+  padding: 0 !important;
+  transition: none !important; /* Importante para não haver delay na troca de cor */
+  background-image: none !important;
 }
 
-a.linkdata:link,
-a.linkdata:visited,
-a.linkdata:active,
-a.linkdata:hover {
- color: var(--color-data);
+/* Cores específicas e remoção de efeitos no Hover das exceções */
+a.linkcab { color: var(--color-text); }
+a.linkcab:hover { color: var(--color-text);}
+
+a.linkdata { color: var(--color-data); }
+a.linkdata:hover { color: var(--color-data);}
+
+/* Remove especificamente o efeito visual no hover de links com imagens */
+a:has(img):hover {
+  background: transparent !important;
+  background-position: top !important;
+
 }
+/* INÍCIO CONFIGURAÇÃO GERAL (ONDA) */
 
 .blog-tag a {
- white-space: nowrap;  /* impede quebra dentro da tag */
+ white-space: nowrap; /* impede quebra dentro da tag */
 }
 
 nav a {
@@ -313,31 +395,37 @@ line-height: 1.44rem; /* 23px */
 /* Adiciona um ícone após links externos */
 /* Exclui links que começam com #, javascript:, / (mas não //), exclui domínios específicos */
 a[href]:not(:where(
-  /* exclude hash only links */
-  [href^="#"],
-  /* exclude javascript only links */
-  [href^="javascript:" i],  
-  /* exclude relative but not double slash only links */
-  [href^="/"]:not([href^="//"]),
-  /* domains to exclude */
-  [href*="//dalbo.me"],
-  /* subdomains to exclude */
-  [href*="//pedro.dalbo.me"],
-  [href*="http://localhost:4000/"],
-  /* exclui links que só têm imagem */
-  :has(img)
+ /* exclude hash only links */
+ [href^="#"],
+ /* exclude javascript only links */
+ [href^="javascript:" i], 
+ /* exclude relative but not double slash only links */
+ [href^="/"]:not([href^="//"]),
+ /* domains to exclude */
+ [href*="//dalbo.me"],
+ /* subdomains to exclude */
+ [href*="//pedro.dalbo.me"],
+ [href*="http://localhost:4000/"],
+ /* exclui links que só têm imagem */
+ :has(img)
 )):after {
-  content: '↗'; /* Unicode para o ícone de link externo */
-  font-size: 0.9em; /* Tamanho do ícone */  
+ content: '↗'; /* Unicode para o ícone de link externo */
+ font-size: 0.9em; /* Tamanho do ícone */ 
 }
 
 /* FINAL ESTILOS PARA OS Links */
 
 /* INÍCIO DE ESTILO PARA IMAGENS em posts - NÃO É O FOTOLOG, ESSE VEM DEPOIS*/
 figure {
- margin: 0 0 0.5rem 0; /* Remove a margem padrão do figure */
+ margin: 0; /* Remove a margem padrão do figure */
  padding: 0; /* Remove o padding padrão do figure */
 } 
+
+figure img {
+ width: 100%;
+ height: auto;
+ object-fit: cover; /* Mantém as fotos alinhadas mesmo se tiverem alturas levemente diferentes */
+}
 
 figcaption {
  font-size: clamp(1rem, 1.2vw, 1.06rem); /* 16–17px */
@@ -345,6 +433,28 @@ figcaption {
  text-align: center;
  font-style: italic;
  width: 100%; /* Garante que a legenda ocupe toda a largura do contêiner */
+}
+
+.mais-fotos {
+ display: grid;
+ grid-template-columns: 1fr 1fr; /* Duas colunas iguais */
+ gap: 15px; /* Espaço entre as fotos */
+ margin: 1.5rem 0;
+ width: 100%;
+ align-items: end;
+}
+
+.foto-post-flutua {
+ float: right;
+ max-width: 50%;
+ margin: 10px 0 10px 10px;
+ padding-right: 2px;
+}
+
+.foto-post-flutua img {
+ width: 100%;
+ height: auto;
+ display: block;
 }
 
 .imagem-erro {
@@ -360,46 +470,13 @@ figcaption {
  z-index: 9999; 
  pointer-events: none;
 }
-
-.foto-post {
- display: flex;
- flex-wrap: wrap;
- gap: 10px; /* Adiciona uma margem entre as imagens */
- padding-top: 15px;
-}
-
-.foto-post .mais-fotos {
- width: 48%; /* Define a largura das imagens como 48% da largura do texto */
- box-sizing: border-box;
- display: flex;
- flex-direction: column; /* Mantém a legenda abaixo da imagem */
- justify-content: flex-end; /* Alinha as imagens pela parte inferior */
-}
-
-.foto-post img {
- width: 100%;
- height: auto; /* Altura proporcional à largura */
-}
-
-.foto-post-flutua {
- float: right;
- max-width: 50%;
- margin: 10px 0 10px 10px;
- padding-right: 2px;
-}
-
-.foto-post-flutua img {
- width: 100%;
- height: auto;
- display: block;
-}
 /* FINAL DE ESTILO PARA IMAGENS em posts - NÃO É O FOTOLOG, ESSE VEM DEPOIS*/
 
 
 /* INÍCIO DOS Tipos de posts */
-article.blog-article.blog-citacao h2,
- article.blog-article.blog-notas h2 {
-  display: none !important;
+article.blog-article.blog-citacao h3,
+ article.blog-article.blog-notas h3 {
+ display: none !important;
  }
 /* FINAL DOS Tipos de posts */
 
@@ -425,9 +502,9 @@ article.blog-article.blog-citacao h2,
  margin-top: 15px;
  margin-bottom: 10px;
  align-self: flex-end;
- display: flex;        /* organiza como linha */
- flex-wrap: wrap;      /* permite que as tags pulem de linha */
- gap: 0.5em;           /* espaço entre tags */
+ display: flex; /* organiza como linha */
+ flex-wrap: wrap; /* permite que as tags pulem de linha */
+ gap: 0.5em;  /* espaço entre tags */
 }
 
 .blog-comentario {
@@ -458,8 +535,8 @@ article.blog-article.blog-citacao h2,
 }
 
 blockquote {
-  margin: 0;
-  padding: 0;
+ margin: 0;
+ padding: 0;
 }
 
 blockquote p{ 
@@ -543,7 +620,7 @@ ul.lista-tags {
  margin-bottom: 1rem;
 }
 
-ul.lista-tags h3 { 
+ul.lista-tags h4 { 
  margin-left: 40px;/* Recuo de 30px no título da tag */
 }
 
@@ -560,7 +637,7 @@ table.tabela-posts {
 /* Células da tabela com menos espaço interno */
 table.tabela-posts td {
  padding: 0.2rem 0.5rem; /* Reduz espaço vertical */
- vertical-align: top;   /* Alinha conteúdo ao topo */
+ vertical-align: top;  /* Alinha conteúdo ao topo */
 }
 
 .data-tag {
@@ -669,7 +746,7 @@ table.tabela-posts td {
  justify-content: space-between; /* Garante que os itens fiquem nos extremos opostos */
  align-items: center; /* Alinha verticalmente os itens */
  margin: 10px auto 20px auto; 
- width: 80%; /* Ajuste conforme necessário */
+ width: 100%; /* Ajuste conforme necessário */
  flex-shrink: 0; /* Evita que a paginação encolha */
 }
 
@@ -682,45 +759,45 @@ table.tabela-posts td {
 }
 
 .pagination .nav-topo {
- margin: auto; /* Centraliza  link "Topo" */
+ margin: auto; /* Centraliza link "Topo" */
 }
 /* FINAL DA NAVEGAÇÃO POR PÁGINA */
 
 
 /* INÍCIO PARA A PÁGINA DO CURRÍCULO*/
 .curriculo {
-  margin: 0px 0px 30px 30px;
+ margin: 0px 0px 30px 30px;
 }
 
 address {
-  font-style: normal; /* Remove o itálico */
+ font-style: normal; /* Remove o itálico */
 }
 /* FINAL PARA A PÁGINA DO CURRÍCULO*/
 
 
 /* INÍCIO DO Container PARA de bloco de código DO dicas-do-blog*/
 .tutorial { 
-  font-family: monospace;
+ font-family: monospace;
 }
-  
+ 
 pre {
-  background-color: var(--color-link);
-  color: var(--color-background);
-  padding: 12px 16px;
-  border-radius: 7px;
-  width: 100%;
-  white-space: pre-wrap;
-  word-wrap: break-word;
-  overflow-x: auto;
+ background-color: var(--color-link);
+ color: var(--color-background);
+ padding: 12px 16px;
+ border-radius: 7px;
+ width: 100%;
+ white-space: pre-wrap;
+ word-wrap: break-word;
+ overflow-x: auto;
 }
 
 pre code {
-  font-family: monospace;
-  font-size: 1rem;
-  line-height: 1.5;
-  background-color: var(--color-link) ;
-  opacity: 1;
-  color: var(--color-background); 
+ font-family: monospace;
+ font-size: 1rem;
+ line-height: 1.5;
+ background-color: var(--color-link) ;
+ opacity: 1;
+ color: var(--color-background); 
 }
 /* FINAL DO Container PARA de bloco de código DO dicas-do-blog*/
 
@@ -772,7 +849,7 @@ pre code {
  box-shadow: 0 0 20px rgba(0, 0, 0, 0.4);
 }
 
-.alert-content h2 {
+.alert-content h3 {
  margin-top: 0;
 }
 
@@ -798,42 +875,52 @@ pre code {
 
 /* Ajustes para telas menores */
 @media only screen and (max-width: 40rem) {
-body {
- max-width: 100%;
- padding: 0 10px;
- overflow-x: hidden; /* Garante que nada transborde a lateral */
-}
-
 header {
- flex-direction: row;
- justify-content: space-between;
- align-items: center; /* Centraliza verticalmente */
- width: 100%;
+ align-items: flex-start;
+ text-align: left;
+ padding: 0 ;
 }
 
 .top-header {
- flex: 1;
  display: flex;
- align-items: center;
- gap: 10px;
+ flex-direction: row;
+ align-items: center; /* Centraliza a foto verticalmente em relação ao bloco de texto */
+ gap: 15px;  /* Espaço entre a foto e o texto */
+}
+
+ /* Bloco que agrupa os textos */
+.header-text-container {
+ display: flex;
+ flex-direction: column;
+ justify-content: center;
 }
 
 nav {
- column-gap: 10px; /* espaçamento só horizontal */
- row-gap: 0;         /* garante que não haja espaço vertical */
+ gap: 5px 7px;
 }
 
-main{
-  padding: 0 0px;
-  max-width: 100%;
+h1 {
+ display: block !important;
+ font-size: 1.8rem;
+ margin: 0 !important; /* Zera qualquer margem */
+ line-height: 1; /* Cola o texto na linha */
+ padding-bottom: 2px;  /* Controle fino da distância */
 }
 
+.h1-menor {
+ display: block !important;
+ margin: 0 !important; /* Zera a margem que estava criando o buraco */
+ font-size: 0.88rem;
+ line-height: 1.2;
+ color: var(--color-text);
+}
+ 
 footer {
  flex-direction: column;
  justify-content: center;
  align-items: center;
  text-align: center;
- row-gap: 9px;         /* garante que não haja espaço vertical */
+ row-gap: 9px;  /* garante que não haja espaço vertical */
  width: 100%;
 }
 
@@ -855,12 +942,9 @@ footer {
 }
 
 /* INÍCIO Centraliza a galeria horizontalmente em telas menores */
-.foto-post {
- justify-content: center;
-}
-
-.foto-post .mais-fotos {
- width: 100%; /* Ajusta a largura das imagens para 100% em telas menores */
+.mais-fotos {
+ grid-template-columns: 1fr;
+ align-items: stretch; /* Volta ao normal no mobile para não criar espaços estranhos */
 }
 
 .foto-post-flutua {

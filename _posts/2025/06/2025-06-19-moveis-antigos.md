@@ -8,7 +8,7 @@ caption: "Um cantinho confortável [...]"
 tags: ["a vida, o universo e tudo mais","casa","fotos", "pensamentos"]
 permalink: "/fotolog/moveis-antigos"
 ---
-<figure class="foto-post">
+<figure>
 <img src="{{ site.baseurl }}/assets/fotos/2025/06/20250619_112007.jpg" alt="Uma cadeira de balanço de madeira com acento e encosto de vime, uma mesa da canto de madeira com azulejos brancos no tampo. Sobre a mesa um livro da Úrsula Le Guin, suporte para controles com controle remotos e uma luminária verde." title="Um cantinho confortável">
 <figcaption>Um cantinho confortável</figcaption>
 </figure>

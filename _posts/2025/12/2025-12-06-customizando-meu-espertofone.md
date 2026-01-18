@@ -35,6 +35,6 @@ Pequenas coisas que nos alegram. 😆
 
 Claro, umas duas imagens de como ficou.
 
-<figure class="foto-post">
+<figure>
 <a href="/assets/fotos/2025/12/Capturas-de-tela-com-novas-fontes.png"><img src="/assets/fotos/2025/12/Capturas-de-tela-com-novas-fontes.png" alt="" title="Capturas de tela com as novas fontes"></a>
 </figure>

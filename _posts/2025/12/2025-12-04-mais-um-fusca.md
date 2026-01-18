@@ -9,7 +9,7 @@ tags: ["a vida, o universo e tudo mais", "fotos", "passeios", "pensamentos"]
 permalink: "/fotolog/mais-um-fusca"
 ---
 
-<figure class="foto-post">
+<figure>
 <img src="/assets/fotos/2025/12/20250720_163807.jpg" alt="Foto de um fusca verde, parado na rua. A foto foi tirada meio de lado, da traseira do fusca. O carro possui um bagageiro de madeira externo preso à tampa do motor, no teto temos outro bagageiro, esse de metal." title="Mais um fusca">
 <figcaption>Mais um fusca...</figcaption>
 </figure>

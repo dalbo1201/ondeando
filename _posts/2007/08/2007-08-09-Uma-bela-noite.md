@@ -5,7 +5,7 @@ title: "Uma bela noite de futebol"
 date: 2007-08-09 08:00:00 -0000
 tags: ["esportes, ou só futebol", "fotos"]
 ---
-<figure class="foto-post">
+<figure>
     <img src="{{ site.baseurl }}/assets/fotos/2007/08/Botafogo-São Paulo-105.jpg" alt="Nós com RC" title="foto minha com amigos e Rog[erio Ceni">
 </figure>
 Saudações tricolores,

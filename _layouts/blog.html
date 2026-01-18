@@ -2,7 +2,7 @@
 
 {% include header.html %}
 
-<main>
+  <div class="main-wrapper"> <main>
 
   {{ content }}
 
@@ -15,9 +15,9 @@
       <p class="blog-data">
         <a href="{{ post.url | relative_url }}" class="linkdata"> {{ post.date | date: "%d/%m/%Y" }}</a>
       </p>
-      <h2>
+      <h3>
         <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
-      </h2>
+      </h3>
       
         {{ post.content | markdownify }}
       
@@ -39,7 +39,8 @@
   </section>
 {% endif %}
 
-{% include footer.html %}
+  </div> {% include footer.html %}
+
 
 </body>
 </html>

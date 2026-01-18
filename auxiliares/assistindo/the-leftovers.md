@@ -4,7 +4,7 @@ title: Sobre The Leftovers
 description: Comentários sobre a série The Leftovers
 permalink: "/assistindo/the-leftovers-comentarios"
 ---
-# <span aria-hidden="true">|<span class="h1-menor">sobre </span></span>The Leftovers
+# <span aria-hidden="true">|<span class="h2-menor">sobre </span></span>The Leftovers
 
 Comentários rápidos e sem muito trabalho editorial sobre os episódios assistidos de *The Leftovers*.
 
@@ -42,7 +42,7 @@ Não me responsabilizo pelo que você possa ler sem ter assistido antes.</div></
 <hr>
   
 ## Temporada 1 
-<h3 id="t01e01-02">t01e01-02 <a href="#">&uarr;</a></h3>
+<h4 id="t01e01-02">t01e01-02 <a href="#">&uarr;</a></h4>
 Eu não me lembrava dessa série.
 Vou dizer que quando ela foi lançada não me pegou ou não apareceu no meu radar, então não saberei dizer (e não fui muito em busca dessa informação).
 
@@ -55,10 +55,10 @@ Em todo caso, eu estou curioso e quero seguir (pelo menos) pela primeira tempora
 Aliás, esse é um problema (não dessa série em específico) de séries de um grande mistério, se ele é resolvido, o que fazer depois? Até quando o público aceita esperar pela solução? Se é que tem alguma solução...
 
 
-<h3 id="t01e03-04">t01e03-04 <a href="#">&uarr;</a></h3>
+<h4 id="t01e03-04">t01e03-04 <a href="#">&uarr;</a></h4>
 Já tava errado de ficar respirando no estacionamento. Sai correndo dali e só para em casa 2 dias depois. 😂  
   
-<h3 id="t01e05-06">t01e05-06 <a href="#">&uarr;</a></h3>
+<h4 id="t01e05-06">t01e05-06 <a href="#">&uarr;</a></h4>
 **e05**  
 Já começa "mau", por mais que me dê raiva da galera RC (os de branco), ninguém merece ser tratado desse jeito. Realista, visceral, pesado.
 
@@ -77,7 +77,7 @@ No final, as pessoas só precisam de um abraço. O cara da fazenda ficou mais es
 
 Fiquei achando que a Nora (e o Kevin) melhoraria ao se relacionar com o delegado, mas no final ela só precisava "de um abraço" do Messias.
 
-<h3 id="t01e07-08">t01e07-08 <a href="#">&uarr;</a></h3>
+<h4 id="t01e07-08">t01e07-08 <a href="#">&uarr;</a></h4>
 **e07**  
 A relação da família do delegado é realmente complexa, a dita loucura do patriarca pesa sobre o delegado de uma maneira que fica parecendo muito que tem algo sobrenatural na história.  
 
@@ -103,7 +103,7 @@ Agora é lidar com a Laurie no comando do rolê e com a filha de pupila.
 
 A filha dele, pelo amor, que garota chata, e ela ainda foi no final atrás dos RC e isso deu mais vontade de não saber mais dela.  
 
-<h3 id="t01e09-10">t01e09-10 <a href="#">&uarr;</a></h3>
+<h4 id="t01e09-10">t01e09-10 <a href="#">&uarr;</a></h4>
 **e09**  
 Um belíssimo episódio mostrando dias antes do arrebatamento, as confusões e problemas em família.  
 
@@ -124,7 +124,7 @@ Parece que o bebê ficará a cargo do Kevin mesmo. (Essa eu escrevi antes do fin
 
 Apesar de toda a confusão, no final foi um bonito final de série.
 
-<h3 id="">Ótima temporada <a href="#">&uarr;</a></h3>
+<h4 id="">Ótima temporada <a href="#">&uarr;</a></h4>
 No resumo final a temporada é extremamente interessante, realmente.  
 
 As histórias são bem montadas, não tentam explicar tudo (na verdade não explica nada) e tá tudo bem.  
@@ -136,7 +136,7 @@ Alguns não deixando os outros seguirem em frente, outros tentando apenas fazer 
 E isso é muito a vida.
 
 ## Temporada 2  
-<h3 id="t02e01-02">t02e01-02 <a href="#">&uarr;</a></h3>
+<h4 id="t02e01-02">t02e01-02 <a href="#">&uarr;</a></h4>
 **e01**  
 Decara essa pegada com uma música mais alegre na abertura destoa bem do que foi a primeira temporada e me deixou curioso. Mesmo a foto com os desaparecidos parecendo o universo tem um ar mais acolhedor.  
 
@@ -161,7 +161,7 @@ Curioso como uma estabilidade familiar e sensação de segurança deram a Jill u
 
 Gente o que acontece com o Kevin agora? Ele só não morreu porque a água sumiu. Ele precisa muito de uma ajuda...
 
-<h3 id="t02e03-04">t02e03-04 <a href="#">&uarr;</a></h3>
+<h4 id="t02e03-04">t02e03-04 <a href="#">&uarr;</a></h4>
 **e03**  
 Decididamente eu gosto muito da abertura da segunda temporada.  
 
@@ -188,7 +188,7 @@ Mas é aquela coisa, o seriado não vai pra uma pegada mística, mágica. Mas cl
 
 Agora com o sumisso dessas garotas a coisa vai perder o controle nessa cidade que viveu, até agora, sem passar pelo arrebatamento e com muita gente achando que era um lugar especial.  
 
-<h3 id="t02e05-06">t02e05-06 <a href="#">&uarr;</a></h3>
+<h4 id="t02e05-06">t02e05-06 <a href="#">&uarr;</a></h4>
 **e05**  
 Cara, a vida do pastor não é fácil. Vai passar o resto da temporada por um milagre que ele viu acontecer uma vez na cidade do milagre.  
 
@@ -217,7 +217,7 @@ E mais uma vez alguém desejou algo e as coincidências matam as pessoas por den
 
 A Nora que achou que era uma traição, e o Kevin realmente contando tudo pra ela. Triste ver que as mulheres têm que ficar servindo de apoio prum monte de homem maluco.  
 
-<h3 id="t02e07-08">t02e07-08 <a href="#">&uarr;</a></h3>
+<h4 id="t02e07-08">t02e07-08 <a href="#">&uarr;</a></h4>
 
 **e07**  
 "Eu não sou maluco". Kevin não tem jeito, maluco é pouco.  
@@ -243,7 +243,7 @@ Vou falar, se esse episódio não der em nenhuma resolução com o Kevin eu espe
 
 E o passarinho mais uma vez levou a pior. Eu acho que o pássaro tem alguma metáfora que eu não tô pegando, não é possível.  
 
-<h3 id="t02e09-10">t02e09-10 <a href="#">&uarr;</a></h3>
+<h4 id="t02e09-10">t02e09-10 <a href="#">&uarr;</a></h4>
 **e09**  
 Mas sempre precisa de uma tragédia... Agora eu quero saber o que a ~~velha~~ senhora falou. 
 
@@ -276,7 +276,7 @@ Essa cena final foi bonita? Foi. Mas achei meio forçada, poderia ser menos melo
 
 O episódio cresceu bem, teve um bom clímax e entregou o que poderia ser esperado da série lembrando a primeira temporada. 
 
-<h3 id="">Ótima temporada <a href="#">&uarr;</a></h3>  
+<h4 id="">Ótima temporada <a href="#">&uarr;</a></h4>  
 Dessa vez eu achei a temporada mais equilibrada que a primeira. Os primeiros episódios entregam bem, dão o clima e apresentam o que podem ser o mistério e os conflitos.  
 
 Não é que a temporada dê embarrigadas, mas ela prolonga algumas questões de personagens e esquece outros que poderiam ser mais interessantes, de qualquer forma ela sempre trata com respeito o espectador e é difícil comentar episódios sem o todo porque eles simplesmente escolhem caminhos que a gente vai ver depois. Mas ao mesmo tempo tem histórias interessantes que a gente não vai saber e eu poderia gostar mais.  
@@ -287,7 +287,7 @@ Ansioso pela terceira temporada e mesmo sabendo que *todo carnaval tem seu fim* 
 
 ## Temporada 3  
 
-<h3 id="t03e01-02">t03e01-02 <a href="#">&uarr;</a></h3>
+<h4 id="t03e01-02">t03e01-02 <a href="#">&uarr;</a></h4>
 
 **e01**  
 Que transição linda para os RC. Mas já fica a dúvida, seriam eles descendentes desses não escolhidos?  
@@ -325,7 +325,7 @@ Tinha que ser na Austrália o rolê, né? Na hora eu pensei no pai dele e imagin
 
 Gente, acho que o livro de Kevin foi longe demais no espaço tempo. 😂
 
-<h3 id="t03e03-04">t03e03-04 <a href="#">&uarr;</a></h3>  
+<h4 id="t03e03-04">t03e03-04 <a href="#">&uarr;</a></h4>  
 
 **e03**  
 Fiquei realmente decepcionado por terem mantido a abertura nessa temporada. Será que já sabiam que ia acabar e não se esforçaram? 🤪
@@ -349,7 +349,7 @@ E mais uma vez Kevin sendo um belo babaca com a Nora que também não tá bem, m
 
 Realmente curioso para saber pra onde vai esse história agora com a separação do do Kevin e Nora. Espero que eles retornem, gosto da dinâmica deles.  
 
-<h3 id="t03e05-06">t03e05-06 <a href="#">&uarr;</a></h3>  
+<h4 id="t03e05-06">t03e05-06 <a href="#">&uarr;</a></h4>  
 
 **e05**  
 Que abertura foi essa? Horrível de ouvir, muito baixa e em francês? Achei que estava com problemas na HBO Max.  
@@ -381,7 +381,7 @@ A Laurie cresceu muito nessa temporada. E falar que gostinho de final, um gostin
 
 Preocupado com o que vem depois pra manter isso.  
 
-<h3 id="t03e07-08">t03e07-08 <a href="#">&uarr;</a></h3>  
+<h4 id="t03e07-08">t03e07-08 <a href="#">&uarr;</a></h4>  
 
 **e07**  
 A barba é uma maquiagem pro homem. 😅 Mas dá muito trabalho ficar tirando e colocando essa barba. 
@@ -419,6 +419,6 @@ No final das contas o arrebatamento realmente aconteceu, continuamos sem saber o
 
 Mas esse é o problema de dar alguma explicação... Se lá também pessoas sumiram, elas foram para onde? E se a Nora tenta voltar, ela na verdade não deveria ir para onde as pessoas de lá foram? Fica complicado dar uma solução, ou a Nora só inventou tudo isso. Mas não sei se seria do feitio dela mentir sobre isso ao invés de só dizer que desistiu e não soube lidar com isso.  
 
-<h3 id="">Ótima temporada <a href="#">&uarr;</a></h3> 
+<h4 id="">Ótima temporada <a href="#">&uarr;</a></h4> 
 
 De toda forma, a série termina com um saldo muito positivo, excelentes episódios, poucas coisas que podemos chamar de barrigas e dando um caminho para todos os personagens.

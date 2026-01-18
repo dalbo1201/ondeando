@@ -5,7 +5,7 @@ title: "A Viagem de Chihiro"
 date: 2025-04-25 15:00:00 -0300
 tags: ["filmes"]
 ---
-<figure class="foto-post">
+<figure>
 <img src="{{ site.baseurl }}/assets/fotos/2025/04/Chihiro-e-Sem-Face-no-trem.jpg" alt="Cena do filme A Viagem de Chihiro no qual a protagonista e o 'fantasma' Sem-Face, junto ao bebê de Yubaba, transformado em ratinho, estão sentados no trem um ao lado do outro diante da paisagem através da janela a caminho da irmã de Yubaba para tentar salvar Haku" title="Chiciro e Sem-Face">
 <figcaption>Não se esqueça de descer na sexta estação</figcaption>
 </figure>

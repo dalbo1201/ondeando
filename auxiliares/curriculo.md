@@ -4,15 +4,15 @@ title: Currículo
 description: Meu currículo atualizado.
 permalink: "/profissional/cv"
 ---
-<h1>
-<span aria-hidden="true">|<span class="h1-menor">meu </span></span>Currículo
-</h1>
+<h2>
+<span aria-hidden="true">|<span class="h2-menor">meu </span></span>Currículo
+</h2>
 
 <aside><a href="{{ site.url }}/assets/Pedro Dal Bó.pdf" title="meu currículo atualizado">Currículo em PDF</a></aside>
 
    <!-- Seção de experiência -->
   <section aria-labelledby="experiencia-titulo">
-    <h2 id="experiencia-titulo">Experiência Profissional</h2>
+    <h3 id="experiencia-titulo">Experiência Profissional</h3>
 <article class="curriculo">
 <p>Desenvolvo projetos geométricos e de terraplenagem de rodovias, ferrovias e vias urbanas com Civil3D. Participo da coordenação interna de contratos na Equipe de Geometria e Terraplenagem, gerenciando e distribuindo tarefas, entrega de produtos, definições e soluções técnicas. Elaborei modelagens de maquetes eletrônicas e vídeos curtos com Infraworks, além de quantitativos de disciplinas como Obras de Arte Especiais, Túneis e Barreiras Acústicas. Auxiliei no acompanhamento e elaboração de relatórios de ATO.</p>
 </article>
@@ -20,16 +20,16 @@ permalink: "/profissional/cv"
 
    <!-- Seção de trabalhos e empresas -->
   <section aria-labelledby="trabalhos-titulo">
-    <h2 id="experiencia-titulo">Trabalhos realizados</h2>
+    <h3 id="experiencia-titulo">Trabalhos realizados</h3>
 <article class="curriculo">
-  <h3>Projeta Infraestrutura</h3>
+  <h4>Projeta Infraestrutura</h4>
   <em>São Paulo, SP</em>
     <p><b>Engenheiro Civil</b>: <time datetime="2025-11">novembro de 2025</time> – atual</p>
       <p>Trabalho desenvolvendo projetos de geometria e terraplenagem de rodovias com Civil3D.<br/></p>
 </article>
 
 <article class="curriculo">
-      <h3>Cemosa Ingeniería y Control</h3>
+      <h4>Cemosa Ingeniería y Control</h4>
       <em>São Paulo, SP</em>
       <p><b>Engenheiro Civil</b>: <time datetime="2022-01">janeiro de 2022</time> – <time datetime="2025-11">novembro de 2025</time></p>
         <p>Trabalho desenvolvendo projetos de geometria e terraplenagem de rodovias com Civil3D e auxilio na coordenação interna de contrato da equipe.<br/>
@@ -45,14 +45,14 @@ permalink: "/profissional/cv"
 </article>
 
 <article class="curriculo">
-      <h3>EPL – Empresa de Planejamento e Logística (INFRA S.A.)</h3>
+      <h4>EPL – Empresa de Planejamento e Logística (INFRA S.A.)</h4>
       <em>Brasília, DF</em>
       <p><b>Assessor Técnico II (Engenheiro Civil)</b>: <time datetime="2020-07">julho de 2020</time> – <time datetime="2021-12">dezembro de 2021</time></p>
       <p>Trabalhei na análise de projetos funcionais e na realização de estudos técnicos de viabilidade para estruturação de concessões rodoviárias no âmbito do Ministério da Infraestrutura - Governo Federal. Desenvolvi e modelei projetos com Civil3D e Infraworks.</p>
 </article>
 
 <article class="curriculo">
-      <h3>Nova ENGEVIX Engenharia e Projetos S/A</h3>
+      <h4>Nova ENGEVIX Engenharia e Projetos S/A</h4>
       <em>Barueri, SP</em>
       <p><b>Engenheiro Civil</b>: <time datetime="2012-01">janeiro de 2012</time> – <time datetime="2020-07">junho de 2020</time></p>
       <p>Elaboraborei projetos de geometria de rodovias e sistemas viários com PowerCivil e auxíliei a coordenação interna de contratos na equipe. Elaborei quantitativos de disciplinas diversas e auxiliei no ATO com o desenvolvimento de relatórios e acompanhamento de instrumentação.<br/>
@@ -69,7 +69,7 @@ permalink: "/profissional/cv"
 </article>
 
 <article class="curriculo">
-      <h3>Prodec Consultoria para Decisão Ltda.</h3>
+      <h4>Prodec Consultoria para Decisão Ltda.</h4>
       <em>Rio de Janeiro, RJ</em>
       <p><b>Engenheiro Civil</b>: <time datetime="2011-04">abril de 2011</time> – <time datetime="2011-12">dezembro de 2011</time><br/>
       <b>Projetista</b>: <time datetime="2010-08">agosto de 2010</time> – <time datetime="2011-03">março de 2011</time>
@@ -87,16 +87,16 @@ permalink: "/profissional/cv"
 
   <!-- Formação -->
   <section aria-labelledby="formacao-titulo">
-    <h2 id="formacao-titulo">Formação</h2>
+    <h3 id="formacao-titulo">Formação</h3>
   <article class="curriculo">
-  <h3>Engenharia Civil (2011)</h3>
+  <h4>Engenharia Civil (2011)</h4>
     <p>Universidade Federal do Rio de Janeiro</p>
   </article>
   </section>
 
   <!-- Informática -->
   <section aria-labelledby="informatica-titulo">
-    <h2 id="informatica-titulo">Informática</h2>
+    <h3 id="informatica-titulo">Informática</h3>
     <article class="curriculo">
     <ul>
       <li>Infraworks – CadStudio Pro System;</li>
@@ -109,7 +109,7 @@ permalink: "/profissional/cv"
 
   <!-- Idiomas -->
   <section aria-labelledby="idiomas-titulo">
-    <h2 id="idiomas-titulo">Idiomas</h2>
+    <h3 id="idiomas-titulo">Idiomas</h3>
     <article class="curriculo">
     <ul>
       <li>Português: Nativo;</li>
@@ -120,7 +120,7 @@ permalink: "/profissional/cv"
  
  <!-- Seção de contato -->
   <section aria-labelledby="contato-titulo">
-    <h2 id="contato-titulo">Contato</h2>
+    <h3 id="contato-titulo">Contato</h3>
     <article class="curriculo">
     <address>
      <ul>

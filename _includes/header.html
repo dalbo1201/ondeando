@@ -2,24 +2,35 @@
 
  <header>
   <div class="top-header">
-    <a href="/" class="linkcab"><img src="/assets/foto-pedro-100px.jpg" alt="Foto de Pedro" title="sou eu" class="fotocab"></a>
+   <a href="/">
+  <img src="/assets/foto-pedro-100px.jpg" alt="Foto de Pedro" title="sou eu" class="fotocab">
+   </a>
+   
+   <div class="header-text-container"> <h1>Ondeando</h1>
+  <p class="h1-menor">o proto-jardim-digital de Pedro&nbsp;Dal&nbsp;Bó</p>
+   </div>
   </div>
 
   <nav>
-    <a href="/blog" title="se eu disser, será aqui">BLOG</a>
-    <a href="/fotolog" title="meu fotolog">FOTOLOG</a>
-    <a href="/agora" title="o que estou fazendo">AGORA</a>
-    <a href="/social" title="onde, também, me encontrar">SOCIAL</a>
+   <a href="/blog" title="se eu disser, será aqui">BLOG</a>
+   <a href="/fotolog" title="meu fotolog">FOTOLOG</a>
+   <a href="/agora" title="o que estou fazendo">AGORA</a>
+   <a href="/blogrol" title="aqueles que recomendo">BLOGROL</a>
+  <a href="/social" title="onde, também, me encontrar">SOCIAL</a>
   </nav>
   </header>
 
 {% elsif page.title == 'Profissional'% or page.title == 'Currículo' % or page.title == 'erro' %}
 
   <header>
-    <div class="top-header">
-      <img src="/assets/foto-pedro-100px.jpg" alt="Foto de Pedro" title="sou eu" class="fotocab">
-      <div class="namecab">Pedro Dal Bó</div>
-    </div>
+ <div class="top-header">
+   <a href="/">
+  <img src="/assets/foto-pedro-100px.jpg" alt="Foto de Pedro" title="sou eu" class="fotocab">
+   </a>
+   
+   <div class="header-text-container"> <h1>Pedro&nbsp;Dal&nbsp;Bó</h1>
+   </div>
+  </div>
 
   <nav>
   </nav>
@@ -28,8 +39,14 @@
 {% else %}  
 
   <header>
-  <div class="top-header">
-    <a href="/" class="linkcab"><img src="/assets/foto-pedro-100px.jpg" alt="Foto de Pedro" title="sou eu" class="fotocab"></a>
+   <div class="top-header">
+   <a href="/">
+  <img src="/assets/foto-pedro-100px.jpg" alt="Foto de Pedro" title="sou eu" class="fotocab">
+   </a>
+   
+   <div class="header-text-container"> <h1>Ondeando</h1>
+  <p class="h1-menor">o proto-jardim-digital de Pedro&nbsp;Dal&nbsp;Bó</p>
+   </div>
   </div>
 
   <nav>
@@ -37,6 +54,7 @@
   <a href="/fotolog" title="meu fotolog">FOTOLOG</a>
   <a href="/etiquetas" title="do que estou falando">ETIQUETAS</a>
   <a href="/agora" title="o que estou fazendo">AGORA</a>
+  <a href="/blogrol" title="aqueles que recomendo">BLOGROL</a>
   <a href="/social" title="onde, também, me encontrar">SOCIAL</a>
   <a href="/acompanhe" title="acompanhe"><img src="/assets/rss.svg" alt="RSS" width="22" height="22"></a>
   </nav>
