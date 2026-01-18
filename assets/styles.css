@@ -914,6 +914,11 @@ h1 {
  line-height: 1.2;
  color: var(--color-text);
 }
+
+h2 {
+ margin-top: 1.2rem; /* 40px */
+ margin-bottom: 3rem; /* 40px */
+}
  
 footer {
  flex-direction: column;
@@ -922,6 +927,7 @@ footer {
  text-align: center;
  row-gap: 9px;  /* garante que não haja espaço vertical */
  width: 100%;
+ margin-top: 2rem; /* 40px */
 }
 
 .footer-right {

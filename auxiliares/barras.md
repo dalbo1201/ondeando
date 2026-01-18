@@ -20,7 +20,7 @@ permalink: "/barras"
 <li><a href="/assistindo" title="comentários sobre séries principalmente">/assistindo</a>: Um Espaço onde eu juntei os comentários sobre filmes, séries, até mesmo livros. Mas principalmente séries que assito com oGrupo de Séries do <a href="https://feitoporelas.com.br">Feito por Elas</a>.</li><br/>
 <li><a href="/barras" title="onde cada coisa está">/barras</a>: Esta página, que indica o caminho para cada canto deste espaço.</li><br/>
 <li><a href="/blog" title="se eu disser, será aqui">/blog</a>: Efetivamente o local em que escrevo alguns dos meus pensamentos, passagens que me agradam lembrar e comento sobre o que achar valer a pena.</li><br/>
-<li><a href="/blogrol" title="se eu gosto, indico aqui">/blogrol</a>: Um rol de jardins giditais e blogs que eu leio e recomendo acompanharem.</li><br/>
+<li><a href="/blogrol" title="se eu gosto, indico aqui">/blogrol</a>: Uma lista de jardins digitais e blogs que eu leio e recomendo acompanharem.</li><br/>
 <li><a href="/colofao" title="o que move este cantinho">/colofao</a>: O lugar para contar um pouco dos bastidores deste cantinho.</li><br/>
 <li><a href="/dicas-do-blog" title="como eu montei algumas coisas por aqui">/dicas-do-blog</a>: Um canto onde eu vou colocando uns <i>tutoriais</i> de algumas coisas que eu fiz por aqui, vai que alguém tá precisando. Ou eu estou apenas alimentando as IA, mas aí é muita presunção minha.</li><br/>
 <li><a href="/etiquetas" title="do que estou falando e onde">/etiquetas</a>: Apresenta as etiquetas marcadas nas postagens do blog e do fotolog. Indica quais os posts estão separados por cada etiqueta.</li><br/>

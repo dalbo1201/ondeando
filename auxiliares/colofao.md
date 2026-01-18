@@ -40,7 +40,7 @@ Os links que não levarem para páginas em português coloco uma _etiqueta_ sobr
 <h3>Inspirações</h3>
 - O tema inicial do site foi inspirado no site do [@Paulo Higa](https://web.archive.org/web/20151103091229/http://higa.me/ "site do Higa quando me inspirei");
 - Quando ampliei o site para algo próximo de um _proto-jardim-digital_, acabei me inspirando visualmente no site/blog do [@Rodrigo Ghedin](https://web.archive.org/web/20250301092841/https://rodrigo.ghed.in/ "site do Ghedin quando me inspirei") (de quem pedi autorização. Se forem analisar os códigos, o site do Ghedin tem uma elegancia que aqui não existe, mas arrumarei em algum momento); 
-- Hoje o espaço tem visual inpirado em algo como o [MInimal](https://orderedlist.com/minimal/), mas vários sites apresentam essa dinâmica da coluna à esquerda em telas maiores se tronar o topo do site em telas menores; 
+- Hoje o espaço tem visual inpirado em algo como o [Minimal](https://orderedlist.com/minimal/), mas vários sites apresentam essa dinâmica da coluna à esquerda em telas maiores se tronar o topo do site em telas menores; 
 - O [Fotolog](/fotolog "meu fotolog") foi inspirado na página do [@Beaumont Photography<sup>[en]</sup>](https://beaumontphotography.bearblog.dev/ "site do Bruce"). Escrevi mais sobre isso [neste texto](/blog/criei-meu-fotolog/) e tento explicar num [tutorial](/dicas-do-blog "como fiz o Fotolog") como o montei.  
 
 <h3>Filosofia</h3>
