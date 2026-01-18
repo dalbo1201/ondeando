@@ -2,7 +2,7 @@
 layout: post
 type: texto
 title: "Ano novo, visual novo"
-date: 2026-01-13 12:00:00 -0300
+date: 2026-01-18 8:30:00 -0300
 tags: ["metablog"]
 ---
 Estou desde o ano passado um pouco incomodado com o visual do site, sei lá... Tinha algo que eu não gostava e queria deixá-lo com uma cara mais dinâmica mesmo sem tirar esse visual meio retrô. Acho que consegui.  
