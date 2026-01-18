@@ -4,7 +4,7 @@ title: Sobre The Leftovers
 description: Comentários sobre a série The Leftovers
 permalink: "/assistindo/the-leftovers-comentarios"
 ---
-# <span aria-hidden="true">|<span class="h2-menor">sobre </span></span>The Leftovers
+<h2><span aria-hidden="true">|<span class="h2-menor">sobre </span></span>The Leftovers</h2>
 
 Comentários rápidos e sem muito trabalho editorial sobre os episódios assistidos de *The Leftovers*.
 

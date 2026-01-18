@@ -95,7 +95,7 @@ header {
  top: 30px;
  height: fit-content;
  margin-top: 30px;
- border-right: 1px solid #eee;
+ border-right: 1px solid color-mix(in srgb, var(--color-text), transparent 93%);
  padding-right: 50px;
  align-items: flex-start;
  text-align: left;
@@ -204,7 +204,7 @@ h4 {
  line-height: clamp(1.44rem, 1.5vw, 1.56rem); /* 23–25px */
  text-wrap: balance;
  margin-top: 0.5rem;
- margin-bottom: 0.1rem; /* 10px */
+ margin-bottom: 0.03rem; /* 10px */
 }
 
 h5 {
@@ -213,7 +213,17 @@ h5 {
  font-weight: bolder;
  text-wrap: balance;
  text-align: left;
- margin: 10px 0px 0px 0px;
+ margin: 7px 0px 2px 0px;
+}
+
+h6 {
+ max-width: 100%; /* Faz com que o conteúdo ocupe 100% da largura do contêiner */
+ font-size: clamp(1.02rem, 2.5vw, 1.08rem); /* mínimo 21px */
+ color: color-mix(in srgb, var(--color-text), transparent calc(100% - (var(--code-background-transparency) * 100%)));
+ font-weight: bolder;
+ text-wrap: balance;
+ text-align: left;
+ margin: 7px 0px 2px 0px;
 }
 /* FINAL dos Estilos de títulos */
 
@@ -321,7 +331,7 @@ code {
  line-height: 1.4rem; /* ou 1.0 ou até 0.95, ajuste como preferir */
  font-family: monospace;
  padding: 1px 6px;
- border-radius: 4px;
+ border-radius: 3px;
  margin: 5px;
  white-space: nowrap; /* impede quebra dentro da tag */
  vertical-align: middle; /* Alinha verticalmente com o texto */
@@ -333,7 +343,7 @@ code {
 /* INÍCIO CONFIGURAÇÃO GERAL (ONDA) */
 /* --- 1. CONFIGURAÇÃO (ONDA) --- */
 a, nav a {
- border-radius: 7px;
+ border-radius: 3px;
  padding: 0.11em;
  display: inline-block; 
  line-height: 1.2;
@@ -482,9 +492,9 @@ article.blog-article.blog-citacao h3,
 
 
  /* INÍCIO DOS Estilos para o Blog */
- .blog-article{
+.blog-article{
  width: 100%; /* Garante que ocupe toda a largura do contêiner */
- margin-bottom: 25px;
+ margin-bottom: 70px;
 }
 
 .blog-data {
@@ -745,7 +755,7 @@ table.tabela-posts td {
  display: flex;
  justify-content: space-between; /* Garante que os itens fiquem nos extremos opostos */
  align-items: center; /* Alinha verticalmente os itens */
- margin: 10px auto 20px auto; 
+ margin: 40px auto 20px auto; 
  width: 100%; /* Ajuste conforme necessário */
  flex-shrink: 0; /* Evita que a paginação encolha */
 }

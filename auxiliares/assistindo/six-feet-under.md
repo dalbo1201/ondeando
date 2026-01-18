@@ -4,7 +4,7 @@ title: Sobre A Sete Palmos
 description: Comentários sobre a série Sex Feet Under ou A Sete Palmos
 permalink: "/assistindo/six-feet-under-comentarios"
 ---
-# <span aria-hidden="true">|<span class="h2-menor">sobre </span></span>A Sete Palmos
+<h2><span aria-hidden="true">|<span class="h2-menor">sobre </span></span>A Sete Palmos</h2>
 
 Comentários rápidos e sem muito trabalho editorial sobre os episódios assistidos de ~~A Sete Palmos~~ _Six Feet Under_.
 
