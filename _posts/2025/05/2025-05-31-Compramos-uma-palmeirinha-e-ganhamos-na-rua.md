@@ -1,4 +1,3 @@
-
 ---
 layout: foto
 type: album
