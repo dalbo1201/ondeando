@@ -29,29 +29,27 @@ Estou construindo um novo site/página para o meu _outro blog_ o [Histórias par
 <h4>Atividades</h4>
 <h5>Estou lendo:</h5>
 <ul>
+    <li>Orbital&nbsp;| Samantha Harvey;</li>
     <li>Chomsky & Mujica, Sobrevivendo ao século XXI&nbsp;| Saúl Alvídrez.</li>
 </ul>
 <h5>Filmes que vi <a href="https://letterboxd.com/dalbo1201/films/diary/" class="linkcab">&#127916;</a>:</h5>
-<ul>
-    <li>O Caçador de Ratos&nbsp;| Wes Anderson,2023&nbsp;| Netflix;</li>
-    <li>Sonhos de Trem&nbsp;| Clint Bentley,&nbsp;2025&nbsp;| Netflix;</li>
-    <li>A Caçada ao Outubro Vermelho&nbsp;| John McTiernan,&nbsp;1990&nbsp;| Netflix;</li>
-    <li>Uma Batalha Após a Outra&nbsp;| Paul Thomas Anderson,&nbsp;2025&nbsp;| HBO&nbsp;Max;</li> 
-    <li>Entre Facas e Segredos: Vivo ou Morto&nbsp;| Rian Johnson,&nbsp;2025&nbsp;| Prime&nbsp;Video;</li>
-    <li>Missão Impossível: O Acerto Final&nbsp;| Christopher McQuarrie,&nbsp;2025&nbsp;| Paramount+.</li>
-</ul>
+
+Sem filmes por enquanto.
+
 <h5>Séries que estou vendo <a href="https://tvtime.com/r/38uUh" class="linkcab">&#128250;</a>:</h5>
 <ul>
+    <li>Starfleet Academy&nbsp;| Paramount+&nbsp;| temporada&nbsp;1;</li>
+    <li>Um Espião Infiltrado&nbsp;| Netflix | temporada&nbsp;2;</li>
     <li>Arcane&nbsp;| Netflix | temporada&nbsp;2;</li>
     <li>Invencível&nbsp;| Prime Video&nbsp;| temporada&nbsp;2;</li>
     <li>Kamen Rider: Black Sun&nbsp;| Prime Video&nbsp;| temporada&nbsp;1;</li>
     <li><a href="/assistindo/six-feet-under-comentarios" title="alguns comentários sobre os episódios">A Sete Palmos</a>&nbsp;| HBO&nbsp;Max&nbsp;| temporada&nbsp;1;</li>
-    <li>Arquivo X&nbsp;| Disney+&nbsp;| temporada&nbsp;1;&nbsp;↺</li>
+    <li>Arquivo X&nbsp;| Disney+&nbsp;| temporada&nbsp;2;&nbsp;↺</li>
 </ul>
 
 <aside class="aviso-caixa"><div class="aviso-texto">Vale lembrar que tem a página <a href="/assistindo">ASSISTINDO</a> que agrega os textos sobre o que vejo.<br/>
 Não vamos esquecer que o <a href="https://historiasparaler.blog.br" title="onde comento livros">Histórias para Ler</a> onde comento sobre os livros que leio.</div></aside>
 
 <aside class="atualizacao">
-    atualizado em 02 de janeiro de 2026.
+    atualizado em 23 de janeiro de 2026.
 </aside>
