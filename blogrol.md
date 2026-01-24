@@ -27,7 +27,7 @@ Blog pessoal do Ghedin.
 <h6>vários autores | blog | Blogger | <a href="http://feeds.feedburner.com/historiasparaler/?ref=pedro.dalbo.me">feed</a></h6>
 Um blog onde eu mesmo e outros colegas escrevemos nossas opiniões sobre os livros que lemos.
 <br/>
-<h4><a href="https://cavalcanti.info/?ref=pedro.dalbo.me">Luiz Cavalvanti</a></h4>
+<h4><a href="https://cavalcanti.info/?ref=pedro.dalbo.me">Luiz Cavalcanti</a></h4>
 <h6>Luiz | cartão de visita, blog e repositório de conteúdo | Hugo</h6>
 Um espaço de cartão de visita, repositório de produção (acadêmica ou não) e blog.
 <br/>
