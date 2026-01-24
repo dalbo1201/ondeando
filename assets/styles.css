@@ -537,7 +537,7 @@ article.blog-article.blog-citacao h3,
 }
 
 .fleabag { /* steegg - quando eu faço um comentário dentro do texto */
- font-size: clamp(0.95rem, 1.5vw, 1.06rem); /* 16–17px */
+ font-size: clamp(1rem, 1.5vw, 1.06rem); /* 16–17px */
  line-height: clamp(1.5rem, 2vw, 1.7rem); /* 23px */
  font-style: italic;
  margin: 20px 0px 20px 20px;
