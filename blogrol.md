@@ -47,7 +47,7 @@ Blog pessoal da Raquel, engenheira e minha amiga de faculdade. Mas além disso a
 <h6>sol2070 | jardim digital | Jekyll | <a href="https://sol2070.in/feed/?ref=pedro.dalbo.me">feed</a></h6>
 Um jargim digital com foco em contracultura e coisas alternativas que não têm por aí, mas às vezes a cultura de massa penetra.
 <br/><br/>
-<h6>em inglês, porque é o que eu <i>sei ler</i>, fora o português</h6>
+<h5>em inglês, porque é o que eu <i>sei ler</i>, fora o português</h5>
 <h4><a href="https://beaumontphotography.bearblog.dev/?ref=pedro.dalbo.me">Beaumont Photography</a></h4>
 <h6>Bruce Beaumont | blog | BearBlog</h6>
 Blog de fotografias do Bruce Beaumont. Foi deste blog que <a href="/blog/criei-meu-fotolog/">eu me inspirei</a> para montar o código do meu <a href="/fotolog">FOTOLOG</a>.
