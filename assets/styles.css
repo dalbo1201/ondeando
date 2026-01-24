@@ -536,14 +536,6 @@ article.blog-article.blog-citacao h3,
  align-self: flex-end;
 }
 
-.fleabag { /* steegg - quando eu faço um comentário dentro do texto */
- font-size: clamp(1rem, 1.5vw, 1.06rem); /* 16–17px */
- line-height: clamp(1.5rem, 2vw, 1.7rem); /* 23px */
- font-style: italic;
- margin: 20px 0px 20px 20px;
- max-width: 80%; 
-}
-
 blockquote {
  margin: 0;
  padding: 0;
@@ -559,6 +551,15 @@ blockquote p{
  max-width: 80%;
 }
 
+/* INÍCIO Estilos para blockquote */
+.fleabag { /* steegg - quando eu faço um comentário dentro do texto */
+ font-size: clamp(1rem, 1.5vw, 1.06rem); /* 16–17px */
+ line-height: clamp(1.5rem, 2vw, 1.7rem); /* 23px */
+ font-style: italic;
+ margin: 20px 0px 20px 20px;
+ max-width: 80%; 
+}
+
 cite {
  display: block;
  font-size: clamp(1.03rem, 1.5vw, 1.05rem);
@@ -568,7 +569,6 @@ cite {
  margin-bottom: 1rem;
  max-width: 100%;
 }
-
 
 /* INÍCIO Estilo especial para blockquote em posts com type: frase */
 article.blog-article.blog-citacao blockquote p {
@@ -607,6 +607,7 @@ article.blog-article.blog-citacao cite {
  margin-top: 40px;
 }
 /* FINAL Estilo especial para blockquote em posts com type: frase */
+/* FINAL Estilos para blockquote */
 /* FINAL DOS Estilos para o Blog */
 
 
