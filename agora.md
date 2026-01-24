@@ -12,7 +12,7 @@ Imagine que você tem aquele amigo que não o vê há muito tempo, aqui você co
 Bom, é isso o que vai encontrar por aqui.  
 <hr> 
 <h4>Profissional</h4>  
-Comecei a trabalhar na [Projeta Infraestrutura](/profissional) como engenheiro de projetos rodoviários a convite do meu amigo Renan que acredita que meu trabalho e experiência podem ajudar à equipe. Fico feliz pela confiança e espero retribuir a altura.  
+Comecei a trabalhar na Projeta Infraestrutura como engenheiro de projetos rodoviários a convite do meu amigo Renan que acredita que meu trabalho e experiência podem ajudar à equipe. Fico feliz pela confiança e espero retribuir a altura.  
 
 <h4>Pessoal</h4>
 Estamos numa batalha para deixar nossos gatos vivendo em alguma harmonia, temos uma evolução, mas ainda pequenas batalhas a vencer.  
