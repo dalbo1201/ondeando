@@ -34,15 +34,15 @@ Comentários rápidos e sem muito trabalho editorial sobre os episódios assisti
 <li><a href="#t03e07-08">t03e07-08</a></li>
 </ul>
 </details>
-
-
 <aside class="aviso-caixa"><div class="aviso-texto">Atenção que os comentários daqui pra baixo podem, em algum momento, apresentar <b>spoileres da série</b>.<br/>
 Não me responsabilizo pelo que você possa ler sem ter assistido antes.</div></aside>
+<br/>
+<a href="/assistindo">&laquo; voltar para Assistindo</a>
 
 <hr>
   
-## Temporada 1 
-<h4 id="t01e01-02">t01e01-02 <a href="#">&uarr;</a></h4>
+<h3 id="t01e01-02">Temporada 1</h3>
+<h4>t01e01-02 <a href="#">&uarr;</a></h4>
 Eu não me lembrava dessa série.
 Vou dizer que quando ela foi lançada não me pegou ou não apareceu no meu radar, então não saberei dizer (e não fui muito em busca dessa informação).
 
@@ -135,8 +135,8 @@ Alguns não deixando os outros seguirem em frente, outros tentando apenas fazer 
 
 E isso é muito a vida.
 
-## Temporada 2  
-<h4 id="t02e01-02">t02e01-02 <a href="#">&uarr;</a></h4>
+<h3 id="t02e01-02">Temporada 2</h3>
+<h4>t02e01-02 <a href="#">&uarr;</a></h4>
 **e01**  
 Decara essa pegada com uma música mais alegre na abertura destoa bem do que foi a primeira temporada e me deixou curioso. Mesmo a foto com os desaparecidos parecendo o universo tem um ar mais acolhedor.  
 
@@ -285,9 +285,9 @@ De qualquer forma a temporada entrega um esforço, o que é excelente. Não prec
 
 Ansioso pela terceira temporada e mesmo sabendo que *todo carnaval tem seu fim* gostaria que esse durasse mais.  
 
-## Temporada 3  
+<h3 id="t03e01-02">Temporada 3</h3>
 
-<h4 id="t03e01-02">t03e01-02 <a href="#">&uarr;</a></h4>
+<h4>t03e01-02 <a href="#">&uarr;</a></h4>
 
 **e01**  
 Que transição linda para os RC. Mas já fica a dúvida, seriam eles descendentes desses não escolhidos?  

@@ -8,7 +8,7 @@ permalink: "/assistindo/six-feet-under-comentarios"
 
 Comentários rápidos e sem muito trabalho editorial sobre os episódios assistidos de ~~A Sete Palmos~~ _Six Feet Under_.
 
-<details open><summary>Temporada 1</summary>
+<details><summary>Temporada 1</summary>
 <ul>
 <li><a href="#t01e01-02">t01e01-02</a></li>
 <li><a href="#t01e03-04">t01e03-04</a></li>
@@ -19,16 +19,22 @@ Comentários rápidos e sem muito trabalho editorial sobre os episódios assisti
 <li><a href="#t01e13">t01e13</a></li>
 </ul>
 </details>
+<details open><summary>Temporada 2</summary>
+<ul>
+<li><a href="#t02e01-02">t02e01-02</a></li>
+</ul>
+</details>
 
 <aside class="aviso-caixa"><div class="aviso-texto">Atenção que os comentários daqui pra baixo podem, em algum momento, apresentar <b>spoileres da série</b>.<br/>
 Não me responsabilizo pelo que você possa ler sem ter assistido antes.</div></aside>
-
+<br/>
+<a href="/assistindo">&laquo; voltar para Assistindo</a>
 <hr>
   
 Diferente de _[The Leftovers](/assistindo/the-leftovers-comentarios)_, _A Sete Palmos_ (ou _Six Feet Under_, cada hora chamarei de uma forma...) passou pelo meu radar, mas eu não sei porque não a assisti. Olhando em retrocesso, na minha juventude (a série é de 2001-2005) eu não tinha acesso constante à HBO e possivelmente não veio com força para ficar buscando pela _Locadora do Paulo Coelho_.  
 
-## Temporada 1 
-<h4 id="t01e01-02">t01e01-02 <a href="#">&uarr;</a></h4>
+<h3 id="t01e01-02">Temporada 1</h3>
+<h4>t01e01-02 <a href="#">&uarr;</a></h4>
 **e01**  
 Um filho revoltado que volta ao lar, outro filho que ficou pela culpa e agora sente que pode perder o protagonismo com o retorno do irmão e uma irmã rebelde. Uma família típica dos anos 90-00.
 
@@ -178,4 +184,25 @@ Uma temporada sentimentalmente equilibrada, triste e divertida. Alguns episódio
 
 Uma série que lida bem com os temas que aborda e que me parece bem adiante da época. Não apenas com o tema da homossexualidade, mas com a tomada de decisão na vida da Ruth, uma mulher que casou cedo demais, ficou presa à familia e soube lidar com o luto sem se esconder do que a vida tem a lhe oferecer agora.  
 
-Que os personagens evoluam mais, às vezes rolam uns retrocessos em outras séries para prolongar situações, essa galera (e a gente) não merece isso.
+Que os personagens evoluam mais, às vezes rolam uns retrocessos em outras séries para prolongar situações, essa galera (e a gente) não merece isso.  
+
+<h3 id="t02e01-02">Temporada 2</h3>
+<h4>t02e01-02 <a href="#">&uarr;</a></h4>
+
+**e01**  
+Achei um retorno de temporad ameio morno, eu esperava que a caminhada do patriarca indicasse um rito de passagem e que ele nao aparecesse mais, nao será o caso. Nada contra mas do jeito que rolou me passou essa impressão de evolução dos sentimentos.  
+
+A relação do Deve com o casal do ex, já tá parecendo meio forçada para deixá-lo desconfortável, parece uma estagnação da vida dele. Assim como o Gabriel e essa necessidade da Claire de cuidar dele, mas ela vai se dar mal porque claramente ele roubou o frasco.  
+
+E Nate e Branda tão numa situacao complicada, ela tendo que lidar com os problemas dela e precisando ficar sozinha com isso e ele tendo que lidar com o problema dele, sem contar pra ela, e querendo aproveitar mais os momentos dele juntos. Vai dar ruim antes de dar bom.  
+
+Achei ótimo o jantar com o Nokolai, acho ele divertido demais.  
+
+**e02**  
+Não deu ruim pra Claire por causa do frasco, mas a coisa saiu do controle. A gente ate pode sentir pena od Gabriel, mas o rapaz não ajuda em nada.  
+
+Tava na cara que nao iam ajudar o Rico e que essa situação dele nao ser sócio tava fugindo do controle. As vezes ele passa do tom com o Nate e o Dave, dá uma misturada nas coisas.  
+
+A Ruth pedindo um histórico do que tão fazendo com o dinheiro dela foi ótimo, ela não parece ter gostado muito do mostruário.  
+
+Foi engraçado o Nate sonhando contar pra Brenda a situação dele, mas aí o episódio termina daquele jeito com ele conversando com o Dave e foi pesado aquilo, triste a situação toda.

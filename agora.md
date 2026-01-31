@@ -48,7 +48,7 @@ Sem filmes por enquanto.
 </ul>
 
 <aside class="aviso-caixa"><div class="aviso-texto">Vale lembrar que tem a página <a href="/assistindo">ASSISTINDO</a> que agrega os textos sobre o que vejo.<br/>
-Não vamos esquecer que o <a href="https://historiasparaler.blog.br" title="onde comento livros">Histórias para Ler</a> onde comento sobre os livros que leio.</div></aside>
+Não vamos esquecer do <a href="https://historiasparaler.blog.br" title="onde comento livros">Histórias para Ler</a> onde comento sobre os livros que leio.</div></aside>
 
 <aside class="atualizacao">
     atualizado em 23 de janeiro de 2026.
