@@ -1,7 +1,19 @@
 <div class="h-card" style="display: none;">
-  <a class="u-url p-name" href="{{ site.url }}">{{ site.data.me.name }}</a>
+  <a class="p-name u-url" href="{{ site.url }}">{{ site.data.me.name }}</a>
   <span class="p-nickname">{{ site.data.me.nickname }}</span>
+  <span class="p-job-title">{{ site.data.me.job_title }}</span>
+
+  <div class="p-adr">
+    <span class="p-locality">{{ site.data.me.locality }}</span>, 
+    <span class="p-region">{{ site.data.me.region }}</span>
+    <span class="p-country-name">{{ site.data.me.country_name }}</span>
+  </div>
+
   <img class="u-photo" src="{{ site.data.me.photo }}" alt="{{ site.data.me.name }}">
   <p class="p-note">{{ site.data.me.bio }}</p>
+  
   <a class="u-email" href="mailto:{{ site.data.me.email }}">{{ site.data.me.email }}</a>
+
+  <a class="u-url" href="https://instagram.com/dalbo1201" rel="me">Instagram</a>
+  <a class="u-url" href="https://letterboxd.com/dalbo1201" rel="me">Letterboxd</a>
 </div>
