@@ -14,11 +14,11 @@ Na realidade eu já publiquei um resumo desse processo na página do [COLOFÃO](
 
 <h4>Escrevendo</h4>
 
-Eu escrevo principalmente no celular, isso porque acabo sempre escrevendo mais pro final do dia quando minha mente pode se dar ao luxo de ficar naquele famigerado ~~e odiado termo~~ *ócio criativo*.  
+Eu escrevo principalmente no celular, isso porque acabo sempre escrevendo mais pro final do dia quando minha mente pode se dar ao luxo de ficar naquele famigerado ~~e odiado termo~~ **ócio criativo**.  
 
 Normalmente [estou na rede](/blog/meu-lugar-predileto/) e o pensamento vai até algo que eu pare e pense que vale a pena ~~passar essa vergonha pública de~~ escrever o que eu penso ou sinto.  
 
-Uso principalmente um aplicativo chamado Markor, para Android, que me permite escrever com formatação `markdown`, o que ajuda a ter uma ideia de como o post ficará no final.
+Uso principalmente um aplicativo chamado Markor, para Android, que me permite escrever com formatação markdown, o que ajuda a ter uma ideia de como o post ficará no final.
 
 <h4>Formatando</h4>
 
@@ -30,7 +30,7 @@ Dificilmente eu saio escrevendo tudo sem fazer alguma formatação. Eu uso a for
 
 O título, é curioso que essa é quase a primeira coisa que eu penso na hora de escrever. Na realidade eu monto o texto já com a ideia do título construída.  
 
-Como eu tenho este espaço construído em Jekyll, os arquivos de postagens são feitos em `markdown` com o `front metter` que dá as informações do post, e isso é a primeira coisa que eu faço no arquivo, dou o título penso quando vou publicá-lo, as tags, etc.  
+Como eu tenho este espaço construído em Jekyll, os arquivos de postagens são feitos em markdown com o `front metter` que dá as informações do post, e isso é a primeira coisa que eu faço no arquivo, dou o título penso quando vou publicá-lo, as tags, etc.  
 
 Claro que ao terminar o texto eu posso acabar mudando o título da postagem, ou entender que será um texto em que o título ficará oculto, como uma notinha, mas em geral o título já foi definido antes de iniciar a escrita.  
 
@@ -38,7 +38,7 @@ Claro que ao terminar o texto eu posso acabar mudando o título da postagem, ou 
 
 Para publicar, eu mando o arquivo para o meu laptop, pelo OneDrive ou compartilhamento direto do celular e coloco o texto no diretório do blog.  
 
-Daí é abrir o GitHub Desktop, acessar o VS Code e dar uma geral na formatação. Às vezes vai entrar uma imagem e preciso colocar o `html` específico ou alterar alguma configuração do `markdown` para `html` para adicionar uma classe específica de `css` para as regras visuais serem aplicadas corretamente.  
+Daí é abrir o GitHub Desktop, acessar o VS Code e dar uma geral na formatação. Às vezes vai entrar uma imagem e preciso colocar o html específico ou alterar alguma configuração do markdown para html para adicionar uma classe específica de css para as regras visuais serem aplicadas corretamente.  
 
 Depois rodo localmente o blog para confirmar que está tudo configurado e formatado certinho.  
 
