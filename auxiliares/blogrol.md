@@ -24,6 +24,10 @@ Aqui o Eliel chama de blog, mas eu já diria que já passou de um *proto-*jardim
 <h6>Rodrigo Ghedin | blog | Jekyll | <a href="https://rodrigo.ghed.in/feed.xml?ref=pedro.dalbo.me">feed</a></h6>
 Blog pessoal do Ghedin.
 <br/>
+<h4><a href="https://www.roney.com.br/?ref=pedro.dalbo.me">Galeria de Espelho (Se temos certeza tem algo errado)</a></h4>
+<h6>Roney | blog | Wordpress</h6>
+O blog pessoal do Roney (do Meme de Carbono). Esse blog é o espaço onde procuro compartilhar alguns dos meus devaneios, das minhas histórias, as artes em vídeo, pinceladas, palavras ou bits que vou encontrando no caminho.
+<br/>
 <h4><a href="https://historiasparaler.blog.br/?ref=pedro.dalbo.me">Histórias para Ler</a></h4>
 <h6>vários autores | blog | Blogger | <a href="http://feeds.feedburner.com/historiasparaler/?ref=pedro.dalbo.me">feed</a></h6>
 Um blog onde eu mesmo e outros colegas escrevemos nossas opiniões sobre os livros que lemos.
@@ -61,4 +65,3 @@ Na encruzilhada entre crescimento pessoal, vida digital e inspiração criativa,
 <h6>Robert Birming | blog | BearBlog | <a href="https://robertbirming.com/feed/?type=rss/?ref=pedro.dalbo.me">feed</a></h6>
 Um blogueiro, suéco, das antigas. Tem ótimos textos com boas reflexões da vida e do mundo das internets que queremos, fora dos aplicativos.
 <br/>
-
