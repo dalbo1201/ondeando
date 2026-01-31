@@ -17,7 +17,7 @@ Não só eu, durante a faculdade convidei alguns amigos do curso de engenharia e
 
 Durante a pandemia, um pouco antes e depois, me esqueci do blog, mas teve gente que manteve uma rotina lá.  
 
-Agradeço a <a href="https://raquellinhares.blogspot.com/" title="blog da Raquel">@Raquel</a> por isso.  
+Agradeço a <a href="https://raquellinhares.blogspot.com/" title="blog da Raquel">Raquel</a> por isso.  
 
 Voltei a escrever esse ano depois que reativei meu blog pessoal nesta página quando transformei isso aqui em mais que uma página com um resumo profissional e virou **meu cantinho na internet**.  
 

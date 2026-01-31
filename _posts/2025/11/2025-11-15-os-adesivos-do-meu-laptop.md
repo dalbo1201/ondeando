@@ -20,4 +20,4 @@ Se houver alguma mudança, atualizo a postagem.
 
 E o seu, como está?
 
-<aside class="aviso-caixa"><div class="aviso-texto">O site foi uma indicação dos <a href="https://manualdousuario.net/links-do-dia-20251112/" alt="https://manualdousuario.net/links-do-dia-20251112/" title="links do dia no Manual do Usuário">Links do dia</a> no <a href="https://manualdousuario.net" alt="http://manualdousuario.net" title="site do Manual do Usuário">@MdU</a>.</div></aside>
+<aside class="aviso-caixa"><div class="aviso-texto">O site foi uma indicação dos <a href="https://manualdousuario.net/links-do-dia-20251112/" alt="https://manualdousuario.net/links-do-dia-20251112/" title="links do dia no Manual do Usuário">Links do dia</a> no <a href="https://manualdousuario.net" alt="http://manualdousuario.net" title="site do Manual do Usuário">MdU</a>.</div></aside>

@@ -38,10 +38,10 @@ Os links que não levarem para páginas em português coloco uma _etiqueta_ sobr
   - A montagem e publicação acontecem via [Netlify<sup>[en]</sup>](https://www.netlify.com/).  
 
 <h3 id="inspiracoes">Inspirações</h3>
-- O tema inicial do site foi inspirado no site do [@Paulo Higa](https://web.archive.org/web/20151103091229/http://higa.me/ "site do Higa quando me inspirei");
-- Quando ampliei o site para algo próximo de um _proto-jardim-digital_, acabei me inspirando visualmente no site/blog do [@Rodrigo Ghedin](https://web.archive.org/web/20250301092841/https://rodrigo.ghed.in/ "site do Ghedin quando me inspirei") (de quem pedi autorização. Se forem analisar os códigos, o site do Ghedin tem uma elegancia que aqui não existe, mas arrumarei em algum momento); 
+- O tema inicial do site foi inspirado no site do [Paulo Higa](https://web.archive.org/web/20151103091229/http://higa.me/ "site do Higa quando me inspirei");
+- Quando ampliei o site para algo próximo de um _proto-jardim-digital_, acabei me inspirando visualmente no site/blog do [Rodrigo Ghedin](https://web.archive.org/web/20250301092841/https://rodrigo.ghed.in/ "site do Ghedin quando me inspirei") (de quem pedi autorização. Se forem analisar os códigos, o site do Ghedin tem uma elegancia que aqui não existe, mas arrumarei em algum momento); 
 - Hoje o espaço tem visual inpirado em algo como o [Minimal](https://orderedlist.com/minimal/), mas vários sites apresentam essa dinâmica da coluna à esquerda em telas maiores se tronar o topo do site em telas menores; 
-- O [Fotolog](/fotolog "meu fotolog") foi inspirado na página do [@Beaumont Photography<sup>[en]</sup>](https://beaumontphotography.bearblog.dev/ "site do Bruce"). Escrevi mais sobre isso [neste texto](/blog/criei-meu-fotolog/) e tento explicar num [tutorial](/dicas-do-blog "como fiz o Fotolog") como o montei.  
+- O [Fotolog](/fotolog "meu fotolog") foi inspirado na página do [Beaumont Photography<sup>[en]</sup>](https://beaumontphotography.bearblog.dev/ "site do Bruce"). Escrevi mais sobre isso [neste texto](/blog/criei-meu-fotolog/) e tento explicar num [tutorial](/dicas-do-blog "como fiz o Fotolog") como o montei.  
 
 <h3 id="filosofia">Filosofia</h3>
 - O site não tem nenhum sistema de _analytics_ ou plugins de mídias-sociais;  
@@ -51,5 +51,5 @@ Os links que não levarem para páginas em português coloco uma _etiqueta_ sobr
 O porquê de todo esse espaço [falo mais aqui](/blog/porque-todo-esse-esforco/ "porquê criei esse cantinho?").  
 
 <aside class="aviso-caixa"><div class="aviso-texto">
-Esta página foi criada por influência do <a href="https://cosmoliko.com/" title="blog do Eliel">@Eliel Guilhen</a> que comentou sobre ela num email.
+Esta página foi criada por influência do <a href="https://cosmoliko.com/" title="blog do Eliel">Eliel Guilhen</a> que comentou sobre ela num email.
 </div></aside>
