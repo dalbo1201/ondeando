@@ -337,6 +337,10 @@ code {
  vertical-align: middle; /* Alinha verticalmente com o texto */
 }
 
+.erro {
+ margin: 5rem 0;
+}
+
 /* FINAL ESTILOS GERAIS */
 
 /* INÍCIO ESTILOS PARA OS Links */
