@@ -10,7 +10,7 @@ updated: (data da atualização anterior caso mais de uma atualização)
       - 2024-01-15
 
 
-type (layout):
+type:
 album - vai para o fotolog (foto)
 notas - vai pro blog sem título (post)
 texto - post tradicional do blog (post)
