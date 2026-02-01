@@ -6,7 +6,7 @@ date: 2025-08-16 11:15:00 -0300
 tags: ["filmes"]
 ---
 <figure>
-<img src="{{ site.baseurl }}/assets/fotos/2025/08/Despedida-de-Carol.jpg" alt="Uma festa de despedida no escritório com uma mulher sentada no centro da sala, olhando pra cima e sorrindo ao chorar pela despedida, pessoas estão em pé a sua volta." title="Despedida de Carol">
+<img class="u-photo" src="/assets/fotos/2025/08/Despedida-de-Carol.jpg" alt="Uma festa de despedida no escritório com uma mulher sentada no centro da sala, olhando pra cima e sorrindo ao chorar pela despedida, pessoas estão em pé a sua volta." title="Despedida de Carol">
 </figure>
 Acho que o filme tem uma péssima tradução do título. Apesar de ser uma expressão bem recorrente o original tem um nome que diz muito mais sobre o filme e a expressão **Eu só queria morrer** faz todo o sentido e também é uma expressão recorrente em português.  
 

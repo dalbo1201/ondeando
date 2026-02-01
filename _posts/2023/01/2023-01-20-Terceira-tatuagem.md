@@ -8,8 +8,8 @@ date: 2023-01-20
 tags: ["a vida, o universo e tudo mais", "fotos", "pandemia", "tatuagem"]
 ---
 <figure>
-            <img src="{{ site.baseurl }}/assets/fotos/2023/01/20230120_224839.jpg" alt="Foto do meu biceps onde fiz uma tatuagem realista em tracos finos pretos e sem preenchimento de um galho de folhas, flores e sementes de café" title="Folhas de café">
-            <figcaption>Folhas de café</figcaption>
+     <img class="u-photo" src="/assets/fotos/2023/01/20230120_224839.jpg" alt="Foto do meu biceps onde fiz uma tatuagem realista em tracos finos pretos e sem preenchimento de um galho de folhas, flores e sementes de café" title="Folhas de café">
+    <figcaption>Folhas de café</figcaption>
 </figure>
 Essa aqui deu um certo trabalho, no início eu não ia fazer esse ramo de café, a ideia inicial era diferente e seria o famoso *There and back again* que dá nome ao livro vermelho de O Hobbit. Mas não estava gostando das propostas que eu vinha montando e não estava querendo ocupar o outro braço com uma temática de fã.  
 

@@ -9,6 +9,9 @@ permalink: "/registro-de-alteracoes"
 O famoso [Changelog<sup>[en]</sup>](https://indieweb.org/release_notes) é simplesmente um resumo das alterações <del> consideradas mais pertinentes</del> realizadas aqui neste meu pequeno canto da internet.
 <hr>
 <h4>Alterações em 2026</h4>
+<h5>01 de fevereiro</h5>
+<span class="tag-reg">css</span><span class="tag-reg">html</span>  
+Adicionei classes de microformatação aos elementos do blog e fotolog como `h-entry`, `e-content`, `u-url` e afins. A ideia é aos poucos ir melhorando a semântica do site com o que há de melhores práticas em html e css.
 <h5>18 de janeiro</h5>
 <span class="tag-reg">acabamento</span><span class="tag-reg">css</span><span class="tag-reg">html</span>  
 Mudança no visual do site. O `header` do site se torna uma coluna fixa à esquerda em telas maiores e em telas menores volta ao topo do site como já ficava anteriormente. O site ganha um título que fica aparente o tempo todo e com isso a barra de navegação, em telas menores fica abaixo da foto de avatar e do título.  

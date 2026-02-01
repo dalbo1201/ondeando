@@ -8,7 +8,7 @@ date: 2021-11-20
 tags: ["a vida, o universo e tudo mais", "pandemia"]
 ---
 <figure>
-            <img src="{{ site.baseurl }}/assets/fotos/2021/11/20211120_141023.jpg" alt="Foto da bicicleta eletrica preta no parque" title="Meu camelo elétrico">
+    <img class="u-photo" src="/assets/fotos/2021/11/20211120_141023.jpg" alt="Foto da bicicleta eletrica preta no parque" title="Meu camelo elétrico">
 </figure>
 Comprei uma bicicleta elétrica, esse foi um dos maiores investimentos que já devo ter feito de forma aleatória.  
 

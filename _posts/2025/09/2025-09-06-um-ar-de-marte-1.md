@@ -9,7 +9,7 @@ tags: ["a vida, o universo e tudo mais","fotos","passeios"]
 permalink: "/fotolog/um-ar-de-marte-1"
 ---
 <figure>
-<img src="{{ site.baseurl }}/assets/fotos/2025/09/20250906_102055.jpg" alt="Mural de grafite de uma gatora e um garoto negros centralizados e em tamanho maior, tomando o centro da tela, ela com uma coroa na mão e ele com fones de ouvidos. No primeiro plano duas casas, uma em cada canto da pintura com crianças olhando para o alto vendo os dois." title="Grafite de Adriano Vespa">
+<img class="u-photo" src="/assets/fotos/2025/09/20250906_102055.jpg" alt="Mural de grafite de uma gatora e um garoto negros centralizados e em tamanho maior, tomando o centro da tela, ela com uma coroa na mão e ele com fones de ouvidos. No primeiro plano duas casas, uma em cada canto da pintura com crianças olhando para o alto vendo os dois." title="Grafite de Adriano Vespa">
 <figcaption>Um ar de Marte 1</figcaption>
 </figure>
 

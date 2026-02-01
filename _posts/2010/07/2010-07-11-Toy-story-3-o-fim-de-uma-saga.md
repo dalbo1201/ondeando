@@ -6,7 +6,7 @@ date: 2010-07-11 08:00:00 -0000
 tags: ["filmes"]
 ---
 <figure>
-    <img src="{{ site.baseurl }}/assets/fotos/2010/07/toy-story-3-final.jpg" alt="imagem do filme Toy Story 3" title="imagem do filme Toy Story 3, cena final dosbrinquedos reunidos vendo Andy ir embora">
+    <img class="u-photo" src="/assets/fotos/2010/07/toy-story-3-final.jpg" alt="imagem do filme Toy Story 3" title="imagem do filme Toy Story 3, cena final dosbrinquedos reunidos vendo Andy ir embora">
 </figure>
 Ontem assisti ao terceiro filme da franquia Toy Story e é inacreditável como os criadores de Woody, Buzz e companhia conseguiram criar filmes que que mantivessem o nível entre eles.  
 

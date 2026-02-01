@@ -8,7 +8,7 @@ date: 2023-12-11
 tags: ["a vida, o universo e tudo mais","fotos","passeios", "shows"]
 ---
 <figure>
-    <img src="{{ site.baseurl }}/assets/fotos/2023/12/20231210_130924.jpg" alt="foto de 4 pessoas em selfie, apenas eu olhando para foto. Temos mais um homem e duas mocas de costas olhando para o horizonte" title="Podia ser uma capa de disco">
+    <img class="u-photo" src="/assets/fotos/2023/12/20231210_130924.jpg" alt="foto de 4 pessoas em selfie, apenas eu olhando para foto. Temos mais um homem e duas mocas de costas olhando para o horizonte" title="Podia ser uma capa de disco">
 <figcaption>Capa de disco</figcaption>
 </figure>
 Esse final de semana eu e S. fomos para o Rio para o show do Ney Matogroso.  

@@ -6,7 +6,7 @@ date: 2010-08-15 08:00:00 -0000
 tags: ["filmes"]
 ---
 <figure>
-    <img src="{{ site.baseurl }}/assets/fotos/2010/08/onde-vivem-os-monstros.jpg" alt="imagem do filme Onde vivem os monstros" title="imagem do filme Onde vivem os monstros, os monstros reunidos no por do sol">
+    <img class="u-photo" src="/assets/fotos/2010/08/onde-vivem-os-monstros.jpg" alt="imagem do filme Onde vivem os monstros" title="imagem do filme Onde vivem os monstros, os monstros reunidos no por do sol">
 </figure>
 Hoje assisti a esse belo filme.  
 

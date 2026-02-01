@@ -8,8 +8,8 @@ date: 2023-08-11
 tags: ["a vida, o universo e tudo mais", "fotos", "livros", "tatuagem"]
 ---
 <figure>
-      <img src="{{ site.baseurl }}/assets/fotos/2023/08/20230811_181841.jpg" alt="foto do meu antebraço esquerdo, com uma tatuagem de limhas pretas, sem preenchimento de uma vaso de petunia caindo" title="lá vanos nos de novo">
-<figcaption>oh, no... Not again</figcaption>
+  <img class="u-photo" src="/assets/fotos/2023/08/20230811_181841.jpg" alt="foto do meu antebraço esquerdo, com uma tatuagem de limhas pretas, sem preenchimento de uma vaso de petunia caindo" title="lá vanos nos de novo">
+  <figcaption>oh, no... Not again</figcaption>
 </figure>
 Hoje rolou mais uma tatuagem por aqui. Dessa vez foi no [Estudio Calma](https://www.instagram.com/estudiocalma?igsh=YzByeDZvdzMxc21n) com a [Fiore](https://www.instagram.com/fiore.tattoo?igsh=MXYxaW1wb2dlNjJjaw==) que está fazendo uma pausa nas atividades de tatuadora para se dedicar a outra arte, a [cerâmica](https://www.breuestudio.com.br).
 

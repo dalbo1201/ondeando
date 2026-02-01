@@ -31,10 +31,10 @@ O mouse não tem muito do que se falar, com um infravermelho suficiente para nã
 
 <figure  class="mais-fotos">
 <figure>
-    <img src="{{ site.baseurl }}/assets/fotos/2010/03/mk_wireddt600blk_medidas.jpg" alt="teclado e mouse" title="imagem do teclado e mouse Microsoft Wired Desktop 600">
+    <img src="/assets/fotos/2010/03/mk_wireddt600blk_medidas.jpg" alt="teclado e mouse" title="imagem do teclado e mouse Microsoft Wired Desktop 600">
 </figure>
 <figure>
-    <img src="{{ site.baseurl }}/assets/fotos/2010/03/ic_vx2000.jpg" alt="webcam" title="imagem da webcam Lifecam VX-2000">
+    <img src="/assets/fotos/2010/03/ic_vx2000.jpg" alt="webcam" title="imagem da webcam Lifecam VX-2000">
 </figure>
 </figure>
 **LifeCam VX-2000**

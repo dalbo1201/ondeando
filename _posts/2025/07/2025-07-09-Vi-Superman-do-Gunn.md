@@ -6,7 +6,7 @@ date: 2025-07-09 19:30:00 -0300
 tags: ["filmes","quadrinhos"]
 ---
 <figure>
-<img src="{{ site.baseurl }}/assets/fotos/2025/07/Superman-e-Krypto.avif" alt="Superman (do filme de James Gunn), junto com Krypto, o supercão, sentados na Lua olhando para o planeta Terra." title="Esse trampo de petsitter...">
+<img class="u-photo" src="/assets/fotos/2025/07/Superman-e-Krypto.avif" alt="Superman (do filme de James Gunn), junto com Krypto, o supercão, sentados na Lua olhando para o planeta Terra." title="Esse trampo de petsitter...">
 <figcaption>Faltou a capinha do Krypto aqui...</figcaption>
 </figure>
 Ontem assisti ao Superman (2025) do James Gunn e que alegria é poder rever no cinema um Super-Homem que se importa com as pessoas.  

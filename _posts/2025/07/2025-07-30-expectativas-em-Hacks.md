@@ -6,7 +6,7 @@ date: 2025-07-30 21:20:00 -0300
 tags: ["pensamentos","séries e TV"]
 ---
 <figure>
-    <img src="{{ site.baseurl }}/assets/fotos/2025/07/Hacks.jpg" alt="Deborah Vance e Ava Daniels, personagens da série 'Hacks' da HBO, estão de pé em uma loja com prateleiras à direita contendo brinquedos, jogos e outros itens. À esquerda, há um expositor de óculos escuros. Ava veste uma camiseta listrada colorida com jaqueta escura; Deborah usa uma jaqueta estampada. O espaço é cheio de produtos e cores." title="Hacks">
+    <img class="u-photo" src="/assets/fotos/2025/07/Hacks.jpg" alt="Deborah Vance e Ava Daniels, personagens da série 'Hacks' da HBO, estão de pé em uma loja com prateleiras à direita contendo brinquedos, jogos e outros itens. À esquerda, há um expositor de óculos escuros. Ava veste uma camiseta listrada colorida com jaqueta escura; Deborah usa uma jaqueta estampada. O espaço é cheio de produtos e cores." title="Hacks">
 </figure>
 Estava conversando com S. enquanto (re)assistíamos ao último episódio da terceira temporada de *Breaking Bad*, sobre como o Jesse às vezes age de forma estúpida, sem pensar no que pode acontecer, mas como isso faz todo o sentido e ao mesmo tempo são as suas ações e a preocupação do Walter com ele que acabam movimentando grande parte da série.  
 

@@ -349,7 +349,8 @@ code {
 a, nav a {
  border-radius: 3px;
  padding: 0.11em;
- display: inline-block; 
+ display: inline; 
+ box-decoration-break: clone;
  line-height: 1.2;
 /* Gradiente Vertical com sua variável de transparência */
  background-image: linear-gradient(to top, rgb(from var(--color-link) r g b / var(--code-background-transparency)) 50%, transparent 50%);
@@ -421,7 +422,9 @@ a[href]:not(:where(
  [href*="//pedro.dalbo.me"],
  [href*="http://localhost:4000/"],
  /* exclui links que só têm imagem */
- :has(img)
+ :has(img),
+ .u-url,      /* Adicionado: não coloca ícone em links de microformats */
+ .u-photo     /* Adicionado: não coloca ícone em links de foto */
 )):after {
  content: '↗'; /* Unicode para o ícone de link externo */
  font-size: 0.9em; /* Tamanho do ícone */ 
@@ -489,9 +492,36 @@ figcaption {
 
 /* INÍCIO DOS Tipos de posts */
 article.blog-article.blog-citacao h3,
- article.blog-article.blog-notas h3 {
+article.blog-article.blog-notas h3 {
  display: none !important;
  }
+
+/* Garante que o conteúdo das notas e frases não herde margens estranhas */
+.e-content p:last-child {
+  margin-bottom: 0;
+}
+
+/* Se você quiser estilizar algo baseado na semântica no futuro: */
+.h-entry .p-name {
+  /* Seus estilos de H3 já cuidam disso, mas a classe está aqui se precisar */
+}
+
+/* Ocultar elementos que são apenas para robôs */
+.h-entry [style*="display:none"] {
+  display: none;
+}
+
+/* Garante que o time se comporte como o texto anterior */
+time.album-data {
+  display: block;
+  color: var(--color-data);
+}
+
+/* Evita que o e-content em listas adicione margens extras */
+.e-content.caption p {
+  margin: 0;
+}
+
 /* FINAL DOS Tipos de posts */
 
 
@@ -854,14 +884,15 @@ pre code {
 
 /* Conteúdo interno do modal */
 .alert-modal {
- background: white;
+ background: var(--color-background);
  padding: 2em;
  max-width: 45%;
  border-radius: 10px;
  text-align: left;
  position: relative;
- color: black;
+ color: var(--color-text);
  box-shadow: 0 0 20px rgba(0, 0, 0, 0.4);
+ border: 1px solid var(--color-text);
 }
 
 .alert-content h3 {

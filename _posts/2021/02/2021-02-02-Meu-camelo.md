@@ -8,8 +8,8 @@ date: 2021-02-02
 tags: ["a vida, o universo e tudo mais","fotos", "pandemia"]
 ---
 <figure>
-            <img src="{{ site.baseurl }}/assets/fotos/2021/02/20210206_174152.jpg" alt="Selfie com minha bicicleta ao fundo" title="Eu e minha bicicleta">
-            <figcaption>Meu camelo</figcaption>
+    <img class="u-photo" src="/assets/fotos/2021/02/20210206_174152.jpg" alt="Selfie com minha bicicleta ao fundo" title="Eu e minha bicicleta">
+    <figcaption>Meu camelo</figcaption>
 </figure>
 Desde que resolvi vir para Brasília pensei que seria excelente se eu pudesse em algum momento tornar viável o uso da bicicleta como um meio de transporte.  
 

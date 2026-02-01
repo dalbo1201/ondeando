@@ -13,7 +13,7 @@ tags:
 permalink: "/fotolog/uma-arvore-sozinha"
 ---
 <figure>
-<img src="/assets/fotos/2025/12/20251218_110340~2.jpg" alt="Paisagem rural em um dia ensolarado com céu azul e nuvens espalhadas. Uma estrada asfaltada corta a imagem da esquerda para a direita, ladeada por vegetação verde e campos abertos. À direita da estrada, há uma árvore alta e um carro preto estacionado no acostamento. Mais ao fundo, algumas vacas pastam tranquilamente em um campo cercado por colinas suaves e árvores dispersas." title="Árvore a margem da rodovia">
+<img class="u-photo" src="/fotos/2025/12/20251218_110340~2.jpg" alt="Paisagem rural em um dia ensolarado com céu azul e nuvens espalhadas. Uma estrada asfaltada corta a imagem da esquerda para a direita, ladeada por vegetação verde e campos abertos. À direita da estrada, há uma árvore alta e um carro preto estacionado no acostamento. Mais ao fundo, algumas vacas pastam tranquilamente em um campo cercado por colinas suaves e árvores dispersas." title="Árvore a margem da rodovia">
 <figcaption>Uma árvore sozinha</figcaption>
 </figure>
 

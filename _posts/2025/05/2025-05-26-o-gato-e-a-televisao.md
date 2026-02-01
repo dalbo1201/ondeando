@@ -9,7 +9,7 @@ tags: ["a vida, o universo e tudo mais","casa", "fotos", "gatos"]
 permalink: "/fotolog/o-gato-e-a-televisao"
 ---
 <figure>
-<img src="{{ site.baseurl }}/assets/fotos/2025/05/20250516_200056.jpg" alt="Gato preto, a esquerda, sobre um rack de madeira. Atrás uma televisão de 50'', do tamanho do gato, com a imagem de um deserto e um trailer passando ao fundo." title="Gatos e Televisão">
+<img class="u-photo" src="/assets/fotos/2025/05/20250516_200056.jpg" alt="Gato preto, a esquerda, sobre um rack de madeira. Atrás uma televisão de 50'', do tamanho do gato, com a imagem de um deserto e um trailer passando ao fundo." title="Gatos e Televisão">
 <figcaption>A curiosa <b>mania</b> dos gatos ficarem na frente da televisão</figcaption>
 </figure>
 

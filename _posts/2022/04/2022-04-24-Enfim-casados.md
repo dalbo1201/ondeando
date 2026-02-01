@@ -9,12 +9,12 @@ tags: ["a vida, o universo e tudo mais", "fotos", "pandemia"]
 ---
 <figure class="mais-fotos">
 <figure>
-        <img src="{{ site.baseurl }}/assets/fotos/2022/04/IMG-20220503-WA0035.jpg" alt="Eu e Thiago, o noivo num close, em preto e branco, onde estou colocando a abotoadura no punhobda camisa do noivo" title="Emprestando a abotoadura, e a camisa com punho duplo, pra casar nos trinques">
-        <figcaption>Uma peça emprestada</figcaption>
+  <img class="u-photo" src="/assets/fotos/2022/04/IMG-20220503-WA0035.jpg" alt="Eu e Thiago, o noivo num close, em preto e branco, onde estou colocando a abotoadura no punhobda camisa do noivo" title="Emprestando a abotoadura, e a camisa com punho duplo, pra casar nos trinques">
+  <figcaption>Uma peça emprestada</figcaption>
 </figure>
 <figure>
-        <img src="{{ site.baseurl }}/assets/fotos/2022/04/IMG-20220430-WA0003.jpg" alt="Foto descontraída dos noivos com convidados" title="Só tem sobrado fazer o L">
-<figcaption>Finalmente</figcaption>
+  <img class="u-photo" src="/assets/fotos/2022/04/IMG-20220430-WA0003.jpg" alt="Foto descontraída dos noivos com convidados" title="Só tem sobrado fazer o L">
+  <figcaption>Finalmente</figcaption>
 </figure>
 </figure>
 Essa foi uma festa que lutou demais pra acontecer. O que deveria ter ocorrido em meados de 2020 teve que ser adiado e adiado em função da pandemia.  

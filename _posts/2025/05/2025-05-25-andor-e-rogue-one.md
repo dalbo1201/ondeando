@@ -6,7 +6,7 @@ date: 2025-05-25 22:30:00 -0300
 tags: ["filmes", "séries e TV"]
 ---
 <figure>
-    <img src="{{ site.baseurl }}/assets/fotos/2025/05/Andor e Rogue One.jpg" alt="Posteres da promeira e segunda temporada de Andor e do filme Rogue One." title="Andor e Rogue One">
+    <img class="u-photo" src="/assets/fotos/2025/05/Andor e Rogue One.jpg" alt="Posteres da promeira e segunda temporada de Andor e do filme Rogue One." title="Andor e Rogue One">
 </figure>
 Terminei de assistir à série **Andor**, cuja trama antecede o filme *Rogue One* (2016).  
 

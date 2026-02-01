@@ -1,3 +1,4 @@
+
 ---
 layout: foto
 type: album
@@ -9,7 +10,7 @@ tags: ["a vida, o universo e tudo mais","casa", "fotos", "passeios"]
 permalink: "/fotolog/compramos-uma-palmeirinha-e-ganhamos-outra-planta-na-rua"
 ---
 <figure>
-<img src="{{ site.baseurl }}/assets/fotos/2025/05/20250412_092043.jpg" alt="foto com duas plantas em vasos de plástico simples, à esquerda uma Palmeirinha em um vaso amarelo e à direita uma Flor de Maio em um vaso preto. Colocadas no parapeito de uma janela, que está protegida por uma tela de nylon. Ao fundo, vê-se a fachada de um prédio com janelas e aparelhos de ar-condicionado, além de uma rua onde algumas pessoas estão caminhando." title="Parece que ainda existe amor em SP">
+<img class="u-photo" src="/assets/fotos/2025/05/20250412_092043.jpg" alt="foto com duas plantas em vasos de plástico simples, à esquerda uma Palmeirinha em um vaso amarelo e à direita uma Flor de Maio em um vaso preto. Colocadas no parapeito de uma janela, que está protegida por uma tela de nylon. Ao fundo, vê-se a fachada de um prédio com janelas e aparelhos de ar-condicionado, além de uma rua onde algumas pessoas estão caminhando." title="Parece que ainda existe amor em SP">
 <figcaption>Parece que ainda existe amor em SP</figcaption>
 </figure>
 

@@ -8,23 +8,33 @@
 
 <section class="gallery">
   <ul class="embedded album-post">
-{% assign all_posts = site.posts | where: "type", "album" %}
-{% assign offset = paginator.page | minus: 1 | times: paginator.per_page %}
-{% assign posts_to_show = all_posts | slice: offset, paginator.per_page %}
- 
-    
+    {% assign all_posts = site.posts | where: "type", "album" %}
+    {% assign offset = paginator.page | minus: 1 | times: paginator.per_page %}
+    {% assign posts_to_show = all_posts | slice: offset, paginator.per_page %}
+
     {% for post in posts_to_show %}
-      <li>
-      <a href="{{ post.url }}" class="linkdata">
-         <div class="album-data">{{ post.date | date: "%d/%m/%Y" }}</div></a>
-         <div class="image-wrapper">
-          <a href="{{ post.url }}"><img src="{{ post.image | relative_url }}" title="{{ post.title }}"></a>
+      <li class="h-entry"> <a href="{{ post.url }}" class="linkdata u-url">
+          <time class="dt-published album-data" datetime="{{ post.date | date_to_xmlschema }}">
+            {{ post.date | date: "%d/%m/%Y" }}
+          </time>
+        </a>
+        
+        <div class="image-wrapper">
+          <a href="{{ post.url }}">
+            <img class="u-photo" src="{{ post.image | relative_url }}" alt="{{ post.title }}" title="{{ post.title }}">
+          </a>
+        </div>
+
+        {% if post.caption %}
+          <div class="p-summary e-content caption">
+            {{ post.caption }}
           </div>
-      <p class="caption">{{ post.caption }}</p>
-      
+        {% endif %}
+        
+        <data class="p-name" value="{{ post.title }}"></data>
       </li>
     {% endfor %}
-    </ul>
+  </ul>
 </section>
 
 </main>

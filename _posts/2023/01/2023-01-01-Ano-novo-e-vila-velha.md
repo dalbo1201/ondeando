@@ -9,7 +9,7 @@ date: 2023-01-01
 tags: ["a vida, o universo e tudo mais", "fotos", "pandemia"]
 ---
 <figure>
-    <img src="{{ site.baseurl }}/assets/fotos/2023/01/20230101_044204.jpg" alt="Foto de 3 pares de pés na areia da praia com o mar ao fundo" title="Virada de ano na praia, que saudade">
+    <img class="u-photo" src="/assets/fotos/2023/01/20230101_044204.jpg" alt="Foto de 3 pares de pés na areia da praia com o mar ao fundo" title="Virada de ano na praia, que saudade">
 <figcaption>Nós em Vila Velha</figcaption>
 </figure>
 S. tem um grande amigo que mora em Vila Velha e estava a alguns anos sem o ver. Juntamos o úutil ao agradável e fomos passar a virada do ano lá.  

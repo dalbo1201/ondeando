@@ -10,20 +10,26 @@
 {% assign offset = paginator.page | minus: 1 | times: paginator.per_page %}
 {% assign posts_to_show = all_posts | slice: offset, paginator.per_page %}
 
-  {% for post in posts_to_show %}
-    <article class="blog-article {% if post.type == 'frase' %}blog-citacao{% elsif post.type == 'notas' %}blog-notas{% endif %}">
-      <p class="blog-data">
-        <a href="{{ post.url | relative_url }}" class="linkdata"> {{ post.date | date: "%d/%m/%Y" }}</a>
-      </p>
-      <h3>
-        <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
-      </h3>
-      
-        {{ post.content | markdownify }}
-      
-      <p class="blog-seta"><a href="{{ post.url | relative_url }}" class="linkdata">+</a></p>
-    </article>
-  {% endfor %}
+{% for post in posts_to_show %}
+  <article class="blog-article h-entry {% if post.type == 'frase' %}blog-citacao{% elsif post.type == 'notas' %}blog-notas{% endif %}">
+    
+    <p class="blog-data">
+      <a href="{{ post.url | relative_url }}" class="linkdata u-url dt-published" datetime="{{ post.date | date_to_xmlschema }}"> 
+        {{ post.date | date: "%d/%m/%Y" }}
+      </a>
+    </p>
+
+    <h3>
+      <a href="{{ post.url | relative_url }}" class="p-name">{{ post.title }}</a>
+    </h3>
+    
+    <div class="e-content">
+      {{ post.content | markdownify }}
+    </div>
+    
+    <p class="blog-seta"><a href="{{ post.url | relative_url }}" class="linkdata">+</a></p>
+  </article>
+{% endfor %}
 
   </main>
   

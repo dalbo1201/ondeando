@@ -2,24 +2,29 @@
 
 {% include header.html %}
 
-  <div class="main-wrapper"> <main>
+<div class="main-wrapper"> 
+<main>
   <h2><span aria-hidden="true">|</span><span class="h2-menor">meu </span>Fotolog</h2>
 
-<article class="blog-article">
-  {% include post-dates.html %}
-  <h3>{{ page.title }}</h3>
-  <p class="blog-tag">
-    {% for tag in page.tags %}
-    <a href="/etiquetas/#{{ tag | slugify }}" class="linkum">#{{ tag }}</a>
-    {% endfor %}
-   </p>
-  
-    {{ content }}
-  
-  <p class="blog-comentario">O blog não tem cometários, mas podemos <a href="mailto:pedro@dalbo.me?subject={{ page.title }}">conversar por email</a>.
-  </p>
-</article>
+  <article class="blog-article h-entry">
+    {% include post-dates.html %} <h3 class="p-name">{{ page.title }}</h3>
 
+    <p class="blog-tag">
+      {% for tag in page.tags %}
+        <a href="/etiquetas/#{{ tag | slugify }}" class="linkum p-category">#{{ tag }}</a>
+      {% endfor %}
+    </p>
+
+    <div class="e-content">
+      {{ content }}
+    </div>
+
+    <a href="{{ page.url }}" class="u-url" style="display:none;">Link permanente</a>
+    
+    <p class="blog-comentario">
+      O blog não tem comentários, mas podemos <a href="mailto:pedro@dalbo.me?subject={{ page.title }}">conversar por email</a>.
+    </p>
+  </article>
 </main>
 
 <section style="text-align: center;"><a href="#" class="nav-topo">&#8593 Topo</a></section>

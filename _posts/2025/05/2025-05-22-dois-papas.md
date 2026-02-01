@@ -6,7 +6,7 @@ date: 2025-05-22 18:00:00 -0300
 tags: ["filmes"]
 ---
 <figure>
-    <img src="{{ site.baseurl }}/assets/fotos/2025/05/dois-papas.jpg" alt="Anthony Hopkins como Bento XVI, de túnica branca, está tocando piano enquanto Jonathan Pryce, interpretando Jorge Bergoglio, está em pé, ao lado do piano, segurando os óculos próximos a boca, sorrindo e escutando a música." title="Dois Papas e um piano">
+    <img class="u-photo" src="/assets/fotos/2025/05/dois-papas.jpg" alt="Anthony Hopkins como Bento XVI, de túnica branca, está tocando piano enquanto Jonathan Pryce, interpretando Jorge Bergoglio, está em pé, ao lado do piano, segurando os óculos próximos a boca, sorrindo e escutando a música." title="Dois Papas e um piano">
 <figcaption>Dois Papas e um piano</figcaption>
 </figure>
 <aside class="aviso-caixa"><div class="aviso-texto">Faz um tempo que <a href="{{ site.baseurl }}/blog/a-certeza-e-inimiga-mortal/">vi esses filmes</a>, mas acabei esquecendo de postar, também.</div></aside>
