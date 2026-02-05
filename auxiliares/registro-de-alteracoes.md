@@ -6,9 +6,12 @@ permalink: "/registro-de-alteracoes"
 ---
 <h2><span aria-hidden="true">|<span class="h2-menor">o </span></span>Registro<span class="h2-menor"> de alterações</span></h2>
 
-O famoso [Changelog<sup>[en]</sup>](https://indieweb.org/release_notes) é simplesmente um resumo das alterações <del> consideradas mais pertinentes</del> realizadas aqui neste meu pequeno canto da internet.
+O famoso [Changelog<sup>[en]</sup>](https://indieweb.org/release_notes) é simplesmente um resumo das alterações <del>consideradas mais pertinentes</del> realizadas aqui neste meu pequeno canto da internet.
 <hr>
 <h4>Alterações em 2026</h4>
+<h5>05 de fevereiro</h5>
+<span class="tag-reg">texto</span>  
+Revisei o texto presente na seção <a href="/colofao/#desenvolvimento-do-site">Desenvolvimento do site</a> que fica no Colofão, tinha algumas explicações que não estavam muito corretas.
 <h5>01 de fevereiro</h5>
 <span class="tag-reg">css</span><span class="tag-reg">html</span>  
 Adicionei classes de microformatação aos elementos do blog e fotolog como `h-entry`, `e-content`, `u-url` e afins. A ideia é aos poucos ir melhorando a semântica do site com o que há de melhores práticas em html e css.

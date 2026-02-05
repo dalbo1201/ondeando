@@ -33,9 +33,9 @@ Os links que não levarem para páginas em português coloco uma _etiqueta_ sobr
 - **Escrita dos posts:** (na maioria das vezes) escrevo no celular, usando o aplicativo [Markor<sup>[en]</sup>](https://github.com/gsantner/markor "o aplicativo em que escrevo"), que me permite trabalhar diretamente em arquivos Markdown;
 - **Revisão:** (em sua maioria) os textos são lidos pela S. (minha companheira) que faz o trabalho de revisar absurdos que escrevo errado;
 - **Publicação:**  
-  - O site é construído com o gerador estático [Jekyll<sup>[en]</sup>](https://jekyllrb.com/);  
-  - O código fica hospedado no [GitHub<sup>[en]</sup>](https://github.com/dalbo1201/ondeando) e acabo utilizando GitHub Desktop e Visual Code Studio para facilitar a gestão dos arquivos;  
-  - A montagem e publicação acontecem via [Netlify<sup>[en]</sup>](https://www.netlify.com/).  
+  - O site é construído com [Jekyll<sup>[en]</sup>](https://jekyllrb.com/), um gerador de sites estáticos;  
+  - O código-fonte é versionado e armazenado no [GitHub<sup>[en]</sup>](https://github.com/dalbo1201/ondeando). Para a edição e gestão dos arquivos, utilizo o Visual Studio Code (editor) e o GitHub Desktop (cliente Git);  
+  - A compilação (build) e a hospedagem final do site acontecem via Netlify, que publica automaticamente as alterações a cada atualização no repositório.  
 
 <h3 id="inspiracoes">Inspirações</h3>
 - O tema inicial do site foi inspirado no site do [Paulo Higa](https://web.archive.org/web/20151103091229/http://higa.me/ "site do Higa quando me inspirei");
