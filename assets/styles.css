@@ -117,6 +117,7 @@ nav {
  padding-top: 40px;
 }
 }
+/* --- MÁGICA DO DESKTOP (UNIFICADA) --- */
 
 footer {
  width: 100%;
@@ -729,60 +730,58 @@ table.tabela-posts td {
 /* COMEÇO DO MEU FOTOLOG */
 /* Creditos para Bruce Beaumont. No final mudou bastante o código, mas foi dele toda a inspiração*/
 /* Gallery styles */
+.gallery {
+  width: 100%;
+  /* Esse padding reserva o espaço que as legendas "fantasmas" ocupam */
+  padding-bottom: 100px; 
+  display: block;
+}
+/* 1. O CONTAINER DA GRADE */
 .gallery ul.embedded.album-post {
- display: grid;
- grid-template-columns: repeat(3, 1fr);
- gap: 1em;
- list-style: none;
- padding: 0;
- margin: 0;
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  column-gap: 2rem;
+  row-gap: 90px; /* Aumentamos para dar espaço para legendas grandes */
+  list-style: none;
+  padding: 0;
+  margin: 0;
 }
 
+/* 2. CADA POST */
 .gallery ul.embedded.album-post > li {
- display: flex;
- flex-direction: column;
- justify-content: flex-start; /* alinhamento pelo topo */
- padding: 0;
- margin: 0;
- height: 100%;
+  display: grid;
+  /* Trava a Data e a Legenda, e deixa a Foto no espaço flexível */
+  grid-template-rows: auto 1fr auto; 
+  align-items: end; /* Força a foto a sentar na linha de base */
 }
 
-.gallery ul.embedded.album-post > li a {
- display: block;
- color: inherit;
+/* 3. A DATA */
+.gallery ul.embedded.album-post > li a.linkdata {
+  align-self: start; /* Fixa a data no topo */
+  margin-bottom: 20px; /* DISTÂNCIA DATA -> FOTO */
+  display: block;
 }
 
-.gallery .album-data {
- font-size: clamp(0.94rem, 0.9vw, 1rem); /* 15–16px */
- padding: 0.25em 0;
- color: var(--color-data);
- margin-bottom: 0.5em;
- display: flex;
- justify-content: flex-start;
- align-items: flex-start;
-}
-
+/* 4. A FOTO (O wrapper) */
 .image-wrapper {
- width: 100%;
- display: flex;
- justify-content: center;
+  width: 100%;
+  display: flex;
+  align-items: flex-end; /* Base da foto nivelada */
+  min-height: 1px; /* Hack para manter o cálculo de altura ativo */
 }
 
 .image-wrapper img {
- width: 100%;
- height: auto;
- object-fit: contain;
- display: block;
+  width: 100%;
+  height: auto;
+  display: block;
 }
 
+/* 5. A LEGENDA (A grande culpada) */
 .caption {
- font-style: italic;
- font-size: clamp(0.94rem, 0.9vw, 1rem); /* 15–16px */
- text-align: left;
- text-wrap: balance;
- padding: 0.4em 0;
- margin: 0;
- margin-top: 5px;
+  margin-top: 10px; /* Distância da base da foto para a legenda */
+  height: 0; /* MÁGICA: A legenda não ocupa espaço no cálculo da altura do post */
+  min-height: 0;/* O texto vai "transbordar" para baixo sem empurrar a imagem */
+  text-align: left;
 }
 /* FINAL DO MEU FOTOLOG */
 
@@ -809,7 +808,7 @@ table.tabela-posts td {
  display: flex;
  justify-content: space-between; /* Garante que os itens fiquem nos extremos opostos */
  align-items: center; /* Alinha verticalmente os itens */
- margin: 40px auto 20px auto; 
+ margin: 40px auto 40px auto;   /* Aumentamos o respiro superior */
  width: 100%; /* Ajuste conforme necessário */
  flex-shrink: 0; /* Evita que a paginação encolha */
 }
