@@ -570,8 +570,9 @@ time.album-data {
  align-self: flex-end;
 }
 
+/* INÍCIO Estilos para blockquote */
 blockquote {
- margin: 0;
+ margin: 5px 0px 20px 20px;
  padding: 0;
 }
 
@@ -581,17 +582,35 @@ blockquote p{
  font-style: italic;
  border-left: 7px solid var(--color-link);
  padding: 10px 0px 10px 10px;
- margin: 20px 0px 20px 10px;
  max-width: 80%;
 }
 
-/* INÍCIO Estilos para blockquote */
-.fleabag { /* steegg - quando eu faço um comentário dentro do texto */
- font-size: clamp(1rem, 1.5vw, 1.06rem); /* 16–17px */
- line-height: clamp(1.5rem, 2vw, 1.7rem); /* 23px */
- font-style: italic;
- margin: 20px 0px 20px 20px;
- max-width: 80%; 
+.fleabag {
+  /* 1. Criamos uma variável local com a cor transparente */
+  --cor-transparente: color-mix(in srgb, var(--color-link), transparent calc(100% - (var(--code-background-transparency) * 100%)));
+  font-size: clamp(1rem, 1.5vw, 1.06rem);
+  line-height: clamp(1.5rem, 2vw, 1.7rem);
+  font-style: italic;
+  color: var(--color-background);
+  max-width: 80%; 
+  
+  /* 2. Aplicamos a cor transparente no fundo E na borda */
+  background-color: var(--cor-transparente);
+  border-radius: 0.5rem 0.5rem 0.5rem 0;
+  padding: 0.5rem 0.5rem;
+  position: relative; 
+  display: inline-block;
+}
+
+/* A Seta do Balão */
+.fleabag::after {
+  content: "";
+  position: absolute;
+  bottom: 0px;
+  left: -15px; 
+  /* 3. Aplicamos a cor transparente aqui também */
+  border-right: 15px solid var(--cor-transparente);
+  border-top: 10px solid transparent;
 }
 
 cite {

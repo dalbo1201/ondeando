@@ -10,6 +10,10 @@ O famoso [Changelog<sup>[en]</sup>](https://indieweb.org/release_notes) é simpl
 <hr>
 <h4>Alterações em 2026</h4>
 <h5>05 de fevereiro</h5>
+<span class="tag-reg">css</span>  
+Atualizei a classe `fleabag` que utilizo quando quero fazer um comentários sobre o que estou escrevendo. Como que quebrando a *quarta parede* como a personagem em sua série, agora parece um balão de quadrinhos como se eu simplesmente falasse no meio do texto.  
+<blockquote class="fleabag">Espero que gostem.</blockquote>
+<h5>05 de fevereiro</h5>
 <span class="tag-reg">texto</span>  
 Revisei o texto presente na seção <a href="/colofao/#desenvolvimento-do-site">Desenvolvimento do site</a> que fica no Colofão, tinha algumas explicações que não estavam muito corretas.
 <h5>01 de fevereiro</h5>

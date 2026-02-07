@@ -874,11 +874,11 @@
   date: 2025-05-29 22:40:00.000000000 -03:00
   image: "/assets/fotos/2025/05/20250527_184257.jpg"
   caption: Retornos e estréia [...]
-- title: Compramos uma palmeirinha e ganhamos outra planta na rua
-  url: "/fotolog/compramos-uma-palmeirinha-e-ganhamos-outra-planta-na-rua"
-  date: 2025-05-31 16:15:00.000000000 -03:00
-  image: "/assets/fotos/2025/05/20250412_092043.jpg"
-  caption: Parece que ainda existe amor em SP [...]
+- title: Compramos Uma Palmeirinha E Ganhamos Na Rua
+  url: "/blog/compramos-uma-palmeirinha-e-ganhamos-na-rua/"
+  date: 2025-05-31 00:00:00.000000000 -03:00
+  image:
+  caption:
 - title: Criei meu fotolog
   url: "/blog/criei-meu-fotolog/"
   date: 2025-06-03 12:45:00.000000000 -03:00
@@ -1076,11 +1076,16 @@
   caption: definitivamente nos enta... [...]
 - title: Ano novo, visual novo
   url: "/blog/novo-visual/"
-  date: 2026-01-18 08:30:00.000000000 -03:00
+  date: 2026-01-18 12:30:00.000000000 -03:00
   image:
   caption:
 - title: Starfleet Academy parece ser...
   url: "/blog/starfleet-academy/"
   date: 2026-01-24 12:30:00.000000000 -03:00
+  image:
+  caption:
+- title: Como as coisas acontecem por aqui
+  url: "/blog/como-as-coisas-acontecem-por-aqui/"
+  date: 2026-01-31 12:00:00.000000000 -03:00
   image:
   caption:

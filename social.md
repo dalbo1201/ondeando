@@ -20,7 +20,7 @@ Por isso, deixo aqui onde podem me encontrar.
   TV Time</a>
 </li>
 <li>
-  <a href="https://www.skoob.com.br/share/user/154394" title="onde eu catalogo os livros" rel="me">
+  <a href="http://www.skoob.com.br/perfil/dalbo1201" title="onde eu catalogo os livros" rel="me">
   <i class="fa-solid fa-book"></i>
   Skoob</a>
 </li>
