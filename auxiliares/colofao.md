@@ -35,7 +35,7 @@ Os links que não levarem para páginas em português coloco uma _etiqueta_ sobr
 - **Publicação:**  
   - O site é construído com [Jekyll<sup>[en]</sup>](https://jekyllrb.com/), um gerador de sites estáticos;  
   - O código-fonte é versionado e armazenado no [GitHub<sup>[en]</sup>](https://github.com/dalbo1201/ondeando). Para a edição e gestão dos arquivos, utilizo o Visual Studio Code (editor) e o GitHub Desktop (cliente Git);  
-  - A compilação (build) e a hospedagem final do site acontecem via Netlify, que publica automaticamente as alterações a cada atualização no repositório.  
+  - A compilação (build) e a hospedagem final do site acontecem via [Netlify<sup>[en]</sup>](https://app.netlify.com/), que publica automaticamente as alterações a cada atualização no repositório.  
 
 <h3 id="inspiracoes">Inspirações</h3>
 - O tema inicial do site foi inspirado no site do [Paulo Higa](https://web.archive.org/web/20151103091229/http://higa.me/ "site do Higa quando me inspirei");
