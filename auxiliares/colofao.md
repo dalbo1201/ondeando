@@ -16,10 +16,10 @@ A ideia, é claro, foi [retirada da literatura](https://pt.wikipedia.org/wiki/C%
 A tipografia é toda com a fonte [Montserrat<sup>[en]</sup>](https://fonts.bunny.net/family/montserrat "a fonte deste cantinho"), as setas são [elementos unicode<sup>[en]</sup>](https://symbl.cc/pt/unicode-table/#arrows "as setas") e alguns ícones da [Font Awesome<sup>[en]</sup>](https://fontawesome.com "os ícones de mídias-sociais").  
 
 Este cantinho tem como cores predominantes:
-- Cultured (cinza claro, quase branco) ([#F5F5F5<sup>[en]</sup>](https://www.color-name.com/hex/f5f5f5 "o fundo, ou o texto"));
-- Raisin Black (cinza escuro, quase preto) ([#252525<sup>[en]</sup>](https://www.color-name.com/hex/252525 "o texto, ou o fundo")) e o
-- French Plum (um roxo escuro, lembrando o magenta) ([#75015C<sup>[en]</sup>](https://www.color-name.com/hex/75015c "os links, no claro"));  
-- No **modo escuro** as cores se invertem e o French Plum muda para Classic Rose (um rosa claro) ([#F1C6E8<sup>[en]</sup>](https://www.color-name.com/hex/f1c6e8 "os links, no escuro")).  
+- Tech White (cinza claro, quase branco) ([#F5F5F5<sup>[en]</sup>](https://www.color-name.com/hex/f5f5f5 "o fundo, ou o texto"));
+- Shiny Black (cinza escuro, quase preto) ([#252525<sup>[en]</sup>](https://www.color-name.com/hex/252525 "o texto, ou o fundo")) e o
+- Palace Magenta (um roxo escuro, lembrando o magenta) ([#75015C<sup>[en]</sup>](https://www.color-name.com/hex/75015c "os links, no claro"));  
+- No **modo escuro** as cores se invertem e o Palace Magenta dá lugar ao Boomerang Lilac (um rosa claro) ([#F1C6E8<sup>[en]</sup>](https://www.color-name.com/hex/f1c6e8 "os links, no escuro")).  
 
 Sempre que você avistar o símbolo **↗** ao lado de algum link significa que ele te levará para uma página externa deste pequeno _proto-jardim-digital_. A excessão são os links associados a imagem no rodapé, apesar de irem para páginas externas não tem o símbolo, ~~por questão estética e~~, porquê claramente vão para uma página externa.  
 
