@@ -34,7 +34,7 @@ Os links que não levarem para páginas em português coloco uma _etiqueta_ sobr
 - **Revisão:** (em sua maioria) os textos são lidos pela S. (minha companheira) que faz o trabalho de revisar absurdos que escrevo errado;
 - **Publicação:**  
   - O site é construído com [Jekyll<sup>[en]</sup>](https://jekyllrb.com/), um gerador de sites estáticos;  
-  - O código-fonte é versionado e armazenado no [GitHub<sup>[en]</sup>](https://github.com/dalbo1201/ondeando). Para a edição e gestão dos arquivos, utilizo o Visual Studio Code (editor) e o GitHub Desktop (cliente Git);  
+  - O código-fonte é versionado e armazenado no [GitHub<sup>[en]</sup>](https://github.com/dalbo1201/ondeando). Para a edição e gestão dos arquivos, utilizo o [Visual Studio Code<sup>[en]</sup>](https://code.visualstudio.com/) (editor) e o [GitHub Desktop<sup>[en]</sup>](https://github.com/apps/desktop?locale=pt-BR) (cliente Git);  
   - A compilação (build) e a hospedagem final do site acontecem via [Netlify<sup>[en]</sup>](https://app.netlify.com/), que publica automaticamente as alterações a cada atualização no repositório.  
 
 <h3 id="inspiracoes">Inspirações</h3>
