@@ -128,15 +128,14 @@ footer {
  flex-wrap: wrap;
  justify-content: space-between;
  align-items: center;
-
  padding-top: 8px;
  font-size: clamp(0.88rem, 0.8vw, 0.94rem);
 }
 
 .footer-left {
  display: flex;
- align-items: center;
- gap: 0 10px; /* Espaço entre os links */
+ gap: 10px; 
+ text-wrap: balance;
 }
 
 .footer-right {
@@ -183,12 +182,14 @@ h1 {
 
 h2 { /* cabeçalho de saudação */
  font-size: clamp(2.4rem, 4vw, 2.7rem); /* mínimo 35px → 40px */
+ line-height: clamp(2rem, 3vw, 2.19rem); /* 32–35px */
  margin-top: 0;
  margin-bottom: 2.5rem; /* 40px */
 }
 
 .h2-menor { /* cabeçalho de saudação menor */
  font-size: clamp(1rem, 1.3vw, 1.3rem); /* 16–17px */
+ line-height: clamp(1.2rem, 2vw, 1.5rem); /* 19–25px */
  font-weight: normal;
 }
 
@@ -987,7 +988,7 @@ footer {
  justify-content: center;
  align-items: center;
  text-align: center;
- row-gap: 9px;  /* garante que não haja espaço vertical */
+ row-gap: 13px;  /* garante que não haja espaço vertical */
  width: 100%;
  margin-top: 2rem; /* 40px */
 }
@@ -996,13 +997,14 @@ footer {
  order: 1;
  margin-left: 0;
  justify-content: center;
- flex-wrap: wrap;
+ flex-wrap: wrap; /* Permite a quebra */
 }
 
 .footer-left {
  order: 2;
  margin-top: 0px;
  justify-content: center;
+ flex-wrap: wrap; /* Permite a quebra */
 }
 
 .pagination {

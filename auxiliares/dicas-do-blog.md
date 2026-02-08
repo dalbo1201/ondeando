@@ -20,6 +20,7 @@ As dicas que já temos por aqui são:
 <hr>
 
 <h4 id="criando-fotolog">Criando seu Fotolog <a href="#">&uarr;</a></h4>
+<span class="tag-reg">bearblog</span><span class="tag-reg">blogger</span><span class="tag-reg">jekyll</span>  
 Minha primeira dica é a possibilidade de criar uma galeira de fotos, uma capa principal para mostrar as imagens e a partir dela levar para a postagem completa.  
 
 Temos algo como um fotolog, podemos dizer, se você é _das antigas_. Eu achei isso bem legal e [tenho aqui no site](/fotolog "meu fotolog").  
@@ -28,12 +29,14 @@ Temos algo como um fotolog, podemos dizer, se você é _das antigas_. Eu achei i
 <br/><br/>
 
 <h4 id="separando-foto-de-texto">Separando as postagens de texto e fotos <a href="#">&uarr;</a></h4>
+<span class="tag-reg">jekyll</span>  
 Depois de criar o fotolog eu precisava que as postagens de lá não aparecessem na página do blog, mas elas pertencem ao mesmo feed.
 
 [Como eu separei as postagens de fotos dos textos](/dicas-do-blog/separando-foto-de-texto).
 <br/><br/>
 
 <h4 id="trocando-a-fonte">Trocando a fonte do espertofone <a href="#">&uarr;</a></h4>
+<span class="tag-reg">android</span>  
 Como finalmente consegui trocar a tipologia da fonte do meu celular.
 
 [Dê uma olhada](/dicas-do-blog/trocando-a-fonte-do-espertofone) e se tiver outras formas me avisa que a gente atualiza.

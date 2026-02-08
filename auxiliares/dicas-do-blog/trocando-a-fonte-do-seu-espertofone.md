@@ -8,7 +8,7 @@ O motivo de eu ter buscado mudar a fonte do meu celular é bem contada [nessa po
 
 Mas o que importa por aqui é que existe a possibilidade de colocar qualquer fonte nos celulares. No meu caso, que tenho um Samsung eu poderia pegar algumas fontes que tem na loja, mas... Bem, lê a postagem vai... :D.
 
-E segue a dica de como colocar qualquer fonte no seu celular.
+E segue a dica de como colocar qualquer fonte no seu celular, desde que ele use o sistema operacional Android.
 
 <a href="/dicas-do-blog">&laquo; voltar para as dicas</a>
 <hr>

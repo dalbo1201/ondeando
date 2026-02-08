@@ -10,6 +10,9 @@ O famoso [Changelog<sup>[en]</sup>](https://indieweb.org/release_notes) é simpl
 <hr>
 <h4>Alterações em 2026</h4>
 <h5>07 de fevereiro</h5>
+<span class="tag-reg">acabamento</span><span class="tag-reg">css</span><span class="tag-reg">html</span>  
+Coloquei o selo do projeto [ENTREBLOGS](https://www.bamoretti.com/p/entreblogs.html) no rodapé desse espaço.  
+<h5>07 de fevereiro</h5>
 <span class="tag-reg">páginas</span>  
 Reeditei a página do [DICAS DO BLOG](/dicas-do-blog) colocando a dica de como alterar a fonte do espertofone, criando a lista de dicas e colocando as duas dicas em páginas separadas. A partir de agora cada dica terá sua página, por mais curta que seja.  
 <span class="tag-reg">css</span>  

@@ -6,9 +6,11 @@ permalink: "/dicas-do-blog/separando-foto-de-texto"
 <h2><span aria-hidden="true">|</span>Separando<span class="h2-menor"> foto de texto</span> </h2>
 Quando eu montei meu Fotolog eu resolvi que eu não queria que as postagens dele ficassem naparecendo junto com as postagens do blog, mas ao mesmo tempo eu queria manter apenas um feed de forma que ao assinar o rss daqui tudo estivesse junto.  
 
-A ideia é que exista uma separação *física* das postagens, mas no final é tudo um grande lugar onde eu posto minhas coisas.  
+A ideia é que exista uma separação _física_ das postagens, mas no final é tudo um grande lugar onde eu posto minhas coisas.  
 
-Aqui você terá o passo a passo de como eu fiz essa distinção ao criar as postagens em texto ou baseadas nas fotos.
+Aqui você terá o passo a passo de como eu fiz essa distinção ao criar as postagens em texto ou baseadas nas fotos.  
+
+Só para lembrar, isso tudo aqui foi feito e textado para blogs criados em **Jekyll**, mas acredito que a ideia como um todo possa ser adaptada para outras plataformas.
 
 <a href="/dicas-do-blog">&laquo; voltar para as dicas</a>
 <hr>
