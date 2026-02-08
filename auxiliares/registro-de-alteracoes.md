@@ -9,7 +9,11 @@ permalink: "/registro-de-alteracoes"
 O famoso [Changelog<sup>[en]</sup>](https://indieweb.org/release_notes) é simplesmente um resumo das alterações <del>consideradas mais pertinentes</del> realizadas aqui neste meu pequeno canto da internet.
 <hr>
 <h4>Alterações em 2026</h4>
-<h5>05 de fevereiro</h5>
+<h5>07 de fevereiro</h5>
+<span class="tag-reg">páginas</span>  
+Reeditei a página do [DICAS DO BLOG](/dicas-do-blog) colocando a dica de como alterar a fonte do espertofone, criando a lista de dicas e colocando as duas dicas em páginas separadas. A partir de agora cada dica terá sua página, por mais curta que seja.  
+<span class="tag-reg">css</span>  
+Corrigi o `css` do [FOTOLOG](/fotolog), não sei por qual motivo as fotos no grid não estavam alinhadas pela base da foto o que deixava uma sensação de mal construído. Agora está tudo alinhado pela base das imagens e me parece melhor.  
 <span class="tag-reg">css</span>  
 Atualizei a classe `fleabag` que utilizo quando quero fazer um comentários sobre o que estou escrevendo. Como que quebrando a *quarta parede* como a personagem em sua série, agora parece um balão de quadrinhos como se eu simplesmente falasse no meio do texto.  
 <blockquote class="fleabag">Espero que gostem.</blockquote>

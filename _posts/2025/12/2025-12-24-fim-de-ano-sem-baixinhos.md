@@ -5,6 +5,7 @@ title: "Fim de ano sem baixinhos"
 date: 2025-12-24 12:00:00 -0300
 tags: 
  - a vida, o universo e tudo mais
+ - postagem coletiva
 ---
 <blockquote class="fleabag">Uma pequena anedota de Natal da minha família por parte de pai.</blockquote>  
 

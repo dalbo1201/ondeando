@@ -9,6 +9,7 @@
  --color-data: #000000;
  --quote-transparency: 0.45;
  --code-background-transparency: 0.7;
+ --code-background: color-mix(in srgb, #75015c, transparent calc(100% - (0.7 * 100%)));
  --font-geral: 'Montserrat', sans-serif;
 }
 
@@ -19,6 +20,7 @@
   --color-link: #F1C6E8;
   --color-link-hover: #F1E5C6;
   --color-data: #E6E6E6;
+  --code-background: color-mix(in srgb, #F1C6E8, transparent calc(100% - (0.7 * 100%)));
  }
 }
 
@@ -150,7 +152,7 @@ hr {
  color: var(--color-link);
  width: 100%;
  margin-top: 1px;
- margin-bottom: 10px; /* Espaço entre o hr e o conteúdo abaixo */
+ margin-bottom: 20px; /* Espaço entre o hr e o conteúdo abaixo */
 }
 
 .fotocab {
@@ -504,7 +506,7 @@ article.blog-article.blog-notas h3 {
 
 /* Se você quiser estilizar algo baseado na semântica no futuro: */
 .h-entry .p-name {
-  /* Seus estilos de H3 já cuidam disso, mas a classe está aqui se precisar */
+/* Seus estilos de H3 já cuidam disso, mas a classe está aqui se precisar */
 }
 
 /* Ocultar elementos que são apenas para robôs */
@@ -587,16 +589,12 @@ blockquote p{
 }
 
 .fleabag {
-  /* 1. Criamos uma variável local com a cor transparente */
-  --cor-transparente: color-mix(in srgb, var(--color-link), transparent calc(100% - (var(--code-background-transparency) * 100%)));
   font-size: clamp(1rem, 1.5vw, 1.06rem);
   line-height: clamp(1.5rem, 2vw, 1.7rem);
   font-style: italic;
   color: var(--color-background);
   max-width: 80%; 
-  
-  /* 2. Aplicamos a cor transparente no fundo E na borda */
-  background-color: var(--cor-transparente);
+  background-color: var(--code-background);
   border-radius: 0.5rem 0.5rem 0.5rem 0;
   padding: 0.5rem 0.5rem;
   position: relative; 
@@ -610,7 +608,7 @@ blockquote p{
   bottom: 0px;
   left: -15px; 
   /* 3. Aplicamos a cor transparente aqui também */
-  border-right: 15px solid var(--cor-transparente);
+  border-right: 15px solid var(--code-background);
   border-top: 10px solid transparent;
 }
 
@@ -855,10 +853,10 @@ pre {
 }
 
 pre code {
+ background-color: var(--color-link);
  font-family: monospace;
  font-size: 1rem;
  line-height: 1.5;
- background-color: var(--color-link) ;
  opacity: 1;
  color: var(--color-background); 
 }
