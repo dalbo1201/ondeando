@@ -25,7 +25,7 @@ O mais divertido é quando eu conto pra amigos essa tradição na minha família
 
 Depois de anos voltamos a ter crianças no Natal, não foi necessário voltar a ter um Papai Noel, mas é preciso reaprendermos a brincar considerando a magia do "bom velhinho" na crença das crianças. Acho que estamos nos saindo bem, mas sentimos saudades da liberdade de fazer apenas porque era muito divertido pra gente.  
 
-<aside class="aviso-caixa"><div class="aviso-texto">Esta postagem faz parte da iniciativa textos de fim de ano do <a href="https://discord.gg/9e6TkNB6">Bar do Blog</a>, um servidor de blogues pt-br no Discord. Venha participar e ampliar essa comunidade.<br/>
+<aside class="blog-colet"><div class="aviso-texto">Esta postagem faz parte da iniciativa textos de fim de ano do <a href="https://discord.gg/9e6TkNB6">Bar do Blog</a>, um servidor de blogues pt-br no Discord. Venha participar e ampliar essa comunidade.<br/>
 <b>As postagens participantes foram:</b>
 <ul>
 <li><a href="https://ararinhaaazul.bearblog.dev/reflexoes-acerca-do-natal/">Ararinha Azul</a>;</li>

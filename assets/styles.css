@@ -267,7 +267,7 @@ main ul {
 }
 
 /* INÍCIO ESTILOS DE AVISO*/
-.aviso-caixa {
+.aviso-caixa, .blog-colet {
  display: flex;
  flex-direction: row;
  border: 3px solid var(--color-link-hover); 
@@ -286,17 +286,30 @@ main ul {
 }
 
 .aviso-caixa::before {
- content: '\24D8'; /* código unicode do ícone */
- font-family: 'Fraunces', 'sans-serif'; /* Fonte */
- font-size: 2rem; /* 14–15px */
+ content: '\f05a'; /* código unicode do ícone */
+ font-family: "Font Awesome 7 Free"; /* Fonte */
+ font-weight: 900;
+ font-size: 1.5rem; /* 14–15px */
  color: var(--color-link-hover);
 }
+
+.blog-colet::before {
+ content: "\f0c0"; /* código unicode do ícone */
+ font-family: "Font Awesome 7 Free"; /* Fonte */
+ font-weight: 900;
+ font-size: 1.3rem; /* 14–15px */
+ color: var(--color-link-hover);
+ display: inline-block;
+ text-rendering: auto;
+ -webkit-font-smoothing: antialiased;
+}
+
 
 .aviso-texto > p {
  margin: 0;
 }
 
-.aviso-caixa ul /* avisos gerais*/ {
+.aviso-caixa ul, .blog-colet ul /* avisos gerais*/ {
  margin: 0;
  padding-left: 2rem; /* recuo para listas */
 }
@@ -438,7 +451,7 @@ a[href]:not(:where(
 
 /* INÍCIO DE ESTILO PARA IMAGENS em posts - NÃO É O FOTOLOG, ESSE VEM DEPOIS*/
 figure {
- margin: 0 0 30px 0; /* Remove a margem padrão do figure */
+ margin: 0 0 20px 0; /* Remove a margem padrão do figure */
  padding: 0; /* Remove o padding padrão do figure */
 } 
 
@@ -460,7 +473,7 @@ figcaption {
  display: grid;
  grid-template-columns: 1fr 1fr; /* Duas colunas iguais */
  gap: 15px; /* Espaço entre as fotos */
- margin: 1.5rem 0;
+ margin: 0 0;
  width: 100%;
  align-items: end;
 }
