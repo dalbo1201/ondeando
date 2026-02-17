@@ -1,7 +1,7 @@
 ---
 layout: post
 type: notas
-title: "Site do entreblogs"
+title: "Metido a enxerido"
 date: 2026-02-17 15:00:00 -0300
 tags:
  - pensamentos
