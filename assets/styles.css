@@ -622,7 +622,7 @@ blockquote p{
   bottom: 0px;
   left: -15px; 
   /* 3. Aplicamos a cor transparente aqui também */
-  border-right: 15px solid var(--code-background);
+  border-right: 16px solid var(--code-background);
   border-top: 10px solid transparent;
 }
 

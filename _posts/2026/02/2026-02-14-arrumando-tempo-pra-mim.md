@@ -15,5 +15,5 @@ De qualquer forma é preciso ter vergonha na cara e largar o celular e as mídia
 
 Eu tenho percebido que meu arqui-inimigo não são mídias sociais isoladas, atualmente eu só tenho conta ativa no Instagram. Mas o problema é ficar navegando entre o Instagram, o Telegram e o WhatsApp e o CapyReader (um agregador de feed). Fico procurando o que ler/ver entre esses três aplicativos e não largo o celular.  
 
-Talvez eu nem goste tanto de ler, ou eu sairia mais rápido do celular, talvez eu esteja tomado pelo vício que não estou conseguindo vencer. Não tenho certeza, mas sei que ficar nessa microtela procurando o que fazer quando eu tenho duas atividades que eu sei serem melhores me esperando esta me remoendo.   
+Talvez eu nem goste tanto de ler, ou eu sairia mais rápido do celular, talvez eu esteja tomado pelo vício que não estou conseguindo vencer. Não tenho certeza, mas sei que ficar nessa microtela procurando o que fazer quando eu tenho duas atividades que eu sei serem melhores me esperando está me remoendo.   
 
