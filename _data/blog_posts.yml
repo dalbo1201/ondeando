@@ -1099,8 +1099,13 @@
   date: 2026-02-14 12:00:00.000000000 -03:00
   image:
   caption:
-- title: Site do entreblogs
-  url: "/blog/site-do-entreblogs/"
+- title: Peregrinação de museus
+  url: "/fotolog/peregrinacao-de-museus"
+  date: 2026-02-17 12:00:00.000000000 -03:00
+  image: "/assets/fotos/2026/02/farol-santander/20251228_175007.jpg"
+  caption: Apresentação à antiguidade [...]
+- title: Metido a enxerido
+  url: "/blog/metido-a-enxerido/"
   date: 2026-02-17 15:00:00.000000000 -03:00
   image:
   caption:

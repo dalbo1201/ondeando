@@ -22,6 +22,9 @@ Comentários rápidos e sem muito trabalho editorial sobre os episódios assisti
 <details open><summary>Temporada 2</summary>
 <ul>
 <li><a href="#t02e01-02">t02e01-02</a></li>
+<li><a href="#t02e03-04">t02e03-04</a></li>
+<li><a href="#t02e05-06">t02e05-06</a></li>
+<li><a href="#t02e07-08">t02e07-08</a></li>
 </ul>
 </details>
 
@@ -205,4 +208,50 @@ Tava na cara que nao iam ajudar o Rico e que essa situação dele nao ser sócio
 
 A Ruth pedindo um histórico do que tão fazendo com o dinheiro dela foi ótimo, ela não parece ter gostado muito do mostruário.  
 
-Foi engraçado o Nate sonhando contar pra Brenda a situação dele, mas aí o episódio termina daquele jeito com ele conversando com o Dave e foi pesado aquilo, triste a situação toda.
+Foi engraçado o Nate sonhando contar pra Brenda a situação dele, mas aí o episódio termina daquele jeito com ele conversando com o Dave e foi pesado aquilo, triste a situação toda.  
+
+<h4 id="t02e03-04">t02e03-04 <a href="#">&uarr;</a></h4>
+
+**e03**  
+No final o episódio todo foi ofuscado pela paraquadas do Gabriel. É claro que essa história toda ia caminhar mal, e que ele ia acabar colocando a Claire numa situação complicada. Mas pelo menos os roteiristas nao a tratam como uma garota desmiolada e ela fez tudo certinho depois de fazer a besteira de atender ao chamado dele.  
+
+E o Dave com o Keith, não se esqueceram ainda... Nenhum dos dois.
+
+Agora, voltemos a Brenda... Tá com cara que vai rolar quebra de confiança com o Nate e aí vamos ver como isso desenrola.  
+
+Vamos ver tambem como a Ruth *reconstroi sua casa*.  Gente, as cenas dela hoje foram todas divertidissimas, é bom ver a como a personagem dela ganha boas camadas.
+
+**e04**  
+Esqueci de escrever e passou... quem sabe algum dia eu revejo.  
+
+<h4 id="t02e05-06">t02e05-06 <a href="#">&uarr;</a></h4>  
+
+**e05**  
+Muita coisa curiosa aconteceu nesse episódio. Essa questao do David e Keith precisa acabar, tá cansativo. E eu espero que essa morte no trabalho do Keith nao tenha ocorrido apenas pra rolar uma transa e ele realmente tenha algum arco mais trabalhado.  
+
+A questão da Nrenda foi caminhando para um cliche básico, mas terminou pior, com ela propondo casamento pro Nate por medo. É algo esperado, mas qie mania dos estadosunidenses casarem rapdio.  
+
+Agora o que pegou mesmo foi o arco da Ruth no episódio, ela já vem a algum tempo indicando essa necessidade de maior intimidade com os filhos e tem mostrado como isso é dificil na familia, mas vê-la dessa forma no final foi de partir o coração.  
+
+**06**  
+Esse Nate que tira do nada um anel para dar a Brenda? Assustador isso.  
+
+Gente a Brenda ta cada vez pior, um caminho que não tem volta esse. Ja to esperando o Nate conhecer esse cara e ele comentar da massagista, o caos ta criado.  
+
+Definitivamente a Ruth tem se tornado a personagem mais interessante e mais bem trabalhada. Essa é uma história que tá me interessando.  
+
+<h4 id="t02e07-08">t02e07-08 <a href="#">&uarr;</a></h4>  
+
+**e07**  
+Claramente os roteiristas tão querendo criar um clima de caos entre a gente e o casal Nate & Brenda, a coisa nao caminha para um final feliz. Brenda já passou do limite e em busca de um novo limite e Nate sem contar pra ela da doença e ainda fazendo gracinhas.  
+
+Enquanto isso David retornando para seu príncipe, mesmo que num hospital.  
+
+E Ruth, bem, ela continua sendo uma personagem a se admirar, mesmo tendo pouco tempo de cena.  
+
+**e08**  
+E as criancinhas mataram Papai-Noel.
+
+Mais uma vez a Ruth brilha.  
+
+Finalmente Nate contou para Brande, mas a que custo... David sendo feliz e Keith tendo mais um fantasma o atormentando no Natal.
