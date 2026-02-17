@@ -9,9 +9,12 @@ permalink: "/registro-de-alteracoes"
 O famoso [Changelog<sup>[en]</sup>](https://indieweb.org/release_notes) é simplesmente um resumo das alterações <del>consideradas mais pertinentes</del> realizadas aqui neste meu pequeno canto da internet.
 <hr>
 <h4>Alterações em 2026</h4>
+<h5>17 de fevereiro</h5>
+<span class="tag-reg">css</span><span class="tag-reg">html</span>  
+Criamos o [**webring do entreblogs**](https://pt.wikipedia.org/wiki/Webring), e coloquei ele na página do [BLOGROL](/blogrol) para divulgar essa galera gente boa que descobri aqui nas internets.  
 <h5>07 de fevereiro</h5>
 <span class="tag-reg">acabamento</span><span class="tag-reg">css</span><span class="tag-reg">html</span>  
-Coloquei o selo do projeto [ENTREBLOGS](https://www.bamoretti.com/p/entreblogs.html) no rodapé desse espaço.  
+Coloquei o selo do projeto [ENTREBLOGS](https://entreblogs.netlify.app) no rodapé desse espaço.  
 <h5>07 de fevereiro</h5>
 <span class="tag-reg">páginas</span>  
 Reeditei a página do [DICAS DO BLOG](/dicas-do-blog) colocando a dica de como alterar a fonte do espertofone, criando a lista de dicas e colocando as duas dicas em páginas separadas. A partir de agora cada dica terá sua página, por mais curta que seja.  
