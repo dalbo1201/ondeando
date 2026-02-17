@@ -64,4 +64,7 @@ Na encruzilhada entre crescimento pessoal, vida digital e inspiração criativa,
 <h4><a href="https://robertbirming.com/?ref=pedro.dalbo.me">Robert Birming</a></h4>
 <h6>Robert Birming | blog | BearBlog | <a href="https://robertbirming.com/feed/?type=rss/?ref=pedro.dalbo.me">feed</a></h6>
 Um blogueiro, suéco, das antigas. Tem ótimos textos com boas reflexões da vida e do mundo das internets que queremos, fora dos aplicativos.
-<br/>
+
+<br/><br/><br/><br/>
+
+  {% include entreblogs-webring.html %}

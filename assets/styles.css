@@ -949,6 +949,55 @@ pre code {
 }
 /* FINAL - Botão de alerta */
 
+/* INÍCIO entreblogs-webring */
+#entreblogs-webring {
+ margin: 10px auto;
+ padding: 0.5rem;
+ background-color: var(--color-background);
+ border-top: 2px solid var(--color-link); /* Borda sutil com sua cor principal */
+ border-bottom: 2px solid var(--color-link); /* Borda sutil com sua cor principal */
+ border-radius: 7px;
+ font-family: var(--font-geral);
+}
+
+.entreblogs-title {
+ color: var(--color-text);
+ font-weight: bold;
+ text-align: center;
+ margin-bottom: 0.5rem;
+ text-transform: uppercase;
+ font-size: 0.75rem;
+ letter-spacing: 2px;
+ opacity: 0.8;
+}
+
+/* Reutilizando sua lógica de paginação */
+#entreblogs-webring .pagination {
+ display: flex;
+ justify-content: space-between;
+ align-items: center;
+ width: 100%;
+ margin: 0; /* Ajustado para dentro do box */
+ font-size: 0.95rem;
+}
+
+.entreblogs-footer {
+ text-align: center;
+ margin-top: 0.40rem;
+ font-size: 0.8rem;
+ opacity: 0.8;
+}
+/* FINAL entreblogs-webring */
+
+/* Pequeno ajuste para mobile */
+@media (max-width: 480px) {
+    .entreblogs-nav {
+        flex-direction: column;
+        gap: 5px;
+    }
+}
+/* FINAL entreblogs-webring */
+
 /* Ajustes para telas menores */
 @media only screen and (max-width: 40rem) {
 header {
