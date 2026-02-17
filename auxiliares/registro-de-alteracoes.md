@@ -11,7 +11,7 @@ O famoso [Changelog<sup>[en]</sup>](https://indieweb.org/release_notes) é simpl
 <h4>Alterações em 2026</h4>
 <h5>17 de fevereiro</h5>
 <span class="tag-reg">css</span><span class="tag-reg">html</span>  
-Criamos o [**webring do entreblogs**](https://pt.wikipedia.org/wiki/Webring), e coloquei ele na página do [BLOGROL](/blogrol) para divulgar essa galera gente boa que descobri aqui nas internets.  
+Criamos o [**webring do entreblogs**](https://pt.wikipedia.org/wiki/Webring), e coloquei ele na página do [BLOGROL](/blogrol) para divulgar essa galera gente boa que descobri aqui *nas internets*.  
 <h5>07 de fevereiro</h5>
 <span class="tag-reg">acabamento</span><span class="tag-reg">css</span><span class="tag-reg">html</span>  
 Coloquei o selo do projeto [ENTREBLOGS](https://entreblogs.netlify.app) no rodapé desse espaço.  
