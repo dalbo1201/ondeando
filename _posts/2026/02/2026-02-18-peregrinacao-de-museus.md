@@ -2,7 +2,7 @@
 layout: foto
 type: album
 title: "Peregrinação de museus"
-date: 2026-02-17 12:00:00 -0300
+date: 2026-02-18 12:00:00 -0300
 image: /assets/fotos/2026/02/farol-santander/20251228_175007.jpg
 caption: "Apresentação à antiguidade [...]"
 tags:
