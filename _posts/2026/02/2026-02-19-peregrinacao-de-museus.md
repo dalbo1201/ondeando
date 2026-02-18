@@ -2,7 +2,7 @@
 layout: foto
 type: album
 title: "Peregrinação de museus"
-date: 2026-02-18 12:00:00 -0300
+date: 2026-02-19 12:00:00 -0300
 image: /assets/fotos/2026/02/farol-santander/20251228_175007.jpg
 caption: "Apresentação à antiguidade [...]"
 tags:
@@ -48,7 +48,7 @@ Lango-lango, bonecas da Moranguinho, o Topo Gigio, e uma pausa para explicar ao 
 </figure>
 </figure>
 
-Foram momentos curisos dele descobrindo outras formas de diversão.  
+Foram momentos curiosos dele descobrindo outras formas de diversão.  
 
 Continuando no trajeto do Farol, descobrimos uma outra exposição muito da bacana, **As aventuras de Pinóquio**.  
 
@@ -85,7 +85,7 @@ Aqui somos apresentados a várias versões e variações dessa fascinante histor
 </figure>
 </figure>
 
-Tivemos outras jornadas em museus depois, fomos a uma mostra do **Grande Otelo** e à exposição **Game+ Arte, cultura e comunidade**, ambas no Itaú Cultural. Mas essa deixaremos para outra vez.  
+Tivemos outro dia com outras jornadas em museus. Fomos a uma mostra do **Grande Otelo** e à exposição **Game+ Arte, cultura e comunidade**, ambas no Itaú Cultural. Mas essa história deixaremos para outra vez.  
 
 <aside class="aviso-caixa"><div class="aviso-texto">Ambas as exposições que comentei aqui <a href="https://www.farolsantander.com.br/sp/exposicoes" title="exposiçõesno Farol Santander">ainda estão em cartaz</a> lá no Farol, vale a pena a visita.</div></aside>
 
