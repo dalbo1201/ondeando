@@ -196,7 +196,7 @@ h2 { /* cabeçalho de saudação */
 h3 { /* Títulos de postagem e outros títulos de página */
  font-size: clamp(1.8rem, 3vw, 2rem); /* 27px → 27px */
  font-weight: normal;
- line-height: clamp(2.3rem, 3vw, 2.5rem); /* 32–35px */
+ line-height: clamp(2.5rem, 3vw, 2.7rem); /* 32–35px */
  text-wrap: balance;
  margin-top: 0.63rem; /* 10px */
  margin-bottom: 0.63rem; /* 10px */
