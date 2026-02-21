@@ -19,7 +19,7 @@
     {% assign updates_list = updates | split:"|" | compact %}
 
     {% if updates_list.size > 0 %}
-      – <i>atualizado em:
+      <br/> <i>atualizado em:
         {% assign last_index = updates_list.size %}
         {% assign penultimo = last_index | minus: 1 %}
 

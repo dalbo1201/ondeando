@@ -1,6 +1,6 @@
 Elementos de datas para atualização de postagens para o front-metter
-date: data de criação (data da atualização)
-created: (data de criação quando a postagem é atualizada)
+date: (data de criação ou data da atualização)
+created: (data de criação, coloca esse campo quando a postagem é atualizada)
 updated: (data da atualização anterior caso mais de uma atualização)
     Exemplo:
     date: 2024-10-10

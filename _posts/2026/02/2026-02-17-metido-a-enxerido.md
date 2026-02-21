@@ -7,7 +7,7 @@ tags:
  - pensamentos
  - metablog
 ---
-<blockquote class="fleabag">Já falei aqui da comunidade do ENTREBLOGS, uma galera muito ponta firme (gente, de onde eu arranjo esses adjetivos) que faz  termos prazer em voltar a blogar.</blockquote>  
+<blockquote class="fleabag">Já falei aqui da comunidade do <a href="/blog/descobri-uma-bela-comunidade-de-blogagem/" title="post de apresentação do entreblogs">ENTREBLOGS</a>, uma galera muito ponta firme (gente, de onde eu arranjo esses adjetivos) que faz  termos prazer em voltar a blogar.</blockquote>  
 
 ~~Eles~~ A gente tinha um espaço dentro do blog da criadora do rolê, a [Barbara](https://bamoretti.com/). Semana passada, ela e o [Igor](http://igormedeiroz.blogspot.com/) construíram um blog que funcionaria de site para o projeto.  Como eu sou metido a enxerido, resolvi colocar em xeque meus aprendizados em **Jekyll**, **HTML**, **CSS** e **Liquid** e resolvi emular o blog num _site mais tradicional_.  
 

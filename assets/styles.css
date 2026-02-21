@@ -360,8 +360,8 @@ code {
 /* FINAL ESTILOS GERAIS */
 
 /* INÍCIO ESTILOS PARA OS Links */
-/* INÍCIO CONFIGURAÇÃO GERAL (ONDA) */
-/* --- 1. CONFIGURAÇÃO (ONDA) --- */
+/* INÍCIO CONFIGURAÇÃO (ONDA) */
+/* --- 1. CONFIGURAÇÃO (ONDA) para os textos em geral--- */
 a, nav a {
  border-radius: 3px;
  padding: 0.09em;
@@ -377,7 +377,7 @@ a, nav a {
  text-decoration: underline solid .125rem;
 }
 
-/* --- 2. ESTADOS DE COR E HOVER --- */
+/* --- 2.1 ESTADOS DE COR E HOVER  para os textos em geral--- */
 a:link, a:visited, a:active, nav a {
  color: var(--color-link);
 }
@@ -385,6 +385,35 @@ a:link, a:visited, a:active, nav a {
 a:hover, nav a:hover {
  cursor: pointer;
  color: var(--color-background);
+ background-position: bottom;
+ text-decoration: underline solid .125rem;
+}
+
+
+/* --- 1.2 CONFIGURAÇÃO (ONDA) para os textos em .fleabag que precisam ficar invertidos--- */
+.fleabag a {
+ border-radius: 3px;
+ padding: 0.09em;
+ display: inline; 
+ box-decoration-break: clone;
+ line-height: 1.1;
+/* Gradiente Vertical com sua variável de transparência */
+ background-image: linear-gradient(to top, rgb(from var(--color-background) r g b / var(--code-background-transparency)) 50%, transparent 50%);
+ background-size: 100% 200%;
+ background-position: top;
+ transition: background-position 0.3s ease, color 0.3s ease;
+ color: var(--color-background);
+ text-decoration: underline solid .125rem;
+}
+
+/* --- 2.2 ESTADOS DE COR E HOVER para os textos em .fleabag que precisam ficar invertidos--- */
+.fleabag a:link, .fleabag a:visited, .fleabag  a:active {
+ color: var(--color-background);
+}
+
+.fleabag a:hover {
+ cursor: pointer;
+ color: var(--color-link);
  background-position: bottom;
  text-decoration: underline solid .125rem;
 }
@@ -413,7 +442,7 @@ a:has(img):hover {
   background-position: top !important;
 
 }
-/* INÍCIO CONFIGURAÇÃO GERAL (ONDA) */
+/* FINAL CONFIGURAÇÃO GERAL (ONDA) */
 
 .blog-tag a {
  white-space: nowrap; /* impede quebra dentro da tag */
@@ -686,7 +715,7 @@ article.blog-article.blog-citacao cite {
  text-wrap: balance;
  justify-content: center;
  margin-bottom: 20px;
- gap: 5px 10px;
+ gap: 9px 10px;
 }
 
 /* INÍCIO do estilo para lista de posts por tag em tabela */

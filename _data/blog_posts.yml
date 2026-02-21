@@ -1084,9 +1084,9 @@
   date: 2026-01-24 12:30:00.000000000 -03:00
   image:
   caption:
-- title: Como as coisas acontecem por aqui
-  url: "/blog/como-as-coisas-acontecem-por-aqui/"
-  date: 2026-01-31 12:00:00.000000000 -03:00
+- title: Descobri uma bela comunidade de blogagem
+  url: "/blog/descobri-uma-bela-comunidade-de-blogagem/"
+  date: 2026-02-01 10:30:00.000000000 -03:00
   image:
   caption:
 - title: Novas páginas de dicas
@@ -1102,5 +1102,15 @@
 - title: Metido a enxerido
   url: "/blog/metido-a-enxerido/"
   date: 2026-02-17 15:00:00.000000000 -03:00
+  image:
+  caption:
+- title: Peregrinação de museus
+  url: "/fotolog/peregrinacao-de-museus"
+  date: 2026-02-19 12:00:00.000000000 -03:00
+  image: "/assets/fotos/2026/02/farol-santander/20251228_175007.jpg"
+  caption: Apresentação à antiguidade [...]
+- title: Como as coisas acontecem por aqui
+  url: "/blog/como-as-coisas-acontecem-por-aqui/"
+  date: 2026-02-21 10:00:00.000000000 -03:00
   image:
   caption:
