@@ -9,7 +9,7 @@ Este é meu espaço na internet, um cantinho mais pessoal longe de tantos algor�
 
 Carinhosamente eu chamo este lugar de [**Ondeando**](/blog/meu-lugar-predileto/ "porquê chamo assim").  
 
-Aqui do lado você descobre um pouco o que eu tenho feito nos últimos dias ou meses. Nada que abale minha privacidade, leitura, filmes, pensamentos sobre _a vida, o universo e tudo mais_.  
+Aqui tem um pouco o que eu tenho feito nos últimos dias ou meses. Nada que abale minha privacidade, leitura, filmes, pensamentos sobre _a vida, o universo e tudo mais_.  
 
 Caso tenha encontrado este espaço procurando minhas informações profissionais, acredito que [aqui seja o lugar certo](/profissional "quem é o trabalhador").  
 
