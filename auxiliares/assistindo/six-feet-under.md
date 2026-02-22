@@ -25,6 +25,7 @@ Comentários rápidos e sem muito trabalho editorial sobre os episódios assisti
 <li><a href="#t02e03-04">t02e03-04</a></li>
 <li><a href="#t02e05-06">t02e05-06</a></li>
 <li><a href="#t02e07-08">t02e07-08</a></li>
+<li><a href="#t02e09-10">t02e09-10</a></li>
 </ul>
 </details>
 
@@ -185,7 +186,7 @@ Simbólica a saída do Nathaniel pelas escadas, talvez o vejamos menos na tempor
 <h4 id="">Bela temporada <a href="#">&uarr;</a></h4> 
 Uma temporada sentimentalmente equilibrada, triste e divertida. Alguns episódios pesados como o das crianças, ou o ataque do Billy, mas com momentos cômicos, como o Nate falando com o pai no _quartinho secreto_ ou o _pé do morto_ no armário do Gabriel.  
 
-Uma série que lida bem com os temas que aborda e que me parece bem adiante da época. Não apenas com o tema da homossexualidade, mas com a tomada de decisão na vida da Ruth, uma mulher que casou cedo demais, ficou presa à familia e soube lidar com o luto sem se esconder do que a vida tem a lhe oferecer agora.  
+Uma série que lida bem com os temas que aborda e que me parece bem adiante da época. Não apenas com o tema da homossexualidade, mas com a tomada de decisão na vida da Ruth, uma mulher que casou cedo demais, ficou presa à família e soube lidar com o luto sem se esconder do que a vida tem a lhe oferecer agora.  
 
 Que os personagens evoluam mais, às vezes rolam uns retrocessos em outras séries para prolongar situações, essa galera (e a gente) não merece isso.  
 
@@ -193,33 +194,33 @@ Que os personagens evoluam mais, às vezes rolam uns retrocessos em outras séri
 <h4>t02e01-02 <a href="#">&uarr;</a></h4>
 
 **e01**  
-Achei um retorno de temporad ameio morno, eu esperava que a caminhada do patriarca indicasse um rito de passagem e que ele nao aparecesse mais, nao será o caso. Nada contra mas do jeito que rolou me passou essa impressão de evolução dos sentimentos.  
+Achei um retorno de temporada meio morno, eu esperava que a caminhada do patriarca indicasse um rito de passagem e que ele não aparecesse mais, não será o caso. Nada contra, mas do jeito que rolou me passou essa impressão de evolução dos sentimentos.  
 
-A relação do Deve com o casal do ex, já tá parecendo meio forçada para deixá-lo desconfortável, parece uma estagnação da vida dele. Assim como o Gabriel e essa necessidade da Claire de cuidar dele, mas ela vai se dar mal porque claramente ele roubou o frasco.  
+A relação do Dave com o casal do ex já tá parecendo meio forçada para deixá-lo desconfortável, parece uma estagnação da vida dele. Assim como o Gabriel e essa necessidade da Claire de cuidar dele, mas ela vai se dar mal porque claramente ele roubou o frasco.  
 
-E Nate e Branda tão numa situacao complicada, ela tendo que lidar com os problemas dela e precisando ficar sozinha com isso e ele tendo que lidar com o problema dele, sem contar pra ela, e querendo aproveitar mais os momentos dele juntos. Vai dar ruim antes de dar bom.  
+E Nate e Brenda tão numa situação complicada, ela tendo que lidar com os problemas dela e precisando ficar sozinha com isso e ele tendo que lidar com o problema dele, sem contar pra ela, e querendo aproveitar mais os momentos deles juntos. Vai dar ruim antes de dar bom.  
 
-Achei ótimo o jantar com o Nokolai, acho ele divertido demais.  
+Achei ótimo o jantar com o Nikolai, acho ele divertido demais.  
 
 **e02**  
-Não deu ruim pra Claire por causa do frasco, mas a coisa saiu do controle. A gente ate pode sentir pena od Gabriel, mas o rapaz não ajuda em nada.  
+Não deu ruim pra Claire por causa do frasco, mas a coisa saiu do controle. A gente até pode sentir pena do Gabriel, mas o rapaz não ajuda em nada.  
 
-Tava na cara que nao iam ajudar o Rico e que essa situação dele nao ser sócio tava fugindo do controle. As vezes ele passa do tom com o Nate e o Dave, dá uma misturada nas coisas.  
+Tava na cara que não iam ajudar o Rico e que ele não seria sócio. Às vezes ele passa do tom com o Nate e o Dave, dá uma misturada nas coisas.  
 
 A Ruth pedindo um histórico do que tão fazendo com o dinheiro dela foi ótimo, ela não parece ter gostado muito do mostruário.  
 
-Foi engraçado o Nate sonhando contar pra Brenda a situação dele, mas aí o episódio termina daquele jeito com ele conversando com o Dave e foi pesado aquilo, triste a situação toda.  
+Foi engraçado o Nate sonhando contar pra Brenda a situação dele, mas aí o episódio termina daquele jeito, com ele conversando com o Dave e foi pesado aquilo, muito triste a situação toda.  
 
 <h4 id="t02e03-04">t02e03-04 <a href="#">&uarr;</a></h4>
 
 **e03**  
-No final o episódio todo foi ofuscado pela paraquadas do Gabriel. É claro que essa história toda ia caminhar mal, e que ele ia acabar colocando a Claire numa situação complicada. Mas pelo menos os roteiristas nao a tratam como uma garota desmiolada e ela fez tudo certinho depois de fazer a besteira de atender ao chamado dele.  
+No final o episódio todo foi ofuscado pelas pataquadas do Gabriel. É claro que essa história toda ia caminhar mal, e que ele ia acabar colocando a Claire numa situação complicada. Mas pelo menos os roteiristas não a tratam como uma garota desmiolada e ela fez tudo certinho depois de fazer a besteira de atender ao chamado dele.  
 
-E o Dave com o Keith, não se esqueceram ainda... Nenhum dos dois.
+E o Dave com o Keith, eles não se esqueceram ainda... Nenhum dos dois.
 
-Agora, voltemos a Brenda... Tá com cara que vai rolar quebra de confiança com o Nate e aí vamos ver como isso desenrola.  
+Agora, voltemos à Brenda... Tá com cara que vai rolar quebra de confiança com o Nate e aí vamos ver como isso desenrola.  
 
-Vamos ver tambem como a Ruth *reconstroi sua casa*.  Gente, as cenas dela hoje foram todas divertidissimas, é bom ver a como a personagem dela ganha boas camadas.
+Vamos ver tambem como a Ruth *reconstroi sua casa*. Gente, as cenas dela hoje foram todas divertidissimas, é bom ver como a personagem dela ganha boas camadas.
 
 **e04**  
 Esqueci de escrever e passou... quem sabe algum dia eu revejo.  
@@ -227,23 +228,23 @@ Esqueci de escrever e passou... quem sabe algum dia eu revejo.
 <h4 id="t02e05-06">t02e05-06 <a href="#">&uarr;</a></h4>  
 
 **e05**  
-Muita coisa curiosa aconteceu nesse episódio. Essa questao do David e Keith precisa acabar, tá cansativo. E eu espero que essa morte no trabalho do Keith nao tenha ocorrido apenas pra rolar uma transa e ele realmente tenha algum arco mais trabalhado.  
+Muita coisa curiosa aconteceu nesse episódio. Essa questão do David e Keith precisa acabar, tá cansativo. E eu espero que essa morte no trabalho do Keith não tenha ocorrido apenas pra rolar uma transa e ele realmente tenha algum arco mais trabalhado.  
 
-A questão da Nrenda foi caminhando para um cliche básico, mas terminou pior, com ela propondo casamento pro Nate por medo. É algo esperado, mas qie mania dos estadosunidenses casarem rapdio.  
+A questão da Brenda foi caminhando para um clichê básico, mas terminou pior, com ela propondo casamento pro Nate por medo. É algo esperado, mas que mania dos estadunidenses casarem rápido.  
 
-Agora o que pegou mesmo foi o arco da Ruth no episódio, ela já vem a algum tempo indicando essa necessidade de maior intimidade com os filhos e tem mostrado como isso é dificil na familia, mas vê-la dessa forma no final foi de partir o coração.  
+Agora o que pegou mesmo foi o arco da Ruth no episódio, ela já vem a algum tempo indicando essa necessidade de maior intimidade com os filhos e tem mostrado como isso é dificil na família, mas vê-la dessa forma no final foi de partir o coração.  
 
 **06**  
-Esse Nate que tira do nada um anel para dar a Brenda? Assustador isso.  
+E esse Nate que tira do nada um anel pra dar pra Brenda? Assustador isso.  
 
-Gente a Brenda ta cada vez pior, um caminho que não tem volta esse. Ja to esperando o Nate conhecer esse cara e ele comentar da massagista, o caos ta criado.  
+Gente, a Brenda tá cada vez pior, um caminho que não tem volta. Já tô esperando o Nate conhecer esse cara e ele comentar da massagista, o caos tá criado.  
 
-Definitivamente a Ruth tem se tornado a personagem mais interessante e mais bem trabalhada. Essa é uma história que tá me interessando.  
+Definitivamente a Ruth tem se tornado a personagem mais interessante e mais bem trabalhada, essa é uma história que tá me interessando.  
 
 <h4 id="t02e07-08">t02e07-08 <a href="#">&uarr;</a></h4>  
 
 **e07**  
-Claramente os roteiristas tão querendo criar um clima de caos entre a gente e o casal Nate & Brenda, a coisa nao caminha para um final feliz. Brenda já passou do limite e em busca de um novo limite e Nate sem contar pra ela da doença e ainda fazendo gracinhas.  
+Claramente os roteiristas tão querendo criar um clima de caos entre a gente e o casal Nate & Brenda, a coisa não caminha para um final feliz. Brenda já passou do limite e em busca de um novo limite e Nate sem contar pra ela da doença e ainda fazendo gracinhas.  
 
 Enquanto isso David retornando para seu príncipe, mesmo que num hospital.  
 
@@ -254,4 +255,15 @@ E as criancinhas mataram Papai-Noel.
 
 Mais uma vez a Ruth brilha.  
 
-Finalmente Nate contou para Brande, mas a que custo... David sendo feliz e Keith tendo mais um fantasma o atormentando no Natal.
+Finalmente Nate contou para Brenda, mas a que custo... David sendo feliz e Keith com mais um fantasma o atormentando no Natal.
+
+<h4 id="t02e09-10">t02e09-10 <a href="#">&uarr;</a></h4>  
+
+**e09**  
+A Brenda continua perdendo o controle da situação. Mas ao mesmo tempo, o Nate se mostra um safado ao transar com a amiga e ainda por cima engravidá-la. 
+
+David e Keith numa lua de mel que vamos torcer para não acabar em tragédia.  
+
+Ruth descobrindo o que realmente aconteceu com Nikolai e a esperança é isso não espirrar nela e que ela não gaste todo seu dinheiro arrumando a vida no namorado.  
+
+A Clare é sempre uma icógnita, às vezes ela parece entender onde está se metendo, às vezes não... Bom, isso é ser adolecente, não é mesmo? Mas pelo menos depois dessa nova confusão com o Billy ela parece ter descoberto o que ela quer fazer da vida. Vamos ver até qual episódio vai isso.
