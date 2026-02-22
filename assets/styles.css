@@ -843,6 +843,94 @@ table.tabela-posts td {
 }
 /* FINAL PARA A PÁGINA DE MÍDIAS SOCIAIS */
 
+/* INÍCIO para timeline da página de registro de alterações */
+/* Timeline */
+.timeline {
+  margin-block: 2em;
+}
+
+.timeline > ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  position: relative;
+}
+
+.timeline > ul::before { /* linha */
+  content: "";
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0.35rem;
+  width: 1px;
+  background: color-mix(in srgb, var(--color-link-hover) 40%, transparent);
+}
+
+.timeline > ul > li {
+  position: relative;
+  padding-inline-start: 2rem;
+  margin-block: 2.3em;
+}
+
+.timeline > ul > li::before { /* circulo */
+  content: "";
+  position: absolute;
+  top: 0.1em; /* inha sobreo o circulo */
+  left: 0;
+  width: 0.7rem;
+  height: 0.7rem;
+  background: var(--color-background);
+  border: 1px solid color-mix(in srgb, var(--color-link-hover) 70%, transparent);
+  border-radius: 999px;
+}
+
+.timeline li > :last-child {
+  margin-bottom: 0;
+}
+
+/* Diminui o espaço abaixo do item que contém o ano */
+.timeline > ul > li:has(h4) {
+  margin-bottom: 0.5rem; /* Ajuste este valor conforme preferir */
+}
+
+/* Opcional: Remove um pouco do espaço acima do primeiro h5 após o ano */
+.timeline > ul > li:has(h4) + li {
+  margin-top: 0;
+}
+
+
+/* Estilo do círculo com efeito de anel para a troca de ano (h4) */
+.timeline > ul > li:has(h4)::before {
+  background: var(--color-link-hover); /* Preenche o centro */
+  border-color: var(--color-link-hover);
+  /* O efeito de borda dupla: uma camada da cor do fundo e outra da cor do link */
+  box-shadow: 0 0 0 2px var(--color-background), 0 0 0 3px var(--color-link-hover);
+  z-index: 1; /* Garante que o anel fique acima da linha vertical */
+}
+
+/* Ajuste apenas de posição para o h4, sem mudar a cor */
+.timeline li h4 {
+  margin-top: 0; 
+  margin-bottom: -0.5em; /* Espaçamento opcional para não grudar no conteúdo abaixo */
+}
+
+/* Estilo para listas COMUNS dentro da timeline */
+.timeline li ul {
+  list-style: disc; /* Volta a bolinha padrão */
+}
+
+.timeline li ul li {
+  padding-inline-start: 0;
+  margin-block: 0.5em;
+}
+
+/* Remove o círculo da timeline de listas aninhadas caso ele tente herdar */
+.timeline li li::before {
+  content: none;
+}
+
+/* FINAL para timeline da página de registro de alterações */
+
 /* INÍCIO DA NAVEGAÇÃO POR PÁGINA */
 .pagination {
  display: flex;
