@@ -12,4 +12,4 @@ O [ENTREBLOGS](https://entreblogs.netlify.app) é uma galera muito bacana que ~~
 
 Fico feliz de reencontrar gente que está nesse clima, fortaleccer essa internet que fica mais na web e valoriza os _hiperlinks_ é muito bom.  
 
-**Vida longa e próspera ao ENTREBLGOS.🖖**
+**Vida longa e próspera ao ENTREBLOGS.🖖**
