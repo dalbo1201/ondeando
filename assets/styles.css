@@ -847,6 +847,7 @@ table.tabela-posts td {
 /* Timeline */
 .timeline {
   margin-block: 2em;
+  margin-inline-start: 0.15rem;
 }
 
 .timeline > ul {
@@ -868,20 +869,24 @@ table.tabela-posts td {
 
 .timeline > ul > li {
   position: relative;
-  padding-inline-start: 2rem;
+  padding-inline-start: 1.5rem;
   margin-block: 2.3em;
 }
 
 .timeline > ul > li::before { /* circulo */
   content: "";
   position: absolute;
-  top: 0.1em; /* inha sobreo o circulo */
-  left: 0;
+  top: 0.4em; 
+  
+  /* AJUSTE AQUI: */
+  left: 0.35rem; /* O mesmo left da sua linha */
+  transform: translateX(-45%); /* Move o círculo para a esquerda metade da sua própria largura */
   width: 0.7rem;
   height: 0.7rem;
   background: var(--color-background);
   border: 1px solid color-mix(in srgb, var(--color-link-hover) 70%, transparent);
   border-radius: 999px;
+  z-index: 2; /* Garante que fique acima da linha */
 }
 
 .timeline li > :last-child {
@@ -911,7 +916,7 @@ table.tabela-posts td {
 /* Ajuste apenas de posição para o h4, sem mudar a cor */
 .timeline li h4 {
   margin-top: 0; 
-  margin-bottom: -0.5em; /* Espaçamento opcional para não grudar no conteúdo abaixo */
+  margin-bottom: -1.2em; /* Espaçamento opcional para não grudar no conteúdo abaixo */
 }
 
 /* Estilo para listas COMUNS dentro da timeline */
@@ -928,7 +933,6 @@ table.tabela-posts td {
 .timeline li li::before {
   content: none;
 }
-
 /* FINAL para timeline da página de registro de alterações */
 
 /* INÍCIO DA NAVEGAÇÃO POR PÁGINA */
