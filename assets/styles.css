@@ -880,7 +880,7 @@ table.tabela-posts td {
   
   /* AJUSTE AQUI: */
   left: 0.35rem; /* O mesmo left da sua linha */
-  transform: translateX(-45%); /* Move o círculo para a esquerda metade da sua própria largura */
+  transform: translateX(-50%); /* Move o círculo para a esquerda metade da sua própria largura */
   width: 0.7rem;
   height: 0.7rem;
   background: var(--color-background);
