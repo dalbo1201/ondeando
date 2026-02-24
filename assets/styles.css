@@ -648,7 +648,7 @@ blockquote p{
   content: "";
   position: absolute;
   bottom: 0px;
-  left: -15px; 
+  left: -15.5px; 
   /* 3. Aplicamos a cor transparente aqui também */
   border-right: 16px solid var(--code-background);
   border-top: 10px solid transparent;
