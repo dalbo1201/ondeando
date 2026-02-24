@@ -5,6 +5,7 @@ title: "Metido a enxerido"
 date: 2026-02-17 15:00:00 -0300
 tags:
  - pensamentos
+ - internet
  - metablog
 ---
 <blockquote class="fleabag">Já falei aqui da comunidade do <a href="/blog/descobri-uma-bela-comunidade-de-blogagem/" title="post de apresentação do entreblogs">ENTREBLOGS</a>, uma galera muito ponta firme (gente, de onde eu arranjo esses adjetivos) que faz  termos prazer em voltar a blogar.</blockquote>  

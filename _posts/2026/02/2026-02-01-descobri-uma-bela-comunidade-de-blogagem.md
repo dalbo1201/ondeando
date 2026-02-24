@@ -4,6 +4,7 @@ type: notas
 title: "Descobri uma bela comunidade de blogagem"
 date: 2026-02-01 10:30:00 -0300
 tags:
+ - internet
  - metablog
 ---
 Pelas andanças na web, e não dentro de aplicativos de feeds infinitos, descobri uma comunidade de blogagem coletiva.  
