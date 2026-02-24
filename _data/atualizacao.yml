@@ -1,0 +1,484 @@
+- ano: "2026"
+  data_id: "2026-02-24"
+  data_texto: "24 de fevereiro"
+  entradas:
+    - tags: ["liquid"]
+      texto: "Reconfigurei a lista do [REGISTRO DE ALTERAÇÕES](/registro-de-alteracoes) e do [BLOGROL](/blogrol) para um loop dinâmico através do `Liquid` para que eu preencha uma lista no arquivo `atualizacao.yml` e `blogrol.yml`, respectivamente, e assim fique mais fácil de preencher sem ficar repetindo tanto o HTML."
+
+- ano: "2026"
+  data_id: "2026-02-22"
+  data_texto: "22 de fevereiro"
+  entradas:
+    - tags: ["css", "html"]
+      texto: "Reconfigurei a lista de alterações dando um _ar de timeline_ para a página. Me inspirei na apresentação [dos estilos de timeline](https://robertbirming.com/timeline-styles/) do Robert Birming."
+
+- ano: "2026"
+  data_id: "2026-02-21"
+  data_texto: "21 de fevereiro"
+  entradas:
+    - tags: ["css"]
+      texto: "Configurei as tags `.fleabaag a` para que possa colocar links dentro do balãozinho de fala. Assim o efeito de onda ainda acontece, mas com as cores invertidas permitindo a leitura."
+    - tags: ["acabamento"]
+      texto: "Adicionei uma mensagem para que copiem e colem o email do link `mailto` caso o link não funcione. Aparentemente tem muita gente, principalmente no computador, que o link `mailto` fica quebrado, não encontra o aplicativo padrão para seu funcionamento.\n\nA web está doente.🥲"
+
+- ano: "2026"
+  data_id: "2026-02-17"
+  data_texto: "17 de fevereiro"
+  entradas:
+    - tags: ["css", "html"]
+      texto: "Criamos o **[webring do entreblogs](https://pt.wikipedia.org/wiki/Webring)**, e coloquei ele na página do [BLOGROL](/blogrol) para divulgar essa galera gente boa que descobri aqui _nas internets_."
+
+- ano: "2026"
+  data_id: "2026-02-08"
+  data_texto: "08 de fevereiro"
+  entradas:
+    - tags: ["acabamento", "css", "html"]
+      texto: "Coloquei o selo do projeto [ENTREBLOGS](https://entreblogs.netlify.app)no rodapé desse espaço."
+
+- ano: "2026"
+  data_id: "2026-02-07"
+  data_texto: "07 de fevereiro"
+  entradas:
+    - tags: ["páginas"]
+      texto: "Reeditei a página do [DICAS DO BLOG](/dicas-do-blog) colocando a dica de como alterar a fonte do espertofone, criando a lista de dicas e colocando as duas dicas em páginas separadas. A partir de agora cada dica terá sua página, por mais curta que seja."
+    - tags: ["css"]
+      texto: "Corrigi o `css` do [FOTOLOG](/fotolog), não sei por qual motivo as fotos no grid não estavam alinhadas pela base da foto o que deixava uma sensação de mal construído. Agora está tudo alinhado pela base das imagens e me parece melhor."
+    - tags: ["css"]
+      texto: |
+        Atualizei a classe `fleabag` que utilizo quando quero fazer um comentários sobre o que estou escrevendo. Como que quebrando a _quarta parede_ como a personagem em sua série, agora parece um balão de quadrinhos como se eu simplesmente falasse no meio do texto.
+
+        <blockquote class="fleabag">Espero que gostem.</blockquote>
+
+- ano: "2026"
+  data_id: "2026-02-05"
+  data_texto: "05 de fevereiro"
+  entradas:
+    - tags: ["texto"]
+      texto: "Revisei o texto presente na seção [Desenvolvimento do site](/colofao/#desenvolvimento-do-site) que fica no Colofão, tinha algumas explicações que não estavam muito corretas."
+
+- ano: "2026"
+  data_id: "2026-02-01"
+  data_texto: "01 de fevereiro"
+  entradas:
+    - tags: ["css", "html"]
+      texto: "Adicionei classes de microformatação aos elementos do blog e fotolog como `h-entry`, `e-content`, `u-url` e afins. A ideia é aos poucos ir melhorando a semântica do site com o que há de melhores práticas em html e css."
+
+- ano: "2026"
+  data_id: "2026-01-18"
+  data_texto: "18 de janeiro"
+  entradas:
+    - tags: ["acabamento", "css", "html"]
+      texto: "Mudança no visual do site. O `header` do site se torna uma coluna fixa à esquerda em telas maiores e em telas menores volta ao topo do site como já ficava anteriormente. O site ganha um título que fica aparente o tempo todo e com isso a barra de navegação, em telas menores fica abaixo da foto de avatar e do título.\n\nAs alterações ocorrem pelas novas regras no `body` e pela criação da `class=\"main-wrapper\"` numa nova `<div>` antes do `main`."
+    - tags: ["acabamento", "css"]
+      texto: "Criei um _efeito de onda_ no `hover` dos links, agora ao passar o cursor o link é preenchido com um fundo no sentido de baixo para cima."
+    - tags: ["página"]
+      texto: "Criei a página [BLOGROL](/blogrol) com a lista de blogs que recomendo e gosto de acompanhar."
+
+- ano: "2026"
+  data_id: "2026-01-08"
+  data_texto: "08 de janeiro"
+  entradas:
+    - tags: ["acabamento"]
+      texto: "Coloquei na página [AGORA](/agora) uma chamada para a página [ASSISTINDO](/assistindo). Essa era uma página que estava perdida no _fundo do baú_ quase impossível de ser acessada, agora só ficou _muito difícil_."
+
+- ano: "2026"
+  data_id: "2026-01-04"
+  data_texto: "04 de janeiro"
+  entradas:
+    - tags: ["acabamento", "html"]
+      texto: "Troquei o nome e url da página _tags_ para _etiquetas_."
+    - tags: ["acabamento", "html"]
+      texto: "Tirei das páginas [ETIQUETAS](/etiquetas) e [ARQUIVO](/arquivo) o aviso sobre o ícone &#x1F4F7; ser relacionado a postagens do [FOTOLOG](/fotolog), não gostei da estética da caixa de aviso na página. Deixei essa explicação apenas no [COLOFÃO](/colofao)."
+    - tags: ["acabamento", "html"]
+      texto: "Alterei as `title tags` para a página principal e de erro aqui do _proto-jardim-digital_."
+
+- ano: "2026"
+  data_id: "2026-01-03"
+  data_texto: "03 de janeiro"
+  entradas:
+    - tags: ["css", "html"]
+      texto: "Criei uma regra específica para `<ul>` usados dentro da _janela de avisos_, com margens e deslocamento horizontal menores que o padrão que ficava tudo muito distante e um pouco desproporcional."
+
+- ano: "2026"
+  data_id: "2026-01-02"
+  data_texto: "02 de janeiro"
+  entradas:
+    - tags: ["acabamento", "html"]
+      texto: "Criei na página [AGORA](/agora) uma separação por seções para as descrições do que estou fazendo. Veremos até quando ficará assim."
+
+- ano: "2025"
+  data_id: "2025-12-28"
+  data_texto: "28 de dezembro"
+  entradas:
+    - tags: ["acabamento"]
+      texto: "Troquei o nome da página de TAGS para ETIQUETAS. Estava me incomodando."
+    - tags: ["acabamento"]
+      texto: "Troquei o nome da página MEU ÁLBUM DE FOTOS para MEU FOTOLOG. Não sei porque não era assim desde o começo, a url é fotolog, o link na barra de navegação também, mas o nome não era. Assim acho que fica melhor, mantem a ideia real da página."
+    - tags: ["acabamento"]
+      texto: "Atualizei, no rodapé, o banner do [Histórias para Ler](https://historiasparaler.blog.br) para ficar compatível com o novo visual do blog. Aproveitei e adicionei o selo **escrito por um humano** criado pelo [Andy Carolan^[en]](https://andycarolan.com/) e disponibilizado em pt-br pelo [Manual do Usuário](https://manualdousuario.net/selos-feito-por-humano-baixar/)."
+
+- ano: "2025"
+  data_id: "2025-12-13"
+  data_texto: "13 de dezembro"
+  entradas:
+    - tags: ["html"]
+      texto: "Adicionei a _tag_ sobreescrita `[en]` nos links que levam para sites em inglês."
+    - tags: ["css"]
+      texto: "Fiz um acerto fino na margem da classe `blog-tag` onde a tag da postagem fica com um afastamento do texto da postagem."
+
+- ano: "2025"
+  data_id: "2025-11-26"
+  data_texto: "26 de novembro"
+  entradas:
+    - tags: ["html", "páginas"]
+      texto: "Adicionei a página [ASSISTINDO](/assistindo) onde tem a reunião de textos comentando o que vejo, mas principalmente as séries que vejo no Grupo de Séries do [Feito por Elas](https://feitoporelas.com.br)."
+
+- ano: "2025"
+  data_id: "2025-11-23"
+  data_texto: "23 de novembro"
+  entradas:
+    - tags: ["css", "html"]
+      texto: "Corrigi o CSS e o HTML do elemento `blockquote` quando numa postagem `type:frase` que não estava usando as alturas de texto corretamente por aparecer um `<p>` a mais na geração do site. Fiz outra pequenas mudanças em tamanho de textos e espaçamentos para tentar melhorar o visual. Espero que isso tenha sido resolvido realmente..."
+
+- ano: "2025"
+  data_id: "2025-11-21"
+  data_texto: "21 de novembro"
+  entradas:
+    - tags: ["jekyll"]
+      texto: "Alterei o campo `author` no `_config.yml` para **dalbo1201**, afinal de contas aqui na internet esse é meu usuário padrão, me parece fazer mais sentido. Sei lá..."
+
+- ano: "2025"
+  data_id: "2025-11-20"
+  data_texto: "20 de novembro"
+  entradas:
+    - tags: ["acabamento", "html"]
+      texto: "Adicionei nas páginas [TAGS](/etiquetas) e do [ARQUIVO](/arquivo) um aviso sobre o ícone &#x1F4F7; ser relacionado a postagens do [FOTOLOG](/fotolog). Adicionei essa explicação também no [COLOFÃO](/colofao), me pareceu fazer sentido."
+
+- ano: "2025"
+  data_id: "2025-11-14"
+  data_texto: "14 de novembro"
+  entradas:
+    - tags: ["liquid"]
+      texto: "Criei uma série de condicionantes para permitir a apresentação de datas de atualização das postagens. O código identifica se a postagem tem datas de atualização e, se possuir, usará a data mais recente para _jogar_ a postagem para o topo do blog. A exibição das datas começa pela data original e depois segue em _loop_ reunindo todas as datas de atualização em ordem cronológica, incluindo `,` e `e` quando necessário.\n\nPara uma melhor apresentação do código nos arquivos `post.html` e `foto.html` criei um arquivo separado `post-dates.html` usando o `{% include post-dates.html %}` para incluir as atualizações nos arquivos do `_layouts`."
+
+- ano: "2025"
+  data_id: "2025-11-09"
+  data_texto: "09 de novembro"
+  entradas:
+    - tags: ["css", "html"]
+      texto: "Alterei a apresentação da caixa de avisos que tenho por aqui. Antes era o texto com uma borda criando apenas uma caixa. Agora tem um ícone de \"informação\" e o texto ao lado, a borda da caixa continua, agora arredondada."
+
+- ano: "2025"
+  data_id: "2025-11-06"
+  data_texto: "06 de novembro"
+  entradas:
+    - tags: ["acabamento", "html"]
+      texto: "Troquei o favicon. Anteriormente era a foto do site, agora temos um desenho - peguei uma das imagens do avatar criado pela Meta no WhatsApp. Mal dá pra ver, mas ficou engraçadinho. Em algum momento pretendo criar uma página **SOBRE** e colocarei o avatar junto com a foto."
+    - tags: ["html"]
+      texto: "Atualizei os links que levam ao [Lerama](https://lerama.pcdomanual.com/?category=blogs&tag). Com a [união dos diretórios de _Newsletteres_ e de Blogs](https://manualdousuario.net/lerama-diretorio-newsletters-brasileiras-fusao/) pelo [Manual do Usuário](https://manualdousuario.net/) coloquei os links com o filtro do Lerama para a página que apresenta apenas os blogs. Se houver interesse do leitor de visualizar as _newsletteres_ lá tem como mudar. [Porque o intuito aqui é valorizar os blogs](/blog/porque-um-blog-e-nao-uma-newsletter), esses espaços pessoais esquecidos que tentamos reviver.\n\nNada contra newsletteres."
+
+- ano: "2025"
+  data_id: "2025-11-01"
+  data_texto: "01 de novembro"
+  entradas:
+    - tags: ["css"]
+      texto: "Retirei das configurações do _dark mode_ as variáveis `quote-transparency`, `code-background-transparency` afinal não preciso repetir se são as mesmas do modo claro. Aproveitei e adicionei a varável `font-geral` para no futuro poder trocar as fontes mais facilmente. _Ideias para o futuro sendo matutadas..._"
+
+- ano: "2025"
+  data_id: "2025-10-25"
+  data_texto: "25 de outubro"
+  entradas:
+    - tags: ["css"]
+      texto: "Atualizei o tamanho do texto nas citações quando no `type:frase` do _front metter_."
+    - tags: ["ruby"]
+      texto: "Depois da confusão do mentor do Ruby, entrei na onda e troquei o servidor dos dados para gems do [Ruby^[en]](https://www.ruby-lang.org/pt/) para o [gem.coop^[en]](https://gem.coop)."
+
+- ano: "2025"
+  data_id: "2025-10-22"
+  data_texto: "22 de outubro"
+  entradas:
+    - tags: ["novidade", "página"]
+      texto: "Publiquei esta página, o **Registro de Alterações** desse pequeno _proto-jardim-digital_."
+
+- ano: "2025"
+  data_id: "2025-10-20"
+  data_texto: "20 de outubro"
+  entradas:
+    - tags: ["acabamento", "css"]
+      texto: "Aumentei a distância entre linhas do `<nav>` para ficar melhor para clicar, com o dedo, em telas pequenas."
+
+- ano: "2025"
+  data_id: "2025-10-17"
+  data_texto: "17 de outubro"
+  entradas:
+    - tags: ["acabamento", "css"]
+      texto: "Revisei a cor de fundo, o texto e a transparência para todas as situações em que uso `<pre><code>`."
+
+- ano: "2025"
+  data_id: "2025-10-11"
+  data_texto: "11 de outubro"
+  entradas:
+    - tags: ["acabamento", "liquid"]
+      texto: "Revisei o código do `<title>` presente no `head.html`. Ficou bem mais simples, puxando o `title` presente no _Front Metter_."
+
+- ano: "2025"
+  data_id: "2025-10-08"
+  data_texto: "08 de outubro"
+  entradas:
+    - tags: ["acabamento", "css"]
+      texto: "Tirei o sinal `|` como separador dos textos cabeçalho e do rodapé. Reorganizei a estrutura do HTML e do CSS (para telas maiores) para que o cabeçalho ocupe uma largura maior da área disponível da janela do navegador e fiz o mesmo para o rodapé (mas com uma largura menor que o cabeçalho). O corpo do site mantém a largura anterior."
+
+- ano: "2025"
+  data_id: "2025-10-02"
+  data_texto: "02 de outubro"
+  entradas:
+    - tags: ["css", "html", "novidade", "página", "tutorial"]
+      texto: "Publiquei a página [DICAS DO BLOG](/dicas-do-blog). Nela eu pretendo colocar _tutoriais_ que ajudem a resolver problemas como os que eu passei no blog. Comecei com **Como fiz meu Fotolog**."
+
+- ano: "2025"
+  data_id: "2025-09-28"
+  data_texto: "28 de setembro"
+  entradas:
+    - tags: ["acabamento", "css", "html", "unicode"]
+      texto: "Configurei para que o símbolo `↗` apareça ao lado dos links que levam para páginas externas ao site. Troquei o site que serve de serviço para as fontes, sai o Google Fonts entra o [Bunny.net](https://fonts.bunny.net/family/montserrat)."
+
+- ano: "2025"
+  data_id: "2025-09-25"
+  data_texto: "25 de setembro"
+  entradas:
+    - tags: ["acabamento", "página"]
+      texto: "Atualizei a página [PROFISSIONAL](/profissional) com texto e link que levam para o meu currículo."
+    - tags: ["css", "html", "novidade", "página"]
+      texto: "Publiquei a página com o [MEU CURRÍCULO](/profissional/cv)."
+
+- ano: "2025"
+  data_id: "2025-09-18"
+  data_texto: "18 de setembro"
+  entradas:
+    - tags: ["css", "html", "novidade", "página"]
+      texto: "Publiquei o [COLOFÃO](/colofao)."
+
+- ano: "2025"
+  data_id: "2025-09-16"
+  data_texto: "16 de setembro"
+  entradas:
+    - tags: ["css", "html", "novidade", "página"]
+      texto: "Publiquei a página de comentários sobre a série [_The Leftovers_](/assistindo/the-leftovers-comentarios)."
+
+- ano: "2025"
+  data_id: "2025-09-09"
+  data_texto: "09 de setembro"
+  entradas:
+    - tags: ["html", "novidade"]
+      texto: "Coloquei a minha foto do cabeçalho como favicon."
+
+- ano: "2025"
+  data_id: "2025-08-29"
+  data_texto: "29 de agosto"
+  entradas:
+    - tags: ["acabamento", "página"]
+      texto: "Alterei o nome da página MÍDIAS para SOCIAL. Me pareceu um nome melhor."
+
+- ano: "2025"
+  data_id: "2025-08-27"
+  data_texto: "27 de agosto"
+  entradas:
+    - tags: ["css", "html", "novidade", "página"]
+      texto: "Publiquei a página [SOCIAL](/social) que apresentam as ~~redes~~ mídias-sociais em que estou presente, ainda."
+
+- ano: "2025"
+  data_id: "2025-08-19"
+  data_texto: "19 de agosto"
+  entradas:
+    - tags: ["acabamento", "html", "liquid"]
+      texto: "Adicionei nas páginas [ARQUIVO](/arquivo) e [TAGS](/etiquetas) o unicode &#x1F4F7; para aparecer nas postagens que sejam do [FOTOLOG](/fotolog)."
+
+- ano: "2025"
+  data_id: "2025-07-31"
+  data_texto: "31 de julho"
+  entradas:
+    - tags: ["css", "html", "jekyll", "liquid", "novidade", "página"]
+      texto: "Publiquei a página [ARQUIVO](/arquivo) que apresenta uma lista de todas as postagens, apenas com data e título."
+
+- ano: "2025"
+  data_id: "2025-07-27"
+  data_texto: "27 de julho"
+  entradas:
+    - tags: ["css", "html", "novidade", "página"]
+      texto: "Publiquei a página [BARRAS](/barras) que indica todas as páginas existentes no meu pequeno _proto-jardim-digital_."
+    - tags: ["css", "html", "novidade"]
+      texto: "Criei um botão de alerta de conteúdo."
+    - tags: ["acabamento", "html"]
+      texto: "Coloquei um link de acesso à página [BARRAS](/barras) e o botão de alerta no rodapé."
+
+- ano: "2025"
+  data_id: "2025-07-03"
+  data_texto: "03 de julho"
+  entradas:
+    - tags: ["acabamento"]
+      texto: "Troquei o selo do [Lerama](https://lerama.pcdomanual.com/?category=blogs&tag) para a imagem do cabeçalho do site, com o fundo escuro, tirando o selo original com o texto pixelado e o fundo azul claro."
+
+- ano: "2025"
+  data_id: "2025-06-22"
+  data_texto: "22 de junho"
+  entradas:
+    - tags: ["acabamento", "perfil"]
+      texto: "Troquei a foto de perfil."
+
+- ano: "2025"
+  data_id: "2025-06-16"
+  data_texto: "16 de junho"
+  entradas:
+    - tags: ["jekyll"]
+      texto: "Revisei os `post type` do `front metter` para:\n\n* album: vai para o fotolog;\n* frase: vai pro blog como citação especial;\n* notas: vai pro blog com o título oculto;\n* texto: postagem tradicional do blog."
+
+- ano: "2025"
+  data_id: "2025-06-03"
+  data_texto: "03 de junho"
+  entradas:
+    - tags: ["css", "html", "novidade", "página"]
+      texto: "Publiquei a página [sobre feed/RSS](/acompanhe) apresentando o conceito, o meu endereço do feed, recomendação de app e afins."
+
+- ano: "2025"
+  data_id: "2025-05-23"
+  data_texto: "23 de maio"
+  entradas:
+    - tags: ["css", "novidade"]
+      texto: "Criei o _modo claro_ e a partir de agora o site se adapta ao tema do sistema. Ainda quero em algum momento criar um botão para o usuário escolher. Afinal, ainda acho o _modo escuro_ mais bonito."
+
+- ano: "2025"
+  data_id: "2025-05-15"
+  data_texto: "15 de maio"
+  entradas:
+    - tags: ["css", "html"]
+      texto: "[Adicionei o selo](https://pcdomanual.com/lerama-selo-88-31/) do [Lerama](https://lerama.pcdomanual.com/?category=blogs&tag) no rodapé do site. Aproveitei e adicionei um selo do [Histórias para Ler](https://historiasparaler.blog.br) também. Assim ficamos com os dois selos na esquerda e as informações de licença de uso e datas na direita, em telas menores os selos ficam numa segunda linha."
+    - tags: ["html"]
+      texto: "Adicionei no `front matter` das postagens do Fotolog o `permalink:/fotolog/...`. A partir de agora, as postagens do Fotolog terão endereços exclusivos, mesmo que eu tenha que forçá-los."
+
+- ano: "2025"
+  data_id: "2025-05-01"
+  data_texto: "01 de maio"
+  entradas:
+    - tags: ["css", "html", "novidade", "página"]
+      texto: "[Publiquei](/blog/minha-pagina-404/) minha página de [ERRO 404](/404)."
+
+- ano: "2025"
+  data_id: "2025-04-25"
+  data_texto: "25 de abril"
+  entradas:
+    - tags: ["css", "html", "jekyll", "liquid", "novidade", "página"]
+      texto: "Criei meu [FOTOLOG](/fotolog)."
+
+- ano: "2025"
+  data_id: "2025-04-22"
+  data_texto: "22 de abril"
+  entradas:
+    - tags: ["css"]
+      texto: "Retirei o justificado dos textos em tela pequena."
+
+- ano: "2025"
+  data_id: "2025-04-17"
+  data_texto: "17 de abril"
+  entradas:
+    - tags: ["Jekyll"]
+      texto: "Revisei o `_config.yml` para aparecer o autor do blog no FEED para os leitores me identificarem."
+
+- ano: "2025"
+  data_id: "2025-04-11"
+  data_texto: "11 de abril"
+  entradas:
+    - tags: ["css", "html", "jekyll", "liquid", "novidade", "página"]
+      texto: "Revisei o `_config.yml` para permitir o uso de tags no blog. Criei a página de [TAGS](/etiquetas) para guardar os posts _etiquetados_ e no topo da página uma _nuvem de tags_."
+    - tags: ["acabamento", "tipografia"]
+      texto: "Troquei a fonte do site para a [Montserrat](https://fonts.google.com/specimen/Montserrat) usando o Google Fonts."
+
+- ano: "2025"
+  data_id: "2025-04-03"
+  data_texto: "03 de abril"
+  entradas:
+    - tags: ["novidade", "css", "html"]
+      texto: "Adicionei um link no final das páginas que leva ao topo."
+
+- ano: "2025"
+  data_id: "2025-04-02"
+  data_texto: "02 de abril"
+  entradas:
+    - tags: ["css", "html", "jekyll"]
+      texto: "Configurei o estilo no css para que as postagens de citações de frases tenham a configuração associada ao `post type` no `front metter`."
+
+- ano: "2025"
+  data_id: "2025-03-21"
+  data_texto: "21 de março"
+  entradas:
+    - tags: ["css"]
+      texto: "Coloquei os textos justificados no site todo quando em telas pequenas."
+
+- ano: "2025"
+  data_id: "2025-03-20"
+  data_texto: "20 de março"
+  entradas:
+    - tags: ["css"]
+      texto: "Reconfigurei o css do elemento `<a>` para que os links gerais tenham o estilo certo sem precisar de uma classe específica."
+
+- ano: "2025"
+  data_id: "2025-03-16"
+  data_texto: "16 de março"
+  entradas:
+    - tags: ["acabamento"]
+      texto: "Coloquei o aviso de _não tem comentário no blog, mas podemos conversar por email_. Não foram essas palavras, mas essa é a ideia."
+
+- ano: "2025"
+  data_id: "2025-03-11"
+  data_texto: "11 de março"
+  entradas:
+    - tags: ["css", "liquid", "jekyll"]
+      texto: "Alterei a forma como o CSS interpreta o código no `front metter` para que o título da postagem fique oculto quando nele estiver `type:notas`."
+
+- ano: "2025"
+  data_id: "2025-02-23"
+  data_texto: "23 de fevereiro"
+  entradas:
+    - tags: ["css", "html", "jekyll", "liquid", "novidade", "ruby"]
+      texto: "O site começou a se tornar um [_proto-jardim-digital_](https://web.archive.org/web/20250317230308/https://www.pedro.dalbo.me/) ao trazer o blog para cá, no endereço `/blog`."
+
+- ano: "2025"
+  data_id: "2025-02-04"
+  data_texto: "04 de fevereiro"
+  entradas:
+    - tags: ["css", "html", "novidade", "página"]
+      texto: "O site começa a caminhar para o [visual atual](https://web.archive.org/web/20250204014457/https://www.pedro.dalbo.me/), com a criação da página de boas-vindas, o blog, a página Agora e uma página de apresentação profissional."
+
+- ano: "2024"
+  data_id: "2024-02-22"
+  data_texto: "22 de fevereiro"
+  entradas:
+    - tags: ["descrição", "página"]
+      texto: "Atualizei o texto de [descrição da página↗](https://web.archive.org/web/20240222202427/https://pedro.dalbo.me/) apenas com um resumo profisisonal com meios de contato."
+
+- ano: "2020"
+  data_id: "2020-03-20"
+  data_texto: "20 de março"
+  entradas:
+    - tags: ["lá e de volta outra vez"]
+      texto: "[Trouxe de volta o blog](/blog/trazendo-de-volta/), graças a uma pandemia. Ainda hospedado no Blogger."
+
+- ano: "2015"
+  data_id: "2015-07-22"
+  data_texto: "22 de julho"
+  entradas:
+    - tags: ["domínio", "novidade", "página"]
+      texto: "Publiquei este site como uma [página simples↗](https://web.archive.org/web/20150722020921/http://pedro.dalbo.me/), sob o domínio `pedro.dalbo.me`, com um resumo de quem eu sou como profissional e falei sobre o [Histórias para Ler](https://historiasparaler.blog.br)."
+
+- ano: "2014"
+  data_id: "2014-11-24"
+  data_texto: "24 de novembro"
+  entradas:
+    - tags: ["domínio"]
+      texto: "Comprei o domínio `dalbo.me`."
+
+- ano: "2005"
+  data_id: "2005-11-11"
+  data_texto: "11 de setembro"
+  entradas:
+    - tags: ["início"]
+      texto: "Dei início ao meu blog, com o nome _Passagens & Momentos_, hospedado no Blogger."

@@ -1,0 +1,90 @@
+- blog: Baixa Cultura
+  url: "https://baixacultura.org/blog/?ref=pedro.dalbo.me"
+  autor: "Leonardo Feltrin e cia"
+  tipo: "Laboratório Online, Blog, Newsletter"
+  plataforma: "Wordpress"
+  feed: "https://baixacultura.org/feed/?ref=pedro.dalbo.me"
+  descricao: | 
+    Laboratório Online que trabalha com documentação, pesquisa, formação e experimentação em cultura livre.
+
+- blog: "Cosmoliko"
+  url: "https://cosmoliko.com/?ref=pedro.dalbo.me"
+  autor: "Eliel"
+  tipo: "blog ou jardim digita"
+  plataforma: "Ghost"
+  feed: "https://cosmoliko.com/rss/?ref=pedro.dalbo.me"
+  descricao: | 
+    Aqui o Eliel chama de blog, mas eu já diria que já passou de um proto-jardim-digital.
+
+- blog: "Excertos"
+  url: "https://rodrigo.ghed.in/?ref=pedro.dalbo.me"
+  autor: "Rodrigo Ghedin"
+  tipo: "blog"
+  plataforma: "Jekyll"
+  feed: "https://rodrigo.ghed.in/feed.xml?ref=pedro.dalbo.me"
+  descricao: | 
+    Blog pessoal do Ghedin.
+
+- blog: "Galeria de Espelho (Se temos certeza tem algo errado)"
+  url: "https://www.roney.com.br/?ref=pedro.dalbo.me"
+  autor: "Roney"
+  tipo: "blog"
+  plataforma: "Wordpress"
+  feed: ""
+  descricao: | 
+    O blog pessoal do Roney (do Meme de Carbono). Esse blog é o espaço onde procuro compartilhar alguns dos meus devaneios, das minhas histórias, as artes em vídeo, pinceladas, palavras ou bits que vou encontrando no caminho.
+
+- blog: "Histórias para Ler"
+  url: "https://historiasparaler.blog.br/?ref=pedro.dalbo.me"
+  autor: "Vários autores" 
+  tipo: "blog"
+  plataforma: "Blogger"
+  feed: "http://feeds.feedburner.com/historiasparaler/?ref=pedro.dalbo.me"
+  descricao: | 
+    Um blog onde eu mesmo e outros colegas escrevemos nossas opiniões sobre os livros que lemos.
+
+- blog: "Luiz Cavalcanti"
+  url: "https://cavalcanti.info/?ref=pedro.dalbo.me"
+  autor: "Luiz"
+  tipo: "cartão de visita, blog e repositório de conteúdo"
+  plataforma: "Hugo"
+  feed: ""
+  descricao: | 
+    Um espaço de cartão de visita, repositório de produção (acadêmica ou não) e blog.
+
+- blog: "Meme de Carbono"
+  url: "https://www.memedecarbono.com.br/?ref=pedro.dalbo.me"
+  autor: "Roney"
+  tipo: "cartão de visita, blog e repositório de conteúdo"
+  plataforma: "Wordpress"
+  feed: "https://www.memedecarbono.com.br/blog/feed/?ref=pedro.dalbo.me"
+  descricao: | 
+    O objetivo é ajudar as pessoas a entenderem a sociedade cibernética, suas ferramentas, caminhos e conhecimentos.
+
+- blog: "Rota Urbana"
+  url: "https://blog.rotaurbana.bike/?ref=pedro.dalbo.me"
+  autor: "Guilherme"
+  tipo: "blog"
+  plataforma: "BearBlog"
+  feed: "https://blog.rotaurbana.bike/feed/?ref=pedro.dalbo.me"
+  descricao: | 
+    Blog ainda novo, mas com a ideia de postar textos relacionados a mobilidade na cidade de São Paulo através da minha perspectiva enquanto ciclista, ciloativista e pedestre.
+
+- blog: "Se algo pode dar errado, acontecerá com a Raquel"
+  url: "https://raquellinhares.blogspot.com/?ref=pedro.dalbo.me"
+  autor: "Raquel Linhares"
+  tipo: "blog"
+  plataforma: "Blogger"
+  feed: "http://raquellinhares.blogspot.com/feeds/posts/default/?ref=pedro.dalbo.me"
+  descricao: | 
+    Blog pessoal da Raquel, engenheira e minha amiga de faculdade. Mas além disso autora de pelo menos(?) três livros. Um diário que mostra suas transformações pessoais, já foi um local de reclamação da graduação, um site para postar contos fictícios e histórias engraçadas que aconteciam.
+
+- blog: "sol2070"
+  url: "https://sol2070.in/?ref=pedro.dalbo.me"
+  autor: "sol2070"
+  tipo: "jardim digital"
+  plataforma: "Jekyll"
+  feed: "https://sol2070.in/feed/?ref=pedro.dalbo.me"
+  descricao: | 
+    Um jargim digital com foco em contracultura e coisas alternativas que não têm por aí, mas às vezes a cultura de massa penetra.
+
