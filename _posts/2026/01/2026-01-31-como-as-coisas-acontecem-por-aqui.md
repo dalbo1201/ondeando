@@ -6,6 +6,7 @@ date: 2026-02-21 10:00:00 -0300
 created: 2026-01-31 12:00:00 -0300
 tags:
  - metablog
+ - postagem coletiva
 ---
 Eu vi um texto no blog do [Robert Birming](https://robertbirming.com/my-blogging-workflow/) sobre o processo de escrita dos posts dele, achei interessante a premissa e resolvi escrever como eu faço as coisas por aqui. Principalmente sobre como eu escrevo os textos aqui do blog, as outras seções têm uma dinâmica levemente diferente.  
 
