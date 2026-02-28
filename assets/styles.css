@@ -128,6 +128,7 @@ footer {
  flex-wrap: wrap;
  justify-content: space-between;
  align-items: center;
+ text-align: center;
  padding-top: 8px;
  font-size: clamp(0.88rem, 0.8vw, 0.94rem);
 }
@@ -135,7 +136,9 @@ footer {
 .footer-left {
  display: flex;
  gap: 10px; 
+ justify-content: space-between;
  text-wrap: balance;
+ align-items: last baseline;
 }
 
 .footer-right {
@@ -1186,6 +1189,8 @@ footer {
  order: 2;
  margin-top: 0px;
  justify-content: center;
+ align-items: center;
+ text-align: center;
  flex-wrap: wrap; /* Permite a quebra */
 }
 

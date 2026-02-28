@@ -37,6 +37,8 @@ Os links que não levarem para páginas em português coloco uma _etiqueta_ sobr
   - O código-fonte é versionado e armazenado no [GitHub<sup>[en]</sup>](https://github.com/dalbo1201/ondeando). Para a edição e gestão dos arquivos, utilizo o [Visual Studio Code<sup>[en]</sup>](https://code.visualstudio.com/) (editor) e o [GitHub Desktop<sup>[en]</sup>](https://github.com/apps/desktop?locale=pt-BR) (cliente Git);  
   - A compilação (build) e a hospedagem final do site acontecem via [Netlify<sup>[en]</sup>](https://app.netlify.com/), que publica automaticamente as alterações a cada atualização no repositório.  
 
+Mais detalhes de como é [o processo de escrita por aqui](/blog/como-as-coisas-acontecem-por-aqui/).
+
 <h3 id="inspiracoes">Inspirações</h3>
 - O tema inicial do site foi inspirado no site do [Paulo Higa](https://web.archive.org/web/20151103091229/http://higa.me/ "site do Higa quando me inspirei");
 - Quando ampliei o site para algo próximo de um _proto-jardim-digital_, acabei me inspirando visualmente no site/blog do [Rodrigo Ghedin](https://web.archive.org/web/20250301092841/https://rodrigo.ghed.in/ "site do Ghedin quando me inspirei") (de quem pedi autorização. Se forem analisar os códigos, o site do Ghedin tem uma elegancia que aqui não existe, mas arrumarei em algum momento); 

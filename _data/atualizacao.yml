@@ -1,5 +1,12 @@
 - ano: "2026"
   data_id: "2026-02-24"
+  data_texto: "28 de fevereiro"
+  entradas:
+    - tags: ["acabamanto"]
+      texto: "Adicionei o selo dos [Blogueiros Raiz](https://blogueirosraiz.com/) no rodapé do site."
+
+- ano: "2026"
+  data_id: "2026-02-24"
   data_texto: "24 de fevereiro"
   entradas:
     - tags: ["liquid"]
