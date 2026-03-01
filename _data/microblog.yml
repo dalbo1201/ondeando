@@ -1,0 +1,9 @@
+# Microblog — mensagens curtas
+# Adicione novas entradas SEMPRE no topo da lista.
+# O site vai automaticamente mostrar a primeira como prévia no header.
+# Campos: date (YYYY-MM-DD) e text (aceita markdown)
+
+- date: 2026-02-15
+  text: |
+    Temos uma nova seção, para mensagens curtas. Aqui será mais rápido, mais dinâmico.  
+    Também ficará fora do feed (por enquanto).

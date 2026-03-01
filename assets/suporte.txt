@@ -47,11 +47,18 @@ Estrutura de pastas:
     |data
         |album_posts.yml
         |blog_posts.yml
+	|atualizacao.yml
+	|blogrol-br.yml
+	|blogrol-en.yml
+	|me.yml
     |_includes
+	|entreblogs-webring.html
         |footer.html
+	|h-card.html
         |head.html
         |header.html
         |modal-aviso.html
+	|post-dates.html
     |_layouts
         |arquivo.html
         |blog.html
@@ -84,27 +91,37 @@ Estrutura de pastas:
             |2025
                 |...
         |404.png
+	|avatar.png
         |foto-pedro-100px.jpg
         |foto-pedro.jpg
-        |lerama.png
         |Pedro Dal Bó.pdf
         |Pedro Dal Bó.vcf
         |rss.svg
         |styles.css
         |suporte.txt
     |auxiliares
+	|assistindo
+		|six-feet-under.md
+		|the-leftovers.md
+	|dicas-do-blog
+		|montando-seu-fotolog.md
+		|separando-fotos-de-texto.md
+		|trocando-a-fonte-do-seu-espertofone.md
+	|dicas-do-blog
         |404.md
+	|arquivo.md
+	|assistindo.md
+	|barras.md
+	|blogrol.md
+	|colofao.md
         |curriculo.md
-        |dicas-blog.md
-        |the-leftovers.md
-|_config.yml
+        |dicas-do-blogblog.md
+	|registro-de-alteracoes.md
 |.gitignore
+|_config.yml
 |acompanhe.md
 |agora.md
-|arquivo.md
-|barras.md
 |blog.md
-|colofao.md
 |fotolog.md
 |Gemfile
 |Gemfile.lock
@@ -113,4 +130,4 @@ Estrutura de pastas:
 |Profissional.md
 |robots.txt
 |social.md
-|etiquetas.md
+|tags.md

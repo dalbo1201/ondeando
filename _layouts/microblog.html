@@ -1,0 +1,19 @@
+{% include head.html %}
+
+{% include header.html %}
+<div class="main-wrapper">
+  <main>
+    {{ content }}
+    
+    {% for msg in site.data.microblog %}
+    <article class="microblog-entrada h-entry">
+      <time class="blog-data dt-published" datetime="{{ msg.date | date: '%Y-%m-%d' }}">
+        {{ msg.date | date: "%d/%m/%Y" }}
+      </time>
+      <div class="fleabag e-content">{{ msg.text | markdownify }}</div>
+    </article>
+    {% endfor %}
+  </main>
+</div>
+{% include footer.html %}
+</html>

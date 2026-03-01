@@ -11,12 +11,18 @@
    </div>
   </div>
 
+  {% assign ultima_mb = site.data.microblog | first %}
+  {% if ultima_mb %}<input type="checkbox" id="microblog-toggle" hidden>{% endif %}
   <nav>
+   {% include microblog-balao.html %}
    <a href="/blog" title="se eu disser, será aqui">BLOG</a>
    <a href="/fotolog" title="meu fotolog">FOTOLOG</a>
    <a href="/agora" title="o que estou fazendo">AGORA</a>
-  <a href="/social" title="onde, também, me encontrar">SOCIAL</a>
+   <a href="/social" title="onde, também, me encontrar">SOCIAL</a>
   </nav>
+  {% if ultima_mb %}
+  <label for="microblog-toggle" class="microblog-overlay"></label>
+  {% endif %}
   </header>
 
 {% elsif page.title == 'Profissional'% or page.title == 'Currículo' % or page.title == 'erro' %}
@@ -48,7 +54,10 @@
    </div>
   </div>
 
+  {% assign ultima_mb = site.data.microblog | first %}
+  {% if ultima_mb %}<input type="checkbox" id="microblog-toggle" hidden>{% endif %}
   <nav>
+  {% include microblog-balao.html %}
   <a href="/blog" title="se eu disser, será aqui">BLOG</a>
   <a href="/fotolog" title="meu fotolog">FOTOLOG</a>
   <a href="/etiquetas" title="do que estou falando">ETIQUETAS</a>
@@ -57,5 +66,8 @@
   <a href="/social" title="onde, também, me encontrar">SOCIAL</a>
   <a href="/acompanhe" title="acompanhe"><img src="/assets/rss.svg" alt="RSS" width="22" height="22"></a>
   </nav>
+  {% if ultima_mb %}
+  <label for="microblog-toggle" class="microblog-overlay"></label>
+  {% endif %}
   </header>
 {% endif %}

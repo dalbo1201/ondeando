@@ -1,0 +1,22 @@
+{% assign ultima_mb = site.data.microblog | first %}
+{% if ultima_mb %}
+
+<label for="microblog-toggle" class="microblog-icone" aria-label="Ver última mensagem curta" title="última mensagem curta">
+  <i class="fa-solid fa-message"></i>
+</label>
+
+<div class="microblog-balao-mobile">
+  <div class="fleabag microblog-fleabag fleabag--topo">
+    {{ ultima_mb.text | markdownify }}
+    <a href="/microblog" class="microblog-mais" title="ver todas as mensagens curtas">+</a>
+  </div>
+</div>
+
+<div class="microblog-balao-desktop">
+  <div class="fleabag microblog-fleabag">
+    {{ ultima_mb.text | markdownify }}
+    <a href="/microblog" class="microblog-mais" title="ver todas as mensagens curtas">+</a>
+  </div>
+</div>
+
+{% endif %}

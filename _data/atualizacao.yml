@@ -1,9 +1,14 @@
 - ano: "2026"
-  data_id: "2026-02-24"
+  data_id: "2026-02-28"
   data_texto: "28 de fevereiro"
   entradas:
-    - tags: ["acabamanto"]
-      texto: "Adicionei o selo dos [Blogueiros Raiz](https://blogueirosraiz.com/) no rodapé do site."
+    - tags: ["página"]
+      texto: |
+       Criei uma página de [MICROBLOG](/microblog) para colocar textos curtos.  
+       A ideia é que seja um espaço para colocar coisas que não se encaixam no formato tradicional de postagem do blog que ainda queira compartilhar. Com um estilo mais simples, como são Bluesky e Mastodon.
+    - tags: ["acabamento"]
+      texto: |
+       Adicionei o selo dos [Blogueiros Raiz](https://blogueirosraiz.com/) no rodapé do site.
 
 - ano: "2026"
   data_id: "2026-02-24"
@@ -46,7 +51,7 @@
   data_id: "2026-02-07"
   data_texto: "07 de fevereiro"
   entradas:
-    - tags: ["páginas"]
+    - tags: ["página"]
       texto: "Reeditei a página do [DICAS DO BLOG](/dicas-do-blog) colocando a dica de como alterar a fonte do espertofone, criando a lista de dicas e colocando as duas dicas em páginas separadas. A partir de agora cada dica terá sua página, por mais curta que seja."
     - tags: ["css"]
       texto: "Corrigi o `css` do [FOTOLOG](/fotolog), não sei por qual motivo as fotos no grid não estavam alinhadas pela base da foto o que deixava uma sensação de mal construído. Agora está tudo alinhado pela base das imagens e me parece melhor."
@@ -137,7 +142,7 @@
   data_id: "2025-11-26"
   data_texto: "26 de novembro"
   entradas:
-    - tags: ["html", "páginas"]
+    - tags: ["html", "página"]
       texto: "Adicionei a página [ASSISTINDO](/assistindo) onde tem a reunião de textos comentando o que vejo, mas principalmente as séries que vejo no Grupo de Séries do [Feito por Elas](https://feitoporelas.com.br)."
 
 - ano: "2025"

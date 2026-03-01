@@ -392,7 +392,6 @@ a:hover, nav a:hover {
  text-decoration: underline solid .125rem;
 }
 
-
 /* --- 1.2 CONFIGURAÇÃO (ONDA) para os textos em .fleabag que precisam ficar invertidos--- */
 .fleabag a {
  border-radius: 3px;
@@ -906,7 +905,6 @@ table.tabela-posts td {
   margin-top: 0;
 }
 
-
 /* Estilo do círculo com efeito de anel para a troca de ano (h4) */
 .timeline > ul > li:has(h4)::before {
   background: var(--color-link-hover); /* Preenche o centro */
@@ -1112,6 +1110,95 @@ pre code {
 }
 /* FINAL entreblogs-webring */
 
+/* ============================================
+   INÍCIO DO MICROBLOG
+   ============================================ */
+
+/* --- RESET DO TOGGLE --- */
+#microblog-toggle {
+  display: none;
+}
+
+/* ------------------------------------------------
+   DESKTOP (acima de 50rem)
+   Balão estático abaixo da nav
+------------------------------------------------ */
+
+.microblog-icone,
+.microblog-overlay,
+.microblog-balao-mobile {
+  display: none;
+}
+
+/* Balão desktop: dentro da nav no HTML, aparece por último via order */
+.microblog-balao-desktop {
+  display: block;
+  order: 99;        /* garante que fique após todos os links da nav */
+  width: 100%;
+  margin-top: 25px;
+}
+
+/* Balão desktop: tamanho menor, sem negrito, herda cores do .fleabag original */
+.microblog-balao-desktop .microblog-fleabag {
+  display: block;
+  max-width: 100%;
+  font-size: 0.82rem;
+  line-height: 1.35rem;
+  font-weight: normal;
+}
+
+/* Link "→ todas": display:table quebra linha sem ocupar 100% da largura,
+   evitando que o hover preencha a linha inteira.
+   Todo o resto (cores, hover, gradiente) é herdado do .fleabag a do site. */
+.microblog-mais {
+  display: table !important;
+  margin-left: auto;
+  margin-top: 8px;
+  font-size: 0.78rem;
+  font-style: normal;
+  font-weight: normal;
+}
+
+/* Overlay não é um <a>, mas zeramos qualquer herança por segurança */
+.microblog-overlay {
+  background: none !important;
+  background-image: none !important;
+  padding: 0 !important;
+  transition: none !important;
+}
+
+/* --- PÁGINA DE HISTÓRICO /microblog --- */
+.microblog-entrada {
+  margin-bottom: 2.8rem;
+  margin-left: 1.5rem; /* afasta o balão da margem esquerda — ajuste a gosto */
+}
+
+.microblog-entrada time {
+  display: block;
+  margin-bottom: 6px;
+}
+
+/* markdownify envolve o texto em <p> — remove a margem interna */
+.microblog-fleabag p,
+.microblog-entrada .fleabag p {
+  margin: 0;
+}
+
+/* O <p> do markdownify não deve sobrescrever o tamanho do balão no header desktop */
+.microblog-balao-desktop .microblog-fleabag p {
+  font-size: 0.82rem;
+  line-height: 1.35rem;
+  max-width: 100%; /* já limitado pelo .microblog-fleabag */
+}
+
+/* O <p> do markdownify não deve cancelar o max-width do .fleabag na página /microblog */
+.microblog-entrada .fleabag p {
+  max-width: 100%; /* respeita o container, o afastamento vem do padding-left do article */
+}
+/* ============================================
+   FINAL DO MICROBLOG
+   ============================================ */
+
 /* Pequeno ajuste para mobile */
 @media (max-width: 480px) {
     .entreblogs-nav {
@@ -1124,6 +1211,7 @@ pre code {
 /* Ajustes para telas menores */
 @media only screen and (max-width: 40rem) {
 header {
+ position: relative; /* para microblog - O header precisa de contexto para o balão flutuar */
  align-items: flex-start;
  text-align: left;
  padding: 0 ;
@@ -1143,8 +1231,16 @@ header {
  justify-content: center;
 }
 
-nav {
- gap: 5px 7px;
+ /* A nav vira flex com o ícone à esquerda e os links à direita */
+  nav {
+/* para microblog - A nav vira flex com o ícone à esquerda e os links à direita */
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: flex-end; /* links continuam à direita */
+/* para microblog - A nav vira flex com o ícone à esquerda e os links à direita */
+  gap: 5px 7px;
 }
 
 h1 {
@@ -1229,4 +1325,108 @@ footer {
 .curriculo {
  margin: 0px 0px 30px 5px;
 }
+
+/* ============================================
+   INÍCIO DO MICROBLOG
+   ============================================ */
+  /* Balão desktop some */
+  .microblog-balao-desktop {
+    display: none;
+  }
+
+  /* Ícone: primeiro elemento da nav, à esquerda */
+  .microblog-icone {
+    display: inline-flex;
+    align-items: center;
+    order: -1;
+    margin-right: auto;
+    cursor: pointer;
+    color: var(--color-link);
+    font-size: 1.1rem;
+    line-height: 1.44rem;
+    padding: 0.09em;
+    border-radius: 3px;
+    text-decoration: none;
+    background: none !important;
+    background-image: none !important;
+    opacity: 1;
+    transition: opacity 0.2s ease;
+  }
+
+  .microblog-icone:hover {
+    opacity: 0.65;
+    background: none !important;
+    background-image: none !important;
+    text-decoration: none;
+  }
+
+  /* Balão mobile: oculto por padrão, deslocado para a direita
+     para o triângulo da seta aparecer à esquerda */
+  .microblog-balao-mobile {
+    display: none;
+    position: absolute;
+    top: 100%;
+    left: 18px;        /* desloca da borda para a seta ficar visível */
+    margin-top: 6px;
+    width: min(82vw, 340px);
+    z-index: 401;
+    filter: drop-shadow(0 4px 14px rgba(0, 0, 0, 0.28));
+  }
+
+  /* Aparece quando o toggle está marcado */
+  #microblog-toggle:checked ~ nav .microblog-balao-mobile {
+    display: block;
+  }
+
+  /* Garante que o div do balão não receba nenhum efeito de hover */
+  .microblog-balao-mobile,
+  .microblog-balao-mobile .microblog-fleabag {
+    background-image: none !important;
+    transition: none !important;
+  }
+
+  /* Fundo opaco, sem negrito, tamanho confortável no mobile */
+  .microblog-balao-mobile .microblog-fleabag {
+    display: block;
+    max-width: 100%;
+    width: 100%;
+    font-size: 0.94rem;
+    line-height: 1.45rem;
+    font-weight: normal;
+    background-color: var(--color-link);
+  }
+
+  .microblog-balao-mobile .microblog-fleabag::after {
+    border-right-color: var(--color-link);
+  }
+
+  /* Variante com seta no canto superior esquerdo (mobile) */
+  .fleabag--topo {
+    border-radius: 0 0.5rem 0.5rem 0.5rem;
+  }
+
+  .fleabag--topo::after {
+    bottom: auto;
+    top: 0px;
+    border-top: none;
+    border-bottom: 10px solid transparent;
+    border-right: 16px solid var(--color-link);
+  }
+
+  /* Overlay: label vazio, cobre a tela para fechar ao clicar fora */
+  .microblog-overlay {
+    display: none;
+    position: fixed;
+    inset: 0;
+    z-index: 400;
+    background: transparent;
+    cursor: default;
+  }
+
+  #microblog-toggle:checked ~ .microblog-overlay {
+    display: block;
+  }
+/* ============================================
+   FIM DO MICROBLOG
+   ============================================ */
 }

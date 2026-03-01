@@ -3,7 +3,8 @@ description: meu proto-jardim-digital, um espaço para ficar mais distante das m
 url: "https://pedro.dalbo.me"
 author: dalbo1201
 
-markdown: kramdown
+kramdown:
+  hard_wrap: true
 highlighter: rouge
 
 permalink: /blog/:slug/
