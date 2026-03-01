@@ -1199,6 +1199,20 @@ pre code {
    FINAL DO MICROBLOG
    ============================================ */
 
+
+/* --- HEADER STICKY APENAS QUANDO HÁ ALTURA SUFICIENTE --- */
+/* Em telas largas mas baixas (ex: 1366x768), o header volta a rolar
+   normalmente para não ficar escondido nem sobrepor o footer */
+@media screen and (min-width: 50rem) and (max-height: 680px) {
+  header {
+    position: static;  /* cancela o sticky */
+    top: auto;
+    height: auto;
+    margin-bottom: 30px;
+  }
+}
+
+
 /* Pequeno ajuste para mobile */
 @media (max-width: 480px) {
     .entreblogs-nav {
