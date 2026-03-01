@@ -8,6 +8,7 @@
 <div class="microblog-balao-mobile">
   <div class="fleabag microblog-fleabag fleabag--topo">
     {{ ultima_mb.text | markdownify }}
+<aside style="text-align: right; font-size: 0.78rem; margin-top: .2rem;">{{ ultima_mb.date | date: "%d/%m/%Y" }}</aside>
     <a href="/microblog" class="microblog-mais" title="ver todas as mensagens curtas">+</a>
   </div>
 </div>
@@ -15,6 +16,7 @@
 <div class="microblog-balao-desktop">
   <div class="fleabag microblog-fleabag">
     {{ ultima_mb.text | markdownify }}
+<aside style="text-align: right; font-size: 0.7rem; margin-top: .1rem;">{{ ultima_mb.date | date: "%d/%m/%Y" }}</aside>
     <a href="/microblog" class="microblog-mais" title="ver todas as mensagens curtas">+</a>
   </div>
 </div>
