@@ -12,7 +12,7 @@ Imagine que você tem aquele amigo que não o vê há muito tempo, aqui você co
 Bom, é isso o que vai encontrar por aqui.  
 <hr> 
 <h4>Profissional</h4>  
-Comecei a trabalhar na Projeta Infraestrutura como engenheiro de projetos rodoviários a convite do meu amigo Renan que acredita que meu trabalho e experiência podem ajudar à equipe. Fico feliz pela confiança e espero retribuir a altura.  
+Trabalhando na Projeta Infraestrutura como engenheiro de projetos rodoviários a convite do meu amigo Renan que acredita que meu trabalho e experiência podem ajudar à equipe. Fico feliz pela confiança e espero retribuir a altura.  
 
 <h4>Pessoal</h4>
 Estamos numa batalha para deixar nossos gatos vivendo em alguma harmonia, temos uma evolução, mas ainda pequenas batalhas a vencer.  
@@ -24,7 +24,7 @@ Seguindo com o _hérculeo trabalho_ de deixar a casa do jeito que a gente gosta 
 <h4>Curiosidades</h4>
 O tempo todo brincando de mexer nesse _meu espaço da internet_, um hobby para dizer que faço alguma coisa.  
 
-Estou construindo um novo site/página para o meu _outro blog_ o [Histórias para Ler](https://historiasparaler.blog.br). Estou montando usando o sistema Jekyll, o mesmo que uso para esse espaço. Talvez esteja quase pronto, faltam alguns detalhes (e descobrir como configurar o [Netlify<sup>[en]</sup>](https://app.netlify.com/) com o [Registro.br](https://registro.br/)), mas não sei se irei realizar realmente a migração. Serve também para treinos de HTML, CSS, um pouco de Liquid...
+Desisti do novo site/página para o meu _outro blog_ o [Histórias para Ler](https://historiasparaler.blog.br), por enquanto. MOntei tudo em Jekyll, o mesmo que uso para esse espaço. Apersar de ter gostado do resultado preferi manter no Blogger para não  dificultar a vida do pessoal que escreve por lá também, eles já estão adaptados e eu só criaria uma barreira, mas valeu demais para os treinos de HTML, CSS, um pouco de Liquid...
 
 <h4>Atividades</h4>
 <h5>Estou lendo:</h5>
@@ -51,5 +51,5 @@ Sem filmes por enquanto.
 Não vamos esquecer do <a href="https://historiasparaler.blog.br" title="onde comento livros">Histórias para Ler</a> onde comento sobre os livros que leio.</div></aside>
 
 <aside class="atualizacao">
-    atualizado em 23 de janeiro de 2026.
+    atualizado em 03 de março de 2026.
 </aside>
