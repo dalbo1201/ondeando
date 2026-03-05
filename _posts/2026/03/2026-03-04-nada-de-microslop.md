@@ -2,7 +2,7 @@
 layout: post
 type: notas
 title: "Nada de Microslop"
-date: 2026-03-04 12:00:00 -0300
+date: 2026-03-04 22:00:00 -0300
 tags: 
  - informática
  - internet
