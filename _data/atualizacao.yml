@@ -29,7 +29,7 @@
   data_texto: "21 de fevereiro"
   entradas:
     - tags: ["css"]
-      texto: "Configurei as tags `.fleabaag a` para que possa colocar links dentro do balãozinho de fala. Assim o efeito de onda ainda acontece, mas com as cores invertidas permitindo a leitura."
+      texto: "Configurei as tags `.fleabag a` para que possa colocar links dentro do balãozinho de fala. Assim o efeito de onda ainda acontece, mas com as cores invertidas permitindo a leitura."
     - tags: ["acabamento"]
       texto: "Adicionei uma mensagem para que copiem e colem o email do link `mailto` caso o link não funcione. Aparentemente tem muita gente, principalmente no computador, que o link `mailto` fica quebrado, não encontra o aplicativo padrão para seu funcionamento.\n\nA web está doente.🥲"
 
