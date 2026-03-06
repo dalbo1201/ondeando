@@ -24,7 +24,7 @@ Seguindo com o _hérculeo trabalho_ de deixar a casa do jeito que a gente gosta 
 <h4>Curiosidades</h4>
 O tempo todo brincando de mexer nesse _meu espaço da internet_, um hobby para dizer que faço alguma coisa.  
 
-Desisti do novo site/página para o meu _outro blog_ o [Histórias para Ler](https://historiasparaler.blog.br), por enquanto. MOntei tudo em Jekyll, o mesmo que uso para esse espaço. Apersar de ter gostado do resultado preferi manter no Blogger para não  dificultar a vida do pessoal que escreve por lá também, eles já estão adaptados e eu só criaria uma barreira, mas valeu demais para os treinos de HTML, CSS, um pouco de Liquid...
+Desisti do novo site/página para o meu _outro blog_ o [Histórias para Ler](https://historiasparaler.blog.br), por enquanto. Montei tudo em Jekyll, o mesmo que uso para esse espaço. Apersar de ter gostado do resultado preferi manter no Blogger para não  dificultar a vida do pessoal que escreve por lá também, eles já estão adaptados e eu só criaria uma barreira, mas valeu demais para os treinos de HTML, CSS, um pouco de Liquid...
 
 <h4>Atividades</h4>
 <h5>Estou lendo:</h5>
