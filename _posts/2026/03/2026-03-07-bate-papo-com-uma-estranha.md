@@ -6,7 +6,7 @@ date: 2026-03-07 12:00:00 -0300
 tags:
  - a vida, o universo e tudo mais
 ---
-Dia desses fui almocar sozinho, o pessoal que costuma sair para almoçar comigo ou estava fora em reunião ou em viagem do trabalho. Dito isso, almocei sozinho.  
+Dia desses fui almoçar sozinho, o pessoal que costuma sair para almoçar comigo ou estava fora em reunião ou em viagem do trabalho. Dito isso, almocei sozinho.  
 
 Fui num restaurante por quilo que costumamos ir, peguei meu almoço, pesei e me sentei numa _mesa individual_. Ao meu lado, outra _mesa para um_ com uma senhora, sozinha.  
 
