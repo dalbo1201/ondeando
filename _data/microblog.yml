@@ -3,6 +3,10 @@
 # O site vai automaticamente mostrar a primeira como prévia no header.
 # Campos: date (YYYY-MM-DD) e text (aceita markdown)
 
+- date: 2026-03-10
+  text: |
+    Trocamos os SSID das redes de casa para "Club Silencio" e "Valfenda"
+    
 - date: 2026-03-02
   text: |
     Asssiti ao episódio 8 de Starfleat Academy e esse me pegou de jeito.  
