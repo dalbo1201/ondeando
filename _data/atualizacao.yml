@@ -1,4 +1,12 @@
 - ano: "2026"
+  data_id: "2026-03-19"
+  data_texto: "19 de março"
+  entradas:
+    - tags: ["página"]
+      texto: |
+       Revisei a página [ACOMPANHE](/acompanhe) para colocar o link do Entreblogs na recomendação de locais para descobrir outros blogs.
+
+- ano: "2026"
   data_id: "2026-03-18"
   data_texto: "18 de março"
   entradas:

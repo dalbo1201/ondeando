@@ -313,6 +313,7 @@ main ul {
 
 .aviso-caixa ul, .blog-colet ul /* avisos gerais*/ {
  margin: 0;
+ font-size: clamp(0.88rem, 0.9vw, 0.94rem); /* 14–15px */
  padding-left: 2rem; /* recuo para listas */
 }
 /* FINAL ESTILOS DE AVISO*/

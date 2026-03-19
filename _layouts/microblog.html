@@ -12,7 +12,10 @@
       </time>
       <div class="fleabag e-content">
         {{ msg.text | markdownify }}
-        <br/><small><p class="blog-comentario">Podemos <a href="mailto:pedro@dalbo.me?subject=Do microblog, {{ msg.date }}">conversar por email</a>.<br/><small>Se o link não funcionar, copie e cole o endereço de email no seu cliente de email.</small></p></small>
+        <br/><small><p class="blog-comentario">Podemos <a href="mailto:pedro@dalbo.me?subject=Do microblog, {{ msg.date }}">conversar por email</a>.<br/>
+          <small>Se o link não funcionar, copie e cole o endereço de email no seu cliente de email.<br/>
+          <a href="/colofao#sobre-comentarios">Por quê não tem seção de comentários?</a></small>
+        </p></small>
       </div>
     </article>
     {% endfor %}
