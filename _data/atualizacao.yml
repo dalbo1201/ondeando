@@ -1,4 +1,12 @@
 - ano: "2026"
+  data_id: "2026-03-18"
+  data_texto: "18 de março"
+  entradas:
+    - tags: ["página"]
+      texto: |
+       Adicionei uma explicação do [porquê não temos seção de comentários no blog](/colofao#sobre-comentarios). Aproveitei e adicionei um link para essa explicação no texto de que fica no final das postagens convidando as pessoas a mandarem um email.
+
+- ano: "2026"
   data_id: "2026-02-28"
   data_texto: "28 de fevereiro"
   entradas:
