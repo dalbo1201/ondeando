@@ -27,7 +27,7 @@ Nas páginas que encontrar o ícone &#x1F4F7; significa que a postagem está no 
 
 Os links que não levarem para páginas em português coloco uma _etiqueta_ sobreescrita `[idioma]`, assim tem como saber que estou indicando um texto em outro idioma.  
 
-<p id="sobre-comentarios">O blog e o fotolog não tem uma seção comentários. Não sou um especialista em auto-hospedagem e o Jekkyl, sistema de gerador de sites estáticos que uso nesse espaço, não é muito amigável com ferramentas de comentários, por aqui incentivamos a <b>troca de email</b>. Eu sei que pode parecer pouco usual, mas saiba que existe alguma vantagem nisso: </p>
+<p id="sobre-comentarios">O blog e o fotolog não tem uma seção comentários. Não sou um especialista em auto-hospedagem e o Jekyll, sistema de gerador de sites estáticos que uso nesse espaço, não é muito amigável com ferramentas de comentários, por aqui incentivamos a <b>troca de email</b>. Eu sei que pode parecer pouco usual, mas saiba que existe alguma vantagem nisso: </p>
 
 - Não existe a pressa ou a urgência nessa troca de mensagens, você me manda seu comentário e eu reponderei quando puder depois de pensar e ponderar sobre o que você comentou;
 - Pode ser que eu nem responda porque não tenho o que acrescentar. Mentira, eu retornarei agradecendo ao comentário e vou avisar se não tiver nada a acrescentar;
