@@ -1,13 +1,13 @@
 # _data/comments/sobre-o-poder-da-memoria.yml
 #
 # Estrutura de um comentário:
-#   id        — identificador único (ex: use timestamp ou número sequencial)
-#   parent_id — id do comentário pai (deixe "" para comentários raiz)
-#   date      — data no formato YYYY-MM-DD
-#   name      — nome/nickname do autor
-#   email     — e-mail (privado, não aparece no site)
-#   url       — website (opcional, vira link no nome)
-#   message   — texto do comentário
+#   id:        — identificador único (ex: use timestamp ou número sequencial)
+#   parent_id: — id do comentário pai (deixe "" para comentários raiz)
+#   date:      — data no formato YYYY-MM-DD
+#   name:      — nome/nickname do autor
+#   email:     — e-mail (privado, não aparece no site)
+#   url:       — website (opcional, vira link no nome)
+#   message:   — texto do comentário
 
 - id: 1
   parent_id: 0
