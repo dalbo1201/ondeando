@@ -1,4 +1,13 @@
 - ano: "2026"
+  data_id: "2026-03-23"
+  data_texto: "23 de março"
+  entradas:
+    - tags: ["css", "html", "liquid", "script"]
+      texto: |
+       Criei a seção de comentários para o [BLOG](/blog) e [FOTOLOG](/fotolog) e atualizei o [COLOFÃO](/colofao#sobre-comentarios).  
+       Me deu coceira depois de uns bate-papos com o pessoal do [Entreblogs](https://entreblogs.com.br/). A seção de comentários é alimentada por um arquivo `comments.yml` onde eu coloco os comentários manualmente, não tem nenhum sistema de comentários automático, o que me parece mais interessante para o tipo de blog que tenho aqui.
+
+- ano: "2026"
   data_id: "2026-03-19"
   data_texto: "19 de março"
   entradas:

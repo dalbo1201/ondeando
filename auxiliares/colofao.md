@@ -27,13 +27,9 @@ Nas páginas que encontrar o ícone &#x1F4F7; significa que a postagem está no 
 
 Os links que não levarem para páginas em português coloco uma _etiqueta_ sobreescrita `[idioma]`, assim tem como saber que estou indicando um texto em outro idioma.  
 
-<p id="sobre-comentarios">O blog e o fotolog não tem uma seção comentários. Não sou um especialista em auto-hospedagem e o Jekyll, sistema de gerador de sites estáticos que uso nesse espaço, não é muito amigável com ferramentas de comentários, por aqui incentivamos a <b>troca de email</b>. Eu sei que pode parecer pouco usual, mas saiba que existe alguma vantagem nisso: </p>
+<p id="sobre-comentarios">O blog e o fotolog agora tem uma seção de comentários, falo mais sobre <a href="/blog/uma-seção-de-comentarios-pra-chamar-de-sua/">a implementação aqui</a>.</p>
 
-- Não existe a pressa ou a urgência nessa troca de mensagens, você me manda seu comentário e eu reponderei quando puder depois de pensar e ponderar sobre o que você comentou;
-- Pode ser que eu nem responda porque não tenho o que acrescentar. Mentira, eu retornarei agradecendo ao comentário e vou avisar se não tiver nada a acrescentar;
-- De certa forma temos uma troca bem positiva e sem incentivar *o comentário pelo comentário* como ocorre nas mídias-sociais. Sei que é bacana ter o comentário publicado junto com o texto do autor, mas por enquanto ficarei devendo. Estou sempre olhando para soluções possíveis e quem sabe não aparece por aqui no futuro.  
-
-<blockquote class="fleabag">Me mande um email, não vamos deixar de conversar pela falta de um ambiente de comentários!</blockquote>
+<blockquote class="fleabag">Apesar de termos uma seção de comentários, fica sempre o convite para me <a href="mailto:pedro@dalbo.me?subject=Contato pelo site" title="Onde falar comigo">enviar um email</a> (pedro [arroba] dalbo [ponto] me), acho que esse modo de conversa permite uma profundidade maior no bate-papo.</blockquote>
 
 **Todos os links abrem a página sobre a página atual**. Adoto essa configuração porque se houver o desejo de abrir em uma nova aba/janela é possível de várias formas. Mas se o interesse não for esse e a configuração padrão for abrir em outra aba/janela não temos como fazê-lo.
 

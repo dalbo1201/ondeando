@@ -30,13 +30,10 @@
   <div class="e-content">
     {{ content }}
   </div>
-  
-  <p class="blog-comentario">
-  O blog não tem comentários, mas podemos <a href="mailto:pedro@dalbo.me?subject=Do blog, {{ page.title }}">conversar por email</a>.
-  <br/><small>Se o link não funcionar, copie e cole o endereço de email no seu cliente de email.
-  <br/><a href="/colofao#sobre-comentarios">Por quê não tem seção de comentários?</a></small>
-  </p>
+
 </article>
+<div id="comentarios"></div>
+{% include comments.html %}
 
 </main>
 

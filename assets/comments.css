@@ -1,0 +1,299 @@
+/* ============================================
+   COMENTÁRIOS — comments.css
+   Alinhado ao estilo do site (Montserrat,
+   variáveis CSS, dark mode automático)
+   ============================================ */
+
+.comments-section {
+  margin-top: 2rem;
+  width: 100%;
+  font-size: clamp(0.85rem, 1.2vw, 0.9rem); /* mesmo tamanho do nome do comentarista */
+}
+
+/* Título */
+.comments-title {
+  margin-bottom: 1rem;
+}
+
+.comments-empty {
+  font-style: italic;
+  color: color-mix(in srgb, var(--color-text), transparent 40%);
+  margin-bottom: 2rem;
+}
+
+/* ---- Comentário individual ---- */
+.comment {
+  margin-bottom: 1.2rem;
+}
+
+.comment-header {
+  display: flex;
+  align-items: center;
+  gap: 0.2rem;
+  margin-bottom: 0.35rem;
+  flex-wrap: wrap;
+}
+
+.comment-inner {
+  padding-left: 1.8rem;
+}
+
+/* A linha fica no .comment-replies, partindo do pai e cobrindo os filhos */
+.comment-replies {
+  margin-top: 0.8rem;
+  padding-left: .8rem;
+  position: relative;
+}
+
+.comment-replies::before {
+  content: "";
+  position: absolute;
+  left: .6rem;   /* borda direita do avatar do pai */
+  top: 0;
+  bottom: 0;
+  width: 2px;
+  background: color-mix(in srgb, var(--color-link), transparent 65%);
+}
+
+/* Avatar */
+.comment-avatar {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 1.6rem;
+  min-width: 1.6rem;
+  color: var(--color-link);
+  font-size: 1rem;
+}
+
+.comment-avatar-img {
+  width: 1.4rem;
+  height: 1.4rem;
+  object-fit: contain;
+  border-radius: 3px;
+}
+
+/* Meta (nome + badge + data) */
+.comment-meta {
+  display: flex;
+  align-items: baseline;
+  gap: 0.4rem;
+  flex-wrap: wrap;
+}
+
+.comment-author {
+  font-weight: bold;
+}
+
+.comment-author-badge {
+  font-size: 0.72rem;
+  font-weight: bold;
+  color: var(--color-link);
+  border: 1px solid color-mix(in srgb, var(--color-link), transparent 50%);
+  border-radius: 3px;
+  padding: 0 0.35rem;
+  line-height: 1.4;
+  text-transform: lowercase;
+}
+
+.comment-date {
+  font-size: clamp(0.78rem, 0.9vw, 0.82rem);
+  color: color-mix(in srgb, var(--color-text), transparent 45%);
+}
+
+.comment-body {
+  line-height: clamp(1.5rem, 2vw, 1.5rem);
+  color: var(--color-text);
+  margin-bottom: 0.3rem;
+}
+
+.comments-section p,
+.comment-body p {
+  font-size: inherit;
+  line-height: inherit;
+  margin: 0 0 0.2rem 0;
+}
+
+.comments-section ul,
+.comments-section ol {
+  margin-top: 0.2rem;
+  margin-bottom: 0.2rem;
+}
+
+.comment-footer {
+  margin-bottom: 0.3rem;
+}
+
+/* Listas dentro de comentários */
+.comment-body ul,
+.comment-body ol {
+  font-size: inherit;
+  line-height: 1.3rem;
+  max-width: 100%;
+  margin-top: 0.2rem;
+  margin-bottom: 0.2rem;
+  padding-left: 1.4rem;
+  margin-left: 10px;
+  overflow-wrap: break-word;
+}
+
+.comment-body li {
+  margin-bottom: 0.1rem;
+}
+
+/* Blockquote dentro de comentários */
+.comment-body blockquote {
+  margin: 4px 0 12px 10px;
+  padding: 0;
+}
+
+.comment-body blockquote p {
+  font-size: inherit;
+  line-height: 1.3rem;
+  font-style: italic;
+  border-left: 4px solid var(--color-link);
+  padding: 6px 0 6px 8px;
+  max-width: 90%;
+  margin: 0;
+}
+
+.btn-reply {
+  background: none;
+  border: none;
+  cursor: pointer;
+  font-family: var(--font-geral);
+  font-size: clamp(0.78rem, 0.9vw, 0.82rem);
+  color: color-mix(in srgb, var(--color-text), transparent 45%);
+  padding: 0;
+  transition: color 0.2s;
+}
+
+.btn-reply:hover {
+  color: var(--color-link);
+}
+
+/* ---- Formulário ---- */
+.comment-form-wrapper {
+  margin-top: 0rem;
+  padding-top: 0;
+}
+
+.form-title {
+  margin-top: 0;
+  margin-bottom: 0.4rem;
+}
+
+.form-replying-to-wrapper {
+  display: flex;
+  align-items: center;
+  gap: 0.75rem;
+  margin-bottom: 0.8rem;
+  margin-top: 0;
+}
+
+#form-replying-to {
+  font-size: clamp(0.81rem, 0.9vw, 0.88rem);
+  color: var(--color-link);
+}
+
+.form-row {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  gap: 0.8rem;
+}
+
+@media (max-width: 600px) {
+  .form-row {
+    grid-template-columns: 1fr;
+  }
+}
+
+.form-group {
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 0.8rem;
+}
+
+.form-group label {
+  font-size: clamp(0.81rem, 0.9vw, 0.88rem);
+  font-weight: bold;
+  margin-bottom: 0.25rem;
+  color: var(--color-text);
+}
+
+.form-group .required {
+  color: var(--color-link);
+}
+
+.form-group .hint {
+  font-weight: normal;
+  color: color-mix(in srgb, var(--color-text), transparent 45%);
+  font-size: 0.8em;
+}
+
+.form-group input,
+.form-group textarea {
+  border: 1px solid color-mix(in srgb, var(--color-text), transparent 78%);
+  border-radius: 0.3rem;
+  padding: 0.45rem 0.7rem;
+  font-size: clamp(1rem, 1.5vw, 1.06rem);
+  font-family: var(--font-geral);
+  color: var(--color-text);
+  background: color-mix(in srgb, var(--color-background), transparent 0%);
+  transition: border-color 0.2s;
+  outline: none;
+  width: 100%;
+}
+
+.form-group input:focus,
+.form-group textarea:focus {
+  border-color: var(--color-link);
+}
+
+.form-group textarea {
+  resize: vertical;
+  min-height: 100px;
+}
+
+.form-actions {
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+  gap: 0.75rem;
+  margin-top: 0.25rem;
+}
+
+.btn-submit {
+  background: transparent;
+  color: var(--color-link);
+  border: 1px solid var(--color-link);
+  border-radius: 0.3rem;
+  padding: 0.5rem 1.3rem;
+  font-size: clamp(0.88rem, 0.9vw, 0.94rem);
+  font-family: var(--font-geral);
+  font-weight: bold;
+  cursor: pointer;
+  transition: background 0.2s, color 0.2s;
+}
+
+.btn-submit:hover {
+  background: var(--color-link);
+  color: var(--color-background);
+}
+
+.btn-cancel {
+  background: none;
+  border: none;
+  font-family: var(--font-geral);
+  font-size: clamp(0.81rem, 0.9vw, 0.88rem);
+  color: color-mix(in srgb, var(--color-text), transparent 40%);
+  cursor: pointer;
+  padding: 0;
+  display: inline-flex;
+  align-items: center;
+  transition: color 0.2s;
+}
+
+.btn-cancel:hover {
+  color: var(--color-link);
+}

@@ -1,0 +1,190 @@
+{% assign page_comments = site.data.comments[page.slug] | default: empty_array %}
+
+<section class="comments-section">
+<p class="blog-comentario">
+  Podemos <a href="mailto:pedro@dalbo.me?subject=Do blog, {{ page.title }}">conversar por email</a> ou por aqui...
+  </p><br/>
+  <hr>
+  <h5 class="comments-title">
+    {% assign total = page_comments | size %}
+    {% if total == 0 %}nenhum comentário
+    {% elsif total == 1 %}1 comentário
+    {% else %}{{ total }} comentários
+    {% endif %}
+  </h5>
+
+  <div class="comment-form-wrapper" id="comment-form-wrapper">
+    <h5 class="form-title" id="form-title" style="display:none;"></h5>
+    <div class="form-replying-to-wrapper" id="form-replying-to-wrapper" style="display:none;">
+      <span id="form-replying-to"></span>
+      <button type="button" class="btn-cancel" id="btn-cancel" onclick="cancelReply()">cancelar resposta</button>
+    </div>
+
+    <form
+      name="comments"
+      method="POST"
+      action="/comentario-enviado/"
+      data-netlify="true"
+      netlify-honeypot="bot-field"
+      class="comment-form"
+      id="comment-form"
+     >
+      <input type="hidden" name="form-name" value="comments" />
+      <input type="hidden" name="page_slug" value="{{ page.slug }}" />
+      <input type="hidden" name="page_title" value="{{ page.title }}" />
+      <input type="hidden" name="parent_id" id="parent_id" value="0" />
+      <p style="display:none;">
+        <label>Não preencha: <input name="bot-field" /></label>
+      </p>
+
+      <div class="form-row">
+        <div class="form-group">
+          <label for="name">nome <span class="required">*</span></label>
+          <input type="text" name="name" id="name" required placeholder="como vamos te chamar?" />
+        </div>
+        <div class="form-group">
+          <label for="email">email <span class="hint">(não será publicado)</span></label>
+          <input type="email" name="email" id="email" placeholder="seu@email.br" />
+        </div>
+        <div class="form-group">
+          <label for="url">site/blog <span class="hint">(opcional)</span></label>
+          <input type="url" name="url" id="url" placeholder="https://seusite.br" />
+        </div>
+      </div>
+
+      <div class="form-group">
+        <label for="message">comentário <span class="required">*</span></label>
+        <textarea name="message" id="message" required rows="4" placeholder="escreva seu comentário... aceita formatações simples de markdown"></textarea>
+      </div>
+      <aside>formatação markdown para usar: *itálico* | **negrito** | ***negrito e itálico*** | [Texto do link](https://exemplo.br) | `código`</aside>
+
+      <div class="form-actions">
+        <button type="submit" class="btn-submit">enviar</button>
+      </div>
+    </form>
+  </div>
+
+  {% if page_comments.size > 0 %}
+    <div class="comments-list">
+      {% assign nivel1 = page_comments | where: "parent_id", 0 %}
+      {% for c1 in nivel1 %}
+        {% assign is_author1 = false %}
+        {% if c1.name == "dalbo1201" %}{% assign is_author1 = true %}{% endif %}
+        <div class="comment depth-1" id="comment-{{ c1.id }}">
+          <div class="comment-header">
+            <span class="comment-avatar">
+              {% if is_author1 %}<img src="{{ '/assets/favicon/favicon_avatar-32.png' | relative_url }}" alt="autor" class="comment-avatar-img" />
+              {% else %}<i class="fa-solid fa-user"></i>{% endif %}
+            </span>
+            <span class="comment-meta">
+              {% if c1.url and c1.url != "" %}<a href="{{ c1.url }}" class="comment-author" target="_blank" rel="noopener noreferrer nofollow">{{ c1.name }}</a>
+              {% else %}<span class="comment-author">{{ c1.name }}</span>{% endif %}
+              {% if is_author1 %}<span class="comment-author-badge">autor</span>{% endif %}
+              <time class="comment-date" datetime="{{ c1.date }}">{{ c1.date | date: "%d/%m/%Y" }}</time>
+            </span>
+          </div>
+          <div class="comment-inner">
+            <div class="comment-body">{{ c1.message | markdownify }}</div>
+            <div class="comment-footer">
+              <button class="btn-reply" onclick="replyTo('{{ c1.id }}', '{{ c1.name | escape }}')">↩ responder</button>
+            </div>
+
+            {% assign nivel2 = page_comments | where: "parent_id", c1.id %}
+            {% if nivel2.size > 0 %}
+              <div class="comment-replies">
+                {% for c2 in nivel2 %}
+                  {% assign is_author2 = false %}
+                  {% if c2.name == "dalbo1201" %}{% assign is_author2 = true %}{% endif %}
+                  <div class="comment depth-2" id="comment-{{ c2.id }}">
+                    <div class="comment-header">
+                      <span class="comment-avatar">
+                        {% if is_author2 %}<img src="{{ '/assets/favicon/favicon_avatar-32.png' | relative_url }}" alt="autor" class="comment-avatar-img" />
+                        {% else %}<i class="fa-solid fa-user"></i>{% endif %}
+                      </span>
+                      <span class="comment-meta">
+                        {% if c2.url and c2.url != "" %}<a href="{{ c2.url }}" class="comment-author" target="_blank" rel="noopener noreferrer nofollow">{{ c2.name }}</a>
+                        {% else %}<span class="comment-author">{{ c2.name }}</span>{% endif %}
+                        {% if is_author2 %}<span class="comment-author-badge">autor</span>{% endif %}
+                        <time class="comment-date" datetime="{{ c2.date }}">{{ c2.date | date: "%d/%m/%Y" }}</time>
+                      </span>
+                    </div>
+                    <div class="comment-inner">
+                      <div class="comment-body">{{ c2.message | markdownify }}</div>
+                      <div class="comment-footer">
+                        <button class="btn-reply" onclick="replyTo('{{ c2.id }}', '{{ c2.name | escape }}')">↩ responder</button>
+                      </div>
+
+                      {% assign nivel3 = page_comments | where: "parent_id", c2.id %}
+                      {% if nivel3.size > 0 %}
+                        <div class="comment-replies">
+                          {% for c3 in nivel3 %}
+                            {% assign is_author3 = false %}
+                            {% if c3.name == "dalbo1201" %}{% assign is_author3 = true %}{% endif %}
+                            <div class="comment depth-3" id="comment-{{ c3.id }}">
+                              <div class="comment-header">
+                                <span class="comment-avatar">
+                                  {% if is_author3 %}<img src="{{ '/assets/favicon/favicon_avatar-32.png' | relative_url }}" alt="autor" class="comment-avatar-img" />
+                                  {% else %}<i class="fa-solid fa-user"></i>{% endif %}
+                                </span>
+                                <span class="comment-meta">
+                                  {% if c3.url and c3.url != "" %}<a href="{{ c3.url }}" class="comment-author" target="_blank" rel="noopener noreferrer nofollow">{{ c3.name }}</a>
+                                  {% else %}<span class="comment-author">{{ c3.name }}</span>{% endif %}
+                                  {% if is_author3 %}<span class="comment-author-badge">autor</span>{% endif %}
+                                  <time class="comment-date" datetime="{{ c3.date }}">{{ c3.date | date: "%d/%m/%Y" }}</time>
+                                </span>
+                              </div>
+                              <div class="comment-inner">
+                                <div class="comment-body">{{ c3.message | markdownify }}</div>
+                              </div>
+                            </div>
+                          {% endfor %}
+                        </div>
+                      {% endif %}
+                    </div>
+                  </div>
+                {% endfor %}
+              </div>
+            {% endif %}
+          </div>
+        </div>
+      {% endfor %}
+    </div>
+  {% endif %}
+
+</section>
+
+<script>
+document.getElementById('comment-form').addEventListener('submit', function(e) {
+  e.preventDefault();
+  const form = e.target;
+  const data = new FormData(form);
+  fetch('/', {
+    method: 'POST',
+    headers: { 'Content-Type': 'application/x-www-form-urlencoded' },
+    body: new URLSearchParams(data).toString()
+  })
+  .then(() => window.location.href = '/comentario-enviado/')
+  .catch(() => window.location.href = '/comentario-enviado/');
+});
+
+function replyTo(commentId, commentAuthor) {
+  document.getElementById('parent_id').value = commentId;
+  const title = document.getElementById('form-title');
+  title.textContent = 'responder comentário';
+  title.style.display = 'block';
+  const replyingTo = document.getElementById('form-replying-to');
+  replyingTo.textContent = '↩ respondendo a ' + commentAuthor;
+  replyingTo.style.display = 'block';
+  document.getElementById('form-replying-to-wrapper').style.display = 'flex';
+  document.getElementById('comment-form-wrapper').scrollIntoView({ behavior: 'smooth', block: 'start' });
+  document.getElementById('name').focus();
+}
+
+function cancelReply() {
+  document.getElementById('parent_id').value = '0';
+  const title = document.getElementById('form-title');
+  title.textContent = '';
+  title.style.display = 'none';
+  document.getElementById('form-replying-to-wrapper').style.display = 'none';
+}
+</script>

@@ -22,13 +22,10 @@
     </div>
 
     <a href="{{ page.url }}" class="u-url" style="display:none;">Link permanente</a>
-    
-  <p class="blog-comentario">
-  O blog não tem comentários, mas podemos <a href="mailto:pedro@dalbo.me?subject=Do blog, {{ page.title }}">conversar por email</a>.
-  <br/><small>Se o link não funcionar, copie e cole o endereço de email no seu cliente de email.
-  <br/><a href="/colofao#sobre-comentarios">Por quê não tem seção de comentários?</a></small>
-  </p>
   </article>
+
+{% include comments.html %}
+
 </main>
 
 <section style="text-align: center;"><a href="#" class="nav-topo">&#8593 Topo</a></section>
