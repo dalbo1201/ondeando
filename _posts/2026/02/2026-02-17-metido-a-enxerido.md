@@ -20,4 +20,4 @@ No final, mostrei pro pessoal *a surpresa*, galera gostou demais e o site que er
 
 Valeu demais perceber que algumas coisas eu realmente aprendi, mas ainda sofro com algumas regras de CSS.  
 
-Ah, o site é [esse aqui](https://entreblogs.netlify.app).
+Ah, o site é [esse aqui](https://entreblogs.com.br/).

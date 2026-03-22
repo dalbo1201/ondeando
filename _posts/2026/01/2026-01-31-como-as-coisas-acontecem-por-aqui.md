@@ -56,5 +56,5 @@ Eu li o texto do Berming que citei lá no começo durante o dia 28/01, só conse
 
 Mas acho que isso é até bom, a ideia aqui é escrever, passar o tempo, às vezes tentar criar um canal de contato com pessoas que possam ~~sabe se lá porque~~ se identificar, e não uma corrida contra o tempo.
 
-<aside class="blog-colet"><div class="aviso-texto">Esse post se tornou parte da nova TAG do nosso grupo de blogagem coletiva <a href="https://entreblogs.netlify.app" title="mais sobre o entrelogs">ENTREBLOGS</a> criado com o intuito de compartilhar nossas perspectivas sobre os mesmos assuntos. Se quiser ler outras postagens dessa TAG você <a href="https://entreblogs.netlify.app/tag/meu-fluxo-de-trabalho-no-blog" title="outras postagens da tag">encontra aqui.</a>.
+<aside class="blog-colet"><div class="aviso-texto">Esse post se tornou parte da nova TAG do nosso grupo de blogagem coletiva <a href="https://entreblogs.com.br/" title="mais sobre o entrelogs">ENTREBLOGS</a> criado com o intuito de compartilhar nossas perspectivas sobre os mesmos assuntos. Se quiser ler outras postagens dessa TAG você <a href="https://entreblogs.com.br//tag/meu-fluxo-de-trabalho-no-blog" title="outras postagens da tag">encontra aqui.</a>.
 <h6>TAG 003. Meu fluxo de trabalho no blog ✍🏻 </h6></div></aside>

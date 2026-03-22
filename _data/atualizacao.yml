@@ -61,7 +61,7 @@
   data_texto: "08 de fevereiro"
   entradas:
     - tags: ["acabamento", "css", "html"]
-      texto: "Coloquei o selo do projeto [ENTREBLOGS](https://entreblogs.netlify.app)no rodapé desse espaço."
+      texto: "Coloquei o selo do projeto [ENTREBLOGS](https://entreblogs.com.br/)no rodapé desse espaço."
 
 - ano: "2026"
   data_id: "2026-02-07"

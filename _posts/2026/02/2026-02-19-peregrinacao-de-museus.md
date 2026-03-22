@@ -89,6 +89,6 @@ Tivemos outro dia com outras jornadas em museus. Fomos a uma mostra do **Grande 
 
 <aside class="aviso-caixa"><div class="aviso-texto">Ambas as exposições que comentei aqui <a href="https://www.farolsantander.com.br/sp/exposicoes" title="exposiçõesno Farol Santander">ainda estão em cartaz</a> lá no Farol, vale a pena a visita.</div></aside>
 
-<aside class="blog-colet"><div class="aviso-texto">Esse post faz parte da seleção de temas do nosso grupo de blogagem coletiva <a href="https://entreblogs.netlify.app" title="mais sobre o entrelogs">ENTREBLOGS</a> criado com o intuito de compartilhar nossas perspectivas sobre os mesmos assuntos. Se quiser ler outras postagens sobre o tema você <a href="https://entreblogs.netlify.app/temas/museu" title="outras postagens do tema">encontra aqui.</a>.
+<aside class="blog-colet"><div class="aviso-texto">Esse post faz parte da seleção de temas do nosso grupo de blogagem coletiva <a href="https://entreblogs.com.br/" title="mais sobre o entrelogs">ENTREBLOGS</a> criado com o intuito de compartilhar nossas perspectivas sobre os mesmos assuntos. Se quiser ler outras postagens sobre o tema você <a href="https://entreblogs.com.br//temas/museu" title="outras postagens do tema">encontra aqui.</a>.
 
 <h6>Tema 010. MUSEU ✍🏻 fev, 2026</h6></div></aside>

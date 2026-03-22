@@ -21,7 +21,7 @@ Se você usa um celular Android me dou a liberdade de recomendar o [Capy Reader]
 <aside class="aviso-caixa"><div class="aviso-texto">Quer descobrir outros blogs em português?
 <ul>
 <li>Acesse o <a href="https://lerama.pcdomanual.com/?category=blogs&tag" title="Repositório de Blogs pt-br">Lerama</a>, um repositório de blogs mantido pelo <a href="https://manualdousuario.net" title="Excelente blog de tecnologia">Manual do Usuário</a>;</li>
-<li>Visite o <a href="https://entreblogs.netlify.app">Entreblogs</a>, uma comunidade de blogagem coletiva cheia de blogs bacanas também de todo tipo. <a href="https://entreblogs.netlify.app/participantes/" title="página de participantes">Essa é a página com os participantes</a>.</li>
+<li>Visite o <a href="https://entreblogs.com.br/">Entreblogs</a>, uma comunidade de blogagem coletiva cheia de blogs bacanas também de todo tipo. <a href="https://entreblogs.com.br//participantes/" title="página de participantes">Essa é a página com os participantes</a>.</li>
 </ul>
 Tenho certeza que vai encontrar blogs que irão te agradar.
 </div></aside>

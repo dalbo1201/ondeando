@@ -6,7 +6,7 @@ date: 2026-02-08 10:30:00 -0300
 tags:
  - metablog
 ---
-Numas conversas com a galera do [Entreblogs](https://entreblogs.netlify.app) me empolguei em retornar a completar a página de [DICAS DO BLOG](/dicas-do-blog) com alguns outros tutoriais que eu já queria ter colocado antes.  
+Numas conversas com a galera do [Entreblogs](https://entreblogs.com.br/) me empolguei em retornar a completar a página de [DICAS DO BLOG](/dicas-do-blog) com alguns outros tutoriais que eu já queria ter colocado antes.  
 
 Principalmente o de como [separar as postagens](/dicas-do-blog/separando-foto-de-texto) do [BLOG](/blog) e do [FOTOLOG](/fotolog).  
 
