@@ -27,7 +27,7 @@ A primeira coisa que fiz foi visitar a página do Jekyll e ver se encontrava alg
 
 A primeira é o [Staticman](https://new.staticman.net/), um sistema que aparentemente foi pensado no Jekyll. Mas me pareceu meio abandonado. Para além disso, algumas questões de configuração que não consegui entender e fazer *fununciar*, tutoriais pouco amigáveis para um total iniciante, relativamente confusos. Nem com a ajuda dos *estagiários que consomem mais água que alguns milionários* consegui fazer funcionar.  
 
-<blockquote class="fleabag">Beleza, vamos tentar outro. pretensõesO mundo não vai acabar.</blockquote>
+<blockquote class="fleabag">Beleza, vamos tentar outro. O mundo não vai acabar.</blockquote>
 
 Eu considerei usar o [Talkyard](https://www.talkyard.io/), outra solução indicada no site do Jekyll. Esse eu vou dizer que é bem simples de implementar e na verdade é uma bazuca. Eles são um produto que atende sistemas de fóruns e comentários de sites, mas comentários em pequenos blogs não é o foco deles. Tanto que para sites pessoais o serviço é gratuito.  
 
