@@ -50,3 +50,13 @@
   url: "https://cosmoliko.com/"
   message: |  
     Eeeeee meu primeiro comentário no ondeando!! 🌊
+
+- id: 5
+  parent_id: 4
+  date: "2024-03-23"
+  name: "dalbo1201"
+  email: ""
+  url: "https://pedro.dalbo.me"
+  message:  |
+    E aí, meu querido!  
+    Quem venham muitos, tem vparios textos para *tirar o atraso* 😏
