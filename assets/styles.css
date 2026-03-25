@@ -610,7 +610,7 @@ time.album-data {
 }
 
 .blog-seta { 
- font-size: clamp(1.25rem, 1.5vw, 1.25rem); /* 20px */
+ font-size: clamp(0.95rem, 1.5vw, 0.95rem); 
  line-height: 1.25rem;
  max-width: 97%;
  text-align: right;
