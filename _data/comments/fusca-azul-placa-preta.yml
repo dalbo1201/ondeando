@@ -1,0 +1,47 @@
+# _data/comments/sobre-o-poder-da-memoria.yml
+#
+# Estrutura de um comentário:
+#   id:        — identificador único (ex: use timestamp ou número sequencial)
+#   parent_id: — id do comentário pai (deixe "" para comentários raiz)
+#   date:      — data no formato YYYY-MM-DD
+#   name:      — nome/nickname do autor
+#   email:     — e-mail (privado, não aparece no site)
+#   url:       — website (opcional, vira link no nome)
+#   message:   — texto do comentário
+
+- id: 1
+  parent_id: 0
+  date: "2026-03-25"
+  name: "Denis"
+  email: "denisbr@gmail.com"
+  url: ""
+  message: |  
+    Sempre quis comprar um fusca azul e colocar umas cameras tipo carro do Google Maps, dirigir nas ruas e gravar os tapas entre amigas! 😂
+
+- id: 2
+  parent_id: 1
+  date: "2026-03-26"
+  name: "dalbo1201"
+  email: ""
+  url: ""
+  message: |  
+    Te falar que eu assinaria esse canal. 👊
+
+- id: 3
+  parent_id: 2
+  date: "2026-03-26T"
+  name: "Denis"
+  email: "denisbr@gmail.com"
+  url: ""
+  message: |  
+    Top! Problema é ter espaço para guardar. Moro em apartamento :-(
+
+- id: 4
+  parent_id: 1
+  date: "2026-03-26"
+  name: "Samantha"
+  email: "samanthansm@gmail.com"
+  url: "https://meteoropole.com.br"
+  message: |  
+    Eu assinaria esse canal hahahaha.
+    Se fusca azul velhinho caindo aos pedaços ja rende um tapa nos irmãos e primos, imagine esse então de placa preta. Lindo carro.
