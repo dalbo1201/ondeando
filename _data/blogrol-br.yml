@@ -20,7 +20,7 @@
   url: "https://rodrigo.ghed.in/?ref=pedro.dalbo.me"
   autor: "Rodrigo Ghedin"
   tipo: "blog"
-  plataforma: "Jekyll"
+  plataforma: "Hugo"
   feed: "https://rodrigo.ghed.in/feed.xml?ref=pedro.dalbo.me"
   descricao: | 
     Blog pessoal do Ghedin.
