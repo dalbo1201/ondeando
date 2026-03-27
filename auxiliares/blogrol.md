@@ -8,7 +8,7 @@ permalink: "/blogrol"
 
 Aqui apresento uma lista, que sempre estará em constante mudanças, de blogs, sites ou jardins digitais que vou descobrindo e estou acompanhando.  
 
-São todos locais pessoais, gente que está tentando criar uma internet agradável e longe de aplicativos de mídias sociais que só querem nos prender dentro do seu sistema. Não teremos newsletteres por aqui, acredito que apesar de muitas terem um desejo de ser blog, os serviços de newsletteres agem de forma semelhante (mesmo que em menor grau) as mídias sociais. São espaços que tnetam te manter lá.
+São todos locais pessoais, gente que está tentando criar uma internet agradável e longe de aplicativos de mídias sociais que só querem nos prender dentro do seu sistema. Não teremos newsletteres por aqui, acredito que apesar de muitas terem um desejo de ser blog, os serviços de newsletteres agem de forma semelhante (mesmo que em menor grau) as mídias sociais. São espaços que tentam te manter lá.
 
 A ordem de apresentação é alfabética, por que a cada momento algum tem um espaço especial nas minhas leituras.
 <hr>
