@@ -18,11 +18,3 @@ Ainda não tem um aplicativo ou leitor de feeds ou quer saber um pouco mais, ace
 
 Se você usa um celular Android me dou a liberdade de recomendar o [Capy Reader](https://play.google.com/store/apps/details?id=com.capyreader.app "Um leitor que tem uma Capivara de mascote S2"), um aplicativo de leitor de RSS super leve, simples e que tem como ícone uma Capivara. Tem como ser melhor? Dúvido!
 
-<aside class="aviso-caixa"><div class="aviso-texto">Quer descobrir outros blogs em português?
-<ul>
-<li>Acesse o <a href="https://lerama.pcdomanual.com/?category=blogs&tag" title="Repositório de Blogs pt-br">Lerama</a>, um repositório de blogs mantido pelo <a href="https://manualdousuario.net" title="Excelente blog de tecnologia">Manual do Usuário</a>;</li>
-<li>Visite o <a href="https://entreblogs.com.br/">Entreblogs</a>, uma comunidade de blogagem coletiva cheia de blogs bacanas também de todo tipo. <a href="https://entreblogs.com.br//participantes/" title="página de participantes">Essa é a página com os participantes</a>.</li>
-</ul>
-Tenho certeza que vai encontrar blogs que irão te agradar.
-</div></aside>
-

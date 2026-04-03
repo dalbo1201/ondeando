@@ -90,6 +90,11 @@ A ordem de apresentação é alfabética, por que a cada momento algum tem um es
 
 
 {% endfor %}
-<br/><br/><br/><br/>
+<br/>
+<aside class="aviso-caixa"><div class="aviso-texto">Quer descobrir outros blogs em português?<br/>
+Acesse o <a href="https://lerama.pcdomanual.com/?category=blogs&tag" title="repositório de blogs pt-br">Lerama</a>, um repositório de blogs mantido pelo <a href="https://manualdousuario.net" title="excelente blog de tecnologia">Manual do Usuário</a>.
+Tenho certeza que vai encontrar blogs que irão te agradar.
+</div></aside>
+<br/>
 
 {% include entreblogs-webring.html %}
