@@ -32,7 +32,7 @@
   plataforma: "Wordpress"
   feed: ""
   descricao: | 
-    O blog pessoal do Roney (do Meme de Carbono). Esse blog é o espaço onde procuro compartilhar alguns dos meus devaneios, das minhas histórias, as artes em vídeo, pinceladas, palavras ou bits que vou encontrando no caminho.
+    O blog pessoal do Roney (do Meme de Carbono). Esse blog é o espaço onde ele compartilha alguns dos seus devaneios, das suas histórias, as artes em vídeo, pinceladas, palavras ou bits que vai encontrando no caminho.
 
 - blog: "Histórias para Ler"
   url: "https://historiasparaler.blog.br/?ref=pedro.dalbo.me"
@@ -59,7 +59,7 @@
   plataforma: "Wordpress"
   feed: "https://www.memedecarbono.com.br/blog/feed/?ref=pedro.dalbo.me"
   descricao: | 
-    O objetivo é ajudar as pessoas a entenderem a sociedade cibernética, suas ferramentas, caminhos e conhecimentos.
+    Seu objetivo é ajudar as pessoas a entenderem a sociedade cibernética, suas ferramentas, caminhos e conhecimentos.
 
 - blog: "Rota Urbana"
   url: "https://blog.rotaurbana.bike/?ref=pedro.dalbo.me"
@@ -77,7 +77,7 @@
   plataforma: "Blogger"
   feed: "http://raquellinhares.blogspot.com/feeds/posts/default/?ref=pedro.dalbo.me"
   descricao: | 
-    Blog pessoal da Raquel, engenheira e minha amiga de faculdade. Mas além disso autora de pelo menos(?) três livros. Um diário que mostra suas transformações pessoais, já foi um local de reclamação da graduação, um site para postar contos fictícios e histórias engraçadas que aconteciam.
+    Blog pessoal da Raquel, engenheira e uma amiga que a faculdade me deu. Mas além disso autora de pelo menos(?) três livros. Um diário que mostra suas transformações pessoais, já foi um local de reclamação da graduação, um site para postar contos fictícios e histórias engraçadas que aconteciam.
 
 - blog: "sol2070"
   url: "https://sol2070.in/?ref=pedro.dalbo.me"
@@ -88,3 +88,11 @@
   descricao: | 
     Um jardim digital com foco em contracultura e coisas alternativas que não têm por aí, mas às vezes a cultura de massa penetra.
 
+- blog: "cujo.casa"
+  url: "https://cujo.casa/?ref=pedro.dalbo.me"
+  autor: "Santiago"
+  tipo: "blog"
+  plataforma: "Hugo"
+  feed: "https://cujo.casa/feed.xml/?ref=pedro.dalbo.me"
+  descricao: | 
+    Uma amálgama de todos seus interesses e o lugar onde fala com as paredes.

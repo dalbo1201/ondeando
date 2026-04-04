@@ -12,7 +12,7 @@ São todos locais pessoais, gente que está tentando criar uma internet agradáv
 
 A ordem de apresentação é alfabética, por que a cada momento algum tem um espaço especial nas minhas leituras.
 <hr>
-{% assign blogs_ordenados = site.data['blogrol-br'] | sort: "blog" %}
+{% assign blogs_ordenados = site.data['blogrol-br'] | sort_natural: "blog" %}
 {% for item in blogs_ordenados %}
 
 <h4>
@@ -52,7 +52,8 @@ A ordem de apresentação é alfabética, por que a cada momento algum tem um es
 {% endfor %}
 <br/>
 <h5>em inglês, porque é o que eu <i>sei ler</i>, fora o português</h5>
-{% assign blogs_ordenados = site.data['blogrol-en'] | sort: "blog" %}
+
+{% assign blogs_ordenados = site.data['blogrol-en'] | sort_natural: "blog" %}
 {% for item in blogs_ordenados %}
 
 <h4>
