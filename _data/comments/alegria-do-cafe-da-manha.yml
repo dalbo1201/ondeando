@@ -6,3 +6,12 @@
   url: "https://www.bamoretti.com"
   message: |  
     como pode algo tão simples quanto uma torradeira velha tornar a experiência do café tão melhor né? as torradeiras modernas ainda não alcançaram esse gostinho.
+
+- id: 2
+  parent_id: 0
+  date: "2026-04-04"
+  name: "jesus"
+  email: "elielguilhen@gmail.com"
+  url: "https://cosmoliko.com/"
+  message: |  
+    se vc não falasse, talvez eu nem me ligasse que isso é uma torradeira kkk
