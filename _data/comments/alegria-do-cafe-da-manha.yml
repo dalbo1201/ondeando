@@ -15,3 +15,41 @@
   url: "https://cosmoliko.com/"
   message: |  
     se vc não falasse, talvez eu nem me ligasse que isso é uma torradeira kkk
+
+- id: 3
+  parent_id: 0
+  date: "2026-04-05T16:30:55.908Z"
+  name: "wagner"
+  email: "wagnerbeethoven@gmail.com"
+  url: "http://margemlivre.blogspot.com"
+  message: |  
+    mas tu vai deixar quebrada mesma servindo de decoração ou tu vai entrar dar um grau nela?
+ela é linda!
+
+- id: 4
+  parent_id: 3
+  date: "2026-04-05"
+  name: "dalbo1201"
+  email: ""
+  url: ""
+  message: |  
+    Acho que me expliquei mal no texto. Essa tá funcionando, tá 100%. Linda demais, né?
+    A que quebrou foi a dos meus pais quando eu era criança.
+
+- id: 5
+  parent_id: 2
+  date: "2026-04-05"
+  name: "dalbo1201"
+  email: ""
+  url: ""
+  message: |  
+    Como assim, rapaz? Essa é um clássico. 😁
+
+- id: 6
+  parent_id: 1
+  date: "2026-04-05"
+  name: "dalbo1201"
+  email: ""
+  url: ""
+  message: |  
+    Não sei se algum dia alcançarão. 
