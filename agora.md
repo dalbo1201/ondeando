@@ -11,9 +11,6 @@ Imagine que você tem aquele amigo que não o vê há muito tempo, aqui você co
 
 Bom, é isso o que vai encontrar por aqui.  
 <hr> 
-<h4>Profissional</h4>  
-Trabalhando na Projeta Infraestrutura como engenheiro de projetos rodoviários a convite do meu amigo Renan que acredita que meu trabalho e experiência podem ajudar à equipe. Fico feliz pela confiança e espero retribuir a altura.  
-
 <h4>Pessoal</h4>
 Estamos numa batalha para deixar nossos gatos vivendo em alguma harmonia, temos uma evolução, mas ainda pequenas batalhas a vencer.  
 
@@ -21,10 +18,11 @@ Seguindo com o _hérculeo trabalho_ de deixar a casa do jeito que a gente gosta 
 
 [Recomeçando a treinar em casa](/blog/esse-mes-recomecei-a-treinar/ "voltando a cuidar da saúde"), o objetivo maior é envelhecer com alguma qualidade de vida. Não quero perder a parca massa muscular que tenho e preciso manter a capacidade de movimentos simples como agachar, levantar do chão. Coisas simples mas que no futuro podem se tornar difíceis de executar. Claro que no processo a gente quer melhorar outras questões, só não é meu objetivo principal. _Estou com uma sensação que estou falhando, mas desistir é pior_.  
 
+<h4>Profissional</h4>  
+Trabalhando na Projeta Infraestrutura como engenheiro de projetos rodoviários a convite do meu amigo Renan que acredita que meu trabalho e experiência podem ajudar à equipe. Fico feliz pela confiança e espero retribuir a altura.  
+
 <h4>Curiosidades</h4>
 O tempo todo brincando de mexer nesse _meu espaço da internet_, um hobby para dizer que faço alguma coisa.  
-
-Desisti do novo site/página para o meu _outro blog_ o [Histórias para Ler](https://historiasparaler.blog.br), por enquanto. Montei tudo em Jekyll, a mesma plataforma que uso para esse espaço. Apersar de ter gostado do resultado preferi manter no Blogger para não  dificultar a vida do pessoal que escreve por lá também, eles já estão adaptados e eu só criaria uma barreira, mas valeu demais para os treinos de HTML, CSS, um pouco de Liquid...
 
 <h4>Atividades</h4>
 <h5>Estou lendo:</h5>
@@ -38,12 +36,8 @@ Sem filmes por enquanto.
 
 <h5>Séries que estou vendo <a href="https://tvtime.com/r/38uUh" class="linkcab">&#128250;</a>:</h5>
 <ul>
-    <li>Starfleet Academy&nbsp;| Paramount+&nbsp;| temporada&nbsp;1;</li>
-    <li>Um Espião Infiltrado&nbsp;| Netflix | temporada&nbsp;2;</li>
-    <li>Arcane&nbsp;| Netflix | temporada&nbsp;2;</li>
-    <li>Invencível&nbsp;| Prime Video&nbsp;| temporada&nbsp;2;</li>
-    <li>Kamen Rider: Black Sun&nbsp;| Prime Video&nbsp;| temporada&nbsp;1;</li>
-    <li><a href="/assistindo/six-feet-under-comentarios" title="alguns comentários sobre os episódios">A Sete Palmos</a>&nbsp;| HBO&nbsp;Max&nbsp;| temporada&nbsp;1;</li>
+    <li>The Pitt&nbsp;| HBO&nbsp;Max&nbsp;| temporada&nbsp;2;</li>
+    <li><a href="/assistindo/six-feet-under-comentarios" title="alguns comentários sobre os episódios">A Sete Palmos</a>&nbsp;| HBO&nbsp;Max&nbsp;| temporada&nbsp;2;</li>
     <li>Arquivo X&nbsp;| Disney+&nbsp;| temporada&nbsp;2;&nbsp;↺</li>
 </ul>
 
@@ -51,5 +45,5 @@ Sem filmes por enquanto.
 Não vamos esquecer do <a href="https://historiasparaler.blog.br" title="onde comento livros">Histórias para Ler</a> onde comento sobre os livros que leio.</div></aside>
 
 <aside class="atualizacao">
-    atualizado em 03 de março de 2026.
+    atualizado em 11 de abril de 2026.
 </aside>

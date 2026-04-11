@@ -11,7 +11,7 @@
    </div>
   </div>
 
-  {% assign ultima_mb = site.data.microblog | first %}
+  {% assign ultima_mb = site.microblog | sort: "date" | reverse | first %}
   {% if ultima_mb %}<input type="checkbox" id="microblog-toggle" hidden>{% endif %}
   <nav>
    {% include microblog-balao.html %}
@@ -33,7 +33,7 @@
   <img src="/assets/foto-pedro-100px.jpg" alt="Foto de Pedro" title="sou eu" class="fotocab">
    </a>
    
-   <div class="header-text-container"> <h1>Pedro&nbsp;Dal&nbsp;Bó</h1>
+   <div class="header-text-container"> <h1>Pedro Dal&nbsp;Bó</h1>
    </div>
   </div>
 
@@ -54,12 +54,13 @@
    </div>
   </div>
 
-  {% assign ultima_mb = site.data.microblog | first %}
+  {% assign ultima_mb = site.microblog | sort: "date" | reverse | first %}
   {% if ultima_mb %}<input type="checkbox" id="microblog-toggle" hidden>{% endif %}
   <nav>
   {% include microblog-balao.html %}
   <a href="/blog" title="se eu disser, será aqui">BLOG</a>
   <a href="/fotolog" title="meu fotolog">FOTOLOG</a>
+  <a href="/microblog" title="meu microblog">MICROBLOG</a>
   <a href="/etiquetas" title="do que estou falando">ETIQUETAS</a>
   <a href="/blogrol" title="aqueles que recomendo">BLOGROL</a>
   <a href="/agora" title="o que estou fazendo">AGORA</a>

@@ -1,9 +1,6 @@
 {% assign page_comments = site.data.comments[page.slug] | default: empty_array %}
 
 <section class="comments-section">
-<p class="blog-comentario">
-  Podemos <a href="mailto:pedro@dalbo.me?subject=Do blog, {{ page.title }}">conversar por email</a> ou por aqui...
-  </p><br/>
   <hr>
   <h5 class="comments-title">
     {% assign total = page_comments | size %}

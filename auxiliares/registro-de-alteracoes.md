@@ -12,7 +12,7 @@ O famoso [Changelog<sup>[en]</sup>](https://indieweb.org/release_notes) é simpl
 <div class="timeline">
   <ul>
     {% assign ano_vigente = "" %}
-    {% for item in site.data.atualizacao %}
+    {% for item in site.data.registro-alteracoes %}
       
     {% if item.ano != ano_vigente %}
  <li><h4>Alterações em {{ item.ano }}</h4></li>

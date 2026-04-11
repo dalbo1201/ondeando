@@ -1,0 +1,32 @@
+{% include head.html %}
+
+{% include header.html %}
+
+<div class="main-wrapper">
+  <main>
+    <h2><span aria-hidden="true">|</span><span class="h2-menor">meu </span>Microblog</h2>
+
+    <article class="microblog-entrada h-entry">
+      <time class="blog-data dt-published" datetime="{{ page.date | date: '%Y-%m-%d' }}">
+        {{ page.date | date: "%d/%m/%Y" }}
+      </time>
+      <a class="u-url" href="{{ page.url | absolute_url }}" style="display:none;">Link permanente</a>
+
+      <div class="fleabag e-content">
+        {{ content }}
+      </div>
+    </article>
+<p class="blog-comentario">
+  Podemos <a href="mailto:pedro@dalbo.me?subject=Do microblog, {{ page.title }}">conversar por email</a> ou por aqui...
+  </p>
+    <div id="comentarios"></div>
+    {% include comments.html %}
+  </main>
+
+  <section style="text-align: center;"><a href="#" class="nav-topo">&#8593 Topo</a></section>
+
+</div>
+
+{% include footer.html %}
+</body>
+</html>

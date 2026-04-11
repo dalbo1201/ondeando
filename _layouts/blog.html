@@ -6,11 +6,7 @@
 
   {{ content }}
 
-{% assign all_posts = site.posts | where_exp: "post", "post.type != 'album'" %}
-{% assign offset = paginator.page | minus: 1 | times: paginator.per_page %}
-{% assign posts_to_show = all_posts | slice: offset, paginator.per_page %}
-
-{% for post in posts_to_show %}
+{% for post in paginator.posts %}
   <article class="blog-article h-entry {% if post.type == 'frase' %}blog-citacao{% elsif post.type == 'notas' %}blog-notas{% endif %}">
     
     <p class="blog-data">

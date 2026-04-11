@@ -2,41 +2,56 @@ title: Ondeando
 description: meu proto-jardim-digital, um espaço para ficar mais distante das mídias-sociais, feeds infinitos e algorítmos malvados.
 url: "https://pedro.dalbo.me"
 author: dalbo1201
-
 kramdown:
   hard_wrap: true
 highlighter: rouge
-
-permalink: /blog/:slug/
 future: false
 timezone: America/Sao_Paulo
 
+# --- COLLECTIONS ---
+collections:
+  blog:
+    output: true
+  fotolog:
+    output: true
+  microblog:
+    output: true
+
 plugins:
+  - jekyll-feed
   - jekyll-paginate-v2
 
 pagination:
   enabled: true
-  collection: posts
-  per_page: 7
-  title: ':title - página :num'
-  permalink: /page/:num/
-  sort_field: 'date'
-  sort_reverse: true
-  trail:
-    before: 2
-    after: 2
 
+feed:
+  collections:
+    - blog
+    - fotolog
+    - microblog
+
+# --- DEFAULTS ---
 defaults:
   - scope:
       path: ""
-      type: posts
+      type: blog
     values:
+      layout: post
       permalink: /blog/:slug/
+
   - scope:
-      path: "tags"
-      type: pages
+      path: ""
+      type: fotolog
     values:
-      permalink: /tags/:slug/
+      layout: foto
+      permalink: /fotolog/:slug/
+
+  - scope:
+      path: ""
+      type: microblog
+    values:
+      layout: microblog-post
+      permalink: /microblog/:year-:month-:day/
 
 exclude:
   - README.md

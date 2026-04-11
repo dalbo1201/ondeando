@@ -1,26 +1,55 @@
 {% include head.html %}
 
- {% include header.html %}
+{% include header.html %}
 
   <div class="main-wrapper"> <main>
   
   {{ content }}
 
+{% assign all_docs = site.blog | concat: site.fotolog | sort: "date" | reverse %}
+
+{% assign anos = "" | split: "" %}
+{% for doc in all_docs %}
+  {% assign doc_ano = doc.date | date: "%Y" %}
+  {% unless anos contains doc_ano %}
+    {% assign anos = anos | push: doc_ano %}
+  {% endunless %}
+{% endfor %}
+
+<section class="nuvem-tag">
+  {% for ano in anos %}
+    <a href="#{{ ano }}">{{ ano }}</a>
+  {% endfor %}
+</section>
+
+{% assign all_docs = site.blog | concat: site.fotolog | sort: "date" | reverse %}
+
 <ul class="lista-tags">
-  <table class="tabela-posts">
-      {% assign sorted_posts = site.posts | sort: 'date' | reverse %}
-      {% for post in sorted_posts %}
-        <tr class="linha-post">
-          <td class="data-tag">{{ post.date | date: "%d/%m/%Y" }}</td>
-          <td class="titulo-post" style="text-wrap: balance;">
-            <a href="{{ post.url | relative_url }}" style="display: inline;">{{ post.title }}</a>
-            {% if post.type == "album" %}
-              <span style="display: inline;">&#x1F4F7;</span>
-            {% endif %}
-          </td>
-        </tr>
-      {% endfor %}
-  </table>
+  {% assign ano_atual = "" %}
+  {% for doc in all_docs %}
+    {% assign doc_ano = doc.date | date: "%Y" %}
+    {% if doc_ano != ano_atual %}
+      {% unless ano_atual == "" %}
+          </table>
+        </details>
+        </li>
+      {% endunless %}
+      {% assign ano_atual = doc_ano %}
+      <li><h4  id="{{ doc_ano }}">{{ doc_ano }} <a href="#">&#8593</a></h4>
+       <table class="tabela-posts">
+    {% endif %}
+            <tr class="linha-post">
+              <td class="data-tag">{{ doc.date | date: "%d/%m/%Y" }}</td>
+              <td class="titulo-post" style="text-wrap: balance;">
+                <a href="{{ doc.url | relative_url }}" style="display: inline;">{{ doc.title }}</a>
+                {% if doc.layout == "foto" %}
+                  <span style="display: inline;">&#x1F4F7;</span>
+                {% endif %}
+              </td>
+            </tr>
+  {% endfor %}
+          </table>
+      </li>
 </ul>
 
 </main>

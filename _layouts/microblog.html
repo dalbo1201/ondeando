@@ -1,25 +1,29 @@
 {% include head.html %}
 
 {% include header.html %}
+
 <div class="main-wrapper">
   <main>
     {{ content }}
-    
-    {% for msg in site.data.microblog %}
-    <article class="microblog-entrada h-entry">
-      <time class="blog-data dt-published" datetime="{{ msg.date | date: '%Y-%m-%d' }}">
-        {{ msg.date | date: "%d/%m/%Y" }}
+
+    {% assign entradas = site.microblog | sort: "date" | reverse %}
+    {% for msg in entradas %}
+ <article class="microblog-entrada h-entry">
+
+      <time class="blog-data dt-published" datetime="{{ msg.date | date: '%Y-%m-%d' }}"><a href="{{ msg.url | relative_url }}" class="linkdata">
+        {{ msg.date | date: "%d/%m/%Y" }}</a>
       </time>
       <div class="fleabag e-content">
-        {{ msg.text | markdownify }}
-        <br/><small><p class="blog-comentario">Podemos <a href="mailto:pedro@dalbo.me?subject=Do microblog, {{ msg.date }}">conversar por email</a>.<br/>
-          <small>Se o link não funcionar, copie e cole o endereço de email no seu cliente de email.<br/>
-          A seção de microblog não tem comentário.</small>
-        </p></small>
+        {{ msg.content }}
       </div>
+       <p class="blog-seta"><a href="{{ msg.url | relative_url }}#comentarios" class="linkdata">vamos conversar...</a></p>
     </article>
     {% endfor %}
   </main>
+
+<section style="text-align: center;"><a href="#" class="nav-topo">&#8593 Topo</a></section>
+
 </div>
+
 {% include footer.html %}
 </html>

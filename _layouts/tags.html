@@ -6,34 +6,42 @@
   
   {{ content }}
 
-{% assign tags = site.tags | sort %}
+{% assign all_docs = site.blog | concat: site.fotolog | sort: "date" | reverse %}
+{% assign all_tags = "" | split: "" %}
+{% for doc in all_docs %}
+  {% assign all_tags = all_tags | concat: doc.tags %}
+{% endfor %}
+{% assign tags = all_tags | uniq | sort %}
 
 <section class="nuvem-tag">
   {% for tag in tags %}
-    <a href="#{{ tag[0] | slugify }}">#{{ tag[0] }}</a> 
+    <a href="#{{ tag | slugify }}">#{{ tag }}</a> 
   {% endfor %}
 </section>
 
 <ul class="lista-tags">
   {% for tag in tags %}
     <li>
-      <h4 id="{{ tag[0] | slugify }}">#{{ tag[0] }} <a href="#">&#8593</a></h4>
+      <h4 id="{{ tag | slugify }}">#{{ tag }} <a href="#">&#8593</a></h4>
       <table class="tabela-posts">
-        {% for post in tag[1] %}
+        {% for doc in all_docs %}
+          {% if doc.tags contains tag %}
           <tr class="linha-post">
-            <td class="data-tag">{{ post.date | date: "%d/%m/%Y" }}</td>
-            <td class="titulo-post" style="text-wrap: balance;"><a href="{{ post.url | relative_url }}" style="display: inline;">{{ post.title }}</a>
-        {% if post.type == "album" %}
-              <span style="display: inline;">&#x1F4F7;</span>
-        {% endif %}</td>
+            <td class="data-tag">{{ doc.date | date: "%d/%m/%Y" }}</td>
+            <td class="titulo-post" style="text-wrap: balance;">
+              <a href="{{ doc.url | relative_url }}" style="display: inline;">{{ doc.title }}</a>
+              {% if doc.layout == "foto" %}
+                <span style="display: inline;">&#x1F4F7;</span>
+              {% endif %}
+            </td>
           </tr>
+          {% endif %}
         {% endfor %}
       </table>
     </li>
   {% endfor %}
 </ul>
 
-  
 </main>
 
 <section style="text-align: center;"><a href="#" class="nav-topo">&#8593 Topo</a></section>
