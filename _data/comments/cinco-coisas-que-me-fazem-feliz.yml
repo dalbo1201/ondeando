@@ -1,0 +1,20 @@
+# _data/comments/sobre-o-poder-da-memoria.yml
+#
+# Estrutura de um comentário:
+#   id:        — identificador único (ex: use timestamp ou número sequencial)
+#   parent_id: — id do comentário pai (deixe "" para comentários raiz)
+#   date:      — data no formato YYYY-MM-DD
+#   name:      — nome/nickname do autor
+#   email:     — e-mail (privado, não aparece no site)
+#   url:       — website (opcional, vira link no nome)
+#   message:   — texto do comentário
+
+- id: 1
+  parent_id: 0
+  date: "2026-04-17T18:52:37.476Z"
+  name: "Nicolle"
+  email: "colinoliveiraps@gmail.com"
+  url: "http://nicolledulce.wordpress.com"
+  message: |  
+    Hm... um pãozinho na chapa e no meu caso com um nescauzinho, não tem nada melhor. 
+    Amo redes como uma boa nordestina.
