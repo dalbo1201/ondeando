@@ -91,4 +91,4 @@ Tivemos outro dia com outras jornadas em museus. Fomos a uma mostra do **Grande 
 
 <aside class="blog-colet"><div class="aviso-texto">Esse post faz parte da seleção de temas do grupo de blogagem coletiva <a href="https://entreblogs.com.br/" title="mais sobre o entrelogs">ENTREBLOGS</a> criado com o intuito de compartilhar nossas perspectivas sobre os mesmos assuntos. Se quiser ler outras postagens sobre o tema você <a href="https://entreblogs.com.br/temas/museu" title="outras postagens do tema">encontra aqui.</a>.
 
-<h6>Tema #010. MUSEU ✍🏻 fev, 2026</h6></div></aside>
+<h6><i class="fa-solid fa-pen-fancy"></i> Tema #010. Museu | fev, 2026</h6></div></aside>

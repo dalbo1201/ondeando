@@ -41,5 +41,5 @@ Tá aí, meu top 1.
 Nada me alegra mais que sair com a S. para irmos num sebo, loja de antiguidades ou brechó e ficarmos conversando sobre as amenidades da vida, comentando alguma cena que vimos e fazendo piadas ~~sem graça~~, contando histórias ou anedotas, que lembramos de outra época. Essas conversas sem grandes contextos, apenas conversas que fazem os dias mais felizes.
 
 <aside class="blog-colet"><div class="aviso-texto">Esse post faz parte da seleção de temas do grupo de blogagem coletiva <a href="https://entreblogs.com.br/" title="mais sobre o entrelogs">ENTREBLOGS</a> criado com o intuito de compartilhar nossas perspectivas sobre os mesmos assuntos. Se quiser ler outras postagens sobre o tema você <a href="https://entreblogs.com.br/temas/cinco-coisas-que-me-fazem-feliz/" title="outras postagens do tema">encontra aqui.</a>.
-<h6>Tema #012. Cinco Coisas que me fazem Feliz ✍🏻 abr, 2026</h6></div></aside>
+<h6><i class="fa-solid fa-pen-fancy"></i> Tema #012. Cinco coisas que me fazem feliz | abr, 2026</h6></div></aside>
 
