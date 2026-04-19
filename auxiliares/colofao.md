@@ -23,7 +23,7 @@ Este cantinho tem como cores predominantes:
 
 Sempre que você avistar o símbolo **↗** ao lado de algum link significa que ele te levará para uma página externa deste pequeno _proto-jardim-digital_. A excessão são os links associados a imagem no rodapé, apesar de irem para páginas externas não tem o símbolo, ~~por questão estética e~~, porquê claramente vão para uma página externa.  
 
-Nas páginas que encontrar o ícone &#x1F4F7; significa que a postagem está no [Fotolog](/fotolog).  
+Nas páginas que encontrar o ícone <i class="fa-solid fa-camera-retro"></i> significa que a postagem está no [Fotolog](/fotolog).  
 
 Os links que não levarem para páginas em português coloco uma _etiqueta_ sobreescrita `[idioma]`, assim tem como saber que estou indicando um texto em outro idioma.  
 

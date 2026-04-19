@@ -30,11 +30,11 @@ O tempo todo brincando de mexer nesse _meu espaço da internet_, um hobby para d
     <li>Orbital&nbsp;| Samantha Harvey;</li>
     <li>Chomsky & Mujica, Sobrevivendo ao século XXI&nbsp;| Saúl Alvídrez.</li>
 </ul>
-<h5>Filmes que vi <a href="https://letterboxd.com/dalbo1201/films/diary/" class="linkcab">&#127916;</a>:</h5>
+<h5>Filmes que vi <a href="https://letterboxd.com/dalbo1201/films/diary/" class="linkcab"><i class="fa-solid fa-film"></i></a>:</h5>
 
 Sem filmes por enquanto.
 
-<h5>Séries que estou vendo <a href="https://tvtime.com/r/38uUh" class="linkcab">&#128250;</a>:</h5>
+<h5>Séries que estou vendo <a href="https://tvtime.com/r/38uUh" class="linkcab"><i class="fa-solid fa-tv"></i></a>:</h5>
 <ul>
     <li>The Pitt&nbsp;| HBO&nbsp;Max&nbsp;| temporada&nbsp;2;</li>
     <li><a href="/assistindo/six-feet-under-comentarios" title="alguns comentários sobre os episódios">A Sete Palmos</a>&nbsp;| HBO&nbsp;Max&nbsp;| temporada&nbsp;3;</li>

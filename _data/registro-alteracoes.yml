@@ -1,4 +1,13 @@
 - ano: "2026"
+  data_id: "2026-04-19"
+  data_texto: "19 de abril"
+  entradas:
+    - tags: ["html", "liquid", "no-script"]
+      texto: |
+       Troquei o ícone unicode &#x1F4F7; que uso para indicar as postagens do [FOTOLOG](/fotolog) pelo ícone da *Font Awesome* <i class="fa-solid fa-camera-retro"></i>, acho que a estética ficou mais bacana, saí um pouco o vintage e entra algo retrô com _ar modereno_.
+       Aproveitei e troquei os ícones de filme e TV que ficam na página [AGORA](/agora) para os ícones da *Font Awesome* também, <i class="fa-solid fa-film"></i> e <i class="fa-solid fa-tv"></i>.
+       
+- ano: "2026"
   data_id: "2026-04-11"
   data_texto: "11 de abril"
   entradas:
