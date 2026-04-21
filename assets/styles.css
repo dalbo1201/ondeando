@@ -5,7 +5,7 @@
  --color-background: #F5F5F5;
  --color-text: #252525;
  --color-link: #75015c;
- --color-link-hover: #755401;
+ --color-link-background: #755401;
  --color-data: #000000;
  --quote-transparency: 0.45;
  --code-background-transparency: 0.7;
@@ -18,7 +18,7 @@
   --color-background: #252525;
   --color-text: #F5F5F5;
   --color-link: #F1C6E8;
-  --color-link-hover: #F1E5C6;
+  --color-link-background: #F1E5C6;
   --color-data: #E6E6E6;
   --code-background: color-mix(in srgb, #F1C6E8, transparent calc(100% - (0.7 * 100%)));
  }
@@ -273,7 +273,7 @@ main ul {
 .aviso-caixa, .blog-colet {
  display: flex;
  flex-direction: row;
- border: 3px solid var(--color-link-hover); 
+ border: 3px solid var(--color-link-background); 
  border-radius: 0.5rem;
  color: var(--color-text);
  font-size: clamp(0.88rem, 0.9vw, 0.94rem); /* 14–15px */
@@ -293,7 +293,7 @@ main ul {
  font-family: "Font Awesome 7 Free"; /* Fonte */
  font-weight: 900;
  font-size: 1.5rem; /* 14–15px */
- color: var(--color-link-hover);
+ color: var(--color-link-background);
 }
 
 .blog-colet::before {
@@ -301,7 +301,7 @@ main ul {
  font-family: "Font Awesome 7 Free"; /* Fonte */
  font-weight: 900;
  font-size: 1.3rem; /* 14–15px */
- color: var(--color-link-hover);
+ color: var(--color-link-background);
  display: inline-block;
  text-rendering: auto;
  -webkit-font-smoothing: antialiased;
@@ -323,7 +323,7 @@ code {
  font-family: monospace;
  font-size: clamp(0.95rem, 1vw, 1.0rem);
  line-height: 1.4rem; /* ou 1.0 ou até 0.95, ajuste como preferir */
- background-color: var(--color-link-hover);
+ background-color: var(--color-link-background);
  color: var(--color-background);
  border-radius: 4px;
  padding: 0 5px; /* vertical 0 / horizontal 3px */
@@ -867,7 +867,7 @@ table.tabela-posts td {
   bottom: 0;
   left: 0.35rem;
   width: 1px;
-  background: color-mix(in srgb, var(--color-link-hover) 40%, transparent);
+  background: color-mix(in srgb, var(--color-link-background) 40%, transparent);
 }
 
 .timeline > ul > li {
@@ -887,7 +887,7 @@ table.tabela-posts td {
   width: 0.7rem;
   height: 0.7rem;
   background: var(--color-background);
-  border: 1px solid color-mix(in srgb, var(--color-link-hover) 70%, transparent);
+  border: 1px solid color-mix(in srgb, var(--color-link-background) 70%, transparent);
   border-radius: 999px;
   z-index: 2; /* Garante que fique acima da linha */
 }
@@ -908,10 +908,10 @@ table.tabela-posts td {
 
 /* Estilo do círculo com efeito de anel para a troca de ano (h4) */
 .timeline > ul > li:has(h4)::before {
-  background: var(--color-link-hover); /* Preenche o centro */
-  border-color: var(--color-link-hover);
+  background: var(--color-link-background); /* Preenche o centro */
+  border-color: var(--color-link-background);
   /* O efeito de borda dupla: uma camada da cor do fundo e outra da cor do link */
-  box-shadow: 0 0 0 2px var(--color-background), 0 0 0 3px var(--color-link-hover);
+  box-shadow: 0 0 0 2px var(--color-background), 0 0 0 3px var(--color-link-background);
   z-index: 1; /* Garante que o anel fique acima da linha vertical */
 }
 
