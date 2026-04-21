@@ -74,7 +74,7 @@
               {% else %}<i class="fa-solid fa-user"></i>{% endif %}
             </span>
             <span class="comment-meta">
-              {% if c1.url and c1.url != "" %}<a href="{{ c1.url }}" class="comment-author" target="_blank" rel="noopener noreferrer nofollow">{{ c1.name }}</a>
+              {% if c1.url and c1.url != "" %}<a href="{{ c1.url }}" class="comment-author" rel="noopener noreferrer nofollow">{{ c1.name }}</a>
               {% else %}<span class="comment-author">{{ c1.name }}</span>{% endif %}
               {% if is_author1 %}<span class="comment-author-badge">autor</span>{% endif %}
               <time class="comment-date" datetime="{{ c1.date }}">{{ c1.date | date: "%d/%m/%Y" }}</time>
@@ -99,7 +99,7 @@
                         {% else %}<i class="fa-solid fa-user"></i>{% endif %}
                       </span>
                       <span class="comment-meta">
-                        {% if c2.url and c2.url != "" %}<a href="{{ c2.url }}" class="comment-author" target="_blank" rel="noopener noreferrer nofollow">{{ c2.name }}</a>
+                        {% if c2.url and c2.url != "" %}<a href="{{ c2.url }}" class="comment-author" rel="noopener noreferrer nofollow">{{ c2.name }}</a>
                         {% else %}<span class="comment-author">{{ c2.name }}</span>{% endif %}
                         {% if is_author2 %}<span class="comment-author-badge">autor</span>{% endif %}
                         <time class="comment-date" datetime="{{ c2.date }}">{{ c2.date | date: "%d/%m/%Y" }}</time>
@@ -124,7 +124,7 @@
                                   {% else %}<i class="fa-solid fa-user"></i>{% endif %}
                                 </span>
                                 <span class="comment-meta">
-                                  {% if c3.url and c3.url != "" %}<a href="{{ c3.url }}" class="comment-author" target="_blank" rel="noopener noreferrer nofollow">{{ c3.name }}</a>
+                                  {% if c3.url and c3.url != "" %}<a href="{{ c3.url }}" class="comment-author" rel="noopener noreferrer nofollow">{{ c3.name }}</a>
                                   {% else %}<span class="comment-author">{{ c3.name }}</span>{% endif %}
                                   {% if is_author3 %}<span class="comment-author-badge">autor</span>{% endif %}
                                   <time class="comment-date" datetime="{{ c3.date }}">{{ c3.date | date: "%d/%m/%Y" }}</time>

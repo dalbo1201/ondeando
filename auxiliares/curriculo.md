@@ -125,7 +125,7 @@ permalink: "/profissional/cv"
     <address>
      <ul>
       <li><a href="mailto:pedro@dalbo.me?subject=Contato profisisonal pelo site" title="Onde falar comigo">pedro@dalbo.me</a></li>
-      <li><a href="https://www.linkedin.com/in/pedrodalbo" target="_blank" rel="noopener" aria-label="meu perfil no LinkedIn (atualizado)" title="meu perfil no LinkedIn (atualizado)">in/pedrodalbo</a></li>
+      <li><a href="https://www.linkedin.com/in/pedrodalbo" rel="noopener" aria-label="meu perfil no LinkedIn (atualizado)" title="meu perfil no LinkedIn (atualizado)">in/pedrodalbo</a></li>
 </ul>
      <p>Residência em São Paulo, SP</p>
     </address>
