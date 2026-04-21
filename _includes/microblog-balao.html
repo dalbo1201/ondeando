@@ -6,7 +6,7 @@
 </label>
 
 <div class="microblog-balao-mobile">
-  <div class="fleabag microblog-fleabag fleabag--topo">
+  <div class="fleabag microblog-fleabag fleabag-topo">
     {{ ultima_mb.content | markdownify }}
     <aside style="text-align: right; font-size: 0.78rem; margin-top: .2rem;">{{ ultima_mb.date | date: "%d/%m/%Y" }}</aside>
     <a href="{{ ultima_mb.url | relative_url }}#comentarios" class="microblog-mais" title="ver todas as mensagens curtas">+</a>

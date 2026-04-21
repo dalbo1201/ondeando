@@ -1416,11 +1416,11 @@ footer {
   }
 
   /* Variante com seta no canto superior esquerdo (mobile) */
-  .fleabag--topo {
+  .fleabag-topo {
     border-radius: 0 0.5rem 0.5rem 0.5rem;
   }
 
-  .fleabag--topo::after {
+  .fleabag-topo::after {
     bottom: auto;
     top: 0px;
     border-top: none;
