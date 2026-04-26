@@ -93,7 +93,11 @@ A ordem de apresentação é alfabética, por que a cada momento algum tem um es
 {% endfor %}
 <br/>
 <aside class="aviso-caixa"><div class="aviso-texto">Quer descobrir outros blogs em português?<br/>
-Acesse o <a href="https://lerama.pcdomanual.com/?category=blogs&tag" title="repositório de blogs pt-br">Lerama</a>, um repositório de blogs mantido pelo <a href="https://manualdousuario.net" title="excelente blog de tecnologia">Manual do Usuário</a>.
+Acesse:
+<ul>
+<li> o <a href="https://lerama.pcdomanual.com/?category=blogs&tag" title="repositório de blogs pt-br">Lerama</a>, um repositório de blogs mantido pelo <a href="https://manualdousuario.net" title="excelente blog de tecnologia">Manual do Usuário</a> e </li>
+<li> o <a href="https://entreblogs.com.br" title="comunidade de blogagem coletiva pt-br">Entreblogs</a>, uma comunidade de blogagem coletiva.</li>
+</ul>
 Tenho certeza que vai encontrar blogs que irão te agradar.
 </div></aside>
 <br/>

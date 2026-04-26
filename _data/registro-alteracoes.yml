@@ -1,4 +1,20 @@
 - ano: "2026"
+  data_id: "2026-04-26"
+  data_texto: "26 de abril"
+  entradas:
+    - tags: ["página"]
+      texto: |
+       Adicionei no [COLOFÃO](/colofao) na seção de _desenvolvimento do site_ uma breve explicação sobre as seções de comentários e deixando o link para a postagem que fiz apresentando o sistema.
+       
+- ano: "2026"
+  data_id: "2026-04-20"
+  data_texto: "20 de abril"
+  entradas:
+    - tags: ["página"]
+      texto: |
+       Retirei da página [ACOMPANHE](/acompanhe) o texto sobre o Entreblogs, achei que lá não seria o local certo. Por agora temos na página do [BLOGROL](/blogrol) o _webring_ do Entreblogs e uma chamada para o Lerama e para o Entreblogs, comentando que são dois bons lugares para encontrar outros blogs. 
+       
+- ano: "2026"
   data_id: "2026-04-19"
   data_texto: "19 de abril"
   entradas:
@@ -14,7 +30,7 @@
     - tags: ["html", "liquid", "no-script"]
       texto: |
        Reorganizei o site para não precisar mais dos `scripts` que separavam o [BLOG](/blog) do [FOTOLOG](/fotolog), agora são duas coleções. Tornei o [MICROBLOG](/microblog) uma coleção também, para facilitar a organização e permitir a existência de páginas exclusivas das postagens para poderem receber comentários.  
-       Com essa reorganização a paginação agora está correta, sem criar páginas em branco no final do blog e do fotlog.
+       Com essa reorganização a paginação agora está correta, sem criar páginas em branco no final do blog e do fotolog.
        Reestruturei o  `feed.xml` para que o feed puxe o blog e o fotolog, mas podem existir num  futuro feeds separados para cada um. O feed do microblog ainda não tem data para existir, mas já está preparado para quando eu quiser.  
 
 - ano: "2026"

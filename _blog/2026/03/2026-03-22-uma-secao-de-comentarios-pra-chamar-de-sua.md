@@ -21,7 +21,7 @@ Queria tambem algo gratuito ou que não fosse muito caro. Meu site é pouquíssi
 
 Depois, como eu tenho um site estático, em Jekyll, e hospedo tudo no Netlify, isso dá uma dificultada nas opções e nos sistemas que posso usar.
 
-#### Os sistemas que considerei
+<h4 id="sistemas-que-considerei"> Os sistemas que considerei</h4>
 
 A primeira coisa que fiz foi visitar a página do Jekyll e ver se encontrava alguma recomendação por lá, e tive duas opções.  
 
@@ -53,7 +53,7 @@ Dessa forma fiquei sem encontrar nenhuma solução que atenda minhas parcas, mas
 
 <blockquote class="fleabag">Veja... Se eu estou escrevendo esse texto todo é porque teremos comentários aqui, então o que eu fiz?</blockquote>
 
-#### A minha solução foi...
+<h4 id="minha-solucao"> A minha solução foi...</h4>
 
 No fim, eu desisti disso tudo e resolvi respeitar o funcionamento artesanal do meu espaço e o fato de eu querer fazer dele um lugar onde a internet seja mais lenta e menos desesperada pelo imediatismo.  
 
