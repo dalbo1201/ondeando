@@ -424,7 +424,7 @@ a:hover, nav a:hover {
 /* --- 3. EXCEÇÕES (IMAGENS, CABEÇALHO E DATA) --- */
 /* Removemos o preenchimento, padding e a transição para evitar "fantasmas" do efeito */
 a:has(img),
-a.linkcab,
+a.linkdata,
 a.linkdata {
   background: none !important;
   padding: 0 !important;
@@ -433,9 +433,6 @@ a.linkdata {
 }
 
 /* Cores específicas e remoção de efeitos no Hover das exceções */
-a.linkcab { color: var(--color-text); }
-a.linkcab:hover { color: var(--color-text);}
-
 a.linkdata { color: var(--color-data); }
 a.linkdata:hover { color: var(--color-data);}
 
