@@ -7,7 +7,7 @@ description: Site pessoal, cantinho na internet e cartão de visitas do Pedro Da
 
 Este é meu espaço na internet, um cantinho mais pessoal longe de tantos algorítimos e feeds infinitos.  
 
-Carinhosamente eu chamo este lugar de [**Ondeando**](/blog/meu-lugar-predileto/ "porquê chamo assim").  
+Carinhosamente eu chamo este lugar de [**Ondeando**](/fotolog/meu-lugar-predileto/ "porquê chamo assim").  
 
 Aqui tem um pouco o que eu tenho feito nos últimos dias ou meses. Nada que abale minha privacidade, leitura, filmes, pensamentos sobre _a vida, o universo e tudo mais_.  
 
