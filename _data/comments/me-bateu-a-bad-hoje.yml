@@ -1,0 +1,33 @@
+# _data/comments/sobre-o-poder-da-memoria.yml
+#
+# Estrutura de um comentário:
+#   id:        — identificador único (ex: use timestamp ou número sequencial)
+#   parent_id: — id do comentário pai (deixe "" para comentários raiz)
+#   date:      — data no formato YYYY-MM-DD
+#   name:      — nome/nickname do autor
+#   email:     — e-mail (privado, não aparece no site)
+#   url:       — website (opcional, vira link no nome)
+#   message:   — texto do comentário
+
+- id: 1
+  parent_id: 0
+  date: "2026-05-01T13:13:11.020Z"
+  name: "Eliel Jesus"
+  email: "elielguilhen@gmail.com"
+  url: "https://cosmoliko.com/"
+  message: |  
+    Tu acha mesmo que “estamos” falhando em apresentar propostas? Não faltam apresentações de propostas que beneficiem os trabalhadores.
+    Para quem tá lá aprovando, não estão falhando. As condições de serem aprovadas não necessariamente depende de “nós”. Não perca a esperança não, amanhã vai ser pior. Mas depois melhor. E depois pior de novo. Quem sabe numa dessas de melhor, “nós” usamos nossa força para derrubar esses deputados e senadores - e eu não tô falando nas urnas.
+
+- id: 2
+  parent_id: 1
+  date: "2026-05-01"
+  name: "dalbo1201"
+  email: ""
+  url: ""
+  message: |  
+    Eu claramente me expressei mal.  
+    Quando quis dizer **"falhando miseravelmente em apresentar"** é conseguir convercer essa parcela da população (que é grande porque nas últimas eleições foi tudo _na rabeira_) de que nossas propostas tentam melhorar a situação, mas o lado de lá consegue abraçar essas pessoas com muito mais sucesso.  
+    Estamos num sistema que vive em função de nos consumir e explorar e o que fazemos é exatamente tentar apenas mitigar os problemas.  
+    Mas é isso, ontem _me bateu uma bad_ especial pela situação e pela irônia dos disursos.  
+    Vida que segue e vamos continuar na luta.
