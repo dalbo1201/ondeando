@@ -2,7 +2,7 @@
 layout: post
 type: notas
 title: "Me bateu a bad hoje..."
-date: 2025-09-20 12:00:00 -0300
+date: 2026-04-30 22:40:00 -0300
 tags:
  - pensamentos
 ---
