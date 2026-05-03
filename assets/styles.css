@@ -82,7 +82,7 @@ nav {
  font-weight: bold;
 }
 
-/* --- MÁGICA DO DESKTOP (UNIFICADA) --- */
+/* --- INÍCIO MÁGICA DO DESKTOP (UNIFICADA) --- */
 @media screen and (min-width: 50rem) {
 body {
  max-width: 1200px;
@@ -119,7 +119,7 @@ nav {
  padding-top: 40px;
 }
 }
-/* --- MÁGICA DO DESKTOP (UNIFICADA) --- */
+/* --- FINAL MÁGICA DO DESKTOP (UNIFICADA) --- */
 
 footer {
  width: 100%;
@@ -167,7 +167,7 @@ hr {
 }
 
 /* INÍCIO dos Estilos de títulos */
-h1 {
+h1 { /* NOME DO SITE - cabeçalho */
  font-size: clamp(2rem, 3vw, 2.3rem); /* 24–30px */
  font-weight: 700;
  white-space: nowrap; /* Evita quebra de linha no nome */
@@ -259,7 +259,7 @@ main ul {
 }
 
 /* INÍCIO ESTILOS GERAIS */
-.atualizacao {
+.atualizacao { /* texto no final da página AGORA com a data da atualização da página */
  font-size: clamp(0.81rem, 0.8vw, 0.88rem); /* 13–14px */
  line-height: clamp(1.25rem, 1.5vw, 1.25rem); /* 20px */
  max-width: 100%;
@@ -267,6 +267,49 @@ main ul {
  margin-top: 10px; /* Define a margem superior */
  padding-right: 10px; /* Adiciona padding à direita para garantir que o texto não fique sob a barra de rolagem */
  align-self: flex-end; /* Alinha o bloco à direita */
+}
+
+code {
+ display: inline-block;
+ font-family: monospace;
+ font-size: clamp(0.95rem, 1vw, 1.0rem);
+ line-height: 1.4rem; /* ou 1.0 ou até 0.95, ajuste como preferir */
+ background-color: var(--color-link-background);
+ color: var(--color-background);
+ border-radius: 4px;
+ padding: 0 5px; /* vertical 0 / horizontal 3px */
+ opacity: var(--code-background-transparency);
+}
+
+.code-rss {
+ display: inline-block;
+ font-family: monospace;
+ font-size: clamp(1rem, 1.5vw, 1.06rem); /* 16–17px */
+ background-color: var(--color-link);
+ opacity: 1; 
+ color: var(--color-background);
+ border-radius: 4px;
+ margin-bottom: 0.8rem;
+ padding: 3px 5px;
+}
+
+.tag-reg {
+ display: inline-block;
+ background-color: var(--color-link);
+ color: var(--color-background);
+ opacity: var(--code-background-transparency); 
+ font-size: clamp(0.80rem, 1.5vw, 1rem); /* 12px */
+ line-height: 1.4rem; /* ou 1.0 ou até 0.95, ajuste como preferir */
+ font-family: monospace;
+ padding: 1px 6px;
+ border-radius: 3px;
+ margin: 5px;
+ white-space: nowrap; /* impede quebra dentro da tag */
+ vertical-align: middle; /* Alinha verticalmente com o texto */
+}
+
+.erro {
+ margin: 5rem 0;
 }
 
 /* INÍCIO ESTILOS DE AVISO*/
@@ -317,50 +360,6 @@ main ul {
  padding-left: 2rem; /* recuo para listas */
 }
 /* FINAL ESTILOS DE AVISO*/
-
-code {
- display: inline-block;
- font-family: monospace;
- font-size: clamp(0.95rem, 1vw, 1.0rem);
- line-height: 1.4rem; /* ou 1.0 ou até 0.95, ajuste como preferir */
- background-color: var(--color-link-background);
- color: var(--color-background);
- border-radius: 4px;
- padding: 0 5px; /* vertical 0 / horizontal 3px */
- opacity: var(--code-background-transparency);
-}
-
-.code-rss {
- display: inline-block;
- font-family: monospace;
- font-size: clamp(1rem, 1.5vw, 1.06rem); /* 16–17px */
- background-color: var(--color-link);
- opacity: 1; 
- color: var(--color-background);
- border-radius: 4px;
- margin-bottom: 0.8rem;
- padding: 3px 5px;
-}
-
-.tag-reg {
- display: inline-block;
- background-color: var(--color-link);
- color: var(--color-background);
- opacity: var(--code-background-transparency); 
- font-size: clamp(0.80rem, 1.5vw, 1rem); /* 12px */
- line-height: 1.4rem; /* ou 1.0 ou até 0.95, ajuste como preferir */
- font-family: monospace;
- padding: 1px 6px;
- border-radius: 3px;
- margin: 5px;
- white-space: nowrap; /* impede quebra dentro da tag */
- vertical-align: middle; /* Alinha verticalmente com o texto */
-}
-
-.erro {
- margin: 5rem 0;
-}
-
 /* FINAL ESTILOS GERAIS */
 
 /* INÍCIO ESTILOS PARA OS Links */
@@ -381,7 +380,7 @@ a, nav a {
  text-decoration: underline solid .125rem;
 }
 
-/* --- 2.1 ESTADOS DE COR E HOVER  para os textos em geral--- */
+/* --- 1.1 ESTADOS DE COR E HOVER para os textos em geral--- */
 a:link, a:visited, a:active, nav a {
  color: var(--color-link);
 }
@@ -409,7 +408,7 @@ a:hover, nav a:hover {
  text-decoration: underline solid .125rem;
 }
 
-/* --- 2.2 ESTADOS DE COR E HOVER para os textos em .fleabag que precisam ficar invertidos--- */
+/* --- 2 ESTADOS DE COR E HOVER para os textos em .fleabag que precisam ficar invertidos--- */
 .fleabag a:link, .fleabag a:visited, .fleabag  a:active {
  color: var(--color-background);
 }
@@ -424,7 +423,6 @@ a:hover, nav a:hover {
 /* --- 3. EXCEÇÕES (IMAGENS, CABEÇALHO E DATA) --- */
 /* Removemos o preenchimento, padding e a transição para evitar "fantasmas" do efeito */
 a:has(img),
-a.linkdata,
 a.linkdata {
   background: none !important;
   padding: 0 !important;
@@ -474,7 +472,6 @@ a[href]:not(:where(
  content: '↗'; /* Unicode para o ícone de link externo */
  font-size: 0.9em; /* Tamanho do ícone */ 
 }
-
 /* FINAL ESTILOS PARA OS Links */
 
 /* INÍCIO DE ESTILO PARA IMAGENS em posts - NÃO É O FOTOLOG, ESSE VEM DEPOIS*/
@@ -566,9 +563,7 @@ time.album-data {
 .e-content.caption p {
   margin: 0;
 }
-
 /* FINAL DOS Tipos de posts */
-
 
  /* INÍCIO DOS Estilos para o Blog */
 .blog-article{
@@ -705,7 +700,7 @@ article.blog-article.blog-citacao cite {
 /* FINAL DOS Estilos para o Blog */
 
 
-/* INIÍCIO ESTILOS PARA A PÁGINA DE Tags */
+/* INÍCIO ESTILOS PARA A PÁGINA DE Tags */
 .nuvem-tag {
  font-family: monospace;
  font-size: clamp(0.88rem, 0.85vw, 0.94rem); /* 14–15px */
@@ -816,7 +811,7 @@ table.tabela-posts td {
   display: block;
 }
 
-/* 5. A LEGENDA (A grande culpada) */
+/* 5. A LEGENDA */
 .caption {
   margin-top: 10px; /* Distância da base da foto para a legenda */
   height: 0; /* MÁGICA: A legenda não ocupa espaço no cálculo da altura do post */
@@ -877,8 +872,6 @@ table.tabela-posts td {
   content: "";
   position: absolute;
   top: 0.4em; 
-  
-  /* AJUSTE AQUI: */
   left: 0.35rem; /* O mesmo left da sua linha */
   transform: translateX(-50%); /* Move o círculo para a esquerda metade da sua própria largura */
   width: 0.7rem;
@@ -1090,7 +1083,6 @@ pre code {
  opacity: 0.8;
 }
 
-/* Reutilizando sua lógica de paginação */
 #entreblogs-webring .pagination {
  display: flex;
  justify-content: space-between;
@@ -1209,7 +1201,6 @@ pre code {
     margin-bottom: 30px;
   }
 }
-
 
 /* Pequeno ajuste para mobile */
 @media (max-width: 480px) {
