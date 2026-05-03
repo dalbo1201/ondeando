@@ -33,4 +33,4 @@ Por isso, deixo aqui onde podem me encontrar.
 
 Posso estar perdido em outras redes e talvez você me encontre pelo usuário **dalbo1201**. Adianto que se não está nessa lista eu possivelmente deixei o perfil abandonado.  
 
-Não vamos nos esquecer que este espaço é social e por isso, além de publicar por aqui o que tem me interessado, você pode <a href="mailto:pedro@dalbo.me?subject=Contato pelo site" title="como falar comigo">falar comigo</a>.
+Não vamos nos esquecer que este espaço **é social**. Eu venho publicar e você aproveita o espaço para interagir nos comentários, ou você pode <a href="mailto:pedro@dalbo.me?subject=Contato pelo site" title="como falar comigo">me mandar um email</a>.
