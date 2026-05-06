@@ -36,6 +36,8 @@ Sem filmes por enquanto.
 
 <h5>Séries que estou vendo <a href="https://tvtime.com/r/38uUh" class="linkdata"><i class="fa-solid fa-tv"></i></a>:</h5>
 <ul>
+    <li>A Treta&nbsp;| Netflix&nbsp;| temporada&nbsp;1;</li>
+    <li>Fallout&nbsp;| Prime&nbsp;Video&nbsp;| temporada&nbsp;2;</li>
     <li>The Pitt&nbsp;| HBO&nbsp;Max&nbsp;| temporada&nbsp;2;</li>
     <li><a href="/assistindo/six-feet-under-comentarios" title="alguns comentários sobre os episódios">A Sete Palmos</a>&nbsp;| HBO&nbsp;Max&nbsp;| temporada&nbsp;3;</li>
     <li>Arquivo X&nbsp;| Disney+&nbsp;| temporada&nbsp;2;&nbsp;↺</li>
@@ -45,5 +47,5 @@ Sem filmes por enquanto.
 Não vamos esquecer do <a href="https://historiasparaler.blog.br" title="onde comento livros">Histórias para Ler</a> onde comento sobre os livros que leio.</div></aside>
 
 <aside class="atualizacao">
-    atualizado em 11 de abril de 2026.
+    atualizado em 06 de maio de 2026.
 </aside>
