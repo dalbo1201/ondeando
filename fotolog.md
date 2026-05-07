@@ -1,7 +1,7 @@
 ---
 layout: fotolog
 title: Fotolog
-description: Meu álbum de fotos
+description: Meu fotolog
 permalink: /fotolog/
 pagination:
   enabled: true
