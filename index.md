@@ -1,7 +1,6 @@
 ---
 layout: default
 title: Ondeando
-description: Site pessoal, cantinho na internet e cartão de visitas do Pedro Dal Bó.
 ---
 <h2> Boas-vindas ;)</h2>
 
