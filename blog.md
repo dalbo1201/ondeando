@@ -1,7 +1,7 @@
 ---
 layout: blog
 title: Blog
-description: um espaço para escrever
+description: um espaço para escrever pensamentos sobre a vida, o universo e tudo mais
 excerpt: pensamentos sobre a vida, o universo e tudo mais
 permalink: /blog/
 pagination:
