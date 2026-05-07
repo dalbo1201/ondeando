@@ -38,7 +38,6 @@ Sem filmes por enquanto.
 <ul>
     <li>A Treta&nbsp;| Netflix&nbsp;| temporada&nbsp;1;</li>
     <li>Fallout&nbsp;| Prime&nbsp;Video&nbsp;| temporada&nbsp;2;</li>
-    <li>The Pitt&nbsp;| HBO&nbsp;Max&nbsp;| temporada&nbsp;2;</li>
     <li><a href="/assistindo/six-feet-under-comentarios" title="alguns comentários sobre os episódios">A Sete Palmos</a>&nbsp;| HBO&nbsp;Max&nbsp;| temporada&nbsp;3;</li>
     <li>Arquivo X&nbsp;| Disney+&nbsp;| temporada&nbsp;2;&nbsp;↺</li>
 </ul>
