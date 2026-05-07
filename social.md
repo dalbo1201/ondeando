@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Social"
-description: Como me encontrar nas míd ias sociais poraí.
+description: Como me encontrar nas mídias sociais poraí.
 ---
 <h2><span aria-hidden="true">|</span><span class="h2-menor">nas </span>Mídias<span class="h2-menor"> Sociais</span></h2>
 
