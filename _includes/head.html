@@ -32,7 +32,11 @@
  <link rel="icon" type="image/png" sizes="32x32" href="/assets/favicon/favicon_avatar-32.png">
  <link rel="icon" type="image/png" sizes="16x16" href="/assets/favicon/favicon_avatar-16.png">
  <link rel="preconnect" href="https://fonts.bunny.net">
- <link href="https://fonts.bunny.net/css?family=Montserrat|Fraunces|Luckiest+Guy|Special+Elite|Slackey" rel="stylesheet" />
+ <link href="https://fonts.bunny.net/css?family=Montserrat|Fraunces" rel="stylesheet" />
+ {% assign mes_atual = site.time | date: "%m" | plus: 0 %}
+{% if mes_atual == 6 %}
+  <link href="https://fonts.bunny.net/css?family=Luckiest+Guy|Special+Elite|Slackey" rel="stylesheet">
+{% endif %}
  <link rel="stylesheet" href="/assets/styles.css">
  <link rel="stylesheet" href="{{ '/assets/comments.css' | relative_url }}">
 {% assign mes_atual = site.time | date: "%m" | plus: 0 %}
