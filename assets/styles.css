@@ -183,6 +183,14 @@ h1 { /* NOME DO SITE - cabeçalho */
  margin-left: 10px;
 }
 
+.h1-pro { /* NOME DO SITE - cabeçalho */
+ font-size: 1.8rem; 
+ font-weight: 700;
+ white-space: nowrap; /* Evita quebra de linha no nome */
+ display: inline;
+ margin: 0 0 0 5px;
+}
+
 h2 { /* cabeçalho de saudação */
  font-size: clamp(2.4rem, 4vw, 2.7rem); /* mínimo 35px → 40px */
  line-height: clamp(2rem, 3vw, 2.19rem); /* 32–35px */
@@ -206,7 +214,7 @@ h3 { /* Títulos de postagem e outros títulos de página */
 }
 
 h4 {
- font-size: clamp(1.3rem, 2.5vw, 1.5rem); /* mínimo 21px */
+ font-size: clamp(1.5rem, 2.5vw, 1.8rem); /* mínimo 21px */
  font-weight: normal;
  line-height: clamp(1.44rem, 1.5vw, 1.56rem); /* 23–25px */
  text-wrap: balance;
