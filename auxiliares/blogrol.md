@@ -4,7 +4,7 @@ title: Blogrol
 description: O rol de sites e blogs que eu leio, sigo e recomendo.
 permalink: "/blogrol"
 ---
-<h2><span aria-hidden="true">|</span><span class="h2-menor">um </span>rol de Blogs</h2>
+<h2><span aria-hidden="true">|</span><span class="h2-menor">meu </span>rol de Blogs</h2>
 
 Aqui apresento uma lista, que sempre estará em constante mudanças, de blogs, sites ou jardins digitais que vou descobrindo e estou acompanhando.  
 
