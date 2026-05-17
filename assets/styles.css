@@ -5,11 +5,11 @@
  --color-background: #F5F5F5;
  --color-text: #252525;
  --color-link: #75015c;
- --color-link-background: #755401;
+ --color-hover: #9E4D8D;
+ --color-quote: #BA80AE;
+ --color-code-background: #7E6779;
  --color-data: #000000;
- --quote-transparency: 0.45;
- --code-background-transparency: 0.7;
- --code-background: color-mix(in srgb, #75015c, transparent calc(100% - (0.7 * 100%)));
+ --text-transparency: 0.7;
  --font-geral: 'Montserrat', sans-serif;
 }
 
@@ -18,9 +18,10 @@
   --color-background: #252525;
   --color-text: #F5F5F5;
   --color-link: #F1C6E8;
-  --color-link-background: #F1E5C6;
-  --color-data: #E6E6E6;
-  --code-background: color-mix(in srgb, #F1C6E8, transparent calc(100% - (0.7 * 100%)));
+  --color-hover: #F5D7EF;
+  --color-quote: #F8E3F4;
+  --color-code-background: #FBEEF8;
+  --color-data: #ffffff;
  }
 }
 
@@ -234,7 +235,7 @@ h5 {
 h6 {
  max-width: 100%; /* Faz com que o conteúdo ocupe 100% da largura do contêiner */
  font-size: clamp(1.02rem, 2.5vw, 1.08rem); /* mínimo 21px */
- color: color-mix(in srgb, var(--color-text), transparent calc(100% - (var(--code-background-transparency) * 100%)));
+ color: color-mix(in srgb, var(--color-text), transparent calc(100% - (var(--text-transparency) * 100%)));
  font-weight: bolder;
  text-wrap: balance;
  text-align: left;
@@ -282,11 +283,11 @@ code {
  font-family: monospace;
  font-size: clamp(0.95rem, 1vw, 1.0rem);
  line-height: 1.4rem; /* ou 1.0 ou até 0.95, ajuste como preferir */
- background-color: var(--color-link-background);
+ background-color: var(--color-code-background);
  color: var(--color-background);
  border-radius: 4px;
  padding: 0 5px; /* vertical 0 / horizontal 3px */
- opacity: var(--code-background-transparency);
+
 }
 
 .code-rss {
@@ -303,9 +304,8 @@ code {
 
 .tag-reg {
  display: inline-block;
- background-color: var(--color-link);
+ background-color: var(--color-quote);
  color: var(--color-background);
- opacity: var(--code-background-transparency); 
  font-size: clamp(0.80rem, 1.5vw, 1rem); /* 12px */
  line-height: 1.4rem; /* ou 1.0 ou até 0.95, ajuste como preferir */
  font-family: monospace;
@@ -324,7 +324,7 @@ code {
 .aviso-caixa, .blog-colet {
  display: flex;
  flex-direction: row;
- border: 3px solid var(--color-link-background); 
+ border: 3px solid var(--color-code-background); 
  border-radius: 0.5rem;
  color: var(--color-text);
  font-size: clamp(0.88rem, 0.9vw, 0.94rem); /* 14–15px */
@@ -344,7 +344,7 @@ code {
  font-family: "Font Awesome 7 Free"; /* Fonte */
  font-weight: 900;
  font-size: 1.5rem; /* 14–15px */
- color: var(--color-link-background);
+ color: var(--color-code-background);
 }
 
 .blog-colet::before {
@@ -352,7 +352,7 @@ code {
  font-family: "Font Awesome 7 Free"; /* Fonte */
  font-weight: 900;
  font-size: 1.3rem; /* 14–15px */
- color: var(--color-link-background);
+ color: var(--color-code-background);
  display: inline-block;
  text-rendering: auto;
  -webkit-font-smoothing: antialiased;
@@ -374,18 +374,17 @@ code {
 /* INÍCIO CONFIGURAÇÃO (ONDA) */
 /* --- 1. CONFIGURAÇÃO (ONDA) para os textos em geral--- */
 a, nav a {
- border-radius: 3px;
- padding: 0.09em;
- display: inline; 
- box-decoration-break: clone;
- line-height: 1.1;
-/* Gradiente Vertical com sua variável de transparência */
- background-image: linear-gradient(to top, rgb(from var(--color-link) r g b / var(--code-background-transparency)) 50%, transparent 50%);
- background-size: 100% 200%;
- background-position: top;
- transition: background-position 0.3s ease, color 0.3s ease;
- color: var(--color-link);
- text-decoration: underline solid .125rem;
+  border-radius: 3px;
+  padding: 0.09em;
+  display: inline;
+  box-decoration-break: clone;
+  line-height: 1.1;
+  background-image: linear-gradient(to top, var(--color-hover) 50%, var(--color-background) 50%);
+  background-size: 100% 200%;
+  background-position: top;
+  transition: background-position 0.3s ease, color 0.3s ease;
+  color: var(--color-link);
+  text-decoration: underline solid .125rem;
 }
 
 /* --- 1.1 ESTADOS DE COR E HOVER para os textos em geral--- */
@@ -408,7 +407,7 @@ a:hover, nav a:hover {
  box-decoration-break: clone;
  line-height: 1.1;
 /* Gradiente Vertical com sua variável de transparência */
- background-image: linear-gradient(to top, rgb(from var(--color-background) r g b / var(--code-background-transparency)) 50%, transparent 50%);
+ background-image: linear-gradient(to top, var(--color-quote) 50%, var(--color-hover) 50%);
  background-size: 100% 200%;
  background-position: top;
  transition: background-position 0.3s ease, color 0.3s ease;
@@ -423,7 +422,7 @@ a:hover, nav a:hover {
 
 .fleabag a:hover {
  cursor: pointer;
- color: var(--color-link);
+ color: var(--color-background);
  background-position: bottom;
  text-decoration: underline solid .125rem;
 }
@@ -624,13 +623,23 @@ blockquote {
  padding: 0;
 }
 
-blockquote p{ 
- font-size: clamp(1.1rem, 2vw, 1.2rem); /* 16–17px */
- line-height: clamp(1.44rem, 2vw, 1.44rem); /* 23px */
+blockquote:not(.fleabag) p { 
+ font-size: clamp(1.1rem, 2vw, 1.2rem);
+ line-height: clamp(1.44rem, 2vw, 1.44rem);
  font-style: italic;
  border-left: 7px solid var(--color-link);
  padding: 10px 0px 10px 10px;
  max-width: 80%;
+}
+
+.fleabag p {
+ border-left: none;
+ padding: 0;
+ font-size: inherit;
+ line-height: inherit;
+ font-style: inherit;
+ max-width: unset;
+ margin: 0;
 }
 
 .fleabag {
@@ -639,8 +648,9 @@ blockquote p{
   font-style: italic;
   color: var(--color-background);
   max-width: 80%; 
-  background-color: var(--code-background);
+  background-color: var(--color-hover);
   border-radius: 0.5rem 0.5rem 0.5rem 0;
+  border-left: none;
   padding: 0.5rem 0.5rem;
   position: relative; 
   display: inline-block;
@@ -651,10 +661,9 @@ blockquote p{
   content: "";
   position: absolute;
   bottom: 0px;
-  left: -15.5px; 
-  /* 3. Aplicamos a cor transparente aqui também */
-  border-right: 16px solid var(--code-background);
-  border-top: 10px solid transparent;
+  left: -15px; 
+  border-right: 16px solid var(--color-hover);
+  border-top: 10px solid;
 }
 
 cite {
@@ -679,7 +688,7 @@ article.blog-article.blog-citacao blockquote p {
  z-index: 1;
  border-left: 0px;
  padding-left: 0px;
- padding-top: 0px;
+ padding-top: 50px;
  padding-bottom: 0px;
 }
 
@@ -687,8 +696,7 @@ article.blog-article.blog-citacao blockquote p::after {
  content: '\201D';
  font-family: 'Fraunces', 'Georgia'; /* Fonte para as aspas */
  font-size: 12.5rem; /* 200px */
- color: var(--color-link);
- opacity: var(--quote-transparency); /* Transparencia para as aspas */
+ color: var(--color-quote);
  position: absolute;
  right: -10px;
  bottom: -140px; 
@@ -867,7 +875,7 @@ table.tabela-posts td {
   bottom: 0;
   left: 0.35rem;
   width: 1px;
-  background: color-mix(in srgb, var(--color-link-background) 40%, transparent);
+  background: var(--color-code-background);
 }
 
 .timeline > ul > li {
@@ -885,7 +893,7 @@ table.tabela-posts td {
   width: 0.7rem;
   height: 0.7rem;
   background: var(--color-background);
-  border: 1px solid color-mix(in srgb, var(--color-link-background) 70%, transparent);
+  border: 1px solid var(--color-code-background);
   border-radius: 999px;
   z-index: 2; /* Garante que fique acima da linha */
 }
@@ -906,10 +914,10 @@ table.tabela-posts td {
 
 /* Estilo do círculo com efeito de anel para a troca de ano (h4) */
 .timeline > ul > li:has(h4)::before {
-  background: var(--color-link-background); /* Preenche o centro */
-  border-color: var(--color-link-background);
+  background: var(--color-code-background); /* Preenche o centro */
+  border-color: var(--color-code-background);
   /* O efeito de borda dupla: uma camada da cor do fundo e outra da cor do link */
-  box-shadow: 0 0 0 2px var(--color-background), 0 0 0 3px var(--color-link-background);
+  box-shadow: 0 0 0 2px var(--color-background), 0 0 0 3px var(--color-code-background);
   z-index: 1; /* Garante que o anel fique acima da linha vertical */
 }
 
@@ -976,7 +984,7 @@ address {
 }
  
 pre {
- background-color: var(--color-link);
+ background-color: var(--color-code-background);
  color: var(--color-background);
  padding: 12px 16px;
  border-radius: 7px;
@@ -987,7 +995,7 @@ pre {
 }
 
 pre code {
- background-color: var(--color-link);
+ background-color: var(--color-code-background);
  font-family: monospace;
  font-size: 1rem;
  line-height: 1.5;
@@ -1404,11 +1412,11 @@ footer {
     font-size: 0.94rem;
     line-height: 1.45rem;
     font-weight: normal;
-    background-color: var(--color-link);
+    background-color: var(--color-hover);
   }
 
   .microblog-balao-mobile .microblog-fleabag::after {
-    border-right-color: var(--color-link);
+    border-right-color: var(--color-hover);
   }
 
   /* Variante com seta no canto superior esquerdo (mobile) */
@@ -1421,7 +1429,7 @@ footer {
     top: 0px;
     border-top: none;
     border-bottom: 10px solid transparent;
-    border-right: 16px solid var(--color-link);
+    border-right: 16px solid var(--color-hover);
   }
 
   /* Overlay: label vazio, cobre a tela para fechar ao clicar fora */

@@ -1,4 +1,12 @@
 - ano: "2026"
+  data_id: "2026-05-16"
+  data_texto: "16 de maio"
+  entradas:
+    - tags: ["acabamento"]
+      texto: |
+       Reestruturei as cores do blog. As cores principais continuam as indicadas no [COLOFÃO](/colofao#descricao-do-site), mas as cores auxiliares foram trocadas para cores que estejam na paleta monocromática ao invés de serem da paleta de _arco-íris_.
+
+- ano: "2026"
   data_id: "2026-04-26"
   data_texto: "26 de abril"
   entradas:

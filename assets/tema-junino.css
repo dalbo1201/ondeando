@@ -7,12 +7,13 @@
 /* Sobrescreve as variáveis de cor e acrescenta as de fonte,
    que não existem no styles.css original. */
 :root {
-  --color-background:           #fbe087;
-  --color-text:                 #660800;
-  --color-link:                 #005175;
-  --color-link-background:      #194d00;
-  --color-data:                 #194d00;
-  --code-background:            color-mix(in srgb, #005175, transparent 30%);
+  --color-background: #fbe087;
+  --color-text: #660800;
+  --color-link: #005175;
+  --color-hover: #005175;
+  --color-quote: #005175;
+  --color-code-background: #194d00;
+  --color-data:#194d00;
 
   /* Fontes temáticas — variáveis novas, usadas só aqui */
   --font-h1:      'Slackey', sans-serif;
