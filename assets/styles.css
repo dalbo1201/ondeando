@@ -217,7 +217,7 @@ h3 { /* Títulos de postagem e outros títulos de página */
 h4 {
  font-size: clamp(1.5rem, 2.5vw, 1.8rem); /* mínimo 21px */
  font-weight: normal;
- line-height: clamp(1.44rem, 1.5vw, 1.56rem); /* 23–25px */
+ line-height: 1.8rem;
  text-wrap: balance;
  margin-top: 0.5rem;
  margin-bottom: 0.3rem;
@@ -270,7 +270,7 @@ main ul {
 /* INÍCIO ESTILOS GERAIS */
 .atualizacao { /* texto no final da página AGORA com a data da atualização da página */
  font-size: clamp(0.81rem, 0.8vw, 0.88rem); /* 13–14px */
- line-height: clamp(1.25rem, 1.5vw, 1.25rem); /* 20px */
+ line-height: 1.25rem; /* 20px */
  max-width: 100%;
  text-align: right; /* Alinha o texto à direita */
  margin-top: 10px; /* Define a margem superior */
@@ -365,6 +365,7 @@ code {
 .aviso-caixa ul, .blog-colet ul /* avisos gerais*/ {
  margin: 0;
  font-size: clamp(0.88rem, 0.9vw, 0.94rem); /* 14–15px */
+ line-height: 1.2rem; /* 22px */
  padding-left: 2rem; /* recuo para listas */
 }
 /* FINAL ESTILOS DE AVISO*/
@@ -495,7 +496,7 @@ figure img {
 
 figcaption {
  font-size: clamp(1rem, 1.2vw, 1.06rem); /* 16–17px */
- line-height: clamp(1.44rem, 2vw, 1.44rem); /* 23px */
+ line-height: 1.44rem; /* 23px */
  text-align: center;
  font-style: italic;
  width: 100%; /* Garante que a legenda ocupe toda a largura do contêiner */
