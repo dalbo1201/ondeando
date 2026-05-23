@@ -25,9 +25,11 @@ Sempre que você avistar o símbolo **↗** ao lado de algum link significa que 
 
 Nas páginas que encontrar o ícone <i class="fa-solid fa-camera-retro"></i> significa que a postagem está no [Fotolog](/fotolog).  
 
-Os links que não levarem para páginas em português coloco uma _etiqueta_ sobreescrita `[idioma]`, assim tem como saber que estou indicando um texto em outro idioma.  
+Quando tiver o ícone <i class="fa-solid fa-book-open"></i> significa que o livro foi lido por cauda de um _Clube do Livro_. Se o ícone estiver vermelho <i style="color: red" class="fa-solid fa-book-open"></i> significa que eu estou _atrasado_ na leitura.
 
-<p id="sobre-comentarios">O blog e o fotolog agora tem uma seção de comentários, fique a vontade para usá-los.</p>
+Os links que não levarem para páginas em português coloco uma _etiqueta_ sobreescrita `[idioma]`, assim tem como saber que estou indicando um texto em outro idioma e qual é.  
+
+<p id="sobre-comentarios">O blog, o fotolog e o microblog agora tem uma seção de comentários, fique a vontade para usá-los.</p>
 
 <blockquote class="fleabag">Apesar de termos uma seção de comentários, fica sempre o convite para me <a href="mailto:pedro@dalbo.me?subject=Contato pelo site" title="Onde falar comigo">enviar um email</a> (pedro [arroba] dalbo [ponto] me), acho que esse modo de conversa permite uma profundidade maior no bate-papo.</blockquote>
 

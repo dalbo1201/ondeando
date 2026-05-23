@@ -25,26 +25,31 @@ Trabalhando na Projeta Infraestrutura como engenheiro de projetos rodoviários a
 O tempo todo brincando de mexer nesse _meu espaço da internet_, um hobby para dizer que faço alguma coisa.  
 
 <h4>Atividades</h4>
-<h5>Estou lendo:</h5>
+<h5>Estou lendo <a href="https://www.skoob.com.br/pt/profile/dalbo1201" class="linkdata"><i class="fa-solid fa-book"></i></a>:</h5>
 <ul>
-    <li>Orbital&nbsp;| Samantha Harvey;</li>
+    <li>Memórias do Subsolo&nbsp;| Fiódor Dostoiévski;&nbsp;<i class="fa-solid fa-book-open"></i></li>
+    <li>O Trem de Ouro&nbsp;| Miroslaw M. Bujko;</li>
+    <li>Orbital&nbsp;| Samantha Harvey;&nbsp;<i style="color: red" class="fa-solid fa-book-open"></i></li>
     <li>Chomsky & Mujica, Sobrevivendo ao século XXI&nbsp;| Saúl Alvídrez.</li>
 </ul>
 <h5>Filmes que vi <a href="https://letterboxd.com/dalbo1201/films/diary/" class="linkdata"><i class="fa-solid fa-film"></i></a>:</h5>
-
-Sem filmes por enquanto.
+<ul>
+    <li>A Velha a Fiar (1964)&nbsp;| YouTube&nbsp;| Humberto Mauro;</li>
+</ul>
 
 <h5>Séries que estou vendo <a href="https://tvtime.com/r/38uUh" class="linkdata"><i class="fa-solid fa-tv"></i></a>:</h5>
 <ul>
+    <li>Scarpetta&nbsp;| Prime&nbsp;Video&nbsp;| temporada&nbsp;1;</li>
+    <li>Hacks&nbsp;| HBO&nbsp;Max&nbsp;| temporada&nbsp;5;</li>
     <li>A Treta&nbsp;| Netflix&nbsp;| temporada&nbsp;1;</li>
     <li>Fallout&nbsp;| Prime&nbsp;Video&nbsp;| temporada&nbsp;2;</li>
     <li><a href="/assistindo/six-feet-under-comentarios" title="alguns comentários sobre os episódios">A Sete Palmos</a>&nbsp;| HBO&nbsp;Max&nbsp;| temporada&nbsp;3;</li>
-    <li>Arquivo X&nbsp;| Disney+&nbsp;| temporada&nbsp;2;&nbsp;↺</li>
+    <li>Arquivo X&nbsp;| Disney+&nbsp;| temporada&nbsp;2;&nbsp;<i class="fa-solid fa-rotate-left"></i></li>
 </ul>
 
 <aside class="aviso-caixa"><div class="aviso-texto">Vale lembrar que tem a página <a href="/assistindo">ASSISTINDO</a> que agrega os textos sobre o que vejo.<br/>
 Não vamos esquecer do <a href="https://historiasparaler.blog.br" title="onde comento livros">Histórias para Ler</a> onde comento sobre os livros que leio.</div></aside>
 
 <aside class="atualizacao">
-    atualizado em 06 de maio de 2026.
+    atualizado em 23 de maio de 2026.
 </aside>

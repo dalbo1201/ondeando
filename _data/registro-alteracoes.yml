@@ -1,4 +1,13 @@
 - ano: "2026"
+  data_id: "2026-05-23"
+  data_texto: "23 de maio"
+  entradas:
+    - tags: ["acabamento"]
+      texto: |
+       Adicionei o ícone <i class="fa-solid fa-book-open"></i> na página [AGORA](/agora) para indicar no livro que estou lendo que ele faz parte de um _Clube do Livro_.  
+       Adicionei a explicação no [COLOFÃO](/colofao#descricao-do-site).
+       
+- ano: "2026"
   data_id: "2026-05-16"
   data_texto: "16 de maio"
   entradas:
