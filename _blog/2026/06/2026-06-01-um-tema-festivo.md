@@ -6,7 +6,6 @@ date: 2026-06-01 00:15:15
 tags: 
  - a vida, o universo e tudo mais
  - metablog
-published: false
 ---
 Criei um tema aqui pro site homenageando a **Festa Junina**.  
 
