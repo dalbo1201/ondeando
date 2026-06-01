@@ -14,6 +14,7 @@ As dicas que já temos por aqui são:
 <ul>
 <li><a href="#criando-fotolog">Criando seu Fotolog</a>;</li>
 <li><a href="#separando-foto-de-texto">Separando as postagens de texto e fotos</a>;</li>
+<li><a href="#tema-junino">Tema Junino</a>;</li>
 <li><a href="#trocando-a-fonte">Trocando a fonte do espertofone</a>.</li>
 </ul>
 
@@ -25,7 +26,7 @@ Minha primeira dica é a possibilidade de criar uma galeira de fotos, uma capa p
 
 Temos algo como um fotolog, podemos dizer, se você é _das antigas_. Eu achei isso bem legal e [tenho aqui no site](/fotolog "meu fotolog").  
 
-[Aqui você consegue os passo a passos para montar seu Fotolog.](/dicas-do-blog/montando-seu-fotolog)
+[O passo a passos para montar seu Fotolog.](/dicas-do-blog/montando-seu-fotolog)
 <br/><br/>
 
 <h4 id="separando-foto-de-texto">Separando as postagens de texto e fotos <a href="#">&uarr;</a></h4>
@@ -33,6 +34,13 @@ Temos algo como um fotolog, podemos dizer, se você é _das antigas_. Eu achei i
 Depois de criar o fotolog eu precisava que as postagens de lá não aparecessem na página do blog, mas elas pertencem ao mesmo feed.
 
 [Como eu separei as postagens de fotos dos textos](/dicas-do-blog/separando-foto-de-texto).
+<br/><br/>
+
+<h4 id="tema-junino">Tema Junino <a href="#">&uarr;</a></h4>
+<span class="tag-reg">css</span><span class="tag-reg">html</span><span class="tag-reg">liquid</span>
+Como eu fiz as modificações no `css` deste pequeno espaço para deixá-lo pronto para essa deliciosa festividade que é a nossa **Festa Junina**.
+
+[Dê uma olhada](/dicas-do-blog/tema-junino) e me conta se fizer no seu site ou blog.
 <br/><br/>
 
 <h4 id="trocando-a-fonte">Trocando a fonte do espertofone <a href="#">&uarr;</a></h4>

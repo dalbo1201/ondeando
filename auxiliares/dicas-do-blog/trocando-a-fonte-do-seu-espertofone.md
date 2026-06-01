@@ -4,7 +4,7 @@ title: Trocando a fonte do espertofone | Dicas do blog
 permalink: "/dicas-do-blog/trocando-a-fonte-do-espertofone"
 ---
 <h2><span aria-hidden="true">|</span>Trocando<span class="h2-menor"> a fonte do seu espertofone</span> </h2>
-O motivo de eu ter buscado mudar a fonte do meu celular é bem contada [nessa postagem](http://127.0.0.1:4000/blog/customizando-meu-espertofone/) e te convido a lê-la.  
+O motivo de eu ter buscado mudar a fonte do meu celular é bem contada [nessa postagem](/blog/customizando-meu-espertofone/) e te convido a lê-la.  
 
 Mas o que importa por aqui é que existe a possibilidade de colocar qualquer fonte nos celulares. No meu caso, que tenho um Samsung eu poderia pegar algumas fontes que tem na loja, mas... Bem, lê a postagem vai... :D.
 
