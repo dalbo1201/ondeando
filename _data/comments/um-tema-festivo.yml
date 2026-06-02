@@ -6,3 +6,22 @@
   url: "https://cosmoliko.com"
   message: |  
     Aahhh que fofo ficou!
+
+- id: 2
+  parent_id: 0
+  date: "2026-06-02T23:10:52.559Z"
+  name: "Denis"
+  email: "denisbr@gmail.com"
+  url: ""
+  message: |  
+    Ficou super bacana e diferente! Agora vai ter trabalho e compromisso para às próximas datas festivas
+
+- id: 3
+  parent_id: 2
+  date: "2026-06-02"
+  name: "dalbo1201"
+  email: ""
+  url: ""
+  message: |  
+    Sabe que eu cheguei a pensar isso, mas não sei se outras festividades me animam a esse ponto.  
+    Eu pensei em pro ano que vem fazer algo para a Parada, mas ela acontece na mesma época da **festa Junina**, então não sei... De verdade.
