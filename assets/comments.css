@@ -239,7 +239,7 @@
   font-size: clamp(1rem, 1.5vw, 1.06rem);
   font-family: var(--font-geral);
   color: var(--color-text);
-  background: color-mix(in srgb, var(--color-background), transparent 0%);
+  background: transparent 0%;
   transition: border-color 0.2s;
   outline: none;
   width: 100%;
