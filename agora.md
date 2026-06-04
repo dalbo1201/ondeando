@@ -27,20 +27,19 @@ O tempo todo brincando de mexer nesse _meu espaço da internet_, um hobby para d
 <h4>Atividades</h4>
 <h5>Estou lendo <a href="https://www.skoob.com.br/pt/profile/dalbo1201" class="linkdata"><i class="fa-solid fa-book"></i></a>:</h5>
 <ul>
-    <li>Memórias do Subsolo&nbsp;| Fiódor Dostoiévski;&nbsp;<i class="fa-solid fa-book-open"></i></li>
+    <li>Memórias do Subsolo&nbsp;| Fiódor Dostoiévski;&nbsp;<i style="color: red" class="fa-solid fa-book-open"></i></li>
     <li>O Trem de Ouro&nbsp;| Miroslaw M. Bujko;</li>
     <li>Orbital&nbsp;| Samantha Harvey;&nbsp;<i style="color: red" class="fa-solid fa-book-open"></i></li>
     <li>Chomsky & Mujica, Sobrevivendo ao século XXI&nbsp;| Saúl Alvídrez.</li>
 </ul>
 <h5>Filmes que vi <a href="https://letterboxd.com/dalbo1201/films/diary/" class="linkdata"><i class="fa-solid fa-film"></i></a>:</h5>
 <ul>
-    <li>A Velha a Fiar (1964)&nbsp;| YouTube&nbsp;| Humberto Mauro;</li>
+    <li>O  Senhor dos Anéis, A Sociedade do Anel (2001)&nbsp;| HBO&nbsp;Max&nbsp;| Peter&nbsp;Jackson.</li>
 </ul>
 
 <h5>Séries que estou vendo <a href="https://tvtime.com/r/38uUh" class="linkdata"><i class="fa-solid fa-tv"></i></a>:</h5>
 <ul>
-    <li>Scarpetta&nbsp;| Prime&nbsp;Video&nbsp;| temporada&nbsp;1;</li>
-    <li>Hacks&nbsp;| HBO&nbsp;Max&nbsp;| temporada&nbsp;5;</li>
+    <li>Spider-Noir&nbsp;| Prime&nbsp;Video&nbsp;| temporada&nbsp;1;</li>
     <li>A Treta&nbsp;| Netflix&nbsp;| temporada&nbsp;1;</li>
     <li>Fallout&nbsp;| Prime&nbsp;Video&nbsp;| temporada&nbsp;2;</li>
     <li><a href="/assistindo/six-feet-under-comentarios" title="alguns comentários sobre os episódios">A Sete Palmos</a>&nbsp;| HBO&nbsp;Max&nbsp;| temporada&nbsp;3;</li>
@@ -51,5 +50,5 @@ O tempo todo brincando de mexer nesse _meu espaço da internet_, um hobby para d
 Não vamos esquecer do <a href="https://historiasparaler.blog.br" title="onde comento livros">Histórias para Ler</a> onde comento sobre os livros que leio.</div></aside>
 
 <aside class="atualizacao">
-    atualizado em 23 de maio de 2026.
+    atualizado em 04 de junho de 2026.
 </aside>
