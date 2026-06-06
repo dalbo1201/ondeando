@@ -1,4 +1,13 @@
 - ano: "2026"
+  data_id: "2026-06-01"
+  data_texto: "1º de junho"
+  entradas:
+    - tags: ["acabamento","css","html","liquid"]
+      texto: |
+       Hoje *entrou no ar* o **tema de festa junina** aqui do site. Fiquei desde outubro do ano passado segurando essa brincadeira. Gostei do resultado final, espero que a galera também curta.  
+       O tema é ativado automaticamente no mês de junho por uma regra `liquid` no `head` que verifica o mês.
+
+- ano: "2026"
   data_id: "2026-05-23"
   data_texto: "23 de maio"
   entradas:

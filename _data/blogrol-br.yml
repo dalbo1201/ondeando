@@ -10,7 +10,7 @@
 - blog: "Cosmoliko"
   url: "https://cosmoliko.com/?ref=pedro.dalbo.me"
   autor: "Eliel"
-  tipo: "blog ou jardim digita"
+  tipo: "blog ou jardim digital"
   plataforma: "Ghost"
   feed: "https://cosmoliko.com/rss/?ref=pedro.dalbo.me"
   descricao: | 
@@ -95,4 +95,4 @@
   plataforma: "Hugo"
   feed: "https://cujo.casa/feed.xml/?ref=pedro.dalbo.me"
   descricao: | 
-    Uma amálgama de todos seus interesses e o lugar onde fala com as paredes.
+    Uma amálgama de todos seus interesses e o lugar onde fala com as paredes. Mas vou dizer que essas paredes tem olhos e ouvidos...

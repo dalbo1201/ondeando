@@ -25,7 +25,10 @@ Sempre que você avistar o símbolo **↗** ao lado de algum link significa que 
 
 Nas páginas que encontrar o ícone <i class="fa-solid fa-camera-retro"></i> significa que a postagem está no [Fotolog](/fotolog).  
 
-Quando tiver o ícone <i class="fa-solid fa-book-open"></i> significa que o livro foi lido por cauda de um _Clube do Livro_. Se o ícone estiver vermelho <i style="color: red" class="fa-solid fa-book-open"></i> significa que eu estou _atrasado_ na leitura.
+Quando tiver o ícone <i class="fa-solid fa-book-open"></i> significa que estou lendo o livro participando de um _Clube do Livro_. Se o ícone estiver vermelho <i style="color: red" class="fa-solid fa-book-open"></i> significa que eu estou _atrasado_ na leitura.  
+
+<blockquote class="fleabag">Isso será bem comum...</blockquote>
+
 
 Os links que não levarem para páginas em português coloco uma _etiqueta_ sobreescrita `[idioma]`, assim tem como saber que estou indicando um texto em outro idioma e qual é.  
 
@@ -50,7 +53,9 @@ Mais detalhes de como é [o processo de escrita por aqui](/blog/como-as-coisas-a
 - O tema inicial do site foi inspirado no site do [Paulo Higa](https://web.archive.org/web/20151103091229/http://higa.me/ "site do Higa quando me inspirei");
 - Quando ampliei o site para algo próximo de um _proto-jardim-digital_, acabei me inspirando visualmente no site/blog do [Rodrigo Ghedin](https://web.archive.org/web/20250301092841/https://rodrigo.ghed.in/ "site do Ghedin quando me inspirei") (de quem pedi autorização. Se forem analisar os códigos, o site do Ghedin tem uma elegancia que aqui não existe, mas arrumarei em algum momento); 
 - Hoje o espaço tem visual inpirado em algo como o [Minimal<sup>[en]</sup>](https://orderedlist.com/minimal/), mas vários sites apresentam essa dinâmica da coluna à esquerda em telas maiores se tronar o topo do site em telas menores; 
-- O [Fotolog](/fotolog "meu fotolog") foi inspirado na página do [Beaumont Photography<sup>[en]</sup>](https://beaumontphotography.bearblog.dev/ "site do Bruce"). Escrevi mais sobre isso [neste texto](/blog/criei-meu-fotolog/) e tento explicar num [tutorial](/dicas-do-blog "como fiz o Fotolog") como o montei.  
+- O [Fotolog](/fotolog "meu fotolog") foi inspirado na página do [Beaumont Photography<sup>[en]</sup>](https://beaumontphotography.bearblog.dev/ "site do Bruce"). Escrevi mais sobre isso [neste texto](/blog/criei-meu-fotolog/) e tento explicar num [tutorial](/dicas-do-blog "como fiz o Fotolog") como o montei;  
+- Para o mês de junho tem um tema especial de [**Festa Junina**](/blog/um-tema-festivo), me inspirei no [Robert Birming](https://robertbirming.com) que criou um [tema especial](https://robertbirming.com/bear-halloween-theme/ "postagem com o tema de Halloween") de Halloween.
+
 
 <h3 id="filosofia">Filosofia</h3>
 - O site não tem nenhum sistema de _analytics_ ou plugins de mídias-sociais;  
