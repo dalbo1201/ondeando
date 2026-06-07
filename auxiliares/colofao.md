@@ -13,7 +13,7 @@ A ideia, é claro, foi [retirada da literatura](https://pt.wikipedia.org/wiki/C%
 <hr>
 
 <h3 id="descricao-do-site"> Descrição do site</h3>
-A tipografia é toda com a fonte [Montserrat<sup>[en]</sup>](https://fonts.bunny.net/family/montserrat "a fonte deste cantinho"), as setas são [elementos unicode<sup>[en]</sup>](https://symbl.cc/pt/unicode-table/#arrows "as setas") e alguns ícones da [Font Awesome<sup>[en]</sup>](https://fontawesome.com "os ícones de mídias-sociais").  
+A tipografia é toda com a fonte [Montserrat<sup>[en]</sup>](https://github.com/JulietaUla/Montserrat "a fonte deste cantinho"), as setas são [elementos unicode<sup>[en]</sup>](https://symbl.cc/pt/unicode-table/#arrows "as setas") e alguns ícones da [Font Awesome<sup>[en]</sup>](https://fontawesome.com "os ícones de mídias-sociais").  
 
 Este cantinho tem como cores predominantes:
 - Tech White (cinza claro, quase branco) ([#F5F5F5<sup>[en]</sup>](https://www.color-name.com/hex/f5f5f5 "o fundo, ou o texto"));
