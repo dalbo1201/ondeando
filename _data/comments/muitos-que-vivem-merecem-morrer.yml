@@ -1,0 +1,18 @@
+- id: 1
+  parent_id: 0
+  date: "2026-06-05T14:21:05.529Z"
+  name: "Barbara Moretti"
+  email: "contato.bamoretti@gmail.com"
+  url: "https://www.bamoretti.com/"
+  message: |  
+    achei o *timing* perfeito esse seu post ser o primeiro a aparecer no meu leitor de feed enquanto eu mexia no computador na mesa da cozinha e o excelentíssimo procurava a caneca dele do senhor dos anéis para tomarmos café. me senti na obrigação de ler o trecho pra ele :)
+
+- id: 2
+  parent_id: 1
+  date: "2026-06-07T16:20:03.320Z"
+  name: "dalbo1201"
+  email: ""
+  url: ""
+  message: |  
+    Acho essa frase de um peso enorme, principalmente na situação atual em que estamos como sociedade.
+    Com alguma frequência ela volta à minha cabeça.
