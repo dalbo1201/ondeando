@@ -7,4 +7,4 @@ tags: ["citações","filmes","livros"]
 ---
 > Muitos que vivem merecem morrer. Alguns que morrem merecem viver. Você pode lhes dar a vida? Então não seja tão ávido para julgar e condenar alguém a morte, pois mesmo os mais sábios não podem ver os dois lados.
 
-<cite>Galdalf, O Cinzento (O Senhor dos Anéis, A Sociedade do Anel)</cite>
+<cite>Gandalf, O Cinzento (O Senhor dos Anéis, A Sociedade do Anel)</cite>
