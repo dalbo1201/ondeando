@@ -8,14 +8,14 @@ Bom, consegui colocar no ar o tema junino, eu espero que gostem e caso tenham di
 
 <a href="/dicas-do-blog">&laquo; voltar para as dicas</a>
 <hr>  
-A ideia aqui é apresetnar o código que eu usei para alterar as classes, fontes, cores e adicionar as gracinhas como os balões percorrendo o site, a fogueira...  
+A ideia aqui é apresentar o código que eu usei para alterar as classes, fontes, cores e adicionar as gracinhas, como os balões percorrendo o site, a fogueira...  
 
 Fiquem a vontade para copiar, fazer as alterações necessárias para aplicar no seu blog ou site.  
 
 Divirtam-se.  
 
 <div class="tutorial">
-<p>Eu criei um arquivo <code>css</code> separado para as modificações que o tema faz, o <b>tema-junino.css</b>. No <code>head</code> eu adicionei uma condição de tempo que faz com que o tema seja considerado apenas durante mês de junho, assim não preciso ficar adicionando e retirando e correr o risco de esquecer.</p>
+<p>Eu criei um arquivo <code>css</code> separado para as modificações que o tema aplica, o <b>tema-junino.css</b>. No <code>head</code> eu adicionei uma condição de tempo que faz com que o tema seja considerado apenas durante mês de junho, assim não preciso ficar adicionando e retirando e correr o risco de esquecer.</p>
 
 <pre><code>
 {% raw %}{% assign mes_atual = site.time | date: "%m" | plus: 0 %}
