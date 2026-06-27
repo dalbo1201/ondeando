@@ -11,7 +11,6 @@ Preenchimanto dos arquivos de comentários:
 #   message:   — texto do comentário
 
 
-
 Elementos de datas para atualização de postagens para o front-metter
 date: (data de criação ou data da atualização)
 created: (data de criação, coloca esse campo quando a postagem é atualizada)
