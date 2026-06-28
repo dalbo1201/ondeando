@@ -49,4 +49,3 @@ Olha, eu realmente não sei. Comprei meu chaveiro no Mercado Livre há muito tem
 
 <aside class="blog-colet"><div class="aviso-texto">Esse post faz parte da seleção de temas do grupo de blogagem coletiva <a href="https://entreblogs.com.br/" title="mais sobre o entrelogs">ENTREBLOGS</a> criado com o intuito de compartilhar nossas perspectivas sobre os mesmos assuntos. Se quiser ler outras postagens sobre o tema você <a href="https://entreblogs.com.br/temas/#014" title="outras postagens do tema">encontra aqui.</a>.
 <h6><i class="fa-solid fa-pen-fancy"></i> Tema #014. Dez curiosidades sobre mim | jun, 2026</h6></div></aside>
-016
