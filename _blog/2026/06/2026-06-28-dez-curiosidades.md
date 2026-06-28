@@ -46,3 +46,7 @@ Reza a lenda que deu certo e tive meu corte fechado. Hoje tenho uma pequena cica
 #### uso o mesmo chaveiro desde...  
 Olha, eu realmente não sei. Comprei meu chaveiro no Mercado Livre há muito tempo, acho que meados de 2010(?). Curioso perceber que entrei no aplicativo e o meu histórico de compras se limita a até 2022, no mínimo estranho, já que me recordo de comprar desde sempre por lá. 
 É um chaveiro com o símbolo dos Thundercats, feito de um metal bem mais ou menos, mas que tem durado. Já perdi ele algumas vezes e todas elas foram uma dor enorme e depois uma alegria ao encontrá-lo.
+
+<aside class="blog-colet"><div class="aviso-texto">Esse post faz parte da seleção de temas do grupo de blogagem coletiva <a href="https://entreblogs.com.br/" title="mais sobre o entrelogs">ENTREBLOGS</a> criado com o intuito de compartilhar nossas perspectivas sobre os mesmos assuntos. Se quiser ler outras postagens sobre o tema você <a href="https://entreblogs.com.br/temas/#014" title="outras postagens do tema">encontra aqui.</a>.
+<h6><i class="fa-solid fa-pen-fancy"></i> Tema #014. Dez curiosidades sobre mim | jun, 2026</h6></div></aside>
+016
