@@ -31,7 +31,7 @@ Numa época em que a internet era outra, entre 2005 até 2011, reunir tantas pes
 #### adoro uma rede
 Isso não é [uma](/blog/cinco-coisas-que-me-fazem-feliz/) [novidade](/fotolog/meu-lugar-predileto/), mas bem...  Ninguém falou que aqui tinha que ter apenas novidades. De qualquer forma, eu realmente me tornei essa pessoa, gosto demais de ficar deitado na rede, melhor ainda quando meus gatos vem me acompanhar.  
 
-#### tenho 4 tatuagens, mas a primeira eu fiz com 37 anos
+#### tenho 5 tatuagens, mas a primeira eu fiz com 37 anos
 Não dá pra dizer que foi _crise dos 40_, mas a verdade é que a pandemia me fez [criar coragem](/etiquetas/#tatuagem). Depois dela fiz quase que uma por ano. Por enquanto não fiz mais, mas não faltam ideias.  
 
 #### apesar de ser destro, uso o mouse com a mão esquerda e o garfo também 
