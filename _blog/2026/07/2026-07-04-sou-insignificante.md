@@ -7,7 +7,7 @@ tags:
  - a vida, o universo e tudo mais
  - pensamentos
 ---
-Ontem o Ghedin postou nos [links do dia](https://manualdousuario.net/links-legais-20260702/) lá do Manual um site curioso.
+Anteontem o Ghedin postou nos [links do dia](https://manualdousuario.net/links-legais-20260702/) lá do Manual um site curioso.
 
 > Coloque seu nome e descubra o que diferentes LLMs (IAs) sabem (ou não) de você.
 
