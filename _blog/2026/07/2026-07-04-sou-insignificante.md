@@ -15,4 +15,4 @@ Eu já imaginava a resposta, pois já me procurei no Google e tenho um homônimo
 
 Me deu uma alegria perceber que mesmo usando as LLM para implementar as coisas por aqui não foi suficiente para me identificarem.  
 
-Espero continuar na minha ignorância. 
+Espero continuar na minha insignificância.
