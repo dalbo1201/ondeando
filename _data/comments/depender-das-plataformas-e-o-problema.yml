@@ -40,7 +40,7 @@
 
     É gostoso ter esse domínio sobre o que você compartilha. É claro que você perde muito do aspecto social, de colocar isso numa plataforma onde várias pessoas podem interagir com você, mas pessoalmente eu não sinto saudade disso.
 
-- id: 4
+- id: 5
   parent_id: 0
   date: "2026-07-12T22:20:46.910Z"
   name: "caioau"
@@ -48,3 +48,44 @@
   url: "https://caioau.net/"
   message: |  
     também estou procurando por alternativas agora que o tv time encerrou, não escolhi ainda pra qual app vou importar os dados exportados. Sobre publicar em seu próprio site a Molly White coloca os livros que leu no site dela, pelo o que entendi ela usa o ghost: https://www.mollywhite.net/reading/books
+
+- id: 6
+  parent_id: 1
+  date: "2026-07-12T22:28:57.282Z"
+  name: "dalbo1201"
+  email: ""
+  url: ""
+  message: |  
+    Nossa, eu lia demais a INFO, outros tempos...
+    Sabe, que essa possibilidade de deixar do nosso jeito é ótimo. Quem sabe além disso não rolaria algo como um webring sobre essas páginas deixando a coisa mais social?
+    Quem sabe....
+
+- id: 7
+  parent_id: 2
+  date: "2026-07-12T22:30:49.458Z"
+  name: "dalbo1201"
+  email: ""
+  url: ""
+  message: |  
+    Tenho um colega que tem uma planilha há anos com todos os filmes, séries anotados, com comentários e afins.
+    Acho legal demais, pena que eu só comecei a fazer isso há pouco tempo e apenas por aplicativos.
+
+- id: 8
+  parent_id: 3
+  date: "2026-07-12T22:33:19.538Z"
+  name: "dalbo1201"
+  email: ""
+  url: ""
+  message: |  
+    Em algum momneto eu migrarei para uma seção aqui no site e quem sabe não podemos criar algo como um espaço de links de páginas de amigos que tenham essas anotações também? 
+    Seria nossa rede social indieweb.
+
+  - id: 9
+  parent_id: 4
+  date: "2026-07-12T22:35:20.599Z"
+  name: "dalbo1201"
+  email: ""
+  url: ""
+  message: |  
+    Essa página tem sido algo recorrente, não é? Só aqui nos comentários temos dois que falaram que fizeram e conheço mais gente que faz isso.
+    Acho que rola criarmos nossas páginas e colocarmos os links uns dos outros e criarmos nossa comunidade.
