@@ -2,7 +2,7 @@
 layout: post
 type: texto
 title: "Depender das plataformas é o problema"
-date: 2026-07-12 12:00:00 -0300
+date: 2026-07-12 10:30:00 -0300
 tags: 
  - a vida, o universo e tudo mais
  - pensamentos
