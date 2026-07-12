@@ -9,7 +9,6 @@ tags:
  - informática
  - internet
  - séries e TV
-published: false
 ---
 No início do mês ou mês passado, não me recordo, o [TV Time](https://tvtime.com/pt-BR) anunciou que será descontinuado e toda a base de dados de séries assistidas por milhões de pessoas será perdida. Eu estou entre essas pessoas.  
 
