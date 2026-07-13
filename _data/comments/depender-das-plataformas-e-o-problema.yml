@@ -112,3 +112,22 @@
     Até acho bom, mas se estivesse decidindo hoje talvez adotasse um FOSS como o LogSeq ou o Zettlr, que são meio estranhos, mas é só acostumar.
 
     Ah! Usei a ferramenta de backup do TV Time, mas ele me mandou um monte de CSV sem documentação e mal estruturado. Guardei tudo e carreguei numa planilha para analisar depois e nunca mais tive tempo.
+
+- id: 12
+  parent_id: 10
+  date: "2026-07-13T23:51:42.767Z"
+  name: "dalbo1201"
+  email: ""
+  url: ""
+  message: |  
+    Gostei da recomendação. Vai pra lista de leitura. (E espero ler também, claro 😁)
+
+- id: 13
+  parent_id: 11
+  date: "2026-07-13T23:53:40.674Z"
+  name: "dalbo1201"
+  email: ""
+  url: ""
+  message: |  
+    Então, Rodeyb, eu citei uma extensão que aparentemente baixa os dados de assistidos e afins e fica tudo num arquivo _*.csv_ único. Tá certo que é para Chrome, mas tem alguns navegadores FOSS que aceitam, não?
+    Vale dar uma olhada.
