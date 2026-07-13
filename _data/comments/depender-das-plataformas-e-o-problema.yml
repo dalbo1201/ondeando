@@ -89,3 +89,13 @@
   message: |  
     Essa página tem sido algo recorrente, não é? Só aqui nos comentários temos dois que falaram que fizeram e conheço mais gente que faz isso.
     Acho que rola criarmos nossas páginas e colocarmos os links uns dos outros e criarmos nossa comunidade.
+
+- id: 10
+  parent_id: 0
+  date: "2026-07-13T13:43:35.236Z"
+  name: "Flávio"
+  email: "flavio@lordelo.net"
+  url: "https://flávio.com"
+  message: |  
+    Sobre a necessidade de anotar e guardar, acabei de ler este texto sobre a necessidade de ser lembrado na Roma Antiga. Achei interessante que os mais pobres faziam anotações em cera
+    https://www.minid.net/2015/1/25/being-remembered-on-ancient-rome
