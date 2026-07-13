@@ -99,3 +99,16 @@
   message: |  
     Sobre a necessidade de anotar e guardar, acabei de ler este texto sobre a necessidade de ser lembrado na Roma Antiga. Achei interessante que os mais pobres faziam anotações em cera
     https://www.minid.net/2015/1/25/being-remembered-on-ancient-rome
+
+- id: 11
+  parent_id: 0
+  date: "2026-07-13T23:46:19.946Z"
+  name: "Roneyb"
+  email: "roneyb@duck.me"
+  url: "https://memedecarbono.com.br"
+  message: |  
+    Usei muito o TV time, mas estava incomodado com ele e já andava num processo de guardar comigo o que é importante para mim. Comecei tirando tudo do Evernote tem uns anos e na época só achei o Obsidian, que roda em Linux, Windows, etc. Uso até hoje e passei a registrar nele também filmes, séries e filmes que vejo.
+
+    Até acho bom, mas se estivesse decidindo hoje talvez adotasse um FOSS como o LogSeq ou o Zettlr, que são meio estranhos, mas é só acostumar.
+
+    Ah! Usei a ferramenta de backup do TV Time, mas ele me mandou um monte de CSV sem documentação e mal estruturado. Guardei tudo e carreguei numa planilha para analisar depois e nunca mais tive tempo.
