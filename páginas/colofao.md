@@ -34,7 +34,9 @@ Os links que não levarem para páginas em português coloco uma _etiqueta_ sobr
 
 <p id="sobre-comentarios">O blog, o fotolog e o microblog agora tem uma seção de comentários, fique a vontade para usá-los.</p>
 
-<blockquote class="fleabag">Apesar de termos uma seção de comentários, fica sempre o convite para me <a href="mailto:pedro@dalbo.me?subject=Contato pelo site" title="Onde falar comigo">enviar um email</a> (pedro [arroba] dalbo [ponto] me), acho que esse modo de conversa permite uma profundidade maior no bate-papo.</blockquote>
+<blockquote class="fleabag">Apesar de termos uma seção de comentários, fica sempre o convite para me <a href="mailto:pedro@dalbo.me?subject=Contato pelo site" title="Onde falar comigo">enviar um email</a> (pedro [arroba] dalbo [ponto] me), acho que esse modo de conversa permite uma profundidade maior no bate-papo.</blockquote>  
+
+O [favicon e o avatar](/assets/favicon/favicon_cartoon-180.png) dos comentários são _arte relâmpago_ do [@naldojunioartwork](https://www.instagram.com/naldojunioartwork).
 
 **Todos os links abrem a página sobre a página atual**. Adoto essa configuração porque se houver o desejo de abrir em uma nova aba/janela é possível de várias formas. Mas se o interesse não for esse e a configuração padrão for abrir em outra aba/janela não temos como fazê-lo.
 

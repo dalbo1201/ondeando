@@ -1,4 +1,13 @@
 - ano: "2026"
+  data_id: "2026-07-16"
+  data_texto: "16 de julho"
+  entradas:
+    - tags: ["acabamento"]
+      texto: |
+       Troquei [o favicon](/assets/favicon/favicon_cartoon-180.png) e meu avatar dos comentários. Antes eu usava a solução de avatar do WhatsApp, não gostava da ideia, mas era o que eu tinha sem ser uma foto. Aproveitei uma promoção de _arte relâmpago_ do [@naldojunioartwork](https://www.instagram.com/naldojunioartwork) e fiz uma pequena arte com ele para usar de favicon e avatar.  
+       Tenho a ideia de fazer isso com outros artistas que conheço e colocar essas artes numa futura página **SOBRE**.
+
+- ano: "2026"
   data_id: "2026-06-01"
   data_texto: "1º de junho"
   entradas:
