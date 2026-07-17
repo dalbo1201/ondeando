@@ -222,7 +222,7 @@
     - tags: ["acabamento"]
       texto: "Troquei o nome da página MEU ÁLBUM DE FOTOS para MEU FOTOLOG. Não sei porque não era assim desde o começo, a url é fotolog, o link na barra de navegação também, mas o nome não era. Assim acho que fica melhor, mantem a ideia real da página."
     - tags: ["acabamento"]
-      texto: "Atualizei, no rodapé, o banner do [Histórias para Ler](https://historiasparaler.blog.br) para ficar compatível com o novo visual do blog. Aproveitei e adicionei o selo **escrito por um humano** criado pelo [Andy Carolan^[en]](https://andycarolan.com/) e disponibilizado em pt-br pelo [Manual do Usuário](https://manualdousuario.net/selos-feito-por-humano-baixar/)."
+      texto: "Atualizei, no rodapé, o banner do [Histórias para Ler](https://historiasparaler.blog.br) para ficar compatível com o novo visual do blog. Aproveitei e adicionei o selo **escrito por um humano** criado pelo [Andy Carolan<sup>[en]</sup>](https://andycarolan.com/) e disponibilizado em pt-br pelo [Manual do Usuário](https://manualdousuario.net/selos-feito-por-humano-baixar/)."
 
 - ano: "2025"
   data_id: "2025-12-13"
