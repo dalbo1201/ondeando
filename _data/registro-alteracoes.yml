@@ -4,7 +4,10 @@
   entradas:
     - tags: ["jekyll","liquid"]
       texto: |
-       Troquei o `type: frase` do `front matter` para `type: citacao`, acho que o nome fica mais de acordo (e elegante) com o objetivo da postagem.
+       Troquei o `type:frase` do `front matter` para `type:citacao`, acho que o nome fica mais de acordo (e elegante) com o objetivo da postagem.  
+    - tags: ["acabamento"]
+      texto: |
+       Tirei os balões do microblog do `header`. Acho que esse excesso de balões mata a graça dele nos textos do blog e outros locais que uso. Ainda vou tirar os balões das páginas do microblog, mas ainda não tive saco de revisar todo o `CSS` para isso acontecer. Talvez eu tire a página como um todo já que tenho o `type:notas`que parece ficar sobreposto no conceito.
 
 - ano: "2026"
   data_id: "2026-07-16"
