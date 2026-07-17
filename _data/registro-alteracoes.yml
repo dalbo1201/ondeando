@@ -298,7 +298,7 @@
     - tags: ["css"]
       texto: "Atualizei o tamanho do texto nas citações quando no `type:frase` do _front metter_."
     - tags: ["ruby"]
-      texto: "Depois da confusão do mentor do Ruby, entrei na onda e troquei o servidor dos dados para gems do [Ruby^[en]](https://www.ruby-lang.org/pt/) para o [gem.coop^[en]](https://gem.coop)."
+      texto: "Depois da confusão do mentor do Ruby, entrei na onda e troquei o servidor dos dados para gems do [Ruby<sup>[en]</sup>](https://www.ruby-lang.org/pt/) para o [gem.coop<sup>[en]</sup>](https://gem.coop)."
 
 - ano: "2025"
   data_id: "2025-10-22"
