@@ -1,6 +1,6 @@
 ---
 layout: post
-type: frase
+type: citacao
 title: "Não há lugar como o lar"
 date: 2024-07-27 20:00:00 -0300
 tags: ["citações","filmes"]

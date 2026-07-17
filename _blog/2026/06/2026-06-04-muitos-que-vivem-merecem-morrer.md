@@ -1,6 +1,6 @@
 ---
 layout: post
-type: frase
+type: citacao
 title: "Muitos que vivem merecem morrer..."
 date: 2026-06-04 11:50:00 -0300
 tags: ["citações","filmes","livros"]

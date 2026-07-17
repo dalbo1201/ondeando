@@ -1,6 +1,6 @@
 ---
 layout: post
-type: frase
+type: citacao
 title: "Um Governo moderno é tão somente um comite"
 date: 2025-04-04 13:30:00 -0300
 tags: ["citações","livros"]

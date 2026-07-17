@@ -1,6 +1,6 @@
 ---
 layout: post
-type: frase
+type: citacao
 title: "Oswaldo Montenegro"
 date: 2023-10-28
 tags: ["a vida, o universo e tudo mais","shows"]

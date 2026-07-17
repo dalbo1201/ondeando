@@ -1,6 +1,6 @@
 ---
 layout: post
-type: frase
+type: citacao
 title: "Pepe Mujica"
 date: 2025-05-13 18:15:00 -0300
 tags: ["citações"]

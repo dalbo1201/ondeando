@@ -1,6 +1,6 @@
 ---
 layout: post
-type: frase
+type: citacao
 title: "A certeza é inimiga mortal"
 date: 2025-04-21 22:10:00 -0300
 tags: ["citações","filmes"]

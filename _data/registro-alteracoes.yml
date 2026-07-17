@@ -1,4 +1,12 @@
 - ano: "2026"
+  data_id: "2026-07-17"
+  data_texto: "17 de julho"
+  entradas:
+    - tags: ["jekyll","liquid"]
+      texto: |
+       Troquei o `type: frase` do `front matter` para `type: citacao`, acho que o nome fica mais de acordo (e elegante) com o objetivo da postagem.
+
+- ano: "2026"
   data_id: "2026-07-16"
   data_texto: "16 de julho"
   entradas:

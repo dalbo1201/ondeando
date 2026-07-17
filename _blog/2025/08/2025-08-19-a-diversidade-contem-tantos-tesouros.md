@@ -1,6 +1,6 @@
 ---
 layout: post
-type: frase
+type: citacao
 title: "A diversidade contém tantos tesouros..."
 date: 2025-08-19 19:45:00 -0300
 tags: ["a vida, o universo e tudo mais","citações", "pensamentos","séries e TV"]

@@ -1,6 +1,6 @@
 ---
 layout: post
-type: frase
+type: citacao
 title: "Minha imaginação me torna..."
 date: 2026-01-10 12:15:00 -0300
 tags: ["citações","livros"]

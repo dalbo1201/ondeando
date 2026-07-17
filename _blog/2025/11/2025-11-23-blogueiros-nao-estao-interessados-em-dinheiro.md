@@ -1,6 +1,6 @@
 ---
 layout: post
-type: frase
+type: citacao
 title: "Blogueiros não estão interessados em dinheiro"
 date: 2025-11-23 16:35:00 -0300
 tags: 

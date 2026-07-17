@@ -677,7 +677,7 @@ cite {
  max-width: 100%;
 }
 
-/* INÍCIO Estilo especial para blockquote em posts com type: frase */
+/* INÍCIO Estilo especial para blockquote em posts com type: citacao */
 article.blog-article.blog-citacao blockquote p {
  font-size: clamp(1.2rem, 2.2vw, 1.6rem);
  line-height: 1.3;
@@ -712,7 +712,7 @@ article.blog-article.blog-citacao cite {
  max-width: 90%;
  margin-top: 40px;
 }
-/* FINAL Estilo especial para blockquote em posts com type: frase */
+/* FINAL Estilo especial para blockquote em posts com type: citacao */
 /* FINAL Estilos para blockquote */
 /* FINAL DOS Estilos para o Blog */
 

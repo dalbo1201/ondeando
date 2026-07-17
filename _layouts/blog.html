@@ -7,7 +7,7 @@
   {{ content }}
 
 {% for post in paginator.posts %}
-  <article class="blog-article h-entry {% if post.type == 'frase' %}blog-citacao{% elsif post.type == 'notas' %}blog-notas{% endif %}">
+  <article class="blog-article h-entry {% if post.type == 'citacao' %}blog-citacao{% elsif post.type == 'notas' %}blog-notas{% endif %}">
     
     <p class="blog-data">
       <a href="{{ post.url | relative_url }}" class="linkdata u-url dt-published" datetime="{{ post.date | date_to_xmlschema }}"> 

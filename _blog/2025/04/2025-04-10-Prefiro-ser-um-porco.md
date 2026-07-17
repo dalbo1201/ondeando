@@ -1,6 +1,6 @@
 ---
 layout: post
-type: frase
+type: citacao
 title: "Prefiro ser um porco"
 date: 2025-04-10 14:25:00 -0300
 tags: ["citações","filmes"]
