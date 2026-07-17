@@ -131,3 +131,21 @@
   message: |  
     Então, Roneyb, eu citei uma extensão que aparentemente baixa os dados de assistidos e afins e fica tudo num arquivo _*.csv_ único. Tá certo que é para Chrome, mas tem alguns navegadores FOSS que aceitam, não?
     Vale dar uma olhada.
+
+- id: 14
+  parent_id: 4
+  date: "2026-07-17T12:32:16.914Z"
+  name: "Will"
+  email: "coment@wsant.com"
+  url: ""
+  message: |  
+    Acho interessante, mas pra séries acho complicado (pra mim), pois quando tem novas temporadas ele avisa que tem episódio faltando, isso ajuda bastante a deixar o que tem pra ver em dia
+
+- id: 15
+  parent_id: 4
+  date: "2026-07-17T12:43:01.369Z"
+  name: "Will"
+  email: "coment@wsant.com"
+  url: ""
+  message: |  
+    usava o TvTime mas há uns anos, mas estava numa época de trocar tudo fechado para opensource, até que achei o seriesguide e tenho usado desde então
