@@ -39,7 +39,9 @@ O tempo todo brincando de mexer nesse _meu espaço da internet_, um hobby para d
 
 <h5>Séries que estou vendo <a href="https://tvtime.com/r/38uUh" class="linkdata"><i class="fa-solid fa-tv"></i></a>:</h5>
 <ul>
-    <li>Spider-Noir&nbsp;| Prime&nbsp;Video&nbsp;| temporada&nbsp;1;</li>
+    <li>X-Men '97&nbsp;| Disney+&nbsp;| temporada&nbsp;2;</li>
+    <li>The Bear&nbsp;| Disney+&nbsp;| temporada&nbsp;5;</li>
+    <li>House of The Dragon&nbsp;| HBO&nbsp;Max&nbsp;| temporada&nbsp;3;</li>
     <li>A Treta&nbsp;| Netflix&nbsp;| temporada&nbsp;1;</li>
     <li>Fallout&nbsp;| Prime&nbsp;Video&nbsp;| temporada&nbsp;2;</li>
     <li><a href="/assistindo/six-feet-under-comentarios" title="alguns comentários sobre os episódios">A Sete Palmos</a>&nbsp;| HBO&nbsp;Max&nbsp;| temporada&nbsp;3;</li>
@@ -50,5 +52,5 @@ O tempo todo brincando de mexer nesse _meu espaço da internet_, um hobby para d
 Não vamos esquecer do <a href="https://historiasparaler.blog.br" title="onde comento livros">Histórias para Ler</a> onde comento sobre os livros que leio.</div></aside>
 
 <aside class="atualizacao">
-    atualizado em 04 de junho de 2026.
+    atualizado em 18 de julho de 2026.
 </aside>
