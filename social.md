@@ -15,9 +15,8 @@ Por isso, deixo aqui onde podem me encontrar.
   Letterbox<sup>[en]</sup></a>
 </li>
 <li>
-  <a href="https://tvtime.com/r/3fS9D" title="onde eu catalogo as séries" rel="me">
   <i class="fa-solid fa-tv"></i>
-  TV Time</a>
+  BingeBoxd
 </li>
 <li>
   <a href="http://www.skoob.com.br/perfil/dalbo1201" title="onde eu catalogo os livros" rel="me">

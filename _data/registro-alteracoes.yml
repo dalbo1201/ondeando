@@ -32,7 +32,7 @@
 
 - ano: "2026"
   data_id: "2026-06-01"
-  data_texto: "1º de junho"
+  data_texto: "01 de junho"
   entradas:
     - tags: ["acabamento","css","html","liquid"]
       texto: |
