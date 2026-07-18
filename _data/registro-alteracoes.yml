@@ -1,4 +1,16 @@
 - ano: "2026"
+  data_id: "2026-07-18"
+  data_texto: "18 de julho"
+  entradas:
+    - tags: ["páginas", "liquid"]
+      texto: |
+       Estruturei a página [BARRAS](/barras) utilizando `liquid` e um arquivo `barras.yml` com a lista de páginas para que o arquivo `barras.md` ficque mais limpo. Assim eu coloco a ordem alfabética pelo `template liquid` e não preciso ficar me preocupando com isso ao criar as entradas. Muito mais fácil  
+       Pretendo fazer isso aos poucos para as etiquetas das postagens e para as etiquetas dessa página de registro de alterações.
+    - tags: ["páginas"]
+      texto: |
+       Desisti de vez da página do MICROBLOG, ela não estava fazendo sentido para mim e a criei mais na onda do pessoal do [ENTREBLOGS](https://entreblogs.com.br/) do que um desejo meu. Valeu a experiência.
+
+- ano: "2026"
   data_id: "2026-07-17"
   data_texto: "17 de julho"
   entradas:
@@ -7,7 +19,7 @@
        Troquei o `type:frase` do `front matter` para `type:citacao`, acho que o nome fica mais de acordo (e elegante) com o objetivo da postagem.  
     - tags: ["acabamento"]
       texto: |
-       Tirei os balões do microblog do `header`. Acho que esse excesso de balões mata a graça dele nos textos do blog e outros locais que uso. Ainda vou tirar os balões das páginas do microblog, mas ainda não tive saco de revisar todo o `CSS` para isso acontecer. Talvez eu tire a página como um todo já que tenho o `type:notas`que parece ficar sobreposto no conceito.
+       Tirei os balões do [MICROBLOG](/microblog) do `header`. Acho que esse excesso de balões mata a graça dele nos textos do blog e outros locais que uso. Ainda vou tirar os balões das páginas do [MICROBLOG](/microblog), mas não tive saco de revisar todo o `CSS` para isso acontecer. Talvez eu tire a página como um todo já que tenho o `type:notas`que parece ficar sobreposto no conceito.
 
 - ano: "2026"
   data_id: "2026-07-16"

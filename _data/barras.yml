@@ -1,0 +1,89 @@
+- pagina: "404"
+  url: "/404"
+  title: "404-erro"
+  descricao: |
+    Página personalizada deste cantinho [à resposta do protocolo](https://pt.wikipedia.org/wiki/HTTP_404) *http* para páginas não encontradas.
+
+- pagina: acompanhe
+  url: "/acompanhe"
+  title: "acompanhe"
+  descricao: |
+    Explica o que é o FEED/RSS, indica o caminho para o XML que você deverá inserir no seu leitor preferido. Além de recomendar um leitor de FEED, caso não tenha um e use Android.
+
+- pagina: agora
+  url: "/agora"
+  title: "o que estou fazendo"
+  descricao: |
+    Um breve resumo das minhas atividades, como se eu fosse contar para um velho amigo o que tenho feito ultimamente. Página (teoricamente) atualizada a cada mês ou quinze dias.
+
+- pagina: arquivo
+  url: "/arquivo"
+  title: "tudo junto e misturado"
+  descricao: |
+    Um feed completo com os textos e fotos em ordem cronológica. Sem a separação que criei para o site.
+
+- pagina: assistindo
+  url: "/assistindo"
+  title: "comentários sobre séries principalmente"
+  descricao: |
+    Um Espaço onde eu juntei os comentários sobre filmes, séries, até mesmo livros. Mas principalmente séries que assisto com o Grupo de Séries do [Feito por Elas](https://feitoporelas.com.br).
+
+- pagina: barras
+  url: "/barras"
+  title: "onde cada coisa está"
+  descricao: |
+    Esta página, que indica o caminho para cada canto deste espaço.
+
+- pagina: blog
+  url: "/blog"
+  title: "se eu disser, será aqui"
+  descricao: |
+    Efetivamente o local em que escrevo alguns dos meus pensamentos, passagens que me agradam lembrar e comento sobre o que achar valer a pena.
+
+- pagina: blogrol
+  url: "/blogrol"
+  title: "se eu gosto, indico aqui"
+  descricao: |
+    Uma lista de jardins digitais e blogs que eu leio e recomendo acompanharem.
+
+- pagina: colofao
+  url: "/colofao"
+  title: "o que move este cantinho"
+  descricao: |
+    O lugar para contar um pouco dos bastidores deste cantinho.
+
+- pagina: dicas-do-blog
+  url: "/dicas-do-blog"
+  title: "como eu montei algumas coisas por aqui"
+  descricao: |
+    Um canto onde eu vou colocando uns *tutoriais* de algumas coisas que eu fiz por aqui, vai que alguém tá precisando. Ou eu estou apenas alimentando as IA, mas aí é muita presunção minha.
+
+- pagina: etiquetas
+  url: "/etiquetas"
+  title: "do que estou falando e onde"
+  descricao: |
+    Apresenta as etiquetas marcadas nas postagens do blog e do fotolog. Indica quais os posts estão separados por cada etiqueta.
+
+- pagina: fotolog
+  url: "/fotolog"
+  title: "meu fotolog"
+  descricao: |
+    Meu álbum de fotos. Local em que eu coloco algumas imagens de momentos que acho valerem a pena compartilhar e algumas vezes vem junto de algum texto, além de apenas uma legenda de foto.
+
+- pagina: profissional
+  url: "/profissional"
+  title: "quem é o trabalhador"
+  descricao: |
+    Onde eu me apresento profissionalmente, mostro resumidamente minhas habilidades e capacidades profissionais. Lá tem caminhos para outros sites que podem dar mais informações e contato.
+
+- pagina: social
+  url: "/social"
+  title: "minhas mídias sociais"
+  descricao: |
+    Indicação das ~~redes~~ mídias sociais que continuo frequentando.
+
+- pagina: registro-de-alteracoes
+  url: "/registro-de-alteracoes"
+  title: "histórico de alterações desse cantinho"
+  descricao: |
+    Local em que apresento o histórico de alterações e edições realizadas aqui nesse *proto-jardim-digital*.

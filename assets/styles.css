@@ -716,6 +716,18 @@ article.blog-article.blog-citacao cite {
 /* FINAL Estilos para blockquote */
 /* FINAL DOS Estilos para o Blog */
 
+/* INÍCIO ESTILOS PARA A PÁGINA barras */
+
+.lista-barras {
+  list-style: none; /* opcional, caso não queira os marcadores padrão */
+  padding-left: 0;   /* opcional */
+}
+
+.lista-barras li {
+  margin-bottom: 1.3em;
+}
+/* FINAL ESTILOS PARA A PÁGINA barras */
+
 
 /* INÍCIO ESTILOS PARA A PÁGINA DE Tags */
 .nuvem-tag {
@@ -1116,96 +1128,6 @@ pre code {
  opacity: 0.8;
 }
 /* FINAL entreblogs-webring */
-
-/* ============================================
-   INÍCIO DO MICROBLOG
-   ============================================ */
-
-/* --- RESET DO TOGGLE --- */
-#microblog-toggle {
-  display: none;
-}
-
-/* ------------------------------------------------
-   DESKTOP (acima de 50rem)
-   Balão estático abaixo da nav
------------------------------------------------- */
-
-.microblog-icone,
-.microblog-overlay,
-.microblog-balao-mobile {
-  display: none;
-}
-
-/* Balão desktop: dentro da nav no HTML, aparece por último via order */
-.microblog-balao-desktop {
-  display: block;
-  order: 99;        /* garante que fique após todos os links da nav */
-  width: 100%;
-  margin-top: 25px;
-}
-
-/* Balão desktop: tamanho menor, sem negrito, herda cores do .fleabag original */
-.microblog-balao-desktop .microblog-fleabag {
-  display: block;
-  max-width: 100%;
-  font-size: 0.82rem;
-  line-height: 1.35rem;
-  font-weight: normal;
-}
-
-/* Link "→ todas": display:table quebra linha sem ocupar 100% da largura,
-   evitando que o hover preencha a linha inteira.
-   Todo o resto (cores, hover, gradiente) é herdado do .fleabag a do site. */
-.microblog-mais {
-  display: table !important;
-  margin-left: auto;
-  margin-top: 8px;
-  font-size: 0.78rem;
-  font-style: normal;
-  font-weight: normal;
-}
-
-/* Overlay não é um <a>, mas zeramos qualquer herança por segurança */
-.microblog-overlay {
-  background: none !important;
-  background-image: none !important;
-  padding: 0 !important;
-  transition: none !important;
-}
-
-/* --- PÁGINA DE HISTÓRICO /microblog --- */
-.microblog-entrada {
-  margin-bottom: 2.8rem;
-  margin-left: 1.5rem; /* afasta o balão da margem esquerda — ajuste a gosto */
-}
-
-.microblog-entrada time {
-  display: block;
-  margin-bottom: 6px;
-}
-
-/* markdownify envolve o texto em <p> — remove a margem interna */
-.microblog-fleabag p,
-.microblog-entrada .fleabag p {
-  margin: 0;
-}
-
-/* O <p> do markdownify não deve sobrescrever o tamanho do balão no header desktop */
-.microblog-balao-desktop .microblog-fleabag p {
-  font-size: 0.82rem;
-  line-height: 1.35rem;
-  max-width: 100%; /* já limitado pelo .microblog-fleabag */
-}
-
-/* O <p> do markdownify não deve cancelar o max-width do .fleabag na página /microblog */
-.microblog-entrada .fleabag p {
-  max-width: 100%; /* respeita o container, o afastamento vem do padding-left do article */
-}
-/* ============================================
-   FINAL DO MICROBLOG
-   ============================================ */
-
 
 /* --- HEADER STICKY APENAS QUANDO HÁ ALTURA SUFICIENTE --- */
 /* Em telas largas mas baixas (ex: 1366x768), o header volta a rolar
