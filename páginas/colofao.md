@@ -29,10 +29,9 @@ Quando tiver o ícone <i class="fa-solid fa-book-open"></i> significa que estou 
 
 <blockquote class="fleabag">Isso será bem comum...</blockquote>
 
-
 Os links que não levarem para páginas em português coloco uma _etiqueta_ sobreescrita `[idioma]`, assim tem como saber que estou indicando um texto em outro idioma e qual é.  
 
-<p id="sobre-comentarios">O blog, o fotolog e o microblog agora tem uma seção de comentários, fique a vontade para usá-los.</p>
+<p id="sobre-comentarios">O blog e o fotolog tem uma seção de comentários, fique a vontade para usá-los.</p>
 
 <blockquote class="fleabag">Apesar de termos uma seção de comentários, fica sempre o convite para me <a href="mailto:pedro@dalbo.me?subject=Contato pelo site" title="Onde falar comigo">enviar um email</a> (pedro [arroba] dalbo [ponto] me), acho que esse modo de conversa permite uma profundidade maior no bate-papo.</blockquote>  
 
