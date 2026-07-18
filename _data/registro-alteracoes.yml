@@ -2,7 +2,10 @@
   data_id: "2026-07-18"
   data_texto: "18 de julho"
   entradas:
-    - tags: ["páginas", "liquid"]
+    - tags: ["acabamento"]
+      texto: |
+       Adicionei o selo do [BR Crawl](https://guilhermegarcia.dev/brcrawl/) no rodapé. O BR Crawl é um projeto de agregador de blogs brasileiros.
+    - tags: ["liquid","páginas"]
       texto: |
        Estruturei a página [BARRAS](/barras) utilizando um `template liquid` e um arquivo `barras.yml` com a lista de páginas para que o arquivo `barras.md` fique mais limpo. Assim eu coloco a ordem alfabética pelo `liquid` e não preciso ficar me preocupando com isso ao criar as entradas. Muito mais fácil.  
        Pretendo fazer isso aos poucos para as etiquetas das postagens e para as etiquetas dessa página de registro de alterações.
