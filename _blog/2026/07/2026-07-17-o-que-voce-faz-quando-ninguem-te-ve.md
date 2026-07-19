@@ -8,7 +8,7 @@ tags:
  - a vida, o universo e tudo mais
 published: false
 ---
-Eu ia fazer esse texto no fotolog, mas eu gostei demais do título e não queria que ele ficasse escondido. Então, vamos ficar por aqui e devo criar uma postagem por lá pra ilustrar.  
+Eu ia fazer esse texto no fotolog, mas eu gostei demais do título e não queria que ele ficasse escondido.
 
 A ideia desse texto é falar sobre passatempos. Nossos hobbies, e garanto que o meu não é azul...
 
