@@ -2,7 +2,7 @@
 layout: post
 type: texto 
 title: "O que você faz quando ninguém te vê?"
-date: 2026-07-17 12:00:00 -0300
+date: 2026-07-22 12:00:00 -0300
 tags: 
  - postagem coletiva
  - a vida, o universo e tudo mais
