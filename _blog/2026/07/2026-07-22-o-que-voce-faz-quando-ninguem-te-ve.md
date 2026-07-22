@@ -6,7 +6,6 @@ date: 2026-07-22 12:00:00 -0300
 tags: 
  - a vida, o universo e tudo mais
  - postagem coletiva
-published: false
 ---
 Eu ia fazer esse texto no fotolog, mas eu gostei demais do título e não queria que ele ficasse escondido.
 
