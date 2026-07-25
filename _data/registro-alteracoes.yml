@@ -2,9 +2,12 @@
   data_id: "2026-07-25"
   data_texto: "25 de julho"
   entradas:
+    - tags: ["acabamento","liquid","jekyll","html"]
+      texto: |
+       Alterei o arquivo `header.html` para que a barra de navegação seja a mesma independente da página do site. Antes na página principal tínhamos uma navegção resumida agora temos ela completa como nas outras páginas do site. Exceto a página [PROFISSIONAL](/profissional) (e derivadas) e [ERRO](/404) que se mantem sem barra de navegação.
     - tags: ["acabamento","liquid","jekyll"]
       texto: |
-       Adicionel no `template liquid` dos arquivos de `layout` do [BLOG](/blog) e [FOTOLOG](/fotolog) a condição para organizar alfabeticamente as tags das postagens . Fiz o mesmo para as tags que ficam aqui no **registro de alterações**. Dessa forma tanto no `front meatter` das postagens quanto no arquivo `yml` do **registro de alterações** posso colocar as tags conforme me recordo sem me preocupar se elas estão em ordem alfabética, pois na apresentação elas ficarão corretas de qualquer forma.
+       Adicionei no `template liquid` dos arquivos de `layout` do [BLOG](/blog) e [FOTOLOG](/fotolog) a condição para organizar alfabeticamente as tags das postagens . Fiz o mesmo para as tags que ficam aqui no **registro de alterações**. Dessa forma tanto no `front meatter` das postagens quanto no arquivo `yml` do **registro de alterações** posso colocar as tags conforme me recordo sem me preocupar se elas estão em ordem alfabética, pois na apresentação elas ficarão corretas de qualquer forma.
 
 - ano: "2026"
   data_id: "2026-07-18"

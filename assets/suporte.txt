@@ -1,14 +1,14 @@
 Preenchimanto dos arquivos de comentários:
-# _data/comments/sobre-o-poder-da-memoria.yml
-#
-# Estrutura de um comentário:
-#   id:        — identificador único (ex: use timestamp ou número sequencial)
-#   parent_id: — id do comentário pai (deixe "" para comentários raiz)
-#   date:      — data no formato YYYY-MM-DD
-#   name:      — nome/nickname do autor
-#   email:     — e-mail (privado, não aparece no site)
-#   url:       — website (opcional, vira link no nome)
-#   message:   — texto do comentário
+-  _data/comments/sobre-o-poder-da-memoria.yml
+- 
+-  Estrutura de um comentário:
+-    id:        — identificador único (ex: use timestamp ou número sequencial)
+-    parent_id: — id do comentário pai (deixe "" para comentários raiz)
+-    date:      — data no formato YYYY-MM-DD
+-    name:      — nome/nickname do autor
+-    email:     — e-mail (privado, não aparece no site)
+-    url:       — website (opcional, vira link no nome)
+-    message:   — texto do comentário
 
 
 Elementos de datas para atualização de postagens para o front-metter
@@ -30,30 +30,29 @@ texto - post tradicional do blog (post)
 citacao  - vai pro blog como citação especial (post)
 
 post tags:
- - a vida, o universo e tudo mais
- - aniversário
- - casa
- - citações
- - engenharia
- - esportes, ou só futebol
- - filmes
- - fotos
- - gatos
- - informática
- - internet
- - joguinhos
- - livros
- - metablog
- - museus
- - músicas
- - pandemia
- - passeios
- - pensamentos
- - postagem coletiva
- - quadrinhos
- - shows
- - séries e TV
- - tatuagem
+- a vida, o universo e tudo mais
+- aniversário
+- casa
+- citações
+- engenharia
+- esportes, ou só futebol
+- filmes
+- fotos
+- gatos
+- informática
+- internet
+- joguinhos
+- livros
+- metablog
+- museus
+- pandemia
+- passeios
+- pensamentos
+- postagem coletiva
+- quadrinhos
+- shows
+- séries e TV
+- tatuagem
 
 Estrutura de pastas:
 |meusite
