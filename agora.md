@@ -19,7 +19,7 @@ Seguindo com o _hérculeo trabalho_ de deixar a casa do jeito que a gente gosta 
 [Recomeçando a treinar em casa](/blog/esse-mes-recomecei-a-treinar/ "voltando a cuidar da saúde"), o objetivo maior é envelhecer com alguma qualidade de vida. Não quero perder a parca massa muscular que tenho e preciso manter a capacidade de movimentos simples como agachar, levantar do chão. Coisas simples mas que no futuro podem se tornar difíceis de executar. Claro que no processo a gente quer melhorar outras questões, só não é meu objetivo principal. _Estou com uma sensação que estou falhando, mas desistir é pior_.  
 
 <h4>Profissional</h4>  
-Trabalhando na Projeta Infraestrutura como engenheiro de projetos rodoviários a convite do meu amigo Renan que acredita que meu trabalho e experiência podem ajudar à equipe. Fico feliz pela confiança e espero retribuir a altura.  
+Trabalhando na Projeta Infraestrutura como engenheiro de projetos rodoviários a convite do meu amigo Renan que acredita que meu trabalho e experiência podem ajudar a equipe. Fico feliz pela confiança e espero retribuir a altura.  
 
 <h4>Curiosidades</h4>
 O tempo todo brincando de mexer nesse _meu espaço da internet_, um hobby para dizer que faço alguma coisa.  
