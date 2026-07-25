@@ -21,10 +21,11 @@ O famoso [Changelog<sup>[en]</sup>](https://slashpages.net/#changelog) é simple
  <li>
 <h5 id="{{ item.data_id }}">{{ item.data_texto }}</h5>
         
-    {% for entrada in item.entradas %}
-    {% for tag in entrada.tags %}
-<span class="tag-reg">{{ tag }}</span>
-    {% endfor %}
+{% for entrada in item.entradas %}
+  {% assign tags_ordenadas = entrada.tags | sort_natural %}
+  {% for tag in tags_ordenadas %}
+    <span class="tag-reg">{{ tag }}</span>
+{% endfor %}
 <br/>
     {{ entrada.texto | markdownify | remove: '<p>' | remove: '</p>' }}
           

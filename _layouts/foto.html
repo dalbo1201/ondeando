@@ -11,11 +11,12 @@
     
     <h3 class="p-name">{{ page.title }}</h3>
 
-    <p class="blog-tag">
-      {% for tag in page.tags %}
-        <a href="/etiquetas/#{{ tag | slugify }}" class="linkum p-category">#{{ tag }}</a>
-      {% endfor %}
-    </p>
+<p class="blog-tag">
+  {% assign tags_ordenadas = page.tags | sort_natural %}
+  {% for tag in tags_ordenadas %}
+    <a href="/etiquetas/#{{ tag | slugify }}" class="p-category">#{{ tag }}</a>
+  {% endfor %}
+</p>
 
     <div class="e-content">
       {{ content }}
