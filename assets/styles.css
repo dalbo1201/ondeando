@@ -985,6 +985,10 @@ table.tabela-posts td {
  margin: 0px 0px 30px 30px;
 }
 
+.curriculo:last-of-type {
+  margin-bottom: 0; /* opcional: remove espaço sobrando após o último item */
+}
+
 address {
  font-style: normal; /* Remove o itálico */
 }
