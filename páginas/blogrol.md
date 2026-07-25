@@ -96,7 +96,8 @@ A ordem de apresentação é alfabética, por que a cada momento algum tem um es
 Acesse:
 <ul>
 <li> o <a href="https://lerama.pcdomanual.com/?category=blogs&tag" title="repositório de blogs pt-br">Lerama</a>, um repositório de blogs mantido pelo <a href="https://manualdousuario.net" title="excelente blog de tecnologia">Manual do Usuário</a> e </li>
-<li> o <a href="https://entreblogs.com.br" title="comunidade de blogagem coletiva pt-br">Entreblogs</a>, uma comunidade de blogagem coletiva.</li>
+<li> o <a href="https://entreblogs.com.br" title="comunidade de blogagem coletiva pt-br">Entreblogs</a>, uma comunidade de blogagem coletiva;</li>
+<li> o <a href="https://brcrawl.guilhermegarcia.dev/" title="diretório da smallweb brasileira">BR Crawl</a>, um diretório da <i>smallweb</i> brasileira.</li>
 </ul>
 Tenho certeza que vai encontrar blogs que irão te agradar.
 </div></aside>
