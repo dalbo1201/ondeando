@@ -18,4 +18,4 @@ A [Bárbara](https://bamoretti.com/) e o [Igor](https://www.igormedeiroz.com/) t
 
 A ideia desse texto é fazer esse registro. Deixar marcado nos anais deste espaço o **BEDA do ENTREBLOGS**, a marca de um acontecimento na internet fora das mídias-sociais, onde as pessoas continuam buscando por interações, mas sem o controle de algorítimos e reforçando o conceito de comunidade.  
 
-<blockquote class="fleabag">Vida longa e próspera à web e ao ENTREBLOGS.</blockquote>
+<blockquote class="fleabag">Vida longa e próspera à web e ao <a href="https://entreblogs.com.br" title="comunidade de blogagem coletiva pt-br" alt="site do ENTREBLOGS">ENTREBLOGS</a>.</blockquote>
