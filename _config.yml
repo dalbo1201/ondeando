@@ -14,8 +14,6 @@ collections:
     output: true
   fotolog:
     output: true
-  microblog:
-    output: true
 
 plugins:
   - jekyll-feed
@@ -28,7 +26,6 @@ feed:
   collections:
     - blog
     - fotolog
-    - microblog
 
 # --- DEFAULTS ---
 defaults:
@@ -45,13 +42,6 @@ defaults:
     values:
       layout: foto
       permalink: /fotolog/:slug/
-
-  - scope:
-      path: ""
-      type: microblog
-    values:
-      layout: microblog-post
-      permalink: /microblog/:year-:month-:day/
 
 exclude:
   - README.md
