@@ -2,6 +2,31 @@
    TEMA FESTA JUNINA — CSS COMPLEMENTAR
    ===================================================== */
 
+/* --- VARIÁVEIS de fontes locais --- */
+@font-face {
+  font-family: 'Cactus';
+  src: url('/assets/fontes/Cactus Regular.otf') format('opentype');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Cratense';
+  src: url('/assets/fontes/Cratense.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Asa Branca';
+  src: url('/assets/fontes/ASA-BRANCA-1.0-Regular.otf') format('opentype');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
 
 /* --- VARIÁVEIS TEMÁTICAS --- */
 /* Sobrescreve as variáveis de cor e acrescenta as de fonte,
@@ -16,39 +41,68 @@
   --color-data:#194d00;
 
   /* Fontes temáticas — variáveis novas, usadas só aqui */
-  --font-h1:      'Slackey', sans-serif;
-  --font-h1menor: 'Special Elite', sans-serif;
-  --font-h2:      'Luckiest Guy', sans-serif;
-  --font-h3:      'Special Elite', sans-serif;
+  --font-geral: 'Special Elite', sans-serif; /* Fontes do texto em geral */
+  --font-h1:      'Cratense', sans-serif; /* Fonte do Título do site */
+  --font-h1menor: 'Asa Branca', sans-serif; /* Fonte do sub-Título do site */
+  --font-h2:      'Asa Branca', sans-serif; /* Fonte do Título das páginas, aquele com | */
+  --font-h3:      'Cactus', sans-serif; /* Fonte do título das postagens  */
   --font-h4:      'Special Elite', sans-serif;
   --font-h5:      'Special Elite', sans-serif;
   --font-h6:      'Special Elite', sans-serif;
 }
 
-
 /* --- FONTES NOS TÍTULOS --- */
-/* O styles.css original não referencia --font-h*, então precisamos
-   aplicar explicitamente aqui. */
-h1          { font-family: var(--font-h1); }
-.h1-menor   { font-family: var(--font-h1menor); }
+/* O styles.css original não referencia --font-h*, então precisamos aplicar explicitamente aqui. */
 
-h2 {
+h1 {  /* Fonte do Título do site  */
+  font-family: var(--font-h1);
+  font-size: clamp(3rem, 4vw, 4rem);
+  letter-spacing: 0.06em; /* positivo = mais espaço */
+}
+.h1-menor { /* Fonte do sub-Título do site  */
+  font-family: var(--font-h1menor);
+  font-size: 1.5rem;
+  letter-spacing: 0.01em; /* positivo = mais espaço */
+}
+
+.h1-pro { /* NOME DO SITE - cabeçalho */
+  font-family: var(--font-h1);
+  font-size: clamp(2rem, 4vw, 3rem);
+  letter-spacing: 0.06em; /* positivo = mais espaço */
+}
+
+h2 { /* Fonte do Título das páginas, aquele com | */
   font-family: var(--font-h2);
-  text-transform: uppercase;
+  font-size: clamp(3rem, 4vw, 3.5rem); 
+  line-height: clamp(3.2rem, 3vw, 3.7rem); 
+  letter-spacing: 0.05em; /* positivo = mais espaço */
   /* CORREÇÃO DO CHAPÉU: o ::before absolute precisa de um pai posicionado */
   position: relative;
   display: inline-block; /* Faz o h2 abraçar só o texto, o chapéu fica colado nele */
 }
 
-.h2-menor {
+.h2-menor { /* Fonte do sub-Título das páginas */
   font-family: var(--font-h2);
-  text-transform: uppercase;
+  font-size: clamp(2rem, 1.3vw, 2.5rem); /* 16–17px */
+  line-height: clamp(2.2rem, 2vw, 2.7rem); /* 19–25px */
+  letter-spacing: 0.02em; /* positivo = mais espaço */
 }
 
-h3 { font-family: var(--font-h3); }
+h3 { /* Fonte do título das postagens  */
+ font-family: var(--font-h3);
+ font-size: clamp(2rem, 3vw, 2.2rem);
+ line-height: .5;
+} 
+
 h4 { font-family: var(--font-h4); }
 h5 { font-family: var(--font-h5); }
 h6 { font-family: var(--font-h6); }
+
+
+/* melhorando o espaçamento entre letras */
+nav, .main-wrapper p, h4, h5, h6 {
+letter-spacing: 0.06em; /* positivo = mais espaço */
+} 
 
 
 /* --- CHAPÉU NO h2::before --- */
@@ -56,10 +110,10 @@ h6 { font-family: var(--font-h6); }
 h2::before {
   content: "";
   position: absolute;
-  top:  -.9em;
-  left: -.8em;
-  width:  1.8em;
-  height: 1.8em;
+  top:  -.4em;
+  left: -.6em;
+  width:  1.3em;
+  height: 1.3em;
   background-image: url("/assets/tema-junino/chapéu.webp");
   background-size:     contain;
   background-repeat:   no-repeat;
@@ -83,8 +137,8 @@ h3::before,
 h3::after {
   content: "";
   display: inline-block;
-  height: 1.2em;
-  width:  1.2em;
+  height: 1em;
+  width:  1em;
   background-image: url("/assets/tema-junino/sanfona.webp");
   background-size:     contain;
   background-repeat:   no-repeat;
