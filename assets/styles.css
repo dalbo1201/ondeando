@@ -624,23 +624,13 @@ blockquote {
  padding: 0;
 }
 
-blockquote:not(.fleabag) p { 
+blockquote:not(.fleabag) p, .tutorial blockquote { 
  font-size: clamp(1.1rem, 2vw, 1.2rem);
  line-height: clamp(1.44rem, 2vw, 1.44rem);
  font-style: italic;
  border-left: 7px solid var(--color-link);
  padding: 10px 0px 10px 10px;
  max-width: 80%;
-}
-
-.fleabag p {
- border-left: none;
- padding: 0;
- font-size: inherit;
- line-height: inherit;
- font-style: inherit;
- max-width: unset;
- margin: 0;
 }
 
 .fleabag {
@@ -655,6 +645,16 @@ blockquote:not(.fleabag) p {
   padding: 0.5rem 0.5rem;
   position: relative; 
   display: inline-block;
+}
+
+.fleabag p {
+ border-left: none;
+ padding: 0;
+ font-size: inherit;
+ line-height: inherit;
+ font-style: inherit;
+ max-width: unset;
+ margin: 0;
 }
 
 /* A Seta do Balão */

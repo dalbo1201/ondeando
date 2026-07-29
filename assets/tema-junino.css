@@ -256,7 +256,7 @@ ul ol li::marker       { content: "🌽 "; opacity: 0.7; }
 /* Zera em listas sem marcador visual */
 [style*="list-style: none"] li::marker,
 [style*="list-style:none"]  li::marker,
-ul.lista-tags li::marker,
+ul.lista-tags li::marker, ul.lista-barras li::marker,
 .gallery ul.embedded.album-post li::marker,
 .social li::marker,
 .timeline > ul li::marker { content: ""; }
