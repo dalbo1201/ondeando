@@ -161,7 +161,10 @@ hr {
 .fotocab {
  width: 3.13rem; /* 50px */
  height: 3.13rem;
- border-radius: 15%;
+ border-top-right-radius: 33%;
+ border-bottom-left-radius: 33%;
+ border-top-left-radius: 3%;
+ border-bottom-right-radius: 3%;
  object-fit: cover;
  border: 1px solid var(--color-link);
  flex-shrink: 0; /* Evita que a imagem diminua além do tamanho mínimo */
