@@ -17,5 +17,7 @@ Ele não sabe o que é, não conhece outros como ele. **Pehená** não lembra de
 
 Talvez, essa seja uma jornada de descoberta e conhecimento que **Pehená-mboy** deva passar para poder retornar ao seu lugar entendendo que todos os mundos estãopor aípor algum motivo. Que todos merecem ser respeitados, acolhidos.
 
-<aside class="blog-colet"><div class="aviso-texto">Esse post faz parte do projeto do <a href="https://entreblogs.com.br/beda" title="mais sobre o BEDA 2026">BEDA 2026</a> do grupo de postagem coletiva <a href="https://entreblogs.com.br/" title="mais sobre o entrelogs">ENTREBLOGS</a> comunidade criada com o intuito de compartilhar nossas perspectivas sobre os mesmos assuntos. Se quiser ler outras postagens sobre o tema você <a href="https://entreblogs.com.br/beda" title="outras postagens do tema">encontra aqui.</a>.
+<aside class="blog-colet"><div class="aviso-texto">Esse post faz parte do projeto do <a href="https://entreblogs.com.br/beda" title="mais sobre o BEDA 2026">BEDA 2026</a> do grupo de postagem coletiva <a href="https://entreblogs.com.br/" title="mais sobre o entrelogs">ENTREBLOGS</a> comunidade criada com o intuito de compartilhar nossas perspectivas sobre os mesmos assuntos. <br/>
+Para descobrir outras postagens sobre o tema por aqui, temos uma <a href="/beda-2026" title="página especial do BEda 2026 por aqui">página especial do Beda-2026</a>;<br/>
+Quer conhecer outros blogs que estão participando? Você <a href="https://entreblogs.com.br/beda" title="outras postagens do tema">encontra aqui.</a>.
 <h6><i class="fa-solid fa-pen-fancy"></i> BEDA 2026 -Guardiões da Blogosfera | ago, 2026</h6></div></aside>
