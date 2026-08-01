@@ -4,7 +4,7 @@ type: album
 title: "Alegria do café da manhã"
 date: 2026-04-04 15:00:00 -0300
 image: /assets/fotos/2026/04/20260404_091852~2.jpg
-caption: "A torradeira da infância"
+caption: "A torradeira da infância [...]"
 tags:
  - a vida, o universo e tudo mais
  - casa

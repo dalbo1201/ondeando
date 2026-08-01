@@ -4,7 +4,7 @@ type: album
 title: "Fusca azul placa preta"
 date: 2026-03-25 12:00:00 -0300
 image: /assets/fotos/2026/03/20260321_142211~2.jpg
-caption: "Fusca azul placa preta"
+caption: "Fusca azul placa preta [...]"
 tags:
  - a vida, o universo e tudo mais
  - fotos

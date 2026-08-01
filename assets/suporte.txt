@@ -32,6 +32,7 @@ citacao  - vai pro blog como citação especial (post)
 post tags:
 - a vida, o universo e tudo mais
 - aniversário
+- beda, bewa e afins
 - casa
 - citações
 - engenharia
