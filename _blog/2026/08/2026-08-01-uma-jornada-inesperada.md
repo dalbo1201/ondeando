@@ -2,10 +2,9 @@
 layout: post
 type: texto 
 title: "Uma jornada inesperada"
-date: 2026-08-01 08:00:00
+date: 2026-08-01 09:00:00
 tags:
  - beda, bewa e afins
-published: false
 ---
 **Pehená-mboy** é um homem que ainda não viveu tudo o que pôde, mas também não chegou no auge da sua natureza.  
 
@@ -19,7 +18,7 @@ Talvez essa seja uma jornada de descoberta e conhecimento que **Pehená-mboy** d
 
 ---
 
-Este é o post inaugural do BEDA 2026 neste espaço. 
+Este é o post inaugural do [BEDA 2026](https://entreblogs.com.br/beda) neste espaço. 
 
 O objetivo foi apresentar o personagem que criei para a participação no evento que tem todo um _ar de D&D_. Os textos não serão publicados como se ele fosse o narrador, não é o objtivo central. O personagem é a minha persona representada nesse universo de blogs e meu espírito de participar desse evento.
 
