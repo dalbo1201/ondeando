@@ -5,7 +5,12 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta name="description" content="{{ page.description | default: site.description }}">
+  <meta name="theme-color" content="#ffffff">
 <!-- Meta Tags -->
+
+<!-- Preconnects (antes de tudo que os usa) -->
+  <link rel="preconnect" href="https://fonts.bunny.net">
+  <link rel="preconnect" href="https://use.fontawesome.com" crossorigin>
 
 {% feed_meta %}
 {% if page.title == 'Ondeando' or page.title == 'Profissional' or page.title == 'Currículo' %}
@@ -14,36 +19,54 @@
  <meta name="robots" content="noindex,follow">
 {% endif %}
 
+<!-- Canonical -->
+  <link rel="canonical" href="{{ page.url | absolute_url }}">
+
 <!-- Title Tags -->
-{% if page.title == 'Ondeando'%}
- <title>{{ site.title }}</title>
-{% elsif page.title == 'Profissional' or page.title == 'Currículo'%}
- <title>{{ page.title | truncate: 45, "…"}} | Pedro Dal Bó</title>
-{% elsif page.title == 'erro'%}
- <title>Erro 404</title>
+{% assign site_title = site.title %}
+{% if page.title == 'Ondeando' %}
+  {% assign final_title = site_title %}
+{% elsif page.title == 'Profissional' or page.title == 'Currículo' %}
+  {% assign final_title = page.title | truncate: 45, "…" | append: " | Pedro Dal Bó" %}
+{% elsif page.title == 'erro' %}
+  {% assign final_title = "Erro 404" %}
 {% else %}
- <title>{{ page.title | truncate: 45, "…"}} | {{ site.title }}</title>
+  {% assign final_title = page.title | truncate: 45, "…" | append: " | " | append: site_title %}
 {% endif %}
+ <title>{{ final_title }}</title>
 <!-- Title Tags -->
+
+<!-- Open Graph -->
+  <meta property="og:type" content="website">
+  <meta property="og:title" content="{{ final_title }}">
+  <meta property="og:description" content="{{ page.description | default: site.description }}">
+  <meta property="og:url" content="{{ page.url | absolute_url }}">
+  <meta property="og:image" content="{{ page.image | default: site.image | absolute_url }}">
+  <meta property="og:locale" content="pt_BR">
+  <meta name="fediverse:creator" content="{{ site.fediverse_creator }}">
+<!-- Open Graph -->
+
+<!-- Twitter Card -->
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="{{ final_title }}">
+  <meta name="twitter:description" content="{{ page.description | default: site.description }}">
+  <meta name="twitter:image" content="{{ page.image | default: site.image | absolute_url }}">
+<!-- Twitter Card -->
 
 <!-- Links -->
  <link rel="stylesheet" href="https://use.fontawesome.com/releases/v7.0.0/css/all.css">
  <link rel="apple-touch-icon" sizes="180x180" href="/assets/favicon/favicon_cartoon-180.png">
  <link rel="icon" type="image/png" sizes="32x32" href="/assets/favicon/favicon_cartoon-32.png">
  <link rel="icon" type="image/png" sizes="16x16" href="/assets/favicon/favicon_cartoon-16.png">
- <link rel="preconnect" href="https://fonts.bunny.net">
  <link href="https://fonts.bunny.net/css?family=Montserrat|Fraunces" rel="stylesheet" />
- {% assign mes_atual = site.time | date: "%m" | plus: 0 %}
+{% assign mes_atual = site.time | date: "%m" | plus: 0 %}
 {% if mes_atual == 6 %}
   <link href="https://fonts.bunny.net/css?family=Luckiest+Guy|Special+Elite|Slackey" rel="stylesheet">
+  <link rel="stylesheet" href="{{ '/assets/tema-junino.css' | relative_url }}">
 {% endif %}
  <link rel="stylesheet" href="/assets/styles.css">
  <link rel="stylesheet" href="{{ '/assets/comments.css' | relative_url }}">
-  <link rel="stylesheet" href="/assets/beda2026.css">
-{% assign mes_atual = site.time | date: "%m" | plus: 0 %}
-{% if mes_atual == 6 %}
-  <link rel="stylesheet" href="{{ '/assets/tema-junino.css' | relative_url }}">
-{% endif %}
+ <link rel="stylesheet" href="/assets/beda2026.css">
 <!-- Links -->
 </head>
 

@@ -2,6 +2,7 @@
 layout: default
 title: Profissional
 description: Cartão de visitas de Pedro Dal Bó.
+image: /assets/foto-pedro.jpg
 ---
 <h2><span aria-hidden="true">|</span>Profissional</h2>
 <section class="texto-geral">
