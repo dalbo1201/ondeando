@@ -8,34 +8,41 @@
   <meta name="theme-color" content="#ffffff">
 <!-- Meta Tags -->
 
-<!-- Preconnects (antes de tudo que os usa) -->
+<!-- Preconnects -->
   <link rel="preconnect" href="https://fonts.bunny.net">
   <link rel="preconnect" href="https://use.fontawesome.com" crossorigin>
+<!-- Preconnects -->
 
 {% feed_meta %}
+
+<!-- Robots -->
 {% if page.title == 'Ondeando' or page.title == 'Profissional' or page.title == 'Currículo' %}
  <meta name="robots" content="index,follow">
 {% else %}
  <meta name="robots" content="noindex,follow">
 {% endif %}
+<!-- Robots -->
 
 <!-- Canonical -->
   <link rel="canonical" href="{{ page.url | absolute_url }}">
+<!-- Canonical -->
 
 <!-- Title Tags -->
+{% assign tagline = site.tagline | default: "Blog pessoal de Pedro Dal Bó" %}
 {% if page.collection == 'blog' %}
- <title>{{ page.title | truncate: 45, "…" }} | Blog | {{ site.title }}</title>
+  {% assign final_title = page.title | truncate: 45, "…" | append: " | Blog | " | append: site.title %}
 {% elsif page.collection == 'fotolog' %}
- <title>{{ page.title | truncate: 45, "…" }} | Fotolog | {{ site.title }}</title>
+  {% assign final_title = page.title | truncate: 45, "…" | append: " | Fotolog | " | append: site.title %}
 {% elsif page.title == 'Ondeando' %}
- <title>{{ site.title }}</title>
+  {% assign final_title = site.title | append: " — " | append: tagline %}
 {% elsif page.title == 'Profissional' or page.title == 'Currículo' %}
- <title>{{ page.title | truncate: 45, "…" }} | Pedro Dal Bó</title>
+  {% assign final_title = page.title | truncate: 45, "…" | append: " | Pedro Dal Bó" %}
 {% elsif page.title == 'erro' %}
- <title>Erro 404</title>
+  {% assign final_title = "Erro 404" %}
 {% else %}
- <title>{{ page.title | truncate: 45, "…" }} | {{ site.title }}</title>
+  {% assign final_title = page.title | truncate: 45, "…" | append: " | " | append: site.title %}
 {% endif %}
+ <title>{{ final_title }}</title>
 <!-- Title Tags -->
 
 <!-- Open Graph -->
@@ -57,19 +64,19 @@
 <!-- Twitter Card -->
 
 <!-- Links -->
- <link rel="stylesheet" href="https://use.fontawesome.com/releases/v7.0.0/css/all.css">
- <link rel="apple-touch-icon" sizes="180x180" href="/assets/favicon/favicon_cartoon-180.png">
- <link rel="icon" type="image/png" sizes="32x32" href="/assets/favicon/favicon_cartoon-32.png">
- <link rel="icon" type="image/png" sizes="16x16" href="/assets/favicon/favicon_cartoon-16.png">
- <link href="https://fonts.bunny.net/css?family=Montserrat|Fraunces" rel="stylesheet" />
+  <link rel="stylesheet" href="https://use.fontawesome.com/releases/v7.0.0/css/all.css">
+  <link rel="apple-touch-icon" sizes="180x180" href="/assets/favicon/favicon_cartoon-180.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="/assets/favicon/favicon_cartoon-32.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="/assets/favicon/favicon_cartoon-16.png">
+  <link href="https://fonts.bunny.net/css?family=Montserrat|Fraunces" rel="stylesheet">
 {% assign mes_atual = site.time | date: "%m" | plus: 0 %}
 {% if mes_atual == 6 %}
   <link href="https://fonts.bunny.net/css?family=Luckiest+Guy|Special+Elite|Slackey" rel="stylesheet">
   <link rel="stylesheet" href="{{ '/assets/tema-junino.css' | relative_url }}">
 {% endif %}
- <link rel="stylesheet" href="/assets/styles.css">
- <link rel="stylesheet" href="{{ '/assets/comments.css' | relative_url }}">
- <link rel="stylesheet" href="/assets/beda2026.css">
+  <link rel="stylesheet" href="/assets/styles.css">
+  <link rel="stylesheet" href="{{ '/assets/comments.css' | relative_url }}">
+  <link rel="stylesheet" href="/assets/beda2026.css">
 <!-- Links -->
 </head>
 
