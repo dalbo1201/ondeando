@@ -1,4 +1,12 @@
 - ano: "2026"
+  data_id: "2026-08-01"
+  data_texto: "01 de agosto"
+  entradas:
+    - tags: ["html", "css"]
+      texto: |
+       Criei o arquivo `banner-beda2026.css` para colocar os estilos do banner do BEDA 2026. A ideia foi atualizar o banner com as cores do site do evento e colocar um ícone exclusivo, mas sem _poluir_ o arquivo `css` principal.
+
+- ano: "2026"
   data_id: "2026-07-30"
   data_texto: "30 de julho"
   entradas:
