@@ -23,17 +23,19 @@
   <link rel="canonical" href="{{ page.url | absolute_url }}">
 
 <!-- Title Tags -->
-{% assign site_title = site.title %}
-{% if page.title == 'Ondeando' %}
-  {% assign final_title = site_title %}
+{% if page.collection == 'blog' %}
+ <title>{{ page.title | truncate: 45, "…" }} | Blog | {{ site.title }}</title>
+{% elsif page.collection == 'fotolog' %}
+ <title>{{ page.title | truncate: 45, "…" }} | Fotolog | {{ site.title }}</title>
+{% elsif page.title == 'Ondeando' %}
+ <title>{{ site.title }}</title>
 {% elsif page.title == 'Profissional' or page.title == 'Currículo' %}
-  {% assign final_title = page.title | truncate: 45, "…" | append: " | Pedro Dal Bó" %}
+ <title>{{ page.title | truncate: 45, "…" }} | Pedro Dal Bó</title>
 {% elsif page.title == 'erro' %}
-  {% assign final_title = "Erro 404" %}
+ <title>Erro 404</title>
 {% else %}
-  {% assign final_title = page.title | truncate: 45, "…" | append: " | " | append: site_title %}
+ <title>{{ page.title | truncate: 45, "…" }} | {{ site.title }}</title>
 {% endif %}
- <title>{{ final_title }}</title>
 <!-- Title Tags -->
 
 <!-- Open Graph -->
