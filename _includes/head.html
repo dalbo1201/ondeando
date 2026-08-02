@@ -28,13 +28,12 @@
 <!-- Canonical -->
 
 <!-- Title Tags -->
-{% assign tagline = site.tagline | default: "Blog pessoal de Pedro Dal Bó" %}
 {% if page.collection == 'blog' %}
   {% assign final_title = page.title | truncate: 45, "…" | append: " | Blog | " | append: site.title %}
 {% elsif page.collection == 'fotolog' %}
   {% assign final_title = page.title | truncate: 45, "…" | append: " | Fotolog | " | append: site.title %}
 {% elsif page.title == 'Ondeando' %}
-  {% assign final_title = site.title | append: " — " | append: tagline %}
+  {% assign final_title = site.title %}
 {% elsif page.title == 'Profissional' or page.title == 'Currículo' %}
   {% assign final_title = page.title | truncate: 45, "…" | append: " | Pedro Dal Bó" %}
 {% elsif page.title == 'erro' %}
