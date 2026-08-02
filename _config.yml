@@ -2,7 +2,7 @@ title: Ondeando
 description: meu proto-jardim-digital, um espaço para ficar mais distante das mídias-sociais, feeds infinitos e algorítmos malvados.
 url: "https://pedro.dalbo.me"
 author: dalbo1201
-image: /assets/favicon/favicon_cartoon-180.png
+image: /assets/favicon/og-default.png
 fediverse_creator: "@dalbo1201@mastodon.social"
 kramdown:
   hard_wrap: true
