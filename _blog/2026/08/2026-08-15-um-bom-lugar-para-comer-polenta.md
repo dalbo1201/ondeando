@@ -33,4 +33,4 @@ Ah, e lembra aquela porção de croquete que serve de régua? Lá tem (na verdad
 <figcaption>A polenta é ótima e olha o Gorgolita ao fundo</figcaption>
 </figure>
 
-{% include beda-2026.html %}
+{% include banner-beda-2026.html %}

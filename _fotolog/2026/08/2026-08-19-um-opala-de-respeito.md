@@ -18,4 +18,4 @@ published: false
 
 Nem só de fusquinha vive esse Fotolog. Mas sempre que rolar um placa preta a gente para para reverenciar.
 
-{% include beda-2026.html %}
+{% include banner-beda-2026.html %}

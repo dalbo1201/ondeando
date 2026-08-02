@@ -24,4 +24,4 @@ Selina foi quem mais demorou a se adaptar aqui no apartamento após a viagem tod
 
 Quando estou em teletrabalho ela muitas vezes vem para o escritório e fica aqui comigo e com o Woody deitada atrás do laptop, algumas vezes se arrisca até a ficar _em cima_ do mouse. Fica difícil trabalhar, mas a gente dá um jeito.
 
-{% include beda-2026.html %}
+{% include banner-beda-2026.html %}

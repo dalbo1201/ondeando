@@ -20,4 +20,4 @@ Fui então para algo mais **profissional** e comprei quase que uma _bota para o 
 
 Ainda não peguei uma chuva com ela, estou curtindo meus 10 dias de descando de CLJ, mas assim que ela for posta à prova avisarei aqui se valeu a compra.
 
-{% include beda-2026.html %}
+{% include banner-beda-2026.html %}

@@ -1,0 +1,72 @@
+.banner-beda2026 {
+ display: flex;
+ flex-direction: row;
+ background-color: #EFE6D8;
+ border: 3px solid #9E9952; 
+ border-radius: 0.5rem;
+ color: var(--color-text);
+ font-size: clamp(0.88rem, 0.9vw, 0.94rem); /* 14–15px */
+ padding: 0.5rem 0.5rem;
+ gap: clamp(0.5rem, 0.9vw, 1rem);
+ align-items: center;
+ align-self: stretch;
+ box-sizing: border-box;
+ width: 100%;
+ margin-top: 2rem;
+ margin-bottom: 0.5rem;
+ line-height: 1.5;
+}
+
+.banner-beda2026::before {
+  content: "";
+  display: inline-block;
+  height: 8rem;
+  width: 8rem;
+  background-image: url("/assets/selos/beda2026/selobeda2026.png");
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center;
+  vertical-align: middle;
+}
+
+.aviso-texto > p {
+ margin: 0;
+}
+
+.banner-beda2026 ul /* avisos gerais*/ {
+ margin: 0;
+ font-size: clamp(0.88rem, 0.9vw, 0.94rem); /* 14–15px */
+ line-height: 1.2rem; /* 22px */
+ padding-left: 2rem; /* recuo para listas */
+}
+
+.missao-beda2026 {
+ display: flex;
+ flex-direction: row;
+ background-color: #EFE6D8;
+ border: 3px solid #9E9952; 
+ border-radius: 0.5rem;
+ color: var(--color-text);
+ font-size: clamp(0.88rem, 0.9vw, 0.94rem); /* 14–15px */
+ padding: 0.5rem 0.5rem;
+ gap: clamp(0.5rem, 0.9vw, 1rem);
+ align-items: center;
+ align-self: stretch;
+ box-sizing: border-box;
+ width: 100%;
+ margin-top: 2rem;
+ margin-bottom: 0.5rem;
+ line-height: 1.5;
+}
+
+.missao-beda2026::before {
+  content: "";
+  display: inline-block;
+  height: 50px;
+  width: 50px;
+  background-image: url("/assets/selos/beda2026/pena-pergaminho.png");
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center;
+  vertical-align: middle;
+}

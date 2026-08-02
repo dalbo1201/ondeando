@@ -18,4 +18,4 @@ Tem um tempo que eu havia [retornado a fazer exercícios em casa](/blog/esse-mes
 
 Vamos ver o que acontece dessa vez.
 
-{% include beda-2026.html %}
+{% include banner-beda-2026.html %}

@@ -18,4 +18,4 @@ published: false
 
 Esse fusquinha tá bonito de ver, mas tá mal cuidado. Uma polida e uma lustrada dariam vida para essa beleza.  
 
-{% include beda-2026.html %}
+{% include banner-beda-2026.html %}

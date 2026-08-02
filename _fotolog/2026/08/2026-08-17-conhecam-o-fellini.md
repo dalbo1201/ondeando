@@ -26,4 +26,4 @@ Fellini é a personificação desse desejo por proximidade, não dá cinco minut
 
 Esse é um gato especial.
 
-{% include beda-2026.html %}
+{% include banner-beda-2026.html %}

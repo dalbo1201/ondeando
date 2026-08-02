@@ -18,4 +18,4 @@ published: false
 
 Vou aproveitar o BEDA e colocar aqui algumas fotos de carros antigos que tirei e ainda não vieram para o fotolog. Tirar fotos de carros antigos em bom estado é uma diversão para mim.  
 
-{% include beda-2026.html %}
+{% include banner-beda-2026.html %}

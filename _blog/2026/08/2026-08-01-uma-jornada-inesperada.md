@@ -26,4 +26,4 @@ A proposta que me fiz foi postar o máximo que eu puder, mas não tenho _uma obr
 
 Ficarei entre o BEDA preguiçoso e o BEWA mais presente, vamos ver o que acontece.
 
-{% include beda-2026.html %}
+{% include banner-beda-2026.html %}

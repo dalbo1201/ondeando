@@ -22,4 +22,4 @@ Podemos dizer que Faustina e [Mérida](/fotolog/conhecam-a-merida) não se bicam
 
 A Faustina tem uma personalidade (se podemos dizer assim) que eu diria ser um _Woody-Fellinizado_, ela gosta muito de carinho, gosta de atenção. Mas não vai ficar o tempo todo atrás de você, agora se estivermos no mesmo ambiente, pode ter certeza que ela virá te procurar para ganhar um cafunézinho.
 
-{% include beda-2026.html %}
+{% include banner-beda-2026.html %}

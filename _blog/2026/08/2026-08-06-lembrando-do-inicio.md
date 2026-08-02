@@ -43,4 +43,4 @@ Vou deixar aqui algumas imagens dos leioutes do blog que consegui encontrar em p
 </figure>
 </figure>
 
-{% include beda-2026.html %}
+{% include banner-beda-2026.html %}

@@ -30,4 +30,4 @@ Uma caracteríscita curiosa dele é que quando menorzinho ele era uma espoleta. 
 
 Outra situação complicada era que o Woody não sabia lidar com fontes de água. Mais de uma vez ele abriu a fonte e tirou a bomba submersa inoperando o equipamento. Ou simplesmente virando ela de ponta cabeça por não saber lidar com aquela água caindo _do nada_. Mas fiquem tranquilos que hoje ele se entende muito bem com as fontes e adora. Fica até sentado na frente esperando ela ser ligada, uma fofurinha.
 
-{% include beda-2026.html %}
+{% include banner-beda-2026.html %}

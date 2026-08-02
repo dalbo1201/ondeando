@@ -21,4 +21,4 @@ Mas fico pensando se ao final desse mês terei tanta coisa, pique ou coisa do ti
 
 Veremos.
 
-{% include beda-2026.html %}
+{% include banner-beda-2026.html %}

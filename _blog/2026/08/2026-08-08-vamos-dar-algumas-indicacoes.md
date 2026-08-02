@@ -34,4 +34,4 @@ A porção de batata frita é bem gostosa, fininha, seca e com umas especiarias 
 
 Para beber, eu recomendo muito o Caju Amigo, um drink de que une vodka, suco de caju e compota de caju, olha, não tem erro.
 
-{% include beda-2026.html %}
+{% include banner-beda-2026.html %}

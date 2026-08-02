@@ -25,4 +25,4 @@ Quando voltei para São Paulo, queria muito manter essa qualidade de vida, acho 
 
 Quando as pessoas me perguntam se eu me sinto realizado e eu respondo que sim, muito disso está fundamentado na possibilidade que eu tenho de ter esse tipo de qualidade de vida, mesmo que seja em São Paulo (porque eu dificilmente [verei algo assim](/fotolog/brasilia-e-realmente-linda/) novamente ao voltar para casa).
 
-{% include beda-2026.html %}
+{% include banner-beda-2026.html %}

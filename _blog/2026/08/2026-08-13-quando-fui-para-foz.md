@@ -27,4 +27,4 @@ A história toda eu contei em 3 partes no meu blog e esse é um dos textos que e
 - [Dia 2](/blog/segundo-dia/) e 
 - [Dia 3](/blog/terceiro-dia/).
 
-{% include beda-2026.html %}
+{% include banner-beda-2026.html %}

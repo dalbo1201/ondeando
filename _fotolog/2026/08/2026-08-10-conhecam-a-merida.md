@@ -38,4 +38,4 @@ Na maioria das vezes ela fica mais afastada, no seu canto, Woody em alguns momen
 
 Sempre que aparece visita em casa ela fica no quarto, sem interagir e ainda _não se dá_ com os irmãos mais velhos que vieram com a S., diferente do Woody que tem uma relação amigável com eles.
 
-{% include beda-2026.html %}
+{% include banner-beda-2026.html %}
