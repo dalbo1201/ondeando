@@ -2,3 +2,29 @@ User-agent: *
 Disallow: /
 Allow: /$
 Allow: /feed.xml
+
+# Bots de preview de redes sociais — precisam acessar as páginas
+# pra gerar o card de compartilhamento (título, descrição, imagem)
+User-agent: facebookexternalhit
+Allow: /
+
+User-agent: WhatsApp
+Allow: /
+
+User-agent: Twitterbot
+Allow: /
+
+User-agent: LinkedInBot
+Allow: /
+
+User-agent: Discordbot
+Allow: /
+
+User-agent: Slackbot
+Allow: /
+
+User-agent: TelegramBot
+Allow: /
+
+User-agent: Pinterestbot
+Allow: /
