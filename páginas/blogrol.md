@@ -2,6 +2,7 @@
 layout: paginas
 title: Blogrol
 description: O rol de sites e blogs que eu leio, sigo e recomendo.
+image: /assets/og_image/og-image-blogrol.png
 permalink: "/blogrol"
 ---
 <h2><span aria-hidden="true">|</span><span class="h2-menor">meu </span>rol de Blogs</h2>

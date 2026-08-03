@@ -2,6 +2,7 @@
 layout: paginas
 title: Agora
 description: Uma atualização quinzenal? Talvez.
+image: /assets/og_image/og-image-agora.png
 ---
 <h2>
 <span aria-hidden="true">|</span><span class="h2-menor">e </span>Agora<span class="h2-menor">, o que estou fazendo?</span>
