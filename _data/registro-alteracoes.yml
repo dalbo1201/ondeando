@@ -1,4 +1,13 @@
 - ano: "2026"
+  data_id: "2026-08-03"
+  data_texto: "03 de agosto"
+  entradas:
+    - tags: ["html","liquid", "acabamento"]
+      texto: |
+       Configurei no `head` do site as `og tags` para que as configurações de compartilhamento permitam que as informações apareçam definidas corretamente.  
+       Deu um certo trabalho, mas fiquei satisfeito com o resultado. 
+
+- ano: "2026"
   data_id: "2026-08-01"
   data_texto: "01 de agosto"
   entradas:
