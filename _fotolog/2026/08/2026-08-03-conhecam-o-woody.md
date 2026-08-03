@@ -2,14 +2,13 @@
 layout: foto
 type: album
 title: "Conheçam o Woody"
-date: 2026-08-03 12:00:00
+date: 2026-08-03 11:10:00
 image: /assets/fotos/2026/08/20260503_155059.jpg
 caption: "Esse é o Woody [...]"
 tags:
  - fotos
  - gatos
  - beda, bewa e afins
-published: false
 ---
 <figure>
 <img class="u-photo" src="/assets/fotos/2026/08/20260503_155059.jpg" alt="Foto em close de um gato preto (chamado Woody) deitado na perna de um homem, no caso o dono do site" title="woody no mood de ficar na rede">
