@@ -2,7 +2,7 @@
 layout: paginas
 title: Colofão
 description: Bastidores técnicos e inspirações do site
-image: /assets/og_image/og-image-colofao.png
+image: /assets/og_image/og-image-colofao.jpg
 permalink: "/colofao"
 ---
 <h2> <span aria-hidden="true">|<span class="h2-menor">o </span></span>Colofão<span class="h2-menor"> deste cantinho</span></h2>
