@@ -3,6 +3,7 @@ layout: paginas
 title: Currículo
 image: /assets/foto-pedro.jpg
 description: Meu currículo atualizado.
+image: /assets/foto-pedro.jpg
 permalink: "/profissional/cv"
 ---
 <h2>
