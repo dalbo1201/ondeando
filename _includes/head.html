@@ -47,9 +47,9 @@
 <!-- Imagem (og:image / twitter:image) com fallback em cascata -->
 {% if page.image %}
   {% assign final_image = page.image %}
-{% elsif page.collection == 'blog' %}
+{% elsif page.collection == 'blog' or page.url == '/blog/' or page.url == '/blog' %}
   {% assign final_image = site.blog_image %}
-{% elsif page.collection == 'fotolog' %}
+{% elsif page.collection == 'fotolog' or page.url == '/fotolog/' or page.url == '/fotolog' %}
   {% assign final_image = site.fotolog_image %}
 {% else %}
   {% assign final_image = site.image %}
