@@ -25,3 +25,5 @@ Eu, por exemplo, não como peixe, frutos do mar ou afins e ainda assim existem o
 Acho muito válido conhecermos a culinária de outros países, a tailandesa está em alta hoje em dia, mas nosso país tem coisas maravilhosas para oferecer e muitas vezes ficamos de má vontade.  
 
 Bora buscar e fortalecer esses pequenos espaços.
+
+{% include banner-beda-2026.html %}
