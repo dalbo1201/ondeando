@@ -2,11 +2,10 @@
 layout: post
 type: notas
 title: "Será que agora vai?"
-date: 2026-08-04 12:00:00
+date: 2026-08-04 10:30:00
 tags:
  - beda, bewa e afins
  - a vida, o universo e tudo mais
-published: false
 ---
 Voltei para a academia.  
 
