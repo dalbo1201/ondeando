@@ -1,10 +1,60 @@
+
+ :root {
+  --color-background-beda2026: #F5F5F5;
+  --color-text-beda2026: #252525;
+  --color-link-beda2026: #75015c;
+  --color-hover-beda2026: #9E4D8D;
+}
+
+@media (prefers-color-scheme: dark) {
+ :root {
+  --color-background-beda2026: ##252525;
+  --color-text-beda2026: #252525;
+  --color-link-beda2026: #75015c;
+  --color-hover-beda2026: #F5D7EF;
+ }
+}
+
+.banner-beda2026 h6 {
+ color: color-mix(in srgb, var(--color-text-beda2026), transparent calc(100% - (var(--text-transparency) * 100%)));
+}
+
+/* --- INÍCIO ACERTO DE CORES PARA LINKS DENTRO DO BANNER DO BEDA2026--- */
+.banner-beda2026 a, .banner-beda2026 nav a {
+  border-radius: 3px;
+  padding: 0.09em;
+  display: inline;
+  box-decoration-break: clone;
+  line-height: 1.1;
+  background-image: linear-gradient(to top, var(--color-hover-beda2026) 50%, transparent 50%);
+  background-size: 100% 200%;
+  background-position: top;
+  transition: background-position 0.3s ease, color 0.3s ease;
+  color: var(--color-link-beda2026);
+  text-decoration: underline solid .125rem;
+}
+
+/* --- 1.1 ESTADOS DE COR E HOVER para os textos em geral--- */
+.banner-beda2026 a:link, .banner-beda2026 a:visited, .banner-beda2026 a:active, .banner-beda2026 nav a {
+ color: var(--color-link-beda2026);
+}
+
+.banner-beda2026 a:hover, .banner-beda2026 nav a:hover {
+ cursor: pointer;
+ color: var(--color-background-beda2026);
+ background-position: bottom;
+ text-decoration: underline solid .125rem;
+}
+
+/* --- FINAL ACERTO DE CORES PARA LINKS DENTRO DO BANNER DO BEDA2026--- */
+
 .banner-beda2026 {
  display: flex;
  flex-direction: row;
  background-color: #EFE6D8;
  border: 3px solid #9E9952; 
  border-radius: 0.5rem;
- color: var(--color-text);
+ color: var(--color-text-beda2026);
  font-size: clamp(0.88rem, 0.9vw, 0.94rem); /* 14–15px */
  padding: 0.5rem 0.5rem;
  gap: clamp(0.5rem, 0.9vw, 1rem);
@@ -46,7 +96,7 @@
  background-color: #EFE6D8;
  border: 3px solid #9E9952; 
  border-radius: 0.5rem;
- color: var(--color-text);
+ color: var(--color-text-beda2026);
  font-size: clamp(0.88rem, 0.9vw, 0.94rem); /* 14–15px */
  padding: 0.5rem 0.5rem;
  gap: clamp(0.5rem, 0.9vw, 1rem);
@@ -70,3 +120,30 @@
   background-position: center;
   vertical-align: middle;
 }
+
+  /* INÍCIO DA MODIFICAÇÃO DO NAV NO HEADER PARA CONSIDERAR O BANNER DO BEDA 2026 */
+
+.banner-nav-wrap {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+}
+
+.banner-lateral {
+  /* estilos visuais do banner em si — cor, padding, etc. */
+}
+
+@media only screen and (max-width: 40rem) {
+  .banner-nav-wrap {
+    position: relative; /* dá ao wrapper o tamanho exato do nav, já que o banner sai do fluxo */
+  }
+
+.banner-lateral {
+  position: absolute;
+  top: 40px;   /* sobe um pouco */
+  left: 0;
+  z-index: 10;
+}
+}
+
+  /* FINAL DA MODIFICAÇÃO DO NAV NO HEADER PARA CONSIDERAR O BANNER DO BEDA 2026 */
