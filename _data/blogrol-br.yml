@@ -96,3 +96,21 @@
   feed: "https://cujo.casa/feed.xml/?ref=pedro.dalbo.me"
   descricao: | 
     Uma amálgama de todos seus interesses e o lugar onde fala com as paredes. Mas vou dizer que essas paredes tem olhos e ouvidos...
+
+- blog: "divagar.blog"
+  url: "https://divagar.blog/?ref=pedro.dalbo.me"
+  autor: "Thiago Benicchio"
+  tipo: "blog"
+  plataforma: "Jekyll"
+  feed: "https://divagar.blog/feed.xml/?ref=pedro.dalbo.me"
+  descricao: | 
+    Um espaço autoral e artesanal, um pequeno canteiro de ideias criado e mantido por ele.
+
+- blog: "divagar.blog"
+  url: "https://exiladolinguistico.bearblog.dev/?ref=pedro.dalbo.me"
+  autor: "anônimo"
+  tipo: "blog"
+  plataforma: "BearBlog"
+  feed: "https://exiladolinguistico.bearblog.dev/feed/?ref=pedro.dalbo.me"
+  descricao: | 
+    Pequenas crônicas sobre os caprichos, as excentricidades, as elegâncias e, sobretudo, as trapalhadas do português brasileiro contemporâneo.
