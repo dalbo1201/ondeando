@@ -23,7 +23,15 @@
       {{ post.content | markdownify }}
     </div>
     
-    <p class="blog-seta"><a href="{{ post.url | relative_url }}#comentarios" class="linkdata">vamos conversar...</a></p>
+{% assign post_comments = site.data.comments[post.slug] | default: empty_array %}
+  
+<p class="blog-seta">
+    {% assign total = post_comments | size %}
+    {% if total == 0 %}<a href="{{ post.url | relative_url }}#comentarios" class="linkdata">vamos conversar...</a>
+    {% elsif total < 4 %}tem um bate-papo rolando, <a href="{{ post.url | relative_url }}#comentarios" class="linkdata">vem participar...</a>
+    {% else %}a conversa parece boa, <a href="{{ post.url | relative_url }}#comentarios" class="linkdata">vai ficar de fora?</a>
+    {% endif %}
+</p>
   </article>
 {% endfor %}
 

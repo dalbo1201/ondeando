@@ -2,6 +2,12 @@
   data_id: "2026-08-03"
   data_texto: "03 de agosto"
   entradas:
+    - tags: ["liquid", "acabamento"]
+      texto: |
+       Fiz uma alteração e uma gracinha com o link para os comentários das postagens na página principal do blog. Não tem mais apenas a frase _vamos conversar_, dependendo da quantidade de mensagens ficou  
+        - nenhuma mensagem: _vamos conversar..._;
+        - 1 a 3 mensagens: _tem um bate-papo rolando, vem participar..._;
+        - 4 ou mais mensagens: _a conversa parece boa, vai ficar de fora?_.
     - tags: ["html","liquid", "acabamento"]
       texto: |
        Configurei no `head` do site as `og tags` para que as configurações de compartilhamento permitam que as informações apareçam definidas corretamente.  
