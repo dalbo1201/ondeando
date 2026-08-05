@@ -17,4 +17,8 @@ tags:
 
 Vou aproveitar o BEDA e colocar aqui algumas fotos de carros antigos que tirei e ainda não vieram para o fotolog. Tirar fotos de carros antigos, em bom estado, é uma diversão para mim.  
 
+
+<aside class="missao-beda2026"><div class="aviso-texto">A <b>Missão da Semana</b>, o <b>Pergaminho Esquecido</b>, foi concluída. Essa foto estava parado nos rascunhos desde julho de 2026.
+</div></aside>
+
 {% include banner-beda-2026.html %}
