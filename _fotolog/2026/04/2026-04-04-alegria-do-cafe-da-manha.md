@@ -9,6 +9,7 @@ tags:
  - a vida, o universo e tudo mais
  - casa
  - fotos
+ - antiguidades
 permalink: "/fotolog/alegria-do-cafe-da-manha"
 ---
 <figure>

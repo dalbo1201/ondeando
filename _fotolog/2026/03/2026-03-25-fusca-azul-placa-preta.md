@@ -8,6 +8,7 @@ caption: "Fusca azul placa preta [...]"
 tags:
  - a vida, o universo e tudo mais
  - fotos
+ - antiguidades
 permalink: "/fotolog/fusca-azul-placa-preta"
 ---
 <figure>

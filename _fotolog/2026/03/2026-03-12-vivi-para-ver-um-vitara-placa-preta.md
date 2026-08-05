@@ -8,6 +8,7 @@ caption: "Vivi para ver um Vitara placa preta"
 tags:
  - a vida, o universo e tudo mais
  - fotos
+ - antiguidades
 permalink: "/fotolog/vivi-para-ver-um-vitara-placa-preta"
 ---
 <figure>

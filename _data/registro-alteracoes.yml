@@ -1,4 +1,12 @@
 - ano: "2026"
+  data_id: "2026-08-05"
+  data_texto: "05 de agosto"
+  entradas:
+    - tags: ["css","acabamento","html"]
+      texto: |
+       Criei uma nova classe `.rodape` para notas de rodapé no final de postagens.
+
+- ano: "2026"
   data_id: "2026-08-03"
   data_texto: "03 de agosto"
   entradas:

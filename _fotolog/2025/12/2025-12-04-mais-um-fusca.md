@@ -5,7 +5,7 @@ title: "Mais um fusca"
 date: 2025-12-04 12:00:00 -0300
 image: /assets/fotos/2025/12/20250720_163807.jpg
 caption: "Mais um fusca [...]"
-tags: ["a vida, o universo e tudo mais", "fotos", "passeios", "pensamentos"]
+tags: ["a vida, o universo e tudo mais", "fotos", "passeios", "pensamentos", "antiguidades"]
 permalink: "/fotolog/mais-um-fusca"
 ---
 

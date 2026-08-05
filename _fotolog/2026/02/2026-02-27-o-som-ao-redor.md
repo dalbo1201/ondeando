@@ -9,6 +9,7 @@ tags:
  - a vida, o universo e tudo mais
  - casa
  - fotos
+ - antiguidades
 permalink: "/fotolog/o-som-ao-redor"
 ---
 <figure>
