@@ -27,6 +27,6 @@ As dicas que já temos por aqui são:
 {%- for tag in tags_ordenadas -%}
 <span class="tag-reg">{{ tag }}</span>
 {%- endfor %}
-{{ item.descricao | markdownify | replace: '<p>', '' | replace: '</p>', '' }}
+{{ item.descricao | markdownify | remove: '<p>' | remove: '</p>' }}
 <br/>
 {% endfor %}
