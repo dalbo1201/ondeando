@@ -290,7 +290,6 @@ code {
  color: var(--color-background);
  border-radius: 4px;
  padding: 0 5px; /* vertical 0 / horizontal 3px */
-
 }
 
 .code-rss {
@@ -328,7 +327,6 @@ code {
   line-height: 1.2rem;
   margin-top: 10px;
   padding: 10px;
-
 }
 
 /* INÍCIO ESTILOS DE AVISO*/
