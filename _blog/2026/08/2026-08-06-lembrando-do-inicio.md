@@ -2,7 +2,7 @@
 layout: post
 type: texto
 title: "Lembrando do início"
-date: 2026-08-06 12:00:00
+date: 2026-08-06 15:30:00
 tags:
  - a vida, o universo e tudo mais
  - pensamentos
