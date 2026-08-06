@@ -17,3 +17,22 @@
   url: "https://lulylage.com/blog/"
   message: |  
     Mãozinhas de energia no ar para que você consiga a regularidade de exercícios que tanto deseja em breve! Por aqui tô na mesma luta, como é difícil, né?
+
+- id: 3
+  parent_id: 1
+  date: "2026-08-06T12:54:54.467Z"
+  name: "dalbo1201"
+  email: ""
+  url: ""
+  message: |  
+    Nossa, faz toda a diferença realmente. 
+    É dificil lutar contra a inércia, parece que mesmo a gente sabendo da importância e de que é fundamental pra nossa qualidade de vida, mesmo assim é difícil.
+
+- id: 4
+  parent_id: 2
+  date: "2026-08-06T12:55:49.067Z"
+  name: "dalbo1201"
+  email: ""
+  url: ""
+  message: |  
+    Muito dificil, manter o foco e vencer a preguiça e as desculpas inventadas na nossa cabeça.
