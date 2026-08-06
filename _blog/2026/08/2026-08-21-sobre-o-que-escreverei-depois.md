@@ -9,7 +9,7 @@ tags:
  - a vida, o universo e tudo mais
 published: false
 ---
-Já estamos no meio do mês, acho que nunca escrevi tanto e ainda tenho mais algumas coisas para publicar.  
+Já estamos _pra lá_ do meio do mês, acho que nunca escrevi tanto e ainda tenho mais algumas coisas para publicar.  
 
 Aproveitei alguns textos que estavam _engavetados por aí_, me desapeguei da perfeição e liberei. Não sei se fiz certo e nessa vontade de participar do BEDA posso ter queimado algumas pautas...  
 
