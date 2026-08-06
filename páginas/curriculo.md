@@ -10,7 +10,7 @@ permalink: "/profissional/cv"
 <span aria-hidden="true">|<span class="h2-menor">meu </span></span>Currículo
 </h2>
 
-<aside><a href="/assets/Pedro Dal Bó.pdf" title="meu currículo atualizado">Currículo em PDF</a></aside>
+<aside><a href="/assets/_downloads/Pedro Dal Bó.pdf" title="meu currículo atualizado">Currículo em PDF</a></aside>
 
    <!-- Seção de experiência -->
   <section aria-labelledby="experiencia-titulo">

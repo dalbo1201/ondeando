@@ -16,6 +16,7 @@ As dicas que já temos por aqui são:
 <li><a href="#separando-foto-de-texto">Separando as postagens de texto e fotos</a>;</li>
 <li><a href="#tema-junino">Tema Junino</a>;</li>
 <li><a href="#trocando-a-fonte">Trocando a fonte do espertofone</a>.</li>
+<li><a href="#bkp-blogger-md">Fazendo becape do Blogger para arquivos Markdown (Windows e Linux)</a>.</li>
 </ul>
 
 <hr>
@@ -48,3 +49,10 @@ Como eu fiz as modificações no `css` deste pequeno espaço para deixá-lo pron
 Como finalmente consegui trocar a tipologia da fonte do meu celular.
 
 [Dê uma olhada](/dicas-do-blog/trocando-a-fonte-do-espertofone) e se tiver outras formas me avisa que a gente atualiza.
+<br/><br/>
+
+<h4 id="bkp-blogger-md">Fazendo becape do Blogger para arquivos Markdown (Windows e Linux) <a href="#">&uarr;</a></h4>
+<span class="tag-reg">internet</span> <span class="tag-reg">linux</span> <span class="tag-reg">web</span> <span class="tag-reg">Windows</span>  
+APlicativo simples, feito em Python (com ajuda do Cláudio-que-bebe-mais-água-que-camelo) para poder exportar as postagens, para arquivos `.md`, e as imagens do Blogger.
+
+[Dê uma olhada](/dicas-do-blog/bkp-blogger-md) e se tiver outras formas me avisa que a gente atualiza.
