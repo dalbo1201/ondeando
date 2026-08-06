@@ -1,4 +1,12 @@
 - ano: "2026"
+  data_id: "2026-08-06"
+  data_texto: "06 de agosto"
+  entradas:
+    - tags: ["css","acabamento","html"]
+      texto: |
+       Estruturei a página [DICAS DO BLOG](/dicas-do-blog) utilizando um `template liquid` e um arquivo `dicas_do_blog.yml` com a lista de tutoriais para que o arquivo `dicas-do-blog.md` fique mais limpo. Assim eu coloco a ordem alfabética pelo `liquid` e não preciso ficar me preocupando com isso ao criar as entradas. Muito mais fácil.  
+
+- ano: "2026"
   data_id: "2026-08-05"
   data_texto: "05 de agosto"
   entradas:
