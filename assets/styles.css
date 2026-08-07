@@ -25,7 +25,10 @@
  }
 }
 
-html { scroll-behavior: smooth; }
+html {
+ scroll-behavior: smooth;
+
+}
 
 /* UNIFICADO: Body agora é o container principal */
 body {
@@ -33,12 +36,19 @@ body {
  color: var(--color-text);
  font-family: var(--font-geral);
  margin: 0 auto;
- padding: 0 5px; /* Padding mobile */
- max-width: 790px; /* Largura mobile/padrão */
+ padding: 0 5px;
+ max-width: 790px;
  display: flex;
  flex-direction: column;
- flex-wrap: wrap;
- min-height: 100vh;
+ min-height: calc(100vh - 15rem);  /* reserva ~40px de folga, sem somar altura */
+}
+
+/* NOVO: agrupa header + conteúdo, cresce para empurrar o footer */
+.page-row {
+ display: flex;
+ flex-direction: column;
+ flex: 1;
+ width: 100%;
 }
 
 /* Estrutura Auxiliar */
@@ -87,9 +97,13 @@ nav {
 @media screen and (min-width: 50rem) {
 body {
  max-width: 1200px;
+ padding: 0 40px;
+ /* removido: flex-direction: row; gap: 10px; */
+}
+
+.page-row {
  flex-direction: row;
  gap: 10px;
- padding: 0 40px;
 }
 
 header {
@@ -97,7 +111,7 @@ header {
  position: sticky;
  top: 30px;
  height: fit-content;
- margin-top: 30px;
+ margin-top: 5px;
  border-right: 1px solid color-mix(in srgb, var(--color-text), transparent 93%);
  padding-right: 50px;
  align-items: flex-start;
@@ -117,7 +131,7 @@ nav {
 
 .main-wrapper {
  width: 900px;
- padding-top: 40px;
+ margin-top: 5px;
 }
 }
 /* --- FINAL MÁGICA DO DESKTOP (UNIFICADA) --- */
@@ -1146,6 +1160,16 @@ pre code {
 /* Em telas largas mas baixas (ex: 1366x768), o header volta a rolar
    normalmente para não ficar escondido nem sobrepor o footer */
 @media screen and (min-width: 50rem) and (max-height: 680px) {
+body {
+ max-width: 1200px;
+ padding: 0 40px;
+ /* remover: flex-direction: row; gap: 10px; */
+}
+
+.page-row {
+ flex-direction: row;
+ gap: 10px;
+}
   header {
     position: static;  /* cancela o sticky */
     top: auto;
@@ -1279,109 +1303,4 @@ footer {
 
 .curriculo {
  margin: 0px 0px 30px 5px;
-}
-
-/* ============================================
-   INÍCIO DO MICROBLOG
-   ============================================ */
-  /* Balão desktop some */
-  .microblog-balao-desktop {
-    display: none;
-  }
-
-  /* Ícone: primeiro elemento da nav, à esquerda */
-  .microblog-icone {
-    display: inline-flex;
-    align-items: center;
-    order: -1;
-    margin-right: auto;
-    cursor: pointer;
-    color: var(--color-link);
-    font-size: 1.1rem;
-    line-height: 1.44rem;
-    padding: 0.09em;
-    border-radius: 3px;
-    text-decoration: none;
-    background: none !important;
-    background-image: none !important;
-    opacity: 1;
-    transition: opacity 0.2s ease;
-  }
-
-  .microblog-icone:hover {
-    opacity: 0.65;
-    background: none !important;
-    background-image: none !important;
-    text-decoration: none;
-  }
-
-  /* Balão mobile: oculto por padrão, deslocado para a direita
-     para o triângulo da seta aparecer à esquerda */
-  .microblog-balao-mobile {
-    display: none;
-    position: absolute;
-    top: 100%;
-    left: 18px;        /* desloca da borda para a seta ficar visível */
-    margin-top: 6px;
-    width: min(82vw, 340px);
-    z-index: 401;
-    filter: drop-shadow(0 4px 14px rgba(0, 0, 0, 0.28));
-  }
-
-  /* Aparece quando o toggle está marcado */
-  #microblog-toggle:checked ~ nav .microblog-balao-mobile {
-    display: block;
-  }
-
-  /* Garante que o div do balão não receba nenhum efeito de hover */
-  .microblog-balao-mobile,
-  .microblog-balao-mobile .microblog-fleabag {
-    background-image: none !important;
-    transition: none !important;
-  }
-
-  /* Fundo opaco, sem negrito, tamanho confortável no mobile */
-  .microblog-balao-mobile .microblog-fleabag {
-    display: block;
-    max-width: 100%;
-    width: 100%;
-    font-size: 0.94rem;
-    line-height: 1.45rem;
-    font-weight: normal;
-    background-color: var(--color-hover);
-  }
-
-  .microblog-balao-mobile .microblog-fleabag::after {
-    border-right-color: var(--color-hover);
-  }
-
-  /* Variante com seta no canto superior esquerdo (mobile) */
-  .fleabag-topo {
-    border-radius: 0 0.5rem 0.5rem 0.5rem;
-  }
-
-  .fleabag-topo::after {
-    bottom: auto;
-    top: 0px;
-    border-top: none;
-    border-bottom: 10px solid transparent;
-    border-right: 16px solid var(--color-hover);
-  }
-
-  /* Overlay: label vazio, cobre a tela para fechar ao clicar fora */
-  .microblog-overlay {
-    display: none;
-    position: fixed;
-    inset: 0;
-    z-index: 400;
-    background: transparent;
-    cursor: default;
-  }
-
-  #microblog-toggle:checked ~ .microblog-overlay {
-    display: block;
-  }
-/* ============================================
-   FIM DO MICROBLOG
-   ============================================ */
 }
