@@ -12,7 +12,7 @@ Durante muito tempo eu sofri demais para ir e voltar do trabalho, eram pelo meno
 
 Foram anos difíceis, mas a minha juventude me dava forças para aguentar essa _peleja_.
 
-Hoje posso dizer que alcancei um dos meus objetivos de vida. Tenho uma boa qualidade de vida morando perto de onde eu trabalho, e com isso consigo abdicar do transporte público e ir trabalhar de bicicleta. Tá, é elétrica, mas a sensação de ir de forma tranquila, fugindo do trânsito e com alguma segurança (aqui grande parte do meu percurso é por ciclovia) é de uma alegria sem tamanho. Mesmo sendo em SP.  
+Hoje posso dizer que alcancei um dos meus objetivos de vida. Tenho uma boa qualidade de vida morando perto de onde eu trabalho, e com isso consigo abdicar do transporte público e ir [trabalhar de bicicleta](/fotolog/meu-camelo-eletrico/). Tá, é elétrica<a href="#1"><sup id="1-1">1</sup></a>, mas a sensação de ir de forma tranquila, fugindo do trânsito e com alguma segurança (aqui grande parte do meu percurso é por ciclovia) é de uma alegria sem tamanho. Mesmo sendo em SP.  
 
 Eu sempre sonhei com essa coisa de **ir trabalhar de bicicleta**. Achava o máximo a possibilidade de ir sem se preocupar com trânsito ao pegar um carro e ficar parado esperando a vida acontecer, ou enfrentar um ônibus ou metrô cheio pela madrugada ou na volta à noite.  
 
@@ -25,3 +25,6 @@ Quando voltei para São Paulo, queria muito manter essa qualidade de vida, acho 
 Quando as pessoas me perguntam se eu me sinto realizado e eu respondo que sim, muito disso está fundamentado na possibilidade que eu tenho de ter esse tipo de qualidade de vida, mesmo que seja em São Paulo (porque eu dificilmente [verei algo assim](/fotolog/brasilia-e-realmente-linda/) novamente ao voltar para casa).
 
 {% include banner-beda-2026.html %}
+
+<aside class="rodape"><div id="1">1. Minha bicicleta elétrica é uma Vela, uma das poucas bicicletas elétricas que conheço que não tem acelerador, ou seja, eu preciso me manter pedalando o tempo todo para o motor funcinar. Pena que a empresa que fabrica essa bicicleta faliu na pandemia. <a href="#1-1" style="font-size: 1rem">&#8629;</a></div>
+</aside>
