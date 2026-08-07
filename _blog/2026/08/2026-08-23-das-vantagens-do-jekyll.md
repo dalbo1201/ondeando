@@ -8,7 +8,7 @@ tags:
  - a vida, o universo e tudo mais
  - informática
  - metablog
-
+published: false
 ---
 Esses dias eu passaei algumas horas melhorando o fluxo de trabalho para algumas páginas aqui do blog, principalmete o [BLOGROL](/blogrol), [DICAS DO BLOG](/dicas-do-blog) e [BARRAS](/barras)<a href="#1"><sup id="1-1">1</sup></a>. Mas o qeu eu fiz exatamente?   
 
