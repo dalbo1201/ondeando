@@ -35,6 +35,6 @@ Mas no final é isso, todo esse texto, esse (não é pensamento a palavra que pr
 
 {% include banner-beda-2026.html %}
 
-<aside class="rodape"><div id="1">1. Infelizmente sou CLJ e chamo esses momentos que seriam as <i>férias do CLT</i> de descanso remunerado mesmo. Isso porque tenho o privilégio de trabalhar numa empresa que me oferece isso, mesmo em <i>regime PJ</i>. <a href="#1-1">&#8629;</a></div>
-<div id="2">2. Morar em BSB foi uma experiência ótima, claro morando no Plano Piloto. Me adaptei muito bem, pena que foi numa época obscura do país. <a href="#2-1">&#8629;</a></div>
-<div id="3">3. Lá a gente trabalhou a pandemia toda presencialmente, eu já disse que passamos por uma época obscura? <a href="#3-1">&#8629;</a></div></aside>
+<aside class="rodape"><div id="1">1. Infelizmente sou CLJ e chamo esses momentos que seriam as <i>férias do CLT</i> de descanso remunerado mesmo. Isso porque tenho o privilégio de trabalhar numa empresa que me oferece isso, mesmo em <i>regime PJ</i>. <a href="#1-1" style="font-size: 1rem">&#8629;</a></div>
+<div id="2">2. Morar em BSB foi uma experiência ótima, claro morando no Plano Piloto. Me adaptei muito bem, pena que foi numa época obscura do país. <a href="#2-1" style="font-size: 1rem">&#8629;</a></div>
+<div id="3">3. Lá a gente trabalhou a pandemia toda presencialmente, eu já disse que passamos por uma época obscura? <a href="#3-1" style="font-size: 1rem">&#8629;</a></div></aside>

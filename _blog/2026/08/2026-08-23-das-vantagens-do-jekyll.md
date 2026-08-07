@@ -139,6 +139,6 @@ _Liquid_ não é a única linguagem _templates_, é a usada no _Jekyll_. Se voc�
 
 {% include banner-beda-2026.html %}
 
-<aside class="rodape"><div id="1">1. A página BARRAS fica ali no rodapé e o link dela está em <code>/...</code> criativo, não?😁. <a href="#1-1">&#8629;</a></div>
-<div id="2">2. A página de REGISTRO DE ALTERAÇÕES fica no rodapé no rodapé, o link está em <code>2005-2026</code>. <a href="#2-1">&#8629;</a></div>
+<aside class="rodape"><div id="1">1. A página BARRAS fica ali no rodapé e o link dela está em <code>/...</code> criativo, não?😁. <a href="#1-1" style="font-size: 1rem">&#8629;</a></div>
+<div id="2">2. A página de REGISTRO DE ALTERAÇÕES fica no rodapé no rodapé, o link está em <code>2005-2026</code>. <a href="#2-1" style="font-size: 1rem">&#8629;</a></div>
 </aside>
