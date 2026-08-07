@@ -3,7 +3,7 @@ layout: foto
 type: album
 title: "Conheçam a Selina"
 date: 2026-08-31 12:00:00
-image: /assets/fotos/2026/08/20250821_201806.jpg
+image: /assets/fotos/2026/08/20260801_000442.jpg
 caption: "Essa é a Selina [...]"
 tags:
  - fotos
@@ -12,7 +12,7 @@ tags:
 published: false
 ---
 <figure>
-<img class="u-photo" src="/assets/fotos/2026/08/20250821_201806.jpg" alt="" title="">
+<img class="u-photo" src="/assets/fotos/2026/08/20260801_000442.jpg" alt="Foto da Selina, uma gata preta. ELa está sentada ao lado de um laptop com um monitor de 34 ultrawide ao fundo. Selina está olhando com um olhar 43" title="Selina com seu olhar 43">
 <figcaption>Essa é a Selina.</figcaption>
 </figure>
 
