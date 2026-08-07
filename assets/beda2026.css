@@ -1,6 +1,7 @@
 
  :root {
-  --color-background-beda2026: #F5F5F5;
+  --color-background-beda2026: #EFE6D8;
+  --color-border-beda2026: #9E9952;
   --color-text-beda2026: #252525;
   --color-link-beda2026: #75015c;
   --color-hover-beda2026: #9E4D8D;
@@ -8,11 +9,24 @@
 
 @media (prefers-color-scheme: dark) {
  :root {
-  --color-background-beda2026: ##252525;
-  --color-text-beda2026: #252525;
-  --color-link-beda2026: #75015c;
   --color-hover-beda2026: #F5D7EF;
  }
+}
+
+.anuncio-beda {
+  flex-direction: row;
+  justify-content: center; /* centraliza o conteúdo */
+  background-color: var(--color-background-beda2026);
+  border: 1px solid var(--color-border-beda2026);
+  border-radius: 0.5rem;
+  color: var(--color-text-beda2026);
+  font-size: clamp(0.95rem, 0.9vw, 1rem);
+  padding: 0.5rem 0.5rem;
+  text-align: center;
+  align-self: flex-start;
+  width: 100%;
+  margin-top: 0.5rem;
+  margin-bottom: 0.5rem;
 }
 
 .banner-beda2026 h6 {
@@ -20,7 +34,7 @@
 }
 
 /* --- INÍCIO ACERTO DE CORES PARA LINKS DENTRO DO BANNER DO BEDA2026--- */
-.banner-beda2026 a, .banner-beda2026 nav a {
+.anuncio-beda a, .banner-beda2026 a, .banner-beda2026 nav a {
   border-radius: 3px;
   padding: 0.09em;
   display: inline;
@@ -35,7 +49,7 @@
 }
 
 /* --- 1.1 ESTADOS DE COR E HOVER para os textos em geral--- */
-.banner-beda2026 a:link, .banner-beda2026 a:visited, .banner-beda2026 a:active, .banner-beda2026 nav a {
+.anuncio-beda a:link, .anuncio-beda a:visited, .anuncio-beda a:active, .banner-beda2026 a:link, .banner-beda2026 a:visited, .banner-beda2026 a:active, .banner-beda2026 nav a {
  color: var(--color-link-beda2026);
 }
 
@@ -51,8 +65,8 @@
 .banner-beda2026 {
  display: flex;
  flex-direction: row;
- background-color: #EFE6D8;
- border: 3px solid #9E9952; 
+ background-color: var(--color-background-beda2026);
+ border: 3px solid var(--color-border-beda2026);
  border-radius: 0.5rem;
  color: var(--color-text-beda2026);
  font-size: clamp(0.88rem, 0.9vw, 0.94rem); /* 14–15px */
@@ -93,8 +107,8 @@
 .missao-beda2026 {
  display: flex;
  flex-direction: row;
- background-color: #EFE6D8;
- border: 3px solid #9E9952; 
+ background-color: var(--color-background-beda2026);
+ border: 3px solid var(--color-border-beda2026);
  border-radius: 0.5rem;
  color: var(--color-text-beda2026);
  font-size: clamp(0.88rem, 0.9vw, 0.94rem); /* 14–15px */
