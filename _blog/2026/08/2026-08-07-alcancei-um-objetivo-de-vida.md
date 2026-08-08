@@ -26,5 +26,5 @@ Quando as pessoas me perguntam se eu me sinto realizado e eu respondo que sim, m
 
 {% include banner-beda-2026.html %}
 
-<aside class="rodape"><div id="1">1. Minha bicicleta elétrica é uma Vela, uma das poucas bicicletas elétricas que conheço que não tem acelerador, ou seja, eu preciso me manter pedalando o tempo todo para o motor funcinar. Pena que a empresa que fabrica essa bicicleta faliu na pandemia. <a href="#1-1" style="font-size: 1rem">&#8629;</a></div>
+<aside class="rodape"><div id="1">1. Minha bicicleta elétrica é uma Vela, uma das poucas bicicletas elétricas que conheço que não tem acelerador, ou seja, eu preciso me manter pedalando o tempo todo para o motor funcinar. Pena que a empresa que fabrica essa bicicleta faliu na pandemia. <a href="#1-1" style="font-size: 14px">&#8629;</a></div>
 </aside>
