@@ -1,14 +1,12 @@
 ---
 layout: post
 type: texto
-title: "Algumas indicações de onde comer"
+title: "Uma recomendação de bar"
 date: 2026-08-08 12:00:00
 tags:
  - beda, bewa e afins
  - recomentdação
  - passeios
- - a vida, o universo e tudo mais
-published: false
 ---
 Eu tenho uma curiosidade que não cheguei a citar no [tema de junho/2026](https://pedro.dalbo.me/blog/dez-curiosidades/) do [ENTREGLOGS](https://entreblogs.com.br). Eu gosto de escrever minhas opiniões, no Google Maps, sobre os locais que eu visito (principalmente as positivas para não _sacanear_).  
 
@@ -32,6 +30,13 @@ Mas o que vale a pena lá? Bom, vamos começar com os comes...
 
 A porção de batata frita é bem gostosa, fininha, seca e com umas especiarias que dão um sabor bacana e depois já emenda com o aipim frito, macio, frito no ponto certo e com uma pimentinha do reino, não tem arrependimento.  
 
-Para beber, eu recomendo muito o Caju Amigo, um drink de que une vodka, suco de caju e compota de caju, olha, não tem erro.
+Para beber, eu recomendo muito o Caju Amigo, um drink de que une vodka, suco de caju e compota de caju, olha, não tem erro.  
+
+Um review curto, consiso e direto ao ponto, não fico maquiando muito as coisas, porque o objetivo não é esse.
+
+<figure>
+<img class="u-photo" src="/assets/fotos/2026/08/20260725_195953.jpg" alt="Foto do painel da cervejaria. Um tapete preto com a logomarca da vervejaria, uma jiboia branca." title="Uma foto mal tirada" aria-describedby="desc-colagem">
+<figcaption>Uma foto mal tirada para marcar presença</figcaption>
+</figure>
 
 {% include banner-beda-2026.html %}
