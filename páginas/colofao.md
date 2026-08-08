@@ -60,7 +60,7 @@ Mais detalhes de como é [o processo de escrita por aqui](/blog/como-as-coisas-a
 
 
 <h3 id="filosofia">Filosofia</h3>
-- O site não tem nenhum sistema de _analytics_ ou plugins de mídias-sociais, [confime por aqui](https://themarkup.org/blacklight?url=https%3A%2F%2Fpedro.dalbo.me&device=mobile&location=us-ca&force=false);  
+- O site não tem [nenhum sistema de _analytics_<sup>[en]</sup>](https://themarkup.org/blacklight?url=https%3A%2F%2Fpedro.dalbo.me&device=mobile&location=us-ca&force=false) ou plugins de mídias-sociais;  
 - Apesar de estar hospedado no GitHub, tento evitar o máximo possível depender de _Big Techs_ – embora nem sempre seja totalmente viável dado minha completa inexperiência nesse mundo de programações e linguegens web;  
 - O uso de _LLM_ por aqui se restringe a auxílios na revisão de códigos, já que esse claramente não é meu forte.  
 
