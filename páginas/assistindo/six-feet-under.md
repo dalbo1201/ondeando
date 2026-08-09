@@ -292,7 +292,7 @@ David e Keith numa lua de mel que vamos torcer para não acabar em tragédia.
 
 Ruth descobrindo o que realmente aconteceu com Nikolai e a esperança é isso não espirrar nela e que ela não gaste todo seu dinheiro arrumando a vida no namorado.  
 
-A Clare é sempre uma icógnita, às vezes ela parece entender onde está se metendo, às vezes não... Bom, isso é ser adolecente, não é mesmo? Mas pelo menos depois dessa nova confusão com o Billy ela parece ter descoberto o que ela quer fazer da vida. Vamos ver até qual episódio vai isso.  
+A Claire é sempre uma icógnita, às vezes ela parece entender onde está se metendo, às vezes não... Bom, isso é ser adolecente, não é mesmo? Mas pelo menos depois dessa nova confusão com o Billy ela parece ter descoberto o que ela quer fazer da vida. Vamos ver até qual episódio vai isso.  
 
 **e10**  
 Gente, esse episódio deu uma pesada na mão...  
@@ -303,13 +303,13 @@ A Brenda e o Nate são outros dois que estão se esforçando para desabar com as
 
 O Nate, gente que confusão é essa? Quantas vezes ele fez uma garota abortar? E agora essa necessidade dele de assumir um bebê, mas sem nem ao menos falar com a Brenda antes. Esse casal tá me desanimando.  
 
-A Ruth, tá divertida também, mas eu esperava que ela mantivesse o lance de não se tornar esposa do Nikolai.  
+A Ruth tá divertida também, mas eu esperava que ela mantivesse o lance de não se tornar esposa do Nikolai.  
 
 > Eu serei sua amiga e sua amante, mas não sua esposa.
 
 Mas parece que o lance de _ter que cuidar de alguém_ ainda ta muito forte nela, ela precisa se livrar disso.
 
-E a Clare, ela parece ter encontrado algo que ela gosta, mas ainda não entendeu o que fazer da vida dela até esse suposto objetivo. Vamos torcer para dar tudo certo com ela. E fico feliz se o Gabriel não retornar _do nada_ para atrapalhar tudo.  
+E a Claire, ela parece ter encontrado algo que ela gosta, mas ainda não entendeu o que fazer da vida dela até esse suposto objetivo. Vamos torcer para dar tudo certo com ela. E fico feliz se o Gabriel não retornar _do nada_ para atrapalhar tudo.  
 
 <h4 id="t02e11-12">t02e11-12 <a href="#">&uarr;</a></h4>  
 
@@ -322,7 +322,7 @@ A Ruth realmente dá uma forçada de barra, mas é uma pessoa bacana e uma perso
 
 David e Keith escolhendo uma responsabilidade grande, mas acho que era o esperado no rolê.  
 
-Eu estou curioso para ver como os irmãos vão sair dessa confusão do processo e vou dizer que eu nao esperava por essa. Agora, isso tem muito cara de golpe da concorrência. 
+Eu estou curioso para ver como os irmãos vão sair dessa confusão do processo e vou dizer que eu não esperava por essa. Agora, isso tem muito cara de golpe da concorrência. 
 
 **e12**  
 Gente não tem muito o que dizer, né... Um episódio de términos e mesmo assim ele termina com um novo começo para Maya.  
@@ -331,26 +331,26 @@ A confusão da Brenda ia esparramar uma hora, mas foi bem bizarra a situação. 
 
 Ruth mudou com Nikolai de não querer ser esposa para querer ser esposa e mesmo assim ter a ciência de que não tava valendo a pena ficar com ele já que ela não estava sentindo a reciprocidade dele.  
 
-Vamos torcer pela Clare, porque ela precisa de uma alegria só dela nessa vida, será que conseguirá entrar para a faculdade de artes?  
+Vamos torcer pela Claire, porque ela precisa de uma alegria só dela nessa vida, será que conseguirá entrar para a faculdade de Artes?  
 
 <h3 id="t03e01-02">Temporada 3</h3>
 <h4>t03e01-02 <a href="#">&uarr;</a></h4>
 
 **e01**  
-Gente, eu gosto muito do Nate, mas essa pegada Crepúsculo que mata, mas não mate eu fico desanimado. (Sei que Crepúsculo veio depois).
+Gente, eu gosto muito do Nate, mas essa pegada _Crepúsculo_ que mata, mas não mata, eu fico desanimado (sei que _Crepúsculo_ veio depois).
 
-Foi estranho demais esse episódio, a gente nao sabe se morreu ou não e essa relação família margarina meio estragada dele com a Lisa ta bizarra demais. Sei lá isso me pegou demais.  
+Foi estranho demais esse episódio, a gente nao sabe se morreu ou não e essa relação família margarina estragada dele com a Lisa ta bizarra demais. Sei lá, isso me pegou demais.  
 
-Essa terapia de casal do David e Keith vai ser difícil, Keith tá se sentindo muito destruido por causa do emprego, vai ser difícil essa relação. 
+Essa terapia de casal do David e Keith vai ser difícil, Keith tá se sentindo muito destruído por causa do emprego, vai ser difícil essa relação. 
 
 **e02**  
-Na boa gente eu já não suporto mais o Rico, que raiva dessa superioridade moral dele, concordo demais com o David. Tô torcendo contra ele.  
+Na boa gente, eu já não suporto mais o Rico, que raiva dessa superioridade moral dele, concordo demais com o David. Tô torcendo contra ele.  
 
-Essa relação do David e Keith tá difícil também esse terapeuta tem trabalho pela frente.  
+Essa relação do David e Keith tá difícil também, esse terapeuta tem trabalho pela frente.  
 
-A relação do Nate e da Lisa também é muito família margarina estragada. Ta dificil comprar essa temporada do Nate.
+Essa relação do Nate e da Lisa também tá dificil de comprar.
 
-A Ruth, continua ótima, agora vamos trabalhar essa relação com a irmã, pode ser bom.  
+A Ruth continua ótima, agora vamos trabalhar essa relação com a irmã, pode ser bom.  
 
 Não falei nada antes, mas esse peguete da Claire vai dar trabalho. E ela precisa entender logo que estudar teoria é importante também, tá faltando professor nesse lugar para orientar essa garotada.
 
@@ -359,27 +359,27 @@ Não falei nada antes, mas esse peguete da Claire vai dar trabalho. E ela precis
 **e04**  
 Episódio meio estranho no início, essa pegada do Nate sonhando com a mãe... Os roteiristas tão bem fora da casinha.  
 
-Mas o episódio andou muito bem. Mais uma vez focado na Ruth, que se mostra sempre uma excelente personagem. Não vou negar que fiquei feliz da louca chinesa não ter virado caco, normalmente essa atenção toda resulta numa catástrofe.  
+Mas o episódio andou muito bem. Mais uma vez focado na Ruth, que se mostra sempre uma excelente personagem. Não vou negar que fiquei feliz pela louça chinesa não ter virado caco, normalmente essa tensão toda resulta numa catástrofe.  
 
-Essa historia do filho (revoltado) se tornar o pai, sério que vamos caminhar pra isso? Espero que não. O Nate vinha crescendo como personagem ate a 2 temporada, morrer não fez bem a ele.  
+Essa história do filho (revoltado) se tornar o pai, sério que vamos caminhar pra isso? Espero que não. O Nate vinha crescendo como personagem ate a segunda temporada, morrer não fez bem a ele.
 
 Eu torço muito para essa temporada ser apenas um pesadelo e melhorar na quarta.
 
 <h4 id="t03e05-06">t03e05-06 <a href="#">&uarr;</a></h4>
 
 **e05**  
-Esse foi um episódio que acrescentou pouco. Mesmo a presença da Brenda não trouxe algo de realmente novo. A gente sabe que a vida real nem sempre tem algum glamour, mas pelo amor essa vida do Nate tá difícil. A Lisa também não esta com um bom desenvolvimento, essa dependência com o Nath, não está contribuindo. Ela poderia ser uma personagem muito mais interessante e acrescentar mais para a série. 
+Esse foi um episódio que acrescentou pouco. Mesmo a presença da Brenda não trouxe algo de realmente novo. A gente sabe que a vida real nem sempre tem algum glamour, mas pelo amor... essa vida do Nate tá difícil. A Lisa também não está com um bom desenvolvimento e essa dependência dela do Nate não está contribuindo. Ela poderia ser uma personagem muito mais interessante e acrescentar mais para a série. 
 
 Kevin e Dave estão caminhando uma estrada difícil também.  
 
-Ruth ainda parece ser a personagem mais interessante  e sua relação com a Bettina é ótima. Falar que ver o _Dwight jovem_ foi divertido e a relação com a Ruth deve gerar boas cenas.  
+Ruth ainda parece ser a personagem mais interessante e sua relação com a Bettina é ótima. Ver o _Dwight jovem_ foi divertido e a relação com a Ruth deve gerar boas cenas.
 
 **e06**
 A relação da Ruth com o Dwight esta divertida, rapidamente ela evoluiu e parece que pode se tornar algo mais.  
 
-Nate numa pegada Legionários foi meio chato, mas talvez o passeio tenha melhorado as coisas entre eles. Mas que tá cansativa essa história, está.  
+Nate numa pegada _Legionários_ foi meio chato, mas talvez o passeio tenha melhorado as coisas entre eles. Mas que tá cansativa essa história, está.  
 
-Clare e o namorado que nao ia ser namorado, vamos ver onde dá. Essa temporada as relações não estao tão interessantes, mas altos e baixos acontecem sempre.  
+Claire e o namorado que não ia ser namorado... vamos ver onde dá. Nessa temporada as relações não estão tão interessantes, mas altos e baixos acontecem sempre.  
 
 <h4 id="t03e07-08">t03e07-08 <a href="#">&uarr;</a></h4>
 
@@ -387,7 +387,7 @@ Clare e o namorado que nao ia ser namorado, vamos ver onde dá. Essa temporada a
 Não fiz anotações.
 
 **e08**  
-Eu achava que a Brenda já tivesse visto a Lisa antes, mas parece que não... Meio bizarro essa coisa de esposa perseguindo a não-amante, como a mãe fez antes. Achei que a Lisa fosse se entregar em algum momento, não aconteceu e agora fico curioso se elas se encontrarem _oficialmente_.  
+Eu achava que a Brenda já tivesse visto a Lisa antes, mas parece que não... Meio bizarro essa coisa de esposa perseguindo a não-amante, como a mãe fez antes. Achei que a Lisa fosse se entregar em algum momento, não aconteceu, e agora fico curioso pra ver se elas vão se encontrar _oficialmente_.  
 
 A Ruth é muito divertida, disparada a melhor personagem da série. E a relação dela com o Arthur tá muito boa. Vamos ver até qual temporada ele sobrevive.  
 
@@ -398,22 +398,22 @@ David e Keith bem soltos depois de uma matança, vamos ver se essa relação mel
 **e09**  
 Gente, a temporada melhora, mas é bem mais fraca que as outras.  
 
-A situação do Dave ta bem chata, claramente ele está mais uma cez forçando para manter a relação tranquila, mas ela nao caminha bem com o Keith fazendo as coisas a revelia, sem prestar atenção se esta realmente bom pro Dave.  
+A situação do Dave tá bem chata, claramente ele tá mais uma vez forçando para manter a relação tranquila, mas ela não caminha bem, com o Keith fazendo as coisas a revelia, sem prestar atenção se está realmente bom pro Dave.  
 
-O Nath e a Lisa, no começo parece bonitinha essa historia de fazer dar certo  mas tá num ritmo bem ruim de acompanhar.  
+O Nath e a Lisa, no começo parece bonitinha essa historia de fazer dar certo, mas tá num ritmo bem ruim de acompanhar.  
 
 Pra finalizar, temos Ruth com o Arthur, que parece fofo, mas acho que vai ficar só na amizade e aí acho que é um retrocesso de relacionamento pra ela.  
 
 **e10**  
-Um episódio bonitos de algums formas, mas ao mesmo tempo triste e complicado.  
+Um episódio bonito de algumas formas, mas ao mesmo tempo triste e complicado.  
 
-Complicado pela situação em que Clare e David se encontram. Não dando sorte nas relações, os dois tendo de certa forma problema com limites. Clare ainda foi traída duas vezes, na mentira e na ação.  
+Complicado pela situação em que Claire e David se encontram. Não dando sorte nas relações, os dois tendo de certa forma problemas com limites. Claire ainda foi traída duas vezes, na mentira e na ação.  
 
 Para nós, espectadores, valeu demais porquê gerou a bela cena dela com sua mãe, em mais uma conversa franca e cheia de bons sentimentos e acolhimento. Se tem algo que não acho que posso reclamar é da serie não evoluir esses personagens.  
 
-David e Keith claramente estao confusos quando ao qie entendem de cada sessão de terapia. Keith parece forçar situações e ainda invalidar David com vontade. Nao sei se caminharemos para um final _juntos para sempre_ aqui, e não sei se reclamaria disso.  
+David e Keith claramente estão confusos quando ao que entendem de cada sessão de terapia. Keith parece forçar situações e ainda invalidar David com vontade. Não sei se caminharemos para um final _juntos para sempre_ aqui, e não sei se reclamaria disso.  
 
-Nate, sendo Nate e enchendo o saco da Brenda por telefone. Rapaz, lida com sua culpa sozinho e nao va despejar nela o problema.
+Nate sendo Nate e enchendo o saco da Brenda por telefone. Rapaz, lida com sua culpa sozinho e não vá despejar nela o problema.
 
 <h4 id="t03e11-12">t03e11-12 <a href="#">&uarr;</a></h4>
 
@@ -421,22 +421,22 @@ Nate, sendo Nate e enchendo o saco da Brenda por telefone. Rapaz, lida com sua c
 Não anotei nada.
 
 **e12**
-Tenho pouco a falar, apenas que fiquei mais tranquilo com a decisão da Claire e que bom que a  estava lá na hora e ela não precisou ir sozinha.  
+Tenho pouco a falar, apenas que fiquei mais tranquilo com a decisão da Claire e que bom que a Brenda estava lá na hora e ela não precisou ir sozinha.  
 
 Eu consigo entender o sofrimento do Nate, mas não consigo me pegar mais a ele, simples assim.  
 
-Eu espero que a situação do David e Keith se resolva de verdade, já tá mais que chato esse vai e vem que bao se resolve. Eu gosto deles juntos, mas resolve se eles vão se entender ou se vai ficar essa ladainha com eles. Nenhum dos dois merece.  
+Eu espero que a situação do David e do Keith se resolva de verdade, já tá mais que chato esse vai e vem que não se resolve. Eu gosto deles juntos, mas resolve se eles vão se entender ou se vai ficar essa ladainha. Nenhum dos dois merece.  
 
 <h4 id="t03e13">t03e13 <a href="#">&uarr;</a></h4>
 
 **e13**  
-Esses sonhos da Claire foram meio forçados, essa história dela adivinhar quem tá morto e ver a Lisa, não colocou. E sério que tinha que rolar de ver o bebê abortado e ainda por cima grande daquele jeito? E essa hisotrinha de "cuida do meu que eu cuido do seu"?  
+Esses sonhos da Claire foram meio forçados, essa história dela adivinhar quem tá morto e ver a Lisa não colou. E sério que tinha que rolar de ver o bebê abortado e ainda por cima grande daquele jeito? E essa historinha de "cuida do meu que eu cuido do seu"?  
 
 Olha, eu entendo a culpa que o Nate sente, mas eu mais uma vez não consigui sentir pena dele. Não rolou essa temporada. E fiquei com pena da Brenda ter que lidar com esse enrosco no final da temporada agora que tá se ajeitando com o "boyband".
 
 Sobre o Keith e o David, eu espero que se resolvam, que sejam felizes como tiver que ser.  
 
-A melhor personagem continua sendo a Ruth, disparado e espero que dê tudo certo pra ela, mas com a velocidade que rolou esse casamento, tô com minhas dúvidas.  
+A melhor personagem continua sendo a Ruth, disparado, e espero que dê tudo certo pra ela, mas com a velocidade que rolou esse casamento, tô com minhas dúvidas.  
 
 <h4 id="">Que temporada... <a href="#">&uarr;</a></h4> 
 Ruim demais.  
@@ -447,11 +447,11 @@ Eu esperava que a Claire fosse ter um desenvolvimento melhor, não que tenha sid
 
 O mesmo para o David e o Keith, eu achava que seriam mais trabalhados e cresceriam mais, mas não aconteceu. Mas assim como a Claire, ainda tem espaço.  
 
-A Ruth continua sendo a melhor personagem, tava interessante com o Arthur, mas gostei dela ter sido firme e decidida, mas fiquei decepcionado com o caminho que tomou com o George, eu esperava ela mais livre nas relações dela. Vamos ver o que acontece, mas, em geral, quando casa rápido é para dar ruim.  
+A Ruth continua sendo a melhor personagem, tava interessante com o Arthur, gostei dela ter sido firme e decidida, mas fiquei decepcionado com o caminho que tomou com o George, eu esperava ela mais livre nas relações dela. Vamos ver o que acontece, mas, em geral, quando casa rápido é pra dar ruim.  
 
-E olha, mesmo com tantos baixos, a série surpreende com temos tão bons em 2003, relacionamentos homossexuais, questões com famílias abusivas, idosos ativos, não apenas sexualmente, mas querendo uma vida plena, aborto. Tudo com a naturalidade que merece e com o respeito necessário.  
+E olha, mesmo com tantos baixos, a série surpreende com temas tão bons em 2003, relacionamentos homossexuais, questões com famílias abusivas, idosos ativos, não apenas sexualmente, mas querendo uma vida plena, aborto. Tudo com a naturalidade que merece e com o respeito necessário.  
 
-Que a série retorne a uma situação melhor de antes dessa temporada.  
+Que a série retorne a uma situação melhor do que antes dessa temporada.  
 
 <h3 id="t04e01-02">Temporada 4</h3>
 <h4>t04e01-02 <a href="#">&uarr;</a></h4>
@@ -461,13 +461,13 @@ Um bom episódio, mas um mal começo de temporada. Digo isso porque esse episód
 
 Alias, um encerramento que me desencanta, a solução de matar a Lisa não me agrada, fica fácil para o personagem do Nate que fica num _esquece e lembra_ das coisas conforme agrada. E a atitude dele com a Brenda nesse episódio mostra bem isso.  
 
-Eu tenho a sensação que esse George vai fazer besteira, essa conversando na noite de núpcias não me parece que vá terminar bem.
+Eu tenho a sensação que esse George vai fazer besteira, essa conversa na noite de núpcias não me parece que vai terminar bem.
 
 > as pessoas podem não gostar da vida que vivi, mas eu não me arrependo... (ou algo assim)
 
 Cara, isso é uma bandeirinha vermelha. Espero que depois dessa a Ruth não tenha outra recaída e continue sua evolução como personagem, que até agora se mostrou a mais interessante. Que isso continue.  
 
-Não sei se achei justa a atitude da Claire, contar pro cara depois e ainda ficar desmerecendo o que ele possa sentir? Sei lá. Eu acho que a serie deveria ter dado uma chance pra ele fazer o certo e apoiá-la nesse momento, elogiei tanto a serie por lidar tão bem com o aborto e outros temas, mas ir para o clichê de que o cara será um babaca, diminui um pouco. Eu esperava um pouco mais, mas seguimos.  
+Não sei se achei justa a atitude da Claire, contar pro cara depois e ainda ficar desmerecendo o que ele possa sentir? Sei lá. Eu acho que a série deveria ter dado uma chance pra ele fazer o certo e apoiá-la nesse momento, elogiei tanto a série por lidar tão bem com o aborto e outros temas, mas ir para o clichê de que o cara será um babaca diminui um pouco o mérito. Eu esperava um pouco mais, mas seguimos.  
 
 E essa jogada da família na troca das cinzas, eu entendo a poesia da coisa, mas vai ficar nisso mesmo? E se esse corpo é encontrado por qualquer motivo, qual seria o ganho pra série?  
 
@@ -485,9 +485,7 @@ Gente, o Nate deu a volta nesse episódio, só espero que não seja de 360.
 
 Essa fogueira no final, espero que seja um sinal de que a partir de agora seja bom novamente, queimando tudo de ruim que rolou na temporada passada.  
 
-Claire, ficando confusa com as vontades e desejos.  
-
-A série tá apelando ou só mantendo um lado mais _pra frente_ que sempre teve?
+Claire ficando confusa com as vontades e desejos...  A série tá apelando ou só mantendo um lado mais _pra frente_ que sempre teve?
 
 **e04**  
 Sem comentários, não anotei nada.
@@ -502,26 +500,26 @@ Sério, eu já não estou feliz com os rumos desde a temporada passada, mas acho
 <h4 id="t04e06-09">t04e06-09 <a href="#">&uarr;</a></h4>
 
 **e06 ao e09**  
-Fui bem relapso nas minhas anotações e a memoria me confunde um pouco.  
+Fui bem relapso nas minhas anotações e a memória me confunde um pouco.  
 
 A questão com o David me chateou bastante, O personagem sofre desde o início com sua sexualidade, aí quando ele parece que está se resolvendo, e tendo problemas mais saudáveis (se é que isso existe) vem uma coisa dessas, não gostei.  
 
-A relação Nate-Brenda é outra que me incomoda muito. A sensação que tenho que toda a terceira temporada com a Lisa serviu só pra Brenda não ter que lidar com os traumas dela de ter uma criança e ganhar de bandeja um namorido zoado com uma bebê, enquanto ela continua zoada da cabeça junto. Desonesto com a Lisa e na preguiça de ter que lidar com algo maior matam a mulher. Alias, agora que _descobriram_ que os restos não são da Lisa o Nate vai preso por enterrá-la aleatoriamente ou rola outro _deus ex-maquina_?  
+A relação Nate-Brenda é outra que me incomoda muito. A sensação que tenho é que toda a terceira temporada com a Lisa serviu só pra Brenda não ter que lidar com os traumas dela de ter uma criança e ganhar de bandeja um namorido zoado com uma bebê, enquanto ela continua zoada da cabeça junto. Desonesto com a Lisa e na preguiça de ter que lidar com algo maior matam a mulher. Aliás, agora que _descobriram_ que os restos não são da Lisa o Nate vai preso por enterrá-la aleatoriamente ou rola outro _deus ex-maquina_?  
 
 A Claire e sua busca pela sexualidade tá interessante, mas pode ficar cansativo se não tiver alguma resolução, seja ela qual for.  
 
-A Ruth, tem altos e baixos na personalidade e relacionamentos. Eu tenho pego ranço do George, mas ela também tem variado. Continua sendo a melhor personagem.
+A Ruth tem altos e baixos na personalidade e nos relacionamentos. Eu tenho pego ranço do George, mas ela também tem variado. Continua sendo a melhor personagem.
 
 <h3 id="t05e01-06">Temporada 5</h3>
 <h4>t05e01-06 <a href="#">&uarr;</a></h4>
 
 Fiquei devendo muitos textos, mas a temporada começou melhor. A quarta foi melhor que a terceira, mas isso não é bem um elogio.  
 
-A situação do George realmente desandou, fiquei triste porque parecia que a Ruth teria um bom caminho pela frente, mas parece que vai por um lugar meio incômodo. Quando a Ruth encontra um cara que poderia ser _um pouco estranho_, mas ainda assim funcional a história se perde e ele vira um fardo? Não sei se precisava disso. Aí para terminar ela arruma uma forma de colocar ele de escanteio, mas dão ao George o direito de terminar tudo com alguma dignidade. Acho que a história toda, considerando que estamos na última temporada poderia ter uma levada melhor.  
+A situação do George realmente desandou, fiquei triste porque parecia que a Ruth teria um bom caminho pela frente, mas parece que vai por um lugar meio incômodo. Quando a Ruth encontra um cara que poderia ser _um pouco estranho_, mas ainda assim funcional a história se perde e ele vira um fardo? Não sei se precisava disso. Aí para terminar ela arruma uma forma de colocar ele de escanteio, mas dão ao George o direito de terminar tudo com alguma dignidade. Acho que a história toda, considerando que estamos na última temporada, poderia ter uma levada melhor.  
 
-A busca por uma criança pelo Keith e David está interessante. Em alguns momentos eu achei que a coisa fosse desandar na hora de decidir entre adoção e inseminação, mas agora esta bem claro que o dilema será fazer os garotos agirem de maneira mais _adequada_ e Keith lidar melhor com sua raiva e descontrole. Pode ser interessante, mas acho que esta sendo pouco aproveitado em função de outros arcos.  
+A busca por uma criança pelo Keith e David está interessante. Em alguns momentos eu achei que a coisa fosse desandar na hora de decidir entre adoção e inseminação, mas agora está bem claro que o dilema será fazer os garotos agirem de maneira mais _adequada_ e Keith lidar melhor com sua raiva e descontrole. Pode ser interessante, mas acho que está sendo pouco aproveitado em função de outros arcos.  
 
-Aí entra Brenda e Nate novamente. Uma dinamica que parece interessante, pode terminar muito bem, mas esse pseudo-clima entre Nath e Jackie me da uma canseira. Espero que não dê em nada. A Brenda fez muita merda? Fez, mas se voltam não dá pra comprar essa bagunça.  
+Aí entra Brenda e Nate novamente. Uma dinâmica que parece interessante, pode terminar muito bem, mas esse pseudo-clima entre Nath e Maggie me dá uma canseira. Espero que não dê em nada. A Brenda fez muita merda? Fez, mas se voltam não dá pra comprar essa bagunça.  
 
 A Claire é outra que busca confusão indo atrás do professor substituto Billy. Ela sabe que ele é complicado e mesmo assim entra na relação. Pelo menos ela sai sem aparentemente grandes problemas, coisa que a Brenda não teve tanta sorte.
 
@@ -531,11 +529,11 @@ Gente, eu até desanimei de continuar escrevendo porquê a minha sensação é d
 
 Uma série ótima, bons personagens, bons atores, mas a história se perdeu demais, não sei dizer.  
 
-Pelo menos vejo que a Ruth terminou de uma maneira mais honesta com o que ela queria logo que Nathaniel morreu e então eu pergunto. Ela não poderia ter uma jornada melhor já que no final ela chegaria onde queria? 
+Pelo menos vejo que a Ruth terminou de uma maneira mais honesta com o que ela queria logo que Nathaniel morreu e então eu pergunto: ela não poderia ter uma jornada melhor já que no final ela chegaria onde queria? 
 
 Keith teve uma jornada honesta com o personagem, ele teve seus altos e baixos, mas chegou ao final resolvido e fiel ao personagem, seus desdobramentos e evolução.  
 
-David foi outro que não da pra entender. Ele passou por aquele trauma enorme do sequestro, não vimos ele se tratando disso. Depois o trauma da morte do Nate piorou a situação, mas ele parece ter resolvido sozinho numa luta no plano astral contra seu pai e ele-mesmo-fóssil-dente-de-sabre.  
+David foi outro que não dá pra entender. Ele passou por aquele trauma enorme do sequestro, não vimos ele se tratando disso. Depois o trauma da morte do Nate piorou a situação, mas ele parece ter resolvido sozinho numa luta no plano astral contra seu pai e ele-mesmo-fóssil-dente-de-sabre.  
 
 Brenda parece ter se resolvido e acertado as pontas com Ruth, o que foi ótimo para todo mundo.  
 
