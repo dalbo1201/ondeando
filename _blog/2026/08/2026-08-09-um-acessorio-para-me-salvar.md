@@ -2,7 +2,7 @@
 layout: post
 type: notas
 title: "Um acessório para me salvar"
-date: 2026-08-09 12:00:00
+date: 2026-08-09 10:00:00
 tags:
  - a vida, o universo e tudo mais
  - beda, bewa e afins
