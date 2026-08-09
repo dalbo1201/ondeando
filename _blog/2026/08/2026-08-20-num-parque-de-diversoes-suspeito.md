@@ -14,11 +14,11 @@ Durante esse BEDA eu li o texto de aniversário (entendi certo) do Eliel falando
 
 Isso já faz um bom tempo, assim coisa de mais de 20 anos, com certeza. É da época em que eu [frequentava a igreja](/blog/dez-curiosidades/).  
 
-Tinha um amigo nosso que os pais tinha um apartamento em Mongaguá, combinamos um final de semana para irmos para a praia.  
+Tinha um amigo nosso que os pais tinham um apartamento em Mongaguá, combinamos um final de semana para irmos para a praia.  
 
 Nada demais, praia durante o dia, aproveitar o sol, entrar no mar, comer uma porção duvidosa e até mesmo tomar um sorvete na sorveteria por quilo perto do apartamento.  
 
-A noite fomos para o centro da cídade. Uma feirinha, alguns quioesques de lanche o tradicional de uma cidade litorânea nos anos 2000. Eis que nos surge um parque de diversões itinerante. Aqueles bem duvidoso sabem, mas o impressionante era a **montanha russa com um loop**.  
+À noite fomos para o centro da cidade. Uma feirinha, alguns quioesques de lanche, o tradicional de uma cidade litorânea nos anos 2000. Eis que nos surge um parque de diversões itinerante. Aqueles bem duvidosos, sabem, mas o impressionante era a **montanha russa com um loop**.  
 
 Exatamente, aquele parque duvidoso, com brinquedos que o INMETRO com certeza nunca tinha visto nos seus laboratórios não só tinha uma montanha russa, mas ela tinha um loop.
 
@@ -43,7 +43,7 @@ Não sei se isso ocorreria hoje, sabe...
 </figure>
 <figure>
 <img class="u-photo" src="/assets/fotos/2026/08/montanha-russa-tijolo.jpg" alt="Foto de uma montanha russa apoiada sobre tijolos." title="Imagem ilustrativa, mas a ideia...">
-<figcaption>Acho que vocês entenderam a situação.</figcaption>
+<figcaption>Acho que vocês entenderam a situação </figcaption>
 </figure>
 </figure>
 
