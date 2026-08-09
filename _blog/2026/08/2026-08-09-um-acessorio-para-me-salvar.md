@@ -6,7 +6,6 @@ date: 2026-08-09 12:00:00
 tags:
  - a vida, o universo e tudo mais
  - beda, bewa e afins
-published: false
 ---
 Semana passada eu comprei um acessório para me salvar quando sou **pego de surpresa** pela chuva aqui em São Paulo.  
 
