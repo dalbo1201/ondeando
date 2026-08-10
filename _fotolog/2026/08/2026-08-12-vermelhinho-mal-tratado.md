@@ -2,7 +2,7 @@
 layout: foto
 type: album
 title: "Vermelhinho maltratado"
-date: 2026-08-11 12:00:00
+date: 2026-08-12 12:00:00
 image: /assets/fotos/2026/08/20260501_123919.jpg
 caption: "Tá judiado, mas é bonito [...]"
 tags:
