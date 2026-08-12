@@ -34,3 +34,5 @@ Entendam, eu concordar ou gostar em si não é o problema. Eu poderia não gosta
 Não quero dizer com isso que as jornadas são invalidadas ou ruins,  apenas tenho a sensação de que muitos personagens passam por situações que não colaboram a moldar quem eles se tornarão. Não são _barrigas de roteiro_, só me pareceram decisões ruins. Ainda assim, a série é incrivel e todos entregam o seu melhor.  
 
 Você não perderá tempo e terminará sentindo saudades da família Fisher, vai por mim.
+
+{% include banner-beda-2026.html %}
