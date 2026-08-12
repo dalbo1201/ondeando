@@ -9,7 +9,6 @@ tags:
  - fotos
  - antiguidades
  - beda, bewa e afins
-published: false
 ---
 <figure>
 <img class="u-photo" src="/assets/fotos/2026/08/20260501_123919.jpg" alt="Foto fusca vermelho, tirado por trás. Carro está bem cuidado, mas precisava de uma lustrada" title="Tá judiado, mas é bonito">
