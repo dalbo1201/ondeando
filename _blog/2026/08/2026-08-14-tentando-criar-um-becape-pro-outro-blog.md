@@ -7,8 +7,6 @@ tags:
  - beda, bewa e afins
  - internet
  - informática
- - a vida, o universo e tudo mais
-published: false
 ---
 Na semana passada houve um susto coletivo lá no grupo do WhatsApp do ENTREBLOGS. O motivo? Três blogs hospedados no Blogger foram tirados do ar por acusação de **não respeitar os termos de serviço**.  
 
