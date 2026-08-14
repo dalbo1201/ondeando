@@ -5,7 +5,6 @@ title: "Quando fui para Foz do Iguaçu de carona"
 date: 2026-08-13 12:00:00
 tags:
  - a vida, o universo e tudo mais
- - metablog
  - passeios
  - tbt
 ---
