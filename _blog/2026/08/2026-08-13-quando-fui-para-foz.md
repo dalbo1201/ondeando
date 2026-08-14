@@ -8,7 +8,6 @@ tags:
  - metablog
  - passeios
  - tbt
-published: false
 ---
 Mais uma quinta-feira e trago outro #tbt para cá, dessa vez uma lembrança rápida de quando fui para Foz do Iguaçu, com Gabriel (meu irmão), pedindo carona.  
 
