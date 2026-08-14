@@ -16,7 +16,7 @@ Juntei a isso a minha necessidade de fazer o becape do meu outro blog, o [Histor
 
 Eu [comentei por aqui](https://pedro.dalbo.me/blog/lembrando-do-inicio/) que eu não trouxe todas as postagens e precisava voltar e ver isso. Mas não conseguirei se a Google **matar o Blogger**, certo?
 
-Com isso, eu lembrei que já tinha uma conversa com o Cláudio-que-bebe-mais-água-que-camelo sobre criar alguma forma automatizada e parece que deu certo. Como o Claude roda em servidores Linux e eu pedi para criar uma solução para Windows, temos hoje essas duas opções. Se alguém tiver como fazer para MAC, ficarei feliz em poder disponibilizar ou citar o link por aqui e na página do tutorial, aqui nesse espaço.  
+Com isso, eu lembrei que já tinha uma conversa com o Cláudio-que-bebe-mais-água-que-camelo sobre criar alguma forma automatizada e parece que deu certo. Como o Claude roda em servidores Linux e eu pedi para criar uma solução para Windows, temos hoje essas duas opções. Se alguém tiver como fazer para MAC, ficarei feliz em poder disponibilizar ou citar o link por aqui e na [página do tutorial](dicas-do-blog/bkp-blogger-md), aqui nesse espaço.  
 
 Então é isso, se você tem um blog no Blogger **recomendo fortemente** que você faça esse becape e já estude uma plataforma alternativa. Desde muito tempo, se não desde a compra do Blogger pela Google, o serviço está meio esquecido pela empresa e não custa nada ela colocar mais esse produto fazendo companhia para o famigerado e inesquecível **Google Reader**, outro que eu sou viúvo.  
 
