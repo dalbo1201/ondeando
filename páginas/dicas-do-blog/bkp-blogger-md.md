@@ -21,7 +21,7 @@ Espero que isso esteja funcionando para vocês, testei em dois blogs meus e pare
 
 <h4 id="windows">Para Windows <a href="#" >↑</a></h4>
 
-<a href="/assets/_downloads/bkp-blogger-arquivos-md (Windows).zip" title="Arquivo para Windows">arquivo ZIP para baixar</a>.
+<a href="/assets/downloads/bkp-blogger-arquivos-md (Windows).zip" title="Arquivo para Windows">arquivo ZIP para baixar</a>.
 
 <pre><code>
 LEIA TUDO ANTES DE USAR.
@@ -76,9 +76,9 @@ No arquivo .MD virá o cabeçalho com título, data, autor e tags.
 
 Como eu não uso Linuz, fiquei na dúvida da melhor extensão de compactação, deixai essas que me eram disponíveis. Qualquer coisa [me manda um email](mailto:pedro@dalbo.me?subject=becape do Blogger para md (linux)) e a gente tenta outro.  
 <ul>
-<li><a href="/assets/_downloads/bkp-blogger-arquivos-md (Linux).zip" title="arquivos para Linux">arquivo ZIP para baixar</a>;</li>
-<li><a href="/assets/_downloads/bkp-blogger-arquivos-md (Linux).tar" title="arquivos para Linux">arquivo TAR para baixar</a>;</li>
-<li><a href="/assets/_downloads/bkp-blogger-arquivos-md (Linux).7z" title="arquivos para Linux">arquivo 7Z para baixar</a>.</li>
+<li><a href="/assets/downloads/bkp-blogger-arquivos-md (Linux).zip" title="arquivos para Linux">arquivo ZIP para baixar</a>;</li>
+<li><a href="/assets/downloads/bkp-blogger-arquivos-md (Linux).tar" title="arquivos para Linux">arquivo TAR para baixar</a>;</li>
+<li><a href="/assets/downloads/bkp-blogger-arquivos-md (Linux).7z" title="arquivos para Linux">arquivo 7Z para baixar</a>.</li>
 </ul>
 
 <pre><code>

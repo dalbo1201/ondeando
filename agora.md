@@ -17,7 +17,9 @@ Estamos numa batalha para deixar nossos gatos vivendo em alguma harmonia, temos 
 
 Seguindo com o _hérculeo trabalho_ de deixar a casa do jeito que a gente gosta e deseja. Tá aí algo que não deve acabar nunca...  
 
-[Recomeçando a treinar em casa](/blog/esse-mes-recomecei-a-treinar/ "voltando a cuidar da saúde"), o objetivo maior é envelhecer com alguma qualidade de vida. Não quero perder a parca massa muscular que tenho e preciso manter a capacidade de movimentos simples como agachar, levantar do chão. Coisas simples mas que no futuro podem se tornar difíceis de executar. Claro que no processo a gente quer melhorar outras questões, só não é meu objetivo principal. _Estou com uma sensação que estou falhando, mas desistir é pior_.  
+Tem um tempo eu [recomeçando a treinar em casa](/blog/esse-mes-recomecei-a-treinar/ "voltando a cuidar da saúde") e esse mês eu voltei para a academia e passei a jogar um pouco de futebol durante a semana, mas uma pequena lesão foi o suficiente apra me colocar de molho por umas 4 semanas, vamos torcer apra retornar nesse tempo.  
+
+O objetivo maior é envelhecer com alguma qualidade de vida. Não quero perder a parca massa muscular que tenho e preciso manter a capacidade de movimentos simples como agachar, levantar do chão. Coisas simples mas que no futuro podem se tornar difíceis de executar. Claro que no processo a gente quer melhorar outras questões, só não é meu objetivo principal. _Estou com uma sensação que estou falhando, mas desistir é pior_.  
 
 <h4 id="profissional">Profissional</h4>  
 Trabalhando na Projeta Infraestrutura como engenheiro de projetos rodoviários a convite do meu amigo Renan que acredita que meu trabalho e experiência podem ajudar a equipe. Fico feliz pela confiança e espero retribuir a altura.  
@@ -49,11 +51,9 @@ O tempo todo brincando de mexer nesse _meu espaço da internet_, um hobby para d
     <li>Star Trek: Strange New Worlds&nbsp;| Paramount+&nbsp;| temporada&nbsp;4;</li>
     <li>Batman: Cruzado Encapuzado&nbsp;| HBO&nbsp;Max&nbsp;| temporada&nbsp;2;</li>
     <li>X-Men '97&nbsp;| Disney+&nbsp;| temporada&nbsp;2;</li>
-    <li>The Bear&nbsp;| Disney+&nbsp;| temporada&nbsp;5;</li>
     <li>House of The Dragon&nbsp;| HBO&nbsp;Max&nbsp;| temporada&nbsp;3;</li>
     <li>A Treta&nbsp;| Netflix&nbsp;| temporada&nbsp;1;</li>
     <li>Fallout&nbsp;| Prime&nbsp;Video&nbsp;| temporada&nbsp;2;</li>
-    <li><a href="/assistindo/six-feet-under-comentarios" title="alguns comentários sobre os episódios">A Sete Palmos</a>&nbsp;| HBO&nbsp;Max&nbsp;| temporada&nbsp;3;</li>
     <li>Arquivo X&nbsp;| Disney+&nbsp;| temporada&nbsp;2;&nbsp;↺</li>
 </ul>
 
@@ -61,5 +61,5 @@ O tempo todo brincando de mexer nesse _meu espaço da internet_, um hobby para d
 Não vamos esquecer do <a href="https://historiasparaler.blog.br" title="onde comento livros">Histórias para Ler</a> onde comento sobre os livros que leio.</div></aside>
 
 <aside class="atualizacao">
-    atualizado em 03 de agosto de 2026.
+    atualizado em 15 de agosto de 2026.
 </aside>
