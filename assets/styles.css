@@ -620,22 +620,13 @@ time.album-data {
  gap: 0.5em;  /* espaço entre tags */
 }
 
-.blog-comentario {
+.blog-comentarios, .blog-email {
  font-size: clamp(0.94rem, 0.9vw, 1rem); /* 15–16px */
  line-height: 1.25rem; /* 20px */
  text-wrap: balance;
  max-width: 100%;
  text-align: right;
- margin-top: 40px;
- align-self: flex-end;
-}
-
-.blog-seta { 
- font-size: clamp(0.95rem, 1.5vw, 0.95rem); 
- line-height: 1.25rem;
- max-width: 97%;
- text-align: right;
- margin-top:10px;
+ margin-top: 30px;
  align-self: flex-end;
 }
 

@@ -5,16 +5,16 @@ title: "Das vantragens do Jekyll"
 date: 2026-08-23 12:00:00
 tags:
  - beda, bewa e afins
- - a vida, o universo e tudo mais
  - informática
+ - internet
  - metablog
 published: false
 ---
-Esses dias eu passaei algumas horas melhorando o fluxo de trabalho para algumas páginas aqui do blog, principalmete o [BLOGROL](/blogrol), [DICAS DO BLOG](/dicas-do-blog) e [BARRAS](/barras)<a href="#1"><sup id="1-1">1</sup></a>. Mas o qeu eu fiz exatamente?   
+Esses dias eu passaei algumas horas melhorando o fluxo de trabalho para algumas páginas aqui do blog, principalmete o [BLOGROL](/blogrol), [DICAS DO BLOG](/dicas-do-blog) e [BARRAS](/barras)<a href="#1"><sup id="1-1">1</sup></a>. Mas o que eu fiz exatamente?   
 
 Essas páginas (barras, blogrol, dicas do blog) são no final de contas listas que se repetem na forma de apresentar, mas com conteúdos distintos e pelo que entendi o [Liquid](https://shopify.github.io/liquid/) funciona muito bem combinando listas repetidas, principalmente quando os conteúdos vêm de arquivos de dados. 
 
-> A linguagem Liquid é uma linguagem para a criação de templates usada para gerar conteúdo dinâmico (por exemplo, em sites e e-commerces, um **jardim digital** ou um **blog**), escrevendo uma estrutura (com HTML), com tags do Liquid para repetir trechos, decidir quando mostrar algo (com condições) e preencher com dados vindos de algum lugar.
+> A linguagem Liquid é uma linguagem para a criação de templates usada para gerar conteúdo dinâmico (por exemplo, em sites e e-commerces, um **jardim digital** ou um **blog**), escrevendo uma estrutura (com HTML), com tags do Liquid para repetir trechos, decidir quando mostrar algo (com condições) e preencher com dados vindos de um arquivo `yaml`.
 
 <blockquote class="fleabag">Aqui vale um alerta. Não é apenas o <b>Liquid</b> que resolve tudo isso, outras ferramentas do Jekyll atuam, mas este texto é focado na funcionalidade do <b>Liquid</b> e por isso não estou levantando outros pontos.</blockquote>
 
@@ -26,7 +26,7 @@ Para cada uma dessas páginas pense cada item como um conjunto de **HTML+conjunt
 
 Uma das primeiras páginas que eu fiz isso foi a de [REGISTRO DE ALTERAÇÕES](/registro-de-alteracoes)<a href="#2"><sup id="2-1">2</sup></a> veja a página e perceba que colocar isso tudo em html item a item se tornava uma atividade hercúlea. Fora que se eu precisasse alterar algum texto tinha que ficar lendo tudo com várias `tags html` no meio. Em textos mais curtos de postagens disso fica menos complicado, mesmo que o texto seja longo, mas em uma página cheia de repetição de código sua mente fica maluca. E aí que entra o _Liquid_ e os arquivos de dados `.yml`.  
 
-O código da página é, hoje, algo já feito com _liquid_. Vou ignorar `front matter` do _Jekyll_ e apresentar direto a parte `html+liquid`, vamos deixar isso para outro dia.
+O código da página é, hoje, algo já feito com _Liquid_. Vou ignorar `front matter` do _Jekyll_, vamos deixar isso para outro dia, e apresentar direto a parte `html+liquid`.
 
 <blockquote class="fleabag">Esse texto está com cara de que não ficará pequeno, tá bem técnico. Espero que tenham pique para continuar.</blockquote>
 
@@ -61,7 +61,7 @@ O código da página é, hoje, algo já feito com _liquid_. Vou ignorar `front m
 </div>
 {% endraw %}
 ```
-Se você forem na página do [REGISTRO DE ALTERAÇÕES](/registro-de-alteracoes) verão quão extensa é a página e que não faz sentido construir isso manualmente em HTML item a item. Mas a realidade é que esse _template_ lê os dados presentes no arquivo `registro-alteracoes.yml`, que fica na pasta `_data`, e usa o Liquid para substituir as `tags liquid` pelas informações do arquivo `.yml`.  
+Se você forem na página do [REGISTRO DE ALTERAÇÕES](/registro-de-alteracoes) verão quão extensa é a página e que não faz sentido construir isso manualmente em HTML item a item. Mas a realidade é que esse _template_ lê os dados presentes no arquivo `registro-alteracoes.yml`, que fica na pasta `_data`, e usa o _Liquid_ para substituir as `tags liquid` pelas informações do arquivo `.yml`.  
 
 Aqui vou colocar parte do arquivo.
 
@@ -140,5 +140,5 @@ _Liquid_ não é a única linguagem _templates_, é a usada no _Jekyll_. Se voc�
 {% include banner-beda-2026.html %}
 
 <aside class="rodape"><div id="1">1. A página BARRAS fica ali no rodapé e o link dela está em <code>/...</code> criativo, não?😁. <a href="#1-1" style="font-size: 14px">&#8629;</a></div>
-<div id="2">2. A página de REGISTRO DE ALTERAÇÕES fica no rodapé no rodapé, o link está em <code>2005-2026</code>. <a href="#2-1" style="font-size: 14px">&#8629;</a></div>
+<div id="2">2. A página de REGISTRO DE ALTERAÇÕES fica no rodapé, o link está em <code>2005-2026</code>. <a href="#2-1" style="font-size: 14px">&#8629;</a></div>
 </aside>

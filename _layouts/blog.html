@@ -25,7 +25,7 @@
     
 {% assign post_comments = site.data.comments[post.slug] | default: empty_array %}
   
-<p class="blog-seta">
+<p class="blog-comentarios">
     {% assign total = post_comments | size %}
     {% if total == 0 %}<a href="{{ post.url | relative_url }}#comentarios" class="linkdata">vamos conversar...</a>
     {% elsif total < 4 %}tem um bate-papo rolando, <a href="{{ post.url | relative_url }}#comentarios" class="linkdata">vem participar...</a>
