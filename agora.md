@@ -17,7 +17,7 @@ Estamos numa batalha para deixar nossos gatos vivendo em alguma harmonia, temos 
 
 Seguindo com o _hérculeo trabalho_ de deixar a casa do jeito que a gente gosta e deseja. Tá aí algo que não deve acabar nunca...  
 
-Tem um tempo eu [recomeçando a treinar em casa](/blog/esse-mes-recomecei-a-treinar/ "voltando a cuidar da saúde") e esse mês eu voltei para a academia e passei a jogar um pouco de futebol durante a semana, mas uma pequena lesão foi o suficiente apra me colocar de molho por umas 4 semanas, vamos torcer apra retornar nesse tempo.  
+Tem um tempo eu [recomeçando a treinar em casa](/blog/esse-mes-recomecei-a-treinar/ "voltando a cuidar da saúde") e esse mês eu [voltei para a academia](https://pedro.dalbo.me/blog/sera-que-agora-vai/ "voltando a cuidar da saúde, será?") e passei a jogar um pouco de futebol durante a semana, mas uma pequena lesão foi o suficiente apra me colocar de molho por umas 4 semanas, vamos torcer apra retornar nesse tempo.  
 
 O objetivo maior é envelhecer com alguma qualidade de vida. Não quero perder a parca massa muscular que tenho e preciso manter a capacidade de movimentos simples como agachar, levantar do chão. Coisas simples mas que no futuro podem se tornar difíceis de executar. Claro que no processo a gente quer melhorar outras questões, só não é meu objetivo principal. _Estou com uma sensação que estou falhando, mas desistir é pior_.  
 
