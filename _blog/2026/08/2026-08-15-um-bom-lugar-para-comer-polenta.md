@@ -8,7 +8,7 @@ tags:
  - recomentdação
  - passeios
 ---
-Vocês já sabem que eu [gosto de escrever](blog/vamos-dar-algumas-indicacoes/) ~~alguns reviews~~ lá no Google Maps algumas opiniões de lugares que vou. Então vim aqui hoje recomendar um lugarzinho bacana na **nova região mais badalada de SP**, a Barra Funda.  
+Vocês já sabem que eu [gosto de escrever](blog/vamos-dar-algumas-indicacoes/) lá no Google Maps ~~alguns reviews~~ algumas opiniões de lugares que vou. Então vim aqui hoje recomendar um lugarzinho bacana na **nova região mais badalada de SP**, a Barra Funda.  
 
 Eu gosto muito de polenta frita e isso não é algo fácil ou simples de um restaurante oferecer **fazendo bem feito e gostoso**. A maioria dos lugares quando oferece polenta frita te entrega uma porção (muitas vezes) de boa quantidade, mas que é simplesmente aquela polenta congelada ~~da _McCain_ ou similar~~, sabe. E essa é uma péssima experiência.  
 
