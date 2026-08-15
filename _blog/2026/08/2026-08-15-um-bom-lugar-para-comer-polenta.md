@@ -7,8 +7,6 @@ tags:
  - beda, bewa e afins
  - recomentdação
  - passeios
- - a vida, o universo e tudo mais
-published: false
 ---
 Vocês já sabem que eu [gosto de escrever](blog/vamos-dar-algumas-indicacoes/) ~~alguns reviews~~ lá no Google Maps algumas opiniões de lugares que vou. Então vim aqui hoje recomendar um lugarzinho bacana na **nova região mais badalada de SP**, a Barra Funda.  
 
