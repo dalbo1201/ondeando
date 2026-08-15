@@ -41,12 +41,12 @@ O [favicon e o avatar](/assets/favicon/favicon_cartoon-180.png) dos comentários
 **Todos os links abrem a página sobre a página atual**. Adoto essa configuração porque se houver o desejo de abrir em uma nova aba/janela é possível de várias formas. Mas se o interesse não for esse e a configuração padrão for abrir em outra aba/janela não temos como fazê-lo.
 
 <h3 id="desenvolvimento-do-site"> Desenvolvimento do site</h3>
-- **Escrita dos posts:** (na maioria das vezes) escrevo no celular, usando o aplicativo [Markor<sup>[en]</sup>](https://github.com/gsantner/markor "o aplicativo em que escrevo"), que me permite trabalhar diretamente em arquivos Markdown;
-- **Revisão:** (em sua maioria) os textos são lidos pela S. (minha companheira) que faz o trabalho de revisar absurdos que escrevo errado;
 - **Publicação:**  
   - O site é construído com [Jekyll<sup>[en]</sup>](https://jekyllrb.com/), um gerador de sites estáticos;  
   - O código-fonte é versionado e armazenado no [GitHub<sup>[en]</sup>](https://github.com/dalbo1201/ondeando). Para a edição e gestão dos arquivos, utilizo o [Visual Studio Code<sup>[en]</sup>](https://code.visualstudio.com/) (editor) e o [GitHub Desktop<sup>[en]</sup>](https://github.com/apps/desktop?locale=pt-BR) (cliente Git);  
   - A compilação (build) e a hospedagem final do site acontecem via [Netlify<sup>[en]</sup>](https://app.netlify.com/), que publica automaticamente as alterações a cada atualização no repositório.  
+- **Escrita dos posts:** (na maioria das vezes) escrevo no celular, usando o aplicativo [Markor<sup>[en]</sup>](https://github.com/gsantner/markor "o aplicativo em que escrevo"), que me permite trabalhar diretamente em arquivos Markdown;
+- **Revisão:** (em sua maioria) os textos são lidos pela S. (minha companheira) que faz o trabalho de revisar absurdos que escrevo errado;
 - **Comentários:** O sistema de comentários do blog é bem ~~artesanal~~ manual, com uma ferramenta construída ~~feita com ajuda de IA~~ para atender alguns desejos meus ~~algumas frescuras minhas~~ e falo mais sobre a [implementação aqui](/blog/uma-secao-de-comentarios-pra-chamar-de-sua/#minha-solucao).
 
 Mais detalhes de como é [o processo de escrita por aqui](/blog/como-as-coisas-acontecem-por-aqui/).
