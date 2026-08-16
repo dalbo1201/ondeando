@@ -7,7 +7,6 @@ tags:
  - beda, bewa e afins
  - recomentdação
  - informática
-published: false
 ---
  Antigamente as pessoas usavam uma coisa chamada **máquina de escrever** e para aprender a usá-la da melhor forma possível elas faziam um curso de **datilografia**.  
 
@@ -41,6 +40,6 @@ O [Keybr](https://www.keybr.com/) já tem outra pegada, ele é um aplicativo que
 
 É quando a gente já sabe dirigir e troca de marcha sem olhar pro câmbio ou para a embreagem. Tá certo, vocês vão dizer que não fazem mais isso porque os carros são automáticos, mas saibam que carro automático ainda é coisa de gente com mais dinheiro e eu aprendi a (e ainda sei) dirigir carros com câmbio manual.
 
-Eu ainda não comecei a usar nenhum dos dois, mas já estou criando minha conta neles porque eu sei que ainda tenho o que melhorar na minha digitação, então bora **digievoluir esse digitar!**
+Eu ainda não comecei a usar nenhum dos dois (malz aí Luiz 😬), mas já estou criando minha conta neles porque eu sei que ainda tenho o que melhorar na minha digitação, então bora **digievoluir esse digitar!**
 
 {% include banner-beda-2026.html %}
