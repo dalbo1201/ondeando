@@ -22,7 +22,6 @@ updated: (data da atualização anterior caso mais de uma atualização)
       - 2023-10-01
       - 2024-01-15
 
-
 type:
 album - vai para o fotolog (foto)
 notas - vai pro blog sem título (post)
@@ -54,6 +53,15 @@ post tags:
 - shows
 - séries e TV
 - tatuagem
+
+para colocar um banner 80x31 debaixo do <nav>
+ depois da barra de navegação coloca o código:
+
+  <div class="banner-lateral">
+   <nav><a href="/beda-2026" title="me acompanhe no BEDA 2026"><img src="/assets/selos/beda2026/selobeda2026_88-31.jpg" alt="BEDA 2026" width="88" height="31">
+     </a>
+   </nav>
+  </div>
 
 Estrutura de pastas:
 |meusite
