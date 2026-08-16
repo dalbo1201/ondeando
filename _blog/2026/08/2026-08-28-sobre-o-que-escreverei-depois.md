@@ -2,7 +2,7 @@
 layout: post
 type: notas
 title: "Sobre o que escreverei depois"
-date: 2026-08-21 12:00:00
+date: 2026-08-28 12:00:00
 tags:
  - beda, bewa e afins
  - pensamentos
