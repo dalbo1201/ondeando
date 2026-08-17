@@ -9,7 +9,6 @@ tags:
  - fotos
  - gatos
  - beda, bewa e afins
-published: false
 ---
 <figure>
 <img class="u-photo" src="/assets/fotos/2026/08/20260530_234650.jpg" alt="Foto de um gato siamês de rua (chamado Felini) sentado numa mesa quadrada de maeira rústica" title="Fellini te olhando e pedindo por atenção">
