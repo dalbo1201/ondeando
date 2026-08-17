@@ -6,7 +6,7 @@ date: 2026-08-02 11:40:00
 tags:
  - a vida, o universo e tudo mais
  - metablog
- - beda,bewa e afins
+ - beda, bewa e afins
 ---
 Não me entendam mal, eu gosto muito do visual do site, eu olho para o site e estou feliz.  
 
