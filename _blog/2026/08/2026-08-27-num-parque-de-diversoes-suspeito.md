@@ -2,7 +2,7 @@
 layout: post
 type: texto
 title: "Num parque de diversões suspeito"
-date: 2026-08-20 12:00:00
+date: 2026-08-27 12:00:00
 tags:
  - beda, bewa e afins
  - a vida, o universo e tudo mais
