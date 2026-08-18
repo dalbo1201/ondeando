@@ -6,7 +6,6 @@ date: 2026-08-18 12:00:00
 tags:
  - beda, bewa e afins
  - a vida, o universo e tudo mais
-published: false
 ---
 No começo do mês eu retornei ao oftalmologista. Por questões de ~~não~~organização minha, levei 3 anos para retornar. Por favor, não julguem meu descaso comigo mesmo.  
 
