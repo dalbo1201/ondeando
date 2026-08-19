@@ -1,0 +1,32 @@
+<style>
+  details.drop summary{
+    cursor: pointer;
+    list-style: none;
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+    user-select: none;
+  }
+  details.drop > summary::-webkit-details-marker { display:none; }
+
+  .drop-x{ display:none; }
+
+  details.drop[open] .drop-t{ opacity:0; transform: translateY(-4px); }
+  details.drop[open] .drop-x{ display:inline; }
+
+  details.drop .conteudo{
+    overflow: hidden;
+    max-height: 0;
+    opacity: 0;
+    transform: translateY(-6px);
+    transition: max-height .35s ease, opacity .25s ease, transform .25s ease;
+    padding-left: 0;
+  }
+
+  details.drop[open] .conteudo{
+    max-height: 200px; /* ajuste */
+    opacity: 1;
+    transform: translateY(0);
+    padding: 10px 0 0 0;
+  }
+</style>
