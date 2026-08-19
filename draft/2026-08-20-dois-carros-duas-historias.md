@@ -57,7 +57,7 @@ Divirtam-se com a leitura e vão lá mandar um [Prazer! Willian](https://prazerw
 
 <p>Tudo passa em instantes que parecem uma vida. De repente ouço meu pai falando com minha mãe.</p>
 
-<blockquote> Não tenho muito o que fazer, vou escolher o momento engatar a ré, vamos torcer para subirmos o morro.</blockquote>
+<blockquote><p>Não tenho muito o que fazer, vou escolher o momento engatar a ré, vamos torcer para subirmos o morro.</p></blockquote>
 
 <p>Dito e feito, meu pai engata a ré e acelera, em instantes estamos com a Marajó enfiada no pé do talude, estamos <i>encravados na terra</i> com o carro preso. </p> 
 
