@@ -7,7 +7,6 @@ tags:
  - beda, bewa e afins
  - informática
  - internet
- - tbt
 published: false
 ---
 > Deskmod é a arte de personalizar o ambiente de trabalho de sistemas operacionais com a ajuda de programas e resources.
