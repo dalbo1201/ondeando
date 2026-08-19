@@ -45,6 +45,10 @@ Divirtam-se com a leitura e vão lá mandar um [Prazer! Willian](https://prazerw
     <span class="drop-x"><a>recuar o texto</a></span>
   </summary>
 <div class="e-content">
+<figure>
+<img class="u-photo" src="/assets/fotos/2026/08/marajo-ilustrativa.webp" alt="Foto de uma Marajó marrom genérica" title="Essa poderia ser a Marajó do mal">
+<figcaption>Não temos uma foto da Marajó. Fiquem com essa meramente ilustrativa</figcaption>
+</figure>
 <p>Certa vez estávamos a caminho da praia, provavelmente Ubatuba (onde uma tia tinha apto) ou Mongaguá (onde meus pais alugavam uma casa num cantinho da praia tranquilo pra gente, criança, ir sem preocupações).  </p>
 
 <p>Pois bem, estávamos no carro meu pai (dirigindo), minha mãe ao lado dele, eu, meu irmão e minha avó. Ela, claro, estava no meio criando uma barreira entre eu e meu irmão para minimizar as brigas que ocorreriam.  </p>
@@ -82,7 +86,7 @@ Certo dia, o dono da empresa levou para o pátio um Fusca que tinha sido da mãe
   </summary>
 <div class="e-content">
 <figure>
-<img class="u-photo" src="/assets/fotos/2026/08/IMG_20201128_080533118.jpg" alt="Foto fusca verde metálico" title="Um placa preta sem soquinho">
+<img class="u-photo" src="/assets/fotos/2026/08/IMG_20201128_080533118.jpg" alt="Foto de um fusca azul sendo lavado" title="O fusquinha dos sonhos">
 <figcaption>Fotografia do fusca original citado na história</figcaption>
 </figure>
 <p>Além de operar a central de concreto, eu era encarregado de suprir várias necessidades do pátio: comprar materiais no centro, buscar nossas marmitas de almoço (e às vezes da janta, quando fazíamos hora extra) e resolver rotinas administrativas. Por isso, esperava ansiosamente que surgisse qualquer uma dessas tarefas só para poder pilotar meu amado fusquinha azul.</p>

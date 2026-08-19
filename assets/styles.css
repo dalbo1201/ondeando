@@ -109,6 +109,7 @@ body {
 header {
  width: 260px;
  position: sticky;
+ top: 30px; /* é o que mantem o header fixo e a rolagem acontecendo apenas no conteúdo */
  height: fit-content;
  border-right: 1px solid color-mix(in srgb, var(--color-text), transparent 93%);
  padding-right: 5px;
