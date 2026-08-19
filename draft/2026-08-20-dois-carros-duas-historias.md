@@ -7,6 +7,7 @@ tags:
  - passeios
  - a vida, o universo e tudo mais
  - tbt
+ - foto
 permalink: /rascunho/dois-carros-duas-historias
 ---
 Gente, vocês já sabem que está rolando o [BEDA 2026](https://entreblogs.com.br/beda/2026 "sobre o BEDA 2026") do [ENTREBLOGS](https://entreblogs.com.br/ "sobre o entrelogs") e sabem que a coisa é toda [baseada em RPG](/blog/uma-jornada-inesperada/).  
@@ -38,11 +39,10 @@ Divirtam-se com a leitura e vão lá mandar um [Prazer! Willian](https://prazerw
 <blockquote class="fleabag">E essa história tem tudo a ver com isso.</blockquote>
 
 {% include details-drop-style.html %}
-
 <details class="drop">
   <summary>
     <span class="drop-t"><a>Continue lendo a história...</a></span>
-    <span class="drop-x"><a>voltar</a></span>
+    <span class="drop-x"><a>recuar o texto</a></span>
   </summary>
 <div class="e-content">
 <p>Certa vez estávamos a caminho da praia, provavelmente Ubatuba (onde uma tia tinha apto) ou Mongaguá (onde meus pais alugavam uma casa num cantinho da praia tranquilo pra gente, criança, ir sem preocupações).  </p>
@@ -78,9 +78,13 @@ Certo dia, o dono da empresa levou para o pátio um Fusca que tinha sido da mãe
 <details class="drop">
   <summary>
     <span class="drop-t"><a>Continue lendo a história...</a></span>
-    <span class="drop-x"><a>voltar</a></span>
+    <span class="drop-x"><a>recuar o texto</a></span>
   </summary>
 <div class="e-content">
+<figure>
+<img class="u-photo" src="/assets/fotos/2026/08/IMG_20201128_080533118.jpg" alt="Foto fusca verde metálico" title="Um placa preta sem soquinho">
+<figcaption>Fotografia do fusca original citado na história</figcaption>
+</figure>
 <p>Além de operar a central de concreto, eu era encarregado de suprir várias necessidades do pátio: comprar materiais no centro, buscar nossas marmitas de almoço (e às vezes da janta, quando fazíamos hora extra) e resolver rotinas administrativas. Por isso, esperava ansiosamente que surgisse qualquer uma dessas tarefas só para poder pilotar meu amado fusquinha azul.</p>
 
 <p>Eu era quem fazia as manutenções básicas e quem o levava à oficina para os reparos mais complexos. Abastecia — claro, com o dinheiro da firma — e cuidava de lavá-lo. Em resumo: tratava-o como se fosse meu.</p>
@@ -93,3 +97,8 @@ Certo dia, o dono da empresa levou para o pátio um Fusca que tinha sido da mãe
 
 <p>A vida às vezes prega essas peças na gente. Mas sei que um dia ainda terei o meu Fusca — e, quando esse dia chegar, será um dos melhores da minha vida.</p>
 </div></details>
+
+<aside class="missao-beda2026"><div class="aviso-texto">A <b>Missão da Semana</b>, o <b>Aliança da Guilda</b>, foi concluída. Essa  postagem foi uma parceria com o <a href="https://prazerwillian.blogspot.com/" title="Prazer! Willian">Willian</a>, integrante do EntreBlogs.
+</div></aside>
+
+{% include banner-beda-2026.html %}
