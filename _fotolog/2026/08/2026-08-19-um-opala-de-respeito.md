@@ -9,7 +9,6 @@ tags:
  - fotos
  - antiguidades
  - beda, bewa e afins
-published: false
 ---
 <figure>
 <img class="u-photo" src="/assets/fotos/2026/08/20260503_141349.jpg" alt="Foto de um Opaa marrom placa preta" title="Tá judiado, mas é bonito">
