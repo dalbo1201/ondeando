@@ -34,7 +34,7 @@
 }
 
 /* --- INÍCIO ACERTO DE CORES PARA LINKS DENTRO DO BANNER DO BEDA2026--- */
-.anuncio-beda a, .banner-beda2026 a, .banner-beda2026 nav a {
+.anuncio-beda a, .banner-beda2026 a, .missao-beda2026 a, .banner-beda2026 nav a {
   border-radius: 3px;
   padding: 0.09em;
   display: inline;
@@ -49,11 +49,11 @@
 }
 
 /* --- 1.1 ESTADOS DE COR E HOVER para os textos em geral--- */
-.anuncio-beda a:link, .anuncio-beda a:visited, .anuncio-beda a:active, .banner-beda2026 a:link, .banner-beda2026 a:visited, .banner-beda2026 a:active, .banner-beda2026 nav a {
+.anuncio-beda a:link, .anuncio-beda a:visited, .anuncio-beda a:active, .banner-beda2026 a:link, .banner-beda2026 a:visited, .banner-beda2026 a:active, .missao-beda2026 a:link, .missao-beda2026 a:visited, .missao-beda2026 a:active, .banner-beda2026 nav a {
  color: var(--color-link-beda2026);
 }
 
-.banner-beda2026 a:hover, .banner-beda2026 nav a:hover {
+.anuncio-beda2026:hover, .banner-beda2026 a:hover, .missao-beda2026 a:hover, .banner-beda2026 nav a:hover {
  cursor: pointer;
  color: var(--color-background-beda2026);
  background-position: bottom;
