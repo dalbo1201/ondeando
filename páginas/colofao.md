@@ -14,7 +14,7 @@ A ideia, é claro, foi [retirada da literatura](https://pt.wikipedia.org/wiki/C%
 <hr>
 
 <h3 id="descricao-do-site"> Descrição do site</h3>
-A tipografia é toda com a fonte [Montserrat<sup>[en]</sup>](https://github.com/JulietaUla/Montserrat "a fonte deste cantinho"), as setas são [elementos unicode<sup>[en]</sup>](https://symbl.cc/pt/unicode-table/#arrows "as setas") e alguns ícones da [Font Awesome<sup>[en]</sup>](https://fontawesome.com "os ícones de mídias-sociais").  
+A tipografia é toda com a fonte [Montserrat<sup>[en]</sup>](https://github.com/JulietaUla/Montserrat "a fonte deste cantinho"), as setas são [elementos unicode<sup>[en]</sup>](https://symbl.cc/pt/unicode-table/#arrows "as setas") e alguns ícones da [Font Awesome<sup>[en]</sup>](https://fontawesome.com "os ícones do site, inclusive de mídias-sociais").  
 
 Este cantinho tem como cores predominantes:
 - Tech White (cinza claro, quase branco) ([#F5F5F5<sup>[en]</sup>](https://www.color-name.com/hex/f5f5f5 "o fundo, ou o texto"));
@@ -38,7 +38,9 @@ Os links que não levarem para páginas em português coloco uma _etiqueta_ sobr
 
 O [favicon e o avatar](/assets/favicon/favicon_cartoon-180.png) dos comentários são _arte relâmpago_ do [@naldojunioartwork](https://www.instagram.com/naldojunioartwork).
 
-**Todos os links abrem a página sobre a página atual**. Adoto essa configuração porque se houver o desejo de abrir em uma nova aba/janela é possível de várias formas. Mas se o interesse não for esse e a configuração padrão for abrir em outra aba/janela não temos como fazê-lo.
+**Todos os links abrem a página sobre a página atual**. Adoto essa configuração porque se houver o desejo de abrir em uma nova aba/janela é possível de várias formas. Mas se o interesse não for esse e a configuração padrão for abrir em outra aba/janela não temos como fazê-lo.  
+
+Para o mês de junho tem um tema especial de [**Festa Junina**](/blog/um-tema-festivo), se ainda não o viu, marque dia 01 de junho na sua agenda e venha curtir.
 
 <h3 id="desenvolvimento-do-site"> Desenvolvimento do site</h3>
 - **Publicação:**  
@@ -56,12 +58,13 @@ Mais detalhes de como é [o processo de escrita por aqui](/blog/como-as-coisas-a
 - Quando ampliei o site para algo próximo de um _proto-jardim-digital_, acabei me inspirando visualmente no site/blog do [Rodrigo Ghedin](https://web.archive.org/web/20250301092841/https://rodrigo.ghed.in/ "site do Ghedin quando me inspirei") (de quem pedi autorização. Se forem analisar os códigos, o site do Ghedin tem uma elegancia que aqui não existe, mas arrumarei em algum momento); 
 - Hoje o espaço tem visual inpirado em algo como o [Minimal<sup>[en]</sup>](https://orderedlist.com/minimal/), mas vários sites apresentam essa dinâmica da coluna à esquerda em telas maiores se tronar o topo do site em telas menores; 
 - O [Fotolog](/fotolog "meu fotolog") foi inspirado na página do [Beaumont Photography<sup>[en]</sup>](https://beaumontphotography.bearblog.dev/ "site do Bruce"). Escrevi mais sobre isso [neste texto](/blog/criei-meu-fotolog/) e tento explicar num [tutorial](/dicas-do-blog "como fiz o Fotolog") como o montei;  
-- Para o mês de junho tem um tema especial de [**Festa Junina**](/blog/um-tema-festivo), me inspirei no [Robert Birming](https://robertbirming.com) que criou um [tema especial](https://robertbirming.com/bear-halloween-theme/ "postagem com o tema de Halloween") de Halloween.
+- Para o tema de **Festa Junina** me inspirei no [tema especial<sup>[en]</sup>](https://robertbirming.com/bear-halloween-theme/ "postagem com o tema de Halloween") de Halloween criado pelo [Robert Birming<sup>[en]</sup>](https://robertbirming.com).
 
 
 <h3 id="filosofia">Filosofia</h3>
 - O site não tem [nenhum sistema de _analytics_<sup>[en]</sup>](https://themarkup.org/blacklight?url=https%3A%2F%2Fpedro.dalbo.me&device=mobile&location=us-ca&force=false) ou plugins de mídias-sociais;  
 - Apesar de estar hospedado no GitHub, tento evitar o máximo possível depender de _Big Techs_ – embora nem sempre seja totalmente viável dado minha completa inexperiência nesse mundo de programações e linguegens web;  
+- A tipografia do site é carregada a partir do site [Bunny Fonts<sup>[en]</sup>](https://fonts.bunny.net/family/montserrat), que oferece um nível de privacidade superior aos concorrentes;
 - O uso de _LLM_ por aqui se restringe a auxílios na revisão de códigos, já que esse claramente não é meu forte.  
 
 O porquê de todo esse espaço [falo mais aqui](/blog/porque-todo-esse-esforco/ "porquê criei esse cantinho?").  
