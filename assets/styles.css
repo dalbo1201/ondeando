@@ -137,7 +137,7 @@ nav {
 
 footer {
  width: 100%;
- margin: 10px auto 20px;
+ margin: 40px auto 20px;
  display: flex;
  flex-wrap: wrap;
  justify-content: space-between;
@@ -212,7 +212,7 @@ h2 { /* cabeçalho de saudação */
  font-size: clamp(2.4rem, 4vw, 2.7rem); /* mínimo 35px → 40px */
  line-height: clamp(2rem, 3vw, 2.19rem); /* 32–35px */
  margin-top: 0;
- margin-bottom: 2.5rem; /* 40px */
+ margin-bottom: 5rem; /* 40px */
 }
 
 .h2-menor { /* cabeçalho de saudação menor */
@@ -598,7 +598,7 @@ time.album-data {
  /* INÍCIO DOS Estilos para o Blog */
 .blog-article{
  width: 100%; /* Garante que ocupe toda a largura do contêiner */
- margin-bottom: 70px;
+ margin-bottom: 6rem;
 }
 
 .blog-data {
@@ -974,7 +974,7 @@ table.tabela-posts td {
  display: flex;
  justify-content: space-between; /* Garante que os itens fiquem nos extremos opostos */
  align-items: center; /* Alinha verticalmente os itens */
- margin: 40px auto 40px auto;   /* Aumentamos o respiro superior */
+ margin: 60px auto 40px auto;   /* Aumentamos o respiro superior */
  width: 100%; /* Ajuste conforme necessário */
  flex-shrink: 0; /* Evita que a paginação encolha */
 }
@@ -1229,7 +1229,7 @@ h1 {
 }
 
 h2 {
- margin-top: 1.2rem; /* 40px */
+ margin-top: 3rem; /* 40px */
  margin-bottom: 3rem; /* 40px */
 }
  
