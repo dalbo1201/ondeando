@@ -2,14 +2,13 @@
 layout: post
 type: texto 
 title: "Dois carros antigos, duas histórias"
-date: 20256-08-20 12:00:00
+date: 2026-08-20 12:00:00
 tags: 
  - passeios
  - a vida, o universo e tudo mais
  - tbt
  - beda, bewa e afins
  - foto
-permalink: /blog/dois-carros-duas-historias
 ---
 Gente, vocês já sabem que está rolando o [BEDA 2026](https://entreblogs.com.br/beda/2026 "sobre o BEDA 2026") do [ENTREBLOGS](https://entreblogs.com.br/ "sobre o entrelogs") e sabem que a coisa é toda [baseada em RPG](/blog/uma-jornada-inesperada/).  
 
