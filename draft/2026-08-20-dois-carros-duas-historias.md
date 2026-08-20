@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: draft
 type: texto 
 title: "Dois carros antigos, duas histórias"
 date: 20256-08-20 12:00:00 -0300
