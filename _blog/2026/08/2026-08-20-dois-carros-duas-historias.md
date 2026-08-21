@@ -23,7 +23,7 @@ Foi ótimo quando recebi o convite do Willian, do [Prazer! Willian](https://praz
 
 Como bons engenheiros fora da caixinha (quantos vocês conheccem que tem um blog?) resolvemos que cada um irá contar uma história relacionada à carros antigos e compartilhá-las em conjunto em nossos blogs.  
 
-Divirtam-se com a leitura e vão lá mandar um [Prazer! Willian](https://prazerwillian.blogspot.com/) e comentar nossos causos. 😁
+Divirtam-se com a leitura e vão lá mandar um [Prazer! Willian](https://prazerwillian.blogspot.com/2026/08/alianca-da-guilda.html) e comentar nossos causos. 😁
 
 ---
 
