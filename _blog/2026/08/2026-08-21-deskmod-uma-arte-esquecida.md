@@ -2,12 +2,11 @@
 layout: post
 type: texto
 title: "Deskmod, uma arte esquecida"
-date: 2026-08-21 12:00:00
+date: 2026-08-21 14:20:00
 tags:
  - beda, bewa e afins
  - informática
  - internet
-published: false
 --- 
 > Deskmod é a arte de personalizar o ambiente de trabalho de sistemas operacionais com a ajuda de programas e resources.
 
