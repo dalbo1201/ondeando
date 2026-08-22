@@ -13,7 +13,7 @@ Sabe aquele problemão que é quando, por algum motivo, alguém precisa mudar o 
 
 Mesmo com essa explicação as pessoas ficam sem entender e *acham graça*.
 
-<div class="fleabag">Spoiler: eu ainda uso serviço de e-mail gratuito, o Gmail, mas já é com domínio próprio.</div> 
+<blockquote class="fleabag">Spoiler: eu ainda uso serviço de e-mail gratuito, o Gmail, mas já é com domínio próprio.</blockquote> 
 
 Agora tem essa história de site, blog, página de agora... E a questão retorna:  
 
