@@ -11,7 +11,7 @@ tags:
 ---
 Vamos para mais uma dica de lugar bacana, e não muito caro de  preferência, para comer por aqui em São Paulo.  
 
-Já peço desculpas por recomendar apenas lugares pela região central da cidade, mas essa é minha _área de atuação_, principalmente porque faço tudo de transporte público e um pouco de _carro de aplicativo_. Mas fiquem tranquilos que se tiver lugar bacana que eu e for longe (pra mim), falarei da mesma forma.  
+Já peço desculpas por recomendar apenas lugares pela região central da cidade, mas essa é minha _área de atuação_, principalmente porque faço tudo de transporte público e um pouco de _carro de aplicativo_. Mas fiquem tranquilos que se tiver lugar bacana e for longe (pra mim), falarei da mesma forma.  
 
 Dessa vez é um restaurante com comidas típicas da região norte, especificamente o Pará.  
 
