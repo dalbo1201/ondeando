@@ -91,15 +91,17 @@
 <!-- Links -->
 </head>
 
-<body>
+<body{% if page.title == 'Profissional' or page.title == 'Currículo' %} class="sem-anuncio" {% endif %}>
   <!-- meu h-card -->{% include h-card.html %}<!-- meu h-card -->
 
-<!-- Banner BEDA -->
+<!-- anúncio -->
 {% if page.title == 'Profissional' or page.title == 'Currículo' %}
 <div class="page-row">
 {% else %}
-<aside class="anuncio-beda">🎼Ritmo, é ritmo de <a href="/beda-2026">BEDA 2026</a>...🎶</aside>
+<div class="anuncio-sticky">
+<aside class="anuncio-beda2026">🎼Ritmo, é ritmo de <a href="/beda-2026">BEDA 2026</a>...🎶</aside>
+</div>
 <div class="page-row">
 {% endif %}
-<!-- Banner BEDA -->
+<!-- anúncio -->
  

@@ -92,6 +92,33 @@ nav {
  font-weight: bold;
 }
 
+.anuncio-sticky {
+  position: sticky;
+  top: 0;
+  z-index: 20;
+  background-color: var(--color-background); /* fundo da página, opaco */
+  padding-top: 0.5rem; /* o respiro — agora com fundo sólido atrás */
+}
+
+.anuncio {
+ position: sticky;
+ top: 5px;
+ z-index: 20; /* garante que fique por cima do conteúdo ao rolar */
+ flex-direction: row;
+ justify-content: center; /* centraliza o conteúdo */
+ background-color: var(--color-background);
+ border: 1px solid var(--color-link);
+ border-radius: 0.5rem;
+ color: var(--color-text);
+ font-size: clamp(0.95rem, 0.9vw, 1rem);
+ padding: 0.5rem 0.5rem;
+ text-align: center;
+ align-self: flex-start;
+ width: 100%;
+ margin-top: 0.5rem;
+ margin-bottom: 0.5rem;
+}
+
 /* --- INÍCIO MÁGICA DO DESKTOP (UNIFICADA) --- */
 @media screen and (min-width: 50rem) {
 body {
@@ -109,12 +136,17 @@ body {
 header {
  width: 260px;
  position: sticky;
- top: 30px; /* é o que mantem o header fixo e a rolagem acontecendo apenas no conteúdo */
+ top: 30px; /* é o que mantem o header fixo e a rolagem acontecendo apenas no conteúdo - esse valor é influenciado pelo tamanho do anúncio */
  height: fit-content;
  border-right: 1px solid color-mix(in srgb, var(--color-text), transparent 93%);
  padding-right: 5px;
  align-items: flex-start;
  text-align: left;
+}
+
+body:not(.sem-anuncio) 
+header {
+  top: 75px; /* com o .anuncio ocupando espaço acima */
 }
 
 .top-header {
@@ -130,7 +162,7 @@ nav {
 
 .main-wrapper {
  width: 900px;
- margin-top: 5px;
+ margin-top: 10px;
 }
 }
 /* --- FINAL MÁGICA DO DESKTOP (UNIFICADA) --- */
