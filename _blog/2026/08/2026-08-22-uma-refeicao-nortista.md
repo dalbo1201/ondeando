@@ -8,7 +8,6 @@ tags:
  - recomentdação
  - passeios
  - a vida, o universo e tudo mais
-published: false
 ---
 Vamos para mais uma dica de lugar bacana, e não muito caro de  preferência, para comer por aqui em São Paulo.  
 
