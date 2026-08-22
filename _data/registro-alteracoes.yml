@@ -1,4 +1,14 @@
 - ano: "2026"
+  data_id: "2026-08-21"
+  data_texto: "21 de agosto"
+  entradas:
+    - tags: ["css","acabamento","html"]
+      texto: |
+        Alterei o `CSS` para que o `header` fique fixo na tela com a rolagem acontecendo apenas no conteúdo. 
+        Fiz algumas alterações para que o banner de anúncio também fique fixo na tela e quando não houver motivo para ele aparecer posso retirar e as configurações do `header` fixo seguem sem problemas.
+        Acredito que isso melhore deixe o leiaute mais interessante.
+
+- ano: "2026"
   data_id: "2026-08-06"
   data_texto: "06 de agosto"
   entradas:
