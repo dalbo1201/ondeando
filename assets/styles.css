@@ -43,7 +43,7 @@ body {
  background: var(--color-background);
  color: var(--color-text);
  font-family: var(--font-geral);
- font-weight: 300;
+ font-weight: 400;
  margin: 0 auto;
  padding: 0 5px;
  max-width: 790px;
@@ -229,7 +229,7 @@ hr {
 h1 { /* NOME DO SITE - cabeçalho */
  font-family: var(--font-h1);
  font-size: clamp(2rem, 3vw, 2.3rem); /* 24–30px */
- font-weight: 700;
+ font-weight: 500;
  font-family: var(--font-h1);
  white-space: nowrap; /* Evita quebra de linha no nome */
  display: inline;
@@ -248,7 +248,7 @@ h1 { /* NOME DO SITE - cabeçalho */
 .h1-pro { /* NOME DO SITE - cabeçalho */
  font-family: var(--font-h1);
  font-size: 1.8rem; 
- font-weight: 700;
+ font-weight: 500;
  white-space: nowrap; /* Evita quebra de linha no nome */
  display: inline;
  margin: 0 0 0 5px;
@@ -256,6 +256,7 @@ h1 { /* NOME DO SITE - cabeçalho */
 
 h2 { /* cabeçalho de saudação */
  font-family: var(--font-h2);
+ font-weight: 500;
  font-size: clamp(2.4rem, 4vw, 2.7rem); /* mínimo 35px → 40px */
  line-height: clamp(2rem, 3vw, 2.19rem); /* 32–35px */
  margin-top: 0;
@@ -293,7 +294,7 @@ h5 {
  font-family: var(--font-h5);
  max-width: 100%; /* Faz com que o conteúdo ocupe 100% da largura do contêiner */
  font-size: clamp(1.02rem, 2.5vw, 1.08rem); /* mínimo 21px */
- font-weight: bolder;
+ font-weight: 600;
  text-wrap: balance;
  text-align: left;
  margin: 7px 0px 2px 0px;
@@ -304,7 +305,7 @@ h6 {
  max-width: 100%; /* Faz com que o conteúdo ocupe 100% da largura do contêiner */
  font-size: clamp(1.02rem, 2.5vw, 1.08rem); /* mínimo 21px */
  color: color-mix(in srgb, var(--color-text), transparent calc(100% - (var(--text-transparency) * 100%)));
- font-weight: bolder;
+ font-weight: 600;
  text-wrap: balance;
  text-align: left;
  margin: 7px 0px 2px 0px;
@@ -320,6 +321,10 @@ p {
  margin: 0 0 0.8rem 0;
  overflow-wrap: break-word;
  text-align: left;
+}
+
+b, strong {
+  font-weight: 600; 
 }
 
 sup {

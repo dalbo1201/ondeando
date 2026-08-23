@@ -127,30 +127,3 @@
   background-position: center;
   vertical-align: middle;
 }
-
-  /* INÍCIO DA MODIFICAÇÃO DO NAV NO HEADER PARA CONSIDERAR O BANNER DO BEDA 2026 */
-
-.banner-nav-wrap {
-  display: flex;
-  flex-direction: column;
-  width: 100%;
-}
-
-.banner-lateral {
-  /* estilos visuais do banner em si — cor, padding, etc. */
-}
-
-@media only screen and (max-width: 40rem) {
-  .banner-nav-wrap {
-    position: relative; /* dá ao wrapper o tamanho exato do nav, já que o banner sai do fluxo */
-  }
-
-.banner-lateral {
-  position: absolute;
-  top: 40px;   /* sobe um pouco */
-  left: 0;
-  z-index: 10;
-}
-}
-
-  /* FINAL DA MODIFICAÇÃO DO NAV NO HEADER PARA CONSIDERAR O BANNER DO BEDA 2026 */
