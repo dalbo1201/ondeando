@@ -22,7 +22,7 @@ Pessoalmente eu não sou um _catador de milho_, sabe. Eu uso mais do que um dedo
 
 Porque assim, hoje em dia ninguém mais quer nem aprender Word, Excel... o famigerado _pacote office_ que é tão usado (sim, podem dizer o que quiserem, mas saber mexer nessas coisas é fundamental. E não, não precisa ser o pacote da Microsoft, mas saiba mexer em algum). E se o básico já não rola, imagina melhorar o que tá ruim?  
 
-Estava conversando com um amigo dia desses, o [Luiz](https://cavalcanti.info/?ref=pedro.dalbo.me), e ele comentou sobre dois sites que fazem exatamente isso, eles te treinam na arte da datilografia. E hoje vim trazer essas maravilhas num trabalho de divulgação e bem estar social. Ninguém merece ficar digitando só com os indicadores e levando uma semana para escrever um e-mail.  
+Estava conversando com um amigo dia desses, o [Luiz](https://cavalcanti.info/), e ele comentou sobre dois sites que fazem exatamente isso, eles te treinam na arte da datilografia. E hoje vim trazer essas maravilhas num trabalho de divulgação e bem estar social. Ninguém merece ficar digitando só com os indicadores e levando uma semana para escrever um e-mail.  
 
 Então vamos lá para as opções.
 

@@ -1,32 +1,41 @@
+- blog: Margem Viva
+  url: "https://wgnr.blog.br/"
+  autor: "Wagner Beethoven"
+  tipo: "Blog, jardim digital"
+  plataforma: "Eleventy"
+  feed: "https://wgnr.blog.br/feed/"
+  descricao: | 
+    O espaço pessoal do Wagner na web, fora da lógica de plataforma, sem algoritmo e sem pressão de frequência. Um lugar para pensar em voz alta, arquivar referências e manter uma presença própria.
+
 - blog: Baixa Cultura
-  url: "https://baixacultura.org/blog/?ref=pedro.dalbo.me"
+  url: "https://baixacultura.org/blog/"
   autor: "Leonardo Feltrin e cia"
   tipo: "Laboratório Online, Blog"
   plataforma: "Wordpress"
-  feed: "https://baixacultura.org/feed/?ref=pedro.dalbo.me"
+  feed: "https://baixacultura.org/feed/"
   descricao: | 
     Laboratório Online que trabalha com documentação, pesquisa, formação e experimentação em cultura livre.
 
 - blog: "Cosmoliko"
-  url: "https://cosmoliko.com/?ref=pedro.dalbo.me"
+  url: "https://cosmoliko.com/"
   autor: "Eliel"
-  tipo: "blog ou jardim digital"
+  tipo: "jardim digital"
   plataforma: "Ghost"
-  feed: "https://cosmoliko.com/rss/?ref=pedro.dalbo.me"
+  feed: "https://cosmoliko.com/rss/"
   descricao: | 
     Aqui o Eliel chama de blog, mas eu já diria que já passou de um proto-jardim-digital.
 
 - blog: "Excertos"
-  url: "https://rodrigo.ghed.in/?ref=pedro.dalbo.me"
+  url: "https://rodrigo.ghed.in/"
   autor: "Rodrigo Ghedin"
   tipo: "blog"
   plataforma: "Hugo"
-  feed: "https://rodrigo.ghed.in/feed.xml?ref=pedro.dalbo.me"
+  feed: "https://rodrigo.ghed.in/feed.xml"
   descricao: | 
     Blog pessoal do Ghedin.
 
 - blog: "Galeria de Espelho (Se temos certeza tem algo errado)"
-  url: "https://www.roney.com.br/?ref=pedro.dalbo.me"
+  url: "https://www.roney.com.br/"
   autor: "Roney"
   tipo: "blog"
   plataforma: "Wordpress"
@@ -35,16 +44,16 @@
     O blog pessoal do Roney (do Meme de Carbono). Esse blog é o espaço onde ele compartilha alguns dos seus devaneios, das suas histórias, as artes em vídeo, pinceladas, palavras ou bits que vai encontrando no caminho.
 
 - blog: "Histórias para Ler"
-  url: "https://historiasparaler.blog.br/?ref=pedro.dalbo.me"
+  url: "https://historiasparaler.blog.br/"
   autor: "Vários autores" 
   tipo: "blog"
   plataforma: "Blogger"
-  feed: "http://feeds.feedburner.com/historiasparaler/?ref=pedro.dalbo.me"
+  feed: "http://feeds.feedburner.com/historiasparaler/"
   descricao: | 
     Um blog onde eu mesmo e outros colegas escrevemos nossas opiniões sobre os livros que lemos.
 
 - blog: "Luiz Cavalcanti"
-  url: "https://cavalcanti.info/?ref=pedro.dalbo.me"
+  url: "https://cavalcanti.info/"
   autor: "Luiz"
   tipo: "cartão de visita, blog e repositório de conteúdo"
   plataforma: "Hugo"
@@ -53,64 +62,64 @@
     Um espaço de cartão de visita, repositório de produção (acadêmica ou não) e blog.
 
 - blog: "Meme de Carbono"
-  url: "https://www.memedecarbono.com.br/?ref=pedro.dalbo.me"
+  url: "https://www.memedecarbono.com.br/"
   autor: "Roney"
   tipo: "cartão de visita, blog e repositório de conteúdo"
   plataforma: "Wordpress"
-  feed: "https://www.memedecarbono.com.br/blog/feed/?ref=pedro.dalbo.me"
+  feed: "https://www.memedecarbono.com.br/blog/feed/"
   descricao: | 
     Seu objetivo é ajudar as pessoas a entenderem a sociedade cibernética, suas ferramentas, caminhos e conhecimentos.
 
 - blog: "Rota Urbana"
-  url: "https://blog.rotaurbana.bike/?ref=pedro.dalbo.me"
+  url: "https://blog.rotaurbana.bike/"
   autor: "Guilherme"
   tipo: "blog"
   plataforma: "BearBlog"
-  feed: "https://blog.rotaurbana.bike/feed/?ref=pedro.dalbo.me"
+  feed: "https://blog.rotaurbana.bike/feed/"
   descricao: | 
     Blog ainda novo, mas com a ideia de postar textos relacionados a mobilidade na cidade de São Paulo através da minha perspectiva enquanto ciclista, ciloativista e pedestre.
 
 - blog: "Se algo pode dar errado, acontecerá com a Raquel"
-  url: "https://raquellinhares.blogspot.com/?ref=pedro.dalbo.me"
+  url: "https://raquellinhares.blogspot.com/"
   autor: "Raquel Linhares"
   tipo: "blog"
   plataforma: "Blogger"
-  feed: "http://raquellinhares.blogspot.com/feeds/posts/default/?ref=pedro.dalbo.me"
+  feed: "http://raquellinhares.blogspot.com/feeds/posts/default/"
   descricao: | 
     Blog pessoal da Raquel, engenheira e uma amiga que a faculdade me deu. Mas além disso autora de pelo menos(?) três livros. Um diário que mostra suas transformações pessoais, já foi um local de reclamação da graduação, um site para postar contos fictícios e histórias engraçadas que aconteciam.
 
 - blog: "sol2070"
-  url: "https://sol2070.in/?ref=pedro.dalbo.me"
+  url: "https://sol2070.in/"
   autor: "sol2070"
   tipo: "jardim digital"
   plataforma: "Jekyll"
-  feed: "https://sol2070.in/feed/?ref=pedro.dalbo.me"
+  feed: "https://sol2070.in/feed/"
   descricao: | 
     Um jardim digital com foco em contracultura e coisas alternativas que não têm por aí, mas às vezes a cultura de massa penetra.
 
 - blog: "cujo.casa"
-  url: "https://cujo.casa/?ref=pedro.dalbo.me"
+  url: "https://cujo.casa/"
   autor: "Santiago"
   tipo: "blog"
   plataforma: "Hugo"
-  feed: "https://cujo.casa/feed.xml/?ref=pedro.dalbo.me"
+  feed: "https://cujo.casa/feed.xml/"
   descricao: | 
     Uma amálgama de todos seus interesses e o lugar onde fala com as paredes. Mas vou dizer que essas paredes tem olhos e ouvidos...
 
 - blog: "divagar.blog"
-  url: "https://divagar.blog/?ref=pedro.dalbo.me"
+  url: "https://divagar.blog/"
   autor: "Thiago Benicchio"
   tipo: "blog"
   plataforma: "Jekyll"
-  feed: "https://divagar.blog/feed.xml/?ref=pedro.dalbo.me"
+  feed: "https://divagar.blog/feed.xml/"
   descricao: | 
     Um espaço autoral e artesanal, um pequeno canteiro de ideias criado e mantido por ele.
 
 - blog: "Crônicas de um Exilado Linguístico"
-  url: "https://exiladolinguistico.bearblog.dev/?ref=pedro.dalbo.me"
+  url: "https://exiladolinguistico.bearblog.dev/"
   autor: "anônimo"
   tipo: "blog"
   plataforma: "BearBlog"
-  feed: "https://exiladolinguistico.bearblog.dev/feed/?ref=pedro.dalbo.me"
+  feed: "https://exiladolinguistico.bearblog.dev/feed/"
   descricao: | 
     Pequenas crônicas sobre os caprichos, as excentricidades, as elegâncias e, sobretudo, as trapalhadas do português brasileiro contemporâneo.

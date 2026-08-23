@@ -11,13 +11,15 @@ published: false
 ---
 Eu já falei de um [joguinho de lógica](/blog/lok-um-joguinho-de-logica/) muito do bacana que me recomendaram.  
 
-Eu não sou de jogar muito, o próprio LOK eu tenho deixado descansando aqui no celular, mas tenho também um outro que semrpe gostei muito de jogar no computador e acho que é um clássico no Windows, [**Campo Minado**](https://pt.wikipedia.org/wiki/Campo_minado).  
+Eu não sou de jogar muito, o próprio LOK eu tenho deixado descansando aqui no celular, mas tenho também um outro que semrpe gostei muito de jogar no computador e acho que é um clássico no Windows, o [**Campo Minado**](https://pt.wikipedia.org/wiki/Campo_minado).  
 
-Não tem muito o que dizer, certo? Campo Minado temos apenas um objetivo: encontrar todas as bombas sem explodí-las.  
+Não tem muito o que dizer, certo? No Campo Minado temos apenas um objetivo: encontrar todas as bombas sem explodí-las.  
 
 >A área de jogo consiste num campo de quadrados retangular. Cada quadrado pode ser revelado clicando sobre ele, e se o quadrado clicado contiver uma mina, então o jogo acaba.
 
 Mas aqui não jogamos naquele leiaute clássico do Windows 95, não... Aqui é tudo clean e minimalista. Tá certo, do jeito que eu falei pareceu melhor do que é. A verdade é que eu achei alguns joguinhos que seguiam o visual clássico e no celular ficou ruim demais, esse aqui fica muito melhor de jogar.  
+
+<blockquote class="fleabag">Melhor de jogar não significa que ficou mais bonito, eu fosto mais do visual clássico. Se alguém souber de um Campo Minado para celular que fique bom no tema mais clássico, avisa.</blockquote>
 
 <figure class="mais-fotos">
 <figure>

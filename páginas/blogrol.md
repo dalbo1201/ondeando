@@ -99,6 +99,7 @@ Acesse:
 <li> o <a href="https://lerama.pcdomanual.com/?category=blogs&tag" title="repositório de blogs pt-br">Lerama</a>, um repositório de blogs mantido pelo <a href="https://manualdousuario.net" title="excelente blog de tecnologia">Manual do Usuário</a> e </li>
 <li> o <a href="https://entreblogs.com.br" title="comunidade de blogagem coletiva pt-br">Entreblogs</a>, uma comunidade de blogagem coletiva;</li>
 <li> o <a href="https://brcrawl.guilhermegarcia.dev/" title="diretório da smallweb brasileira">BR Crawl</a>, um diretório da <i>smallweb</i> brasileira.</li>
+<li> o <a href="https://blogueirosraiz.blogspot.com/p/todos-os-blogs-a-z.html" title="Um lugarzinho na internet criado para reunir blogs pessoais">Blogueiros Raiz</a>, um lugarzinho na internet criado para reunir blogs pessoais.</li>
 </ul>
 Tenho certeza que vai encontrar blogs que irão te agradar.
 </div></aside>

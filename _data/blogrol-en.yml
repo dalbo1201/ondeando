@@ -1,5 +1,5 @@
 - blog: Beaumont Photography
-  url: "https://beaumontphotography.bearblog.dev/?ref=pedro.dalbo.me"
+  url: "https://beaumontphotography.bearblog.dev/"
   autor: "Bruce Beaumont"
   tipo: "blog"
   plataforma: "BearBlog"
@@ -8,20 +8,20 @@
     Blog de fotografias do Bruce Beaumont. Foi deste blog que eu me inspirei para montar o código do meu [FOTOLOG](/fotolog).
 
 - blog: "Imperfect"
-  url: "https://imperfect.bearblog.dev/?ref=pedro.dalbo.me"
+  url: "https://imperfect.bearblog.dev/"
   autor: ""
   tipo: "blog"
   plataforma: "BearBlog"
-  feed: "https://imperfect.bearblog.dev/feed/?type=rss/?ref=pedro.dalbo.me"
+  feed: "https://imperfect.bearblog.dev/feed/?type=rss/"
   descricao: | 
     Na encruzilhada entre crescimento pessoal, vida digital e inspiração criativa, as suas condições de vitória são levar a sério a escrita, fazer novos amigos e colaborar para alcançar a grandeza.
 
 - blog: "Robert Birming"
-  url: "https://robertbirming.com/?ref=pedro.dalbo.me"
+  url: "https://robertbirming.com/"
   autor: "Robert Birming"
   tipo: "blog"
   plataforma: "BearBlog"
-  feed: "https://robertbirming.com/feed/?type=rss/?ref=pedro.dalbo.me"
+  feed: "https://robertbirming.com/feed/?type=rss/"
   descricao: | 
     Um blogueiro, suéco, das antigas. Tem ótimos textos com boas reflexões da vida e do mundo das internets que queremos, fora dos aplicativos.
 

@@ -21,7 +21,7 @@ Eu preciso voltar lá e finalizar a migração das postagens. Algumas estão aqu
 
 Muita coisa que está lá eu não concordo mais, muita coisa eu penso diferente e isso me incomoda um pouco. Ao mesmo tempo, acho que esse é o normal, e mudar seu pensamento (para melhor) é ótimo e faz parte esse aprendizado, não é?  
 
-E veja, não é que eu fosse um grande babaca, mas eu ainda tinha aquele pensamento jovem neoliberal que dá aquela vergonha, sabe? Aquela crença na _meritocracia_, no _se você se esforçar você vence o mundo_ ou então aquela vontade de acreditar que a internet e suas corporações estivessem por aqui para permitir o acesso à informação. Bom, vimos que as _grandes corporações cibernéticas_ (ótimo termo cunhado pelo Roney do [Meme de Carbono](https://www.memedecarbono.com.br/?ref=pedro.dalbo.me)) só querem nos manter presos em seus serviços de péssima qualidade.  
+E veja, não é que eu fosse um grande babaca, mas eu ainda tinha aquele pensamento jovem neoliberal que dá aquela vergonha, sabe? Aquela crença na _meritocracia_, no _se você se esforçar você vence o mundo_ ou então aquela vontade de acreditar que a internet e suas corporações estivessem por aqui para permitir o acesso à informação. Bom, vimos que as _grandes corporações cibernéticas_ (ótimo termo cunhado pelo Roney do [Meme de Carbono](https://www.memedecarbono.com.br/) só querem nos manter presos em seus serviços de péssima qualidade.  
 
 Nada impede que eu retorne à esses textos refletindo minha mudança de visão de mundo. Isso com certeza acontecerá em algum momento.  
 

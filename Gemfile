@@ -3,6 +3,7 @@ source "https://gem.coop"
 gem "jekyll", "~> 4.4.0"
 gem "bigdecimal"
 gem "logger"
+gem "nokogiri"
 
 group :jekyll_plugins do
   gem "jekyll-feed"

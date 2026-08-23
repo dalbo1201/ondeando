@@ -1,4 +1,12 @@
 - ano: "2026"
+  data_id: "2026-08-23"
+  data_texto: "23 de agosto"
+  entradas:
+    - tags: ["jekyll","acabamento"]
+      texto: |
+        Adicionei um `plugin` para `Jekyll`que permite adicionar automaticamente à todas as `url` do site `?ref=pedro.dalbo.me`.
+
+- ano: "2026"
   data_id: "2026-08-22"
   data_texto: "22 de agosto"
   entradas:
