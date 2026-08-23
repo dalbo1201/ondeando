@@ -32,7 +32,7 @@
 /* Sobrescreve as variáveis de cor e acrescenta as de fonte,
    que não existem no styles.css original. */
 :root {
-  --color-background: #fbe087;
+  --color-background: #ffefbd;
   --color-text: #660800;
   --color-link: #005175;
   --color-hover: #005175;
@@ -49,6 +49,7 @@
   --font-h4:      'Special Elite', sans-serif;
   --font-h5:      'Special Elite', sans-serif;
   --font-h6:      'Special Elite', sans-serif;
+  --font-nav:     'Special Elite', sans-serif; /* Fonte dos links nav */
 }
 
 /* --- FONTES NOS TÍTULOS --- */

@@ -10,7 +10,15 @@
  --color-code-background: #7E6779;
  --color-data: #000000;
  --text-transparency: 0.7;
- --font-geral: 'Montserrat', sans-serif;
+ --font-geral: 'Montserrat', sans-serif; /* Fontes do texto em geral */
+ --font-h1:      'Montserrat', sans-serif; /* Fonte do Título do site */
+ --font-h1menor: 'Montserrat', sans-serif; /* Fonte do sub-Título do site */
+ --font-h2:      'Montserrat', sans-serif; /* Fonte do Título das páginas, aquele com | */
+ --font-h3:      'Montserrat', sans-serif; /* Fonte do título das postagens  */
+ --font-h4:      'Montserrat', sans-serif;
+ --font-h5:      'Montserrat', sans-serif;
+ --font-h6:      'Montserrat', sans-serif;
+ --font-nav:     'Montserrat', sans-serif; /* Fonte dos links nav */
 }
 
 @media (prefers-color-scheme: dark) {
@@ -35,6 +43,7 @@ body {
  background: var(--color-background);
  color: var(--color-text);
  font-family: var(--font-geral);
+ font-weight: 300;
  margin: 0 auto;
  padding: 0 5px;
  max-width: 790px;
@@ -83,6 +92,7 @@ header {
 }
 
 nav {
+ font-family: var(--font-nav);
  width: 100%;
  display: flex;
  flex-wrap: wrap;
@@ -217,14 +227,17 @@ hr {
 
 /* INÍCIO dos Estilos de títulos */
 h1 { /* NOME DO SITE - cabeçalho */
+ font-family: var(--font-h1);
  font-size: clamp(2rem, 3vw, 2.3rem); /* 24–30px */
  font-weight: 700;
+ font-family: var(--font-h1);
  white-space: nowrap; /* Evita quebra de linha no nome */
  display: inline;
  margin: 0 0 0 5px;
 }
 
 .h1-menor { /* subtítulo do cabeçalho */
+ font-family: var(--font-h1menor);
  font-size: .88rem;
  font-weight: normal;
  font-style: italic;
@@ -233,6 +246,7 @@ h1 { /* NOME DO SITE - cabeçalho */
 }
 
 .h1-pro { /* NOME DO SITE - cabeçalho */
+ font-family: var(--font-h1);
  font-size: 1.8rem; 
  font-weight: 700;
  white-space: nowrap; /* Evita quebra de linha no nome */
@@ -241,6 +255,7 @@ h1 { /* NOME DO SITE - cabeçalho */
 }
 
 h2 { /* cabeçalho de saudação */
+ font-family: var(--font-h2);
  font-size: clamp(2.4rem, 4vw, 2.7rem); /* mínimo 35px → 40px */
  line-height: clamp(2rem, 3vw, 2.19rem); /* 32–35px */
  margin-top: 0;
@@ -248,12 +263,14 @@ h2 { /* cabeçalho de saudação */
 }
 
 .h2-menor { /* cabeçalho de saudação menor */
+ font-family: var(--font-h2);
  font-size: clamp(1rem, 1.3vw, 1.3rem); /* 16–17px */
  line-height: clamp(1.2rem, 2vw, 1.5rem); /* 19–25px */
  font-weight: normal;
 }
 
 h3 { /* Títulos de postagem e outros títulos de página */
+ font-family: var(--font-h3);
  font-size: clamp(1.8rem, 3vw, 2rem); /* 27px → 27px */
  font-weight: normal;
  line-height: clamp(2.5rem, 3vw, 2.7rem); /* 32–35px */
@@ -263,6 +280,7 @@ h3 { /* Títulos de postagem e outros títulos de página */
 }
 
 h4 {
+ font-family: var(--font-h4);
  font-size: clamp(1.5rem, 2.5vw, 1.8rem); /* mínimo 21px */
  font-weight: normal;
  line-height: 1.8rem;
@@ -272,6 +290,7 @@ h4 {
 }
 
 h5 {
+ font-family: var(--font-h5);
  max-width: 100%; /* Faz com que o conteúdo ocupe 100% da largura do contêiner */
  font-size: clamp(1.02rem, 2.5vw, 1.08rem); /* mínimo 21px */
  font-weight: bolder;
@@ -281,6 +300,7 @@ h5 {
 }
 
 h6 {
+ font-family: var(--font-h6);
  max-width: 100%; /* Faz com que o conteúdo ocupe 100% da largura do contêiner */
  font-size: clamp(1.02rem, 2.5vw, 1.08rem); /* mínimo 21px */
  color: color-mix(in srgb, var(--color-text), transparent calc(100% - (var(--text-transparency) * 100%)));

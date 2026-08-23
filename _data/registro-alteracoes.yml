@@ -1,4 +1,12 @@
 - ano: "2026"
+  data_id: "2026-08-22"
+  data_texto: "22 de agosto"
+  entradas:
+    - tags: ["css","acabamento"]
+      texto: |
+        Alterrei o `root` do `CSS` para poder configurar isoladamente algumas tipografias do site. Criei as variáveis `--font-geral`, `--font-nav`, `--font-h1`, `--font-h2`, `--font-h3`, `--font-h4`, `--font-h5` e `--font-h6` e suas variantes (foi malz...) e adicionei em suas tags, assim se eu realmente for mudar alguma fonte já está estruturado.
+
+- ano: "2026"
   data_id: "2026-08-21"
   data_texto: "21 de agosto"
   entradas:
