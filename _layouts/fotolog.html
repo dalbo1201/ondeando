@@ -27,7 +27,7 @@
           </div>
         {% endif %}
         
-        <data class="p-name" value="{{ post.title }}"></data>
+        <data class="p-name" value="{{ post.title_html | default: post.title }}"></data>
       </li>
     {% endfor %}
   </ul>

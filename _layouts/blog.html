@@ -16,7 +16,7 @@
     </p>
 
     <h3>
-      <a href="{{ post.url | relative_url }}" class="p-name">{{ post.title }}</a>
+      <a href="{{ post.url | relative_url }}" class="p-name">{{ post.title_html | default: post.title }}</a>
     </h3>
     
     <div class="e-content">

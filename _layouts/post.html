@@ -16,9 +16,9 @@
   {% include post-dates.html %}
 
   {% if page.type == 'notas' or page.type == 'citacao' %}
-    <h3 class="p-name" style="display:none;">{{ page.title }}</h3>
+    <h3 class="p-name" style="display:none;">{{ page.title_html | default: page.title }}</h3>
   {% else %}
-    <h3 class="p-name">{{ page.title }}</h3>
+    <h3 class="p-name">{{ page.title_html | default: page.title }}</h3>
   {% endif %}
 
 <p class="blog-tag">
