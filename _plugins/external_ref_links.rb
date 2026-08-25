@@ -7,10 +7,13 @@ Jekyll::Hooks.register [:pages, :documents], :post_render do |doc|
 
   site_host = URI.parse(doc.site.config['url'].to_s).host rescue nil
 
-  fragment = Nokogiri::HTML::DocumentFragment.parse(doc.output)
+  # Usamos Document.parse (documento completo) em vez de
+  # DocumentFragment.parse, que corrompe doctype/html/head
+  # quando recebe uma página inteira em vez de um pedaço de HTML.
+  document = Nokogiri::HTML::Document.parse(doc.output)
   changed = false
 
-  fragment.css('a[href]').each do |a|
+  document.css('a[href]').each do |a|
     href = a['href'].to_s
     next if href.empty?
     next unless href.start_with?('http://', 'https://')
@@ -34,5 +37,5 @@ Jekyll::Hooks.register [:pages, :documents], :post_render do |doc|
     changed = true
   end
 
-  doc.output = fragment.to_html if changed
+  doc.output = document.to_html if changed
 end
