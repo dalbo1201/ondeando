@@ -7,9 +7,8 @@ Jekyll::Hooks.register [:pages, :documents], :post_render do |doc|
 
   site_host = URI.parse(doc.site.config['url'].to_s).host rescue nil
 
-  # Usamos Document.parse (documento completo) em vez de
-  # DocumentFragment.parse, que corrompe doctype/html/head
-  # quando recebe uma página inteira em vez de um pedaço de HTML.
+  # Document.parse (documento completo) em vez de DocumentFragment.parse,
+  # que corrompia doctype/html/head ao processar a página inteira.
   document = Nokogiri::HTML::Document.parse(doc.output)
   changed = false
 
@@ -37,5 +36,11 @@ Jekyll::Hooks.register [:pages, :documents], :post_render do |doc|
     changed = true
   end
 
-  doc.output = document.to_html if changed
+  next unless changed
+
+  # Remove o <meta http-equiv="Content-Type"> que o Nokogiri injeta
+  # automaticamente, já que o head.html já define <meta charset="utf-8">.
+  document.at_css('head > meta[http-equiv="Content-Type"]')&.remove
+
+  doc.output = document.to_html
 end
