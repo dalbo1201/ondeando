@@ -1,7 +1,7 @@
 ---
 layout: foto
 type: album
-title: "Conheçam o  Felini"
+title: "Conheçam o  Fellini"
 date: 2026-08-17 12:00:00
 image: /assets/fotos/2026/08/20260530_234650.jpg
 caption: "Esse é o Fellini [...]"

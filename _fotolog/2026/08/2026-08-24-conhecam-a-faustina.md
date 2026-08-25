@@ -15,7 +15,7 @@ tags:
 <figcaption>Essa é a Faustina.</figcaption>
 </figure>
 
-Faustina é [irmã do Fellini](/fotolog/conhecam-o-felini), não de criação, mas de ninhada. Eu sei, não parece.  
+Faustina é [irmã do Fellini](/fotolog/conhecam-o-fellini), não de criação, mas de ninhada. Eu sei, não parece.  
 
 Podemos dizer que Faustina e [Mérida](/fotolog/conhecam-a-merida) não se bicam e temos uma dificuldade de interação entre elas.  
 
