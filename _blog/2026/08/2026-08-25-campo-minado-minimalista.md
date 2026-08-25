@@ -18,7 +18,7 @@ Não tem muito o que dizer, certo? No Campo Minado temos apenas um objetivo: enc
 
 Mas aqui não jogamos naquele leiaute clássico do Windows 95, não... Aqui é tudo clean e minimalista. Tá certo, do jeito que eu falei pareceu melhor do que é. A verdade é que eu achei alguns joguinhos que seguiam o visual clássico e no celular ficou ruim demais, esse aqui fica muito melhor de jogar.  
 
-<blockquote class="fleabag">Melhor de jogar não significa que ficou mais bonito, eu fosto mais do visual clássico. Se alguém souber de um Campo Minado para celular que fique bom no tema mais clássico, avisa.</blockquote>
+<blockquote class="fleabag">Melhor de jogar não significa que ficou mais bonito, eu gosto mais do visual clássico. Se alguém souber de um Campo Minado para celular que fique bom no tema mais clássico, avisa.</blockquote>
 
 <figure class="mais-fotos">
 <figure>
@@ -34,6 +34,6 @@ Mas aqui não jogamos naquele leiaute clássico do Windows 95, não... Aqui é t
 
 É isso, pessoal, voltem a jogar Campo Minado no seu celular. _Perca seu tempo_ gastando uns neurônios com ele ao invés de um _feed infinito_ qualquer.
 
-Ah... você pode baixar no seu Android na [Play Store](https://play.google.com/store/apps/details?id=ee.dustland.android.minesweeper&hl=pt-br) ou numa [loja alternativa<sup>[en]</sup>](https://apkpure.net/minesweeper-the-clean-one/ee.dustland.android.minesweeper) se seu celular for _[deGoogled<sup>[en]</sup>](https://en.wikipedia.org/wiki/DeGoogle)_.
+Ah... você pode baixar no seu Android na [Play Store](https://play.google.com/store/apps/details?id=ee.dustland.android.minesweeper&hl=pt-br) ou numa [loja alternativa<sup>[en]</sup>](https://apkpure.net/minesweeper-the-clean-one/ee.dustland.android.minesweeper) se seu celular for _[deGoogled<sup>[en]</sup>](https://en.wikipedia.org/wiki/DeGoogle)_ ou se você usa lojas alternativas.
 
 {% include banner-beda-2026.html %}
