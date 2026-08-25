@@ -17,7 +17,7 @@ tags:
 
 Fellini é claramente o gato mais carinhoso e carente que existe nessa casa e arrisco dizer que poucos no mundo são assim.  
 
-Um gato bem diferente da expectativa que temos para essa espécie e que é balizada em gatos como [a Mérida](/fotolog/conhecam-a-merida). Mas o Felini também corrobora o mantra de que _o gato escolhe o dono_.  
+Um gato bem diferente da expectativa que temos para essa espécie e que é balizada em gatos como [a Mérida](/fotolog/conhecam-a-merida). Mas o Fellini também corrobora o mantra de que _o gato escolhe o dono_.  
 
 Apesar dele ser um dos gatos da S., o Fellini claramente me adotou e me acompanha para todos os cantos que eu me meta em casa e disputa com [o Woody](/fotolog/conhecam-o-woody) um lugar comigo na rede. Na verdade, o Woody disputa com o Fellini. Meus gatos tem um tempo bem diferente dos gatos da S. que são mais próximos de nós dois e mais interessados em ter um contato físico maior.  
 
