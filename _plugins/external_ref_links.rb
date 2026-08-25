@@ -9,7 +9,9 @@ Jekyll::Hooks.register [:pages, :documents], :post_render do |doc|
 
   # Document.parse (documento completo) em vez de DocumentFragment.parse,
   # que corrompia doctype/html/head ao processar a página inteira.
-  document = Nokogiri::HTML::Document.parse(doc.output)
+  # Passamos 'UTF-8' explicitamente para o Nokogiri não injetar sozinho
+  # um <meta http-equiv="Content-Type"> na hora de serializar.
+  document = Nokogiri::HTML::Document.parse(doc.output, nil, 'UTF-8')
   changed = false
 
   document.css('a[href]').each do |a|
@@ -36,11 +38,5 @@ Jekyll::Hooks.register [:pages, :documents], :post_render do |doc|
     changed = true
   end
 
-  next unless changed
-
-  # Remove o <meta http-equiv="Content-Type"> que o Nokogiri injeta
-  # automaticamente, já que o head.html já define <meta charset="utf-8">.
-  document.at_css('head > meta[http-equiv="Content-Type"]')&.remove
-
-  doc.output = document.to_html
+  doc.output = document.to_html if changed
 end
