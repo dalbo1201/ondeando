@@ -7,7 +7,6 @@ tags:
  - joguinhos
  - beda, bewa e afins
  - informática
-published: false
 ---
 Eu já falei de um [joguinho de lógica](/blog/lok-um-joguinho-de-logica/) muito do bacana que me recomendaram.  
 
