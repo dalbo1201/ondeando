@@ -1,4 +1,12 @@
 - ano: "2026"
+  data_id: "2026-08-25"
+  data_texto: "25 de agosto"
+  entradas:
+    - tags: ["liquid"]
+      texto: |
+        Mudei um pouco as `tags liquid` para que eu consifa usar algumas `tags html` nos títulos das postagens. Agora uso a tag `{{ post.title_html | default: post.title }}` (por exemplo), se houver algum `html` no título ele será usado.
+
+- ano: "2026"
   data_id: "2026-08-23"
   data_texto: "23 de agosto"
   entradas:
