@@ -41,7 +41,7 @@
             <tr class="linha-post">
               <td class="data-tag">{{ doc.date | date: "%d/%m/%Y" }}</td>
               <td class="titulo-post" style="text-wrap: balance;">
-                <a href="{{ doc.url | relative_url }}" style="display: inline;">{{ doc.title }}</a>
+                <a href="{{ doc.url | relative_url }}" style="display: inline;">{{ doc.title_html | default: doc.title }}</a>
                 {% if doc.layout == "foto" %}
                   <span style="display: inline;"><i class="fa-solid fa-camera-retro"></i></span>
                 {% endif %}
