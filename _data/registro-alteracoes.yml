@@ -4,7 +4,7 @@
   entradas:
     - tags: ["liquid"]
       texto: |
-        Mudei um pouco as `tags liquid` para que eu consifa usar algumas `tags html` nos títulos das postagens. Agora uso a tag `{{ post.title_html | default: post.title }}` (por exemplo), se houver algum `html` no título ele será usado.
+        Mudei um pouco as `tags liquid` para que eu consiga usar algumas `tags html` nos títulos das postagens. Agora uso a tag `{{ post.title_html | default: post.title }}` (por exemplo). Se houver algum `html` no título ele será usado.
 
 - ano: "2026"
   data_id: "2026-08-23"
@@ -12,7 +12,7 @@
   entradas:
     - tags: ["jekyll","acabamento"]
       texto: |
-        Adicionei um `plugin` para `Jekyll`que permite adicionar automaticamente à todas as `url` externas do site `?ref=pedro.dalbo.me`.
+        Adicionei um `plugin` para `Jekyll` que permite adicionar automaticamente à todas as `url` externas do site o complemento de referência `?ref=pedro.dalbo.me`.
 
 - ano: "2026"
   data_id: "2026-08-22"
