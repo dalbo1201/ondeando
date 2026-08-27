@@ -102,7 +102,7 @@ Certo dia, o dono da empresa levou para o pátio um Fusca que tinha sido da mãe
 <p>A vida às vezes prega essas peças na gente. Mas sei que um dia ainda terei o meu Fusca — e, quando esse dia chegar, será um dos melhores da minha vida.</p>
 </div></details>
 
-<aside class="missao-beda2026"><div class="aviso-texto">A <b>Missão da Semana</b>, <b>Aliança da Guilda</b>, foi concluída. Essa  postagem foi uma parceria com o <a href="https://prazerwillian.blogspot.com/" title="Prazer! Willian">Willian</a>, integrante do EntreBlogs.
+<aside class="missao-beda2026"><div class="aviso-texto">A Missão da Semana, <b>Aliança da Guilda</b>, foi concluída. Essa  postagem foi uma parceria com o <a href="https://prazerwillian.blogspot.com/" title="Prazer! Willian">Willian</a>, integrante do EntreBlogs.
 </div></aside>
 
 {% include banner-beda-2026.html %}

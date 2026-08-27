@@ -16,7 +16,7 @@ Eu não quero que ele tenha uma cara de super moderno, gosto desse ar de _o CSS 
 
 Ainda não entendi qual é essa **cereja no bolo** que está faltando, quando eu decobrir, aviso.
 
-<aside class="missao-beda2026"><div class="aviso-texto">A <b>Missão da Semana</b>, o <b>Pergaminho Esquecido</b>, foi concluída. Esse texto estava parado nos rascunhos desde março de 2026.
+<aside class="missao-beda2026"><div class="aviso-texto">A Missão da Semana, o <b>Pergaminho Esquecido</b>, foi concluída. Esse texto estava parado nos rascunhos desde março de 2026.
 </div></aside>
 
 {% include banner-beda-2026.html %}

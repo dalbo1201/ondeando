@@ -39,7 +39,7 @@ Pense no seu blog. Você pega um tema padrão, mas ele não é suficiente e voc�
 
 <aside class="aviso-caixa"><div class="aviso-texto">Se você ler isso aqui, Ghedin, e quiser me corrigir ou trazer mais detalhes, fique a vontade. Eu escrevi como uma homenagem àqueles momentos da <i>internet de ouro</i> em que a gente ainda acreditava que isso tudo seria uma <i>grande aldeia global de gente se ajudando</i>. Tenho certeza que minha memória perdeu elementos e fatos curiosos.</div></aside>
 
-<aside class="missao-beda2026"><div class="aviso-texto">A <b>Missão da Semana</b>, <b>O portal</b>, foi concluída. Relembre um blog que marcou sua trajetória.
+<aside class="missao-beda2026"><div class="aviso-texto">A Missão da Semana, <b>O portal</b>, foi concluída. Relembre um blog que marcou sua trajetória.
 </div></aside>
 
 {% include banner-beda-2026.html %}
