@@ -1,13 +1,12 @@
 ---
 layout: post
 type: texto
-title: "A gente esperava muito da internet..."
+title: "A gente esperava mais da internet..."
 date: 2026-08-28 12:00:00
 tags:
  - beda, bewa e afins
  - séries e TV
  - tbt
-published: false
 ---
 Sabe, lá pelos idos da década de 2010, eu cheguei a escrever questionando [porque os estúdios e canais de televisão não focavam seus esforços na internet para transmitir seus programas](/blog/ainda-existe-televisao/)<a href="#1"><sup id="1-1">1</sup></a>.  
 
