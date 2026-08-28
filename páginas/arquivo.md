@@ -1,8 +1,9 @@
 ---
 layout: arquivo
 title: Arquivo
-description: Página de arquivo com todas as postagens e fotos
+description: Página de arquivo com todas as postagens e fotos em ordem cronológica
 image: /assets/og_image/og-image-arquivo.jpg
 permalink: /arquivo
 ---
-<h2><span aria-hidden="true">|</span><span class="h2-menor">meus </span>Textos<span class="h2-menor"> e </span>Fotos</h2>
+<h2><span aria-hidden="true">|</span><span class="h2-menor">em ordem </span>Cronológica<span class="h2-menor"> ou por <a href="/etiquetas" title="postagens organizados pelas etiquetas">por etiquetas</a></span>
+</h2>
