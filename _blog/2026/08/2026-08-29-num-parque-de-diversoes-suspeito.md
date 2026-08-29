@@ -8,7 +8,6 @@ tags:
  - a vida, o universo e tudo mais
  - passeios
  - tbt
-published: false
 ---
 Durante esse BEDA eu li o texto de aniversário (entendi certo?) do Eliel falando do [passeio no Hopi Hari](https://cosmoliko.com/o-dia-em-que-risquei-o-hopi-hari-da-lista/) e me lembrei de uma passagem minha num desses _parques itinerantes de segurança duvidosa_.  
 
