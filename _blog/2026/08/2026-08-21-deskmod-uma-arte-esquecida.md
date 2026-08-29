@@ -28,7 +28,7 @@ Claro, muita coisa era apenas na aparência, alguns recursos em que você **tuna
 
 Era possível desde a troca de ícones de programas ou mesmo dos serviços do Windows (como o "meu computador", "Windows Explorer"), papel de parede ou ir mais longe e transformar a aparência do seu Windows no visual do Nintendo Wii.
 
-Pense no seu blog. Você pega um tema padrão, mas ele não é suficiente e você passa tempos e tempos adaptando, mexendo, mudando tipografia, cores. Aí você pega um _plugin_ de algum outro site, cria uma seção nova com _status do dia_... Era divertido demais, só que você fazia isso correndo o risco do seu PC _morrer_ só porque você errou o turorial. 😬  
+Pense no seu blog. Você pega um tema padrão, mas ele não é suficiente e você passa tempos e tempos adaptando, mexendo, mudando tipografia, cores. Aí você pega um _plugin_ de algum outro site, cria uma seção nova com _status do dia_... Era divertido demais, só que você fazia isso correndo o risco do seu PC _morrer_ só porque você errou o tutorial. 😬  
 
 ~~É uma pena que eu não tenha mais nenhuma captura de tela [daquela época](/blog/deskmod/), seria bacana colocar aqui alguma coisa que eu fiz, mas infelizmente eu usava uns serviços de hospedagem de imagem que se foram e perdemos essa parte da história, obrigado `imageshack.us`.~~
 
