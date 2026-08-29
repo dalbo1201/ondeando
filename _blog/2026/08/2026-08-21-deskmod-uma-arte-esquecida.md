@@ -30,7 +30,12 @@ Era possível desde a troca de ícones de programas ou mesmo dos serviços do Wi
 
 Pense no seu blog. Você pega um tema padrão, mas ele não é suficiente e você passa tempos e tempos adaptando, mexendo, mudando tipografia, cores. Aí você pega um _plugin_ de algum outro site, cria uma seção nova com _status do dia_... Era divertido demais, só que você fazia isso correndo o risco do seu PC _morrer_ só porque você errou o turorial. 😬  
 
-É uma pena que eu não tenha mais nenhuma captura de tela [daquela época](/blog/deskmod/), seria bacana colocar aqui alguma coisa que eu fiz, mas infelizmente eu usava uns serviços de hospedagem de imagem que se foram e perdemos essa parte da história, obrigado `imageshack.us`.
+~~É uma pena que eu não tenha mais nenhuma captura de tela [daquela época](/blog/deskmod/), seria bacana colocar aqui alguma coisa que eu fiz, mas infelizmente eu usava uns serviços de hospedagem de imagem que se foram e perdemos essa parte da história, obrigado `imageshack.us`.~~
+
+<aside class="aviso-caixa"><div class="aviso-texto">
+<b>29/08/2026 Atualização:</b> <br/>
+Num comentário no texto do <a href="https://manualdousuario.net/deskmod-arte-esquecida/#comments">Manual do Usuário</a>  falando deste texto citaram o site <a href="https://www.deviantart.com/">Deviant Art<sup>[en]</sup></a>. Eu lembrei que tinha uma conta lá (que ainda está ativa) e encontrei uma postagem minha mostrando a captura do meu primeiro Deskmod. Podem voltar no texto <a href="/blog/deskmod/">daquela época</a> que terá a imagem. 😁
+</div></aside>
 
 <figure>
 <img class="u-photo" src="/assets/fotos/2026/08/deskmod.png" alt="Imagem da logo do site deskmod.com.br" title="Deskmod.com.br">
