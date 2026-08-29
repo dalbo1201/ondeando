@@ -2,7 +2,7 @@
 layout: post
 type: texto
 title: "Num parque de diversões suspeito"
-date: 2026-08-27 12:00:00
+date: 2026-08-29 12:00:00
 tags:
  - beda, bewa e afins
  - a vida, o universo e tudo mais
@@ -10,7 +10,7 @@ tags:
  - tbt
 published: false
 ---
-Durante esse BEDA eu li o texto de aniversário (entendi certo) do Eliel falando do [passeio no Hopi Hari](https://cosmoliko.com/o-dia-em-que-risquei-o-hopi-hari-da-lista/) e me lembrei de uma passagem minha num desses _parques itinerantes de segurança duvidosa_.  
+Durante esse BEDA eu li o texto de aniversário (entendi certo?) do Eliel falando do [passeio no Hopi Hari](https://cosmoliko.com/o-dia-em-que-risquei-o-hopi-hari-da-lista/) e me lembrei de uma passagem minha num desses _parques itinerantes de segurança duvidosa_.  
 
 Isso já faz um bom tempo, assim coisa de mais de 20 anos, com certeza. É da época em que eu [frequentava a igreja](/blog/dez-curiosidades/).  
 
