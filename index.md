@@ -1,12 +1,12 @@
 ---
 layout: default
-title: Ondeando
+title: ondeando
 ---
 <h2> boas-vindas ;)</h2>
 
 Este é meu espaço na internet, um cantinho mais pessoal longe de tantos algorítimos e feeds infinitos.  
 
-Carinhosamente eu chamo este lugar de [**Ondeando**](https://pedro.dalbo.me/blog/a-arte-nao-se-controla/ "porquê chamo assim").  
+Carinhosamente eu chamo este lugar de [**ondeando**](https://pedro.dalbo.me/blog/a-arte-nao-se-controla/ "porquê chamo assim").  
 
 Aqui tem um pouco o que eu tenho feito nos últimos dias ou meses. Nada que abale minha privacidade, leitura, filmes, pensamentos sobre _a vida, o universo e tudo mais_.  
 

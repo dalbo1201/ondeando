@@ -32,7 +32,7 @@
   {% assign final_title = page.title | truncate: 45, "…" | append: " | Blog | " | append: site.title %}
 {% elsif page.collection == 'fotolog' %}
   {% assign final_title = page.title | truncate: 45, "…" | append: " | Fotolog | " | append: site.title %}
-{% elsif page.title == 'Ondeando' %}
+{% elsif page.title == 'ondeando' %}
   {% assign final_title = site.title %}
 {% elsif page.title == 'Profissional' or page.title == 'Currículo' %}
   {% assign final_title = page.title | truncate: 45, "…" | append: " | Pedro Dal Bó" %}
