@@ -1,6 +1,6 @@
 ---
 layout: paginas
-title: Barras
+title: barras
 description: Um mapa para o site.
 image: /assets/og_image/og-image-barras.jpg
 permalink: "/barras"

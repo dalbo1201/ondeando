@@ -1,6 +1,6 @@
 ---
 layout: paginas
-title: Currículo
+title: currículo
 image: /assets/foto-pedro.jpg
 description: Meu currículo atualizado.
 image: /assets/foto-pedro.jpg

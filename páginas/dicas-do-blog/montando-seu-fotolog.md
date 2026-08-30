@@ -1,6 +1,6 @@
 ---
 layout: paginas
-title: Montando seu Fotolog | Dicas do blog
+title: montando seu fotolog | dicas do blog
 permalink: "/dicas-do-blog/montando-seu-fotolog"
 ---
 <h2><span aria-hidden="true">|</span>montando<span class="h2-menor"> seu fotolog</span> </h2>

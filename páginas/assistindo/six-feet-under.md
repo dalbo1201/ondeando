@@ -1,6 +1,6 @@
 ---
 layout: paginas
-title: Sobre A Sete Palmos
+title: sobre A Sete Palmos
 description: Comentários sobre a série Sex Feet Under ou A Sete Palmos
 permalink: "/assistindo/six-feet-under-comentarios"
 ---

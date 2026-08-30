@@ -1,6 +1,6 @@
 ---
 layout: paginas
-title: Acompanhe
+title: acompanhe
 description: Um local explicando o que é FEED, como usar e como acompanhar esse pequeno espaço na internet.
 image: /assets/og_image/og-image-feed.jpg
 ---

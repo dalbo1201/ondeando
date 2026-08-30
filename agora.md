@@ -1,6 +1,6 @@
 ---
 layout: paginas
-title: Agora
+title: agora
 description: Uma atualização quinzenal? Talvez.
 image: /assets/og_image/og-image-agora.jpg
 ---

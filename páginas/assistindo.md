@@ -1,6 +1,6 @@
 ---
 layout: paginas
-title: Os seriados do Feito por Elas
+title: os seriados do Feito por Elas
 description: Página para as séries que estou vendo no grupo do Telegram do Feito por Elas.
 permalink: "/assistindo"
 ---

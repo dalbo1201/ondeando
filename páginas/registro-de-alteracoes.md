@@ -1,6 +1,6 @@
 ---
 layout: paginas
-title: Registro de Alterações
+title: registro de alterações
 description: registro das modificações que faço neste pequeno espaço da internet.
 image: /assets/og_image/og-image-registro-de-alteracoes.jpg
 permalink: "/registro-de-alteracoes"

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Social"
+title: "social"
 description: Como me encontrar nas mídias sociais poraí.
 image: /assets/og_image/og-image-midia-social.jpg
 ---

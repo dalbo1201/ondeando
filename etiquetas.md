@@ -1,6 +1,6 @@
 ---
 layout: tags
-title: "Etiquetas"
+title: "etiquetas"
 description: As postagens do blog e fotolog, tudo etiquetado.
 image: /assets/og_image/og-image-etiquetas.jpg
 permalink: /etiquetas/

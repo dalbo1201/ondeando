@@ -1,6 +1,6 @@
 ---
 layout: fotolog
-title: Fotolog
+title: fotolog
 description: Meu fotolog
 permalink: /fotolog/
 pagination:

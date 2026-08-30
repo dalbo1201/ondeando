@@ -1,5 +1,5 @@
 layout: paginas
-title: Sobre
+title: sobre
 description: Página Sobre
 image: /assets/og_image/
 permalink: ""

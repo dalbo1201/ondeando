@@ -1,6 +1,6 @@
 ---
 layout: paginas
-title: Sobre The Leftovers
+title: sobre The Leftovers
 description: Comentários sobre a série The Leftovers
 permalink: "/assistindo/the-leftovers-comentarios"
 ---

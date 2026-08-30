@@ -1,6 +1,6 @@
 ---
 layout: paginas
-title: Trocando a fonte do espertofone | Dicas do blog
+title: trocando a fonte do espertofone | dicas do blog
 permalink: "/dicas-do-blog/trocando-a-fonte-do-espertofone"
 ---
 <h2><span aria-hidden="true">|</span>trocando<span class="h2-menor"> a fonte do seu espertofone</span> </h2>

@@ -1,6 +1,6 @@
 ---
 layout: paginas
-title: Separando foto de texto | Dicas do blog
+title: separando foto de texto | dicas do blog
 permalink: "/dicas-do-blog/separando-foto-de-texto"
 ---
 <h2><span aria-hidden="true">|</span>separando<span class="h2-menor"> foto de texto</span> </h2>

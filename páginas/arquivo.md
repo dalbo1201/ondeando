@@ -1,6 +1,6 @@
 ---
 layout: arquivo
-title: Arquivo
+title: arquivo
 description: Página de arquivo com todas as postagens e fotos em ordem cronológica
 image: /assets/og_image/og-image-arquivo.jpg
 permalink: /arquivo

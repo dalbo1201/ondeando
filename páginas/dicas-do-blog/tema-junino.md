@@ -1,6 +1,6 @@
 ---
 layout: paginas
-title: Tema Junino | Dicas do blog
+title: tema junino | dicas do blog
 permalink: "/dicas-do-blog/tema-junino"
 ---
 <h2><span aria-hidden="true">|</span><span class="h2-menor">meu </span>tema junino</h2>  

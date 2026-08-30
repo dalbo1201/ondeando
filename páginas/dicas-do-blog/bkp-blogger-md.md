@@ -1,6 +1,6 @@
 ---
 layout: paginas
-title: Becape do Blogger | Dicas do blog
+title: becape do blogger | dicas do blog
 permalink: "/dicas-do-blog/bkp-blogger-md"
 ---
 <h2><span aria-hidden="true">|</span>becape<span class="h2-menor"> do blogger</span> </h2>

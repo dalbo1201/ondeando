@@ -1,6 +1,6 @@
 ---
 layout: paginas
-title: Dicas do blog
+title: dicas do blog
 excerpt: Um local onde eu vou colocar algumas coisas que eu fiz aqui e acho que vale compartilhar.
 permalink: "/dicas-do-blog"
 ---

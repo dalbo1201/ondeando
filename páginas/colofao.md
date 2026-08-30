@@ -1,6 +1,6 @@
 ---
 layout: paginas
-title: Colofão
+title: colofão
 description: Bastidores técnicos e inspirações do site
 image: /assets/og_image/og-image-colofao.jpg
 permalink: "/colofao"
