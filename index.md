@@ -2,7 +2,7 @@
 layout: default
 title: Ondeando
 ---
-<h2> Boas-vindas ;)</h2>
+<h2> boas-vindas ;)</h2>
 
 Este é meu espaço na internet, um cantinho mais pessoal longe de tantos algorítimos e feeds infinitos.  
 

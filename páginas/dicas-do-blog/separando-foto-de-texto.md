@@ -3,7 +3,7 @@ layout: paginas
 title: Separando foto de texto | Dicas do blog
 permalink: "/dicas-do-blog/separando-foto-de-texto"
 ---
-<h2><span aria-hidden="true">|</span>Separando<span class="h2-menor"> foto de texto</span> </h2>
+<h2><span aria-hidden="true">|</span>separando<span class="h2-menor"> foto de texto</span> </h2>
 Quando eu montei meu Fotolog eu resolvi que eu não queria que as postagens dele ficassem naparecendo junto com as postagens do blog, mas ao mesmo tempo eu queria manter apenas um feed de forma que ao assinar o rss daqui tudo estivesse junto.  
 
 A ideia é que exista uma separação _física_ das postagens, mas no final é tudo um grande lugar onde eu posto minhas coisas.  

@@ -6,7 +6,7 @@ image: /assets/og_image/og-image-barras.jpg
 permalink: "/barras"
 ---
 <h2>
-<span aria-hidden="true">|</span>Barras
+<span aria-hidden="true">|</span>barras
 </h2>
 A página <i>/barras</i> (ou <a href="https://slashpages.net/#slashes">/slashes<sup>[en]</sup></a> em inglês) serve para você encontrar os caminhos das páginas deste cantinho na web.
 

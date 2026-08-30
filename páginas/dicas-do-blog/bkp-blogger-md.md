@@ -3,7 +3,7 @@ layout: paginas
 title: Becape do Blogger | Dicas do blog
 permalink: "/dicas-do-blog/bkp-blogger-md"
 ---
-<h2><span aria-hidden="true">|</span>Becape<span class="h2-menor"> do Blogger</span> </h2>
+<h2><span aria-hidden="true">|</span>becape<span class="h2-menor"> do blogger</span> </h2>
 Aqui a ideia é permitir fazer o becape das postagens de blogs feitos no Blogger para facilitar a mudança de plataforma caso ela vá ocorrer e depois do que houve na desenha do sia 05/08/2026 em que o Google derrubou uma série de blogs por _irem contra os termos de serviço_ e a gente conhecer blogs derrubados e sabendo que eles não iam contra os termos, é melhor prevenir.
 
 <a href="/dicas-do-blog">&laquo; voltar para as dicas</a>

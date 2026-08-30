@@ -10,15 +10,18 @@
  --color-code-background: #7E6779;
  --color-data: #000000;
  --text-transparency: 0.7;
- --font-geral: 'Montserrat', sans-serif; /* Fontes do texto em geral */
+ --font-geral: 'Lexend', sans-serif; /* Fontes do texto em geral */
  --font-h1:      'Montserrat', sans-serif; /* Fonte do Título do site */
  --font-h1menor: 'Montserrat', sans-serif; /* Fonte do sub-Título do site */
  --font-h2:      'Montserrat', sans-serif; /* Fonte do Título das páginas, aquele com | */
- --font-h3:      'Montserrat', sans-serif; /* Fonte do título das postagens  */
- --font-h4:      'Montserrat', sans-serif;
- --font-h5:      'Montserrat', sans-serif;
- --font-h6:      'Montserrat', sans-serif;
+ --font-h3:      'Montserrat', sans-serif; /* Fonte exclusiva do título das postagens  */
+ --font-h4:      'Montserrat', sans-serif; /* Fonte de título de seção em texto ou nome do site no blogrol */
+ --font-h5:      'Lexend', sans-serif; /* texto com cara de título em negrito */
+ --font-h6:      'Lexend', sans-serif; /* texto com cara de título em negrito e uma aparencia mais apagada, como as informações dos blogs no blogrol */
  --font-nav:     'Montserrat', sans-serif; /* Fonte dos links nav */
+ --font-citacao: 'Montserrat', sans-serif; 
+ --font-aspas: 'Fraunces', 'Georgia', serif; /* Fonte das aspas em citações */
+ --font-code: monospace; /* Fonte do código */
 }
 
 @media (prefers-color-scheme: dark) {
@@ -43,7 +46,7 @@ body {
  background: var(--color-background);
  color: var(--color-text);
  font-family: var(--font-geral);
- font-weight: 400;
+ font-weight: 300;
  margin: 0 auto;
  padding: 0 5px;
  max-width: 790px;
@@ -99,7 +102,7 @@ nav {
  justify-content: right; /* pra direita no mobile */
  gap: 15px 15px;
  font-size: clamp(0.88rem, 0.8vw, 0.94rem);
- font-weight: bold;
+ font-weight: 600;
 }
 
 .anuncio-sticky {
@@ -230,7 +233,6 @@ h1 { /* NOME DO SITE - cabeçalho */
  font-family: var(--font-h1);
  font-size: clamp(2rem, 3vw, 2.3rem); /* 24–30px */
  font-weight: 500;
- font-family: var(--font-h1);
  white-space: nowrap; /* Evita quebra de linha no nome */
  display: inline;
  margin: 0 0 0 5px;
@@ -239,7 +241,7 @@ h1 { /* NOME DO SITE - cabeçalho */
 .h1-menor { /* subtítulo do cabeçalho */
  font-family: var(--font-h1menor);
  font-size: .88rem;
- font-weight: normal;
+ font-weight: 400;
  font-style: italic;
  line-height: 1rem; /* 32–35px */
  margin-left: 10px;
@@ -267,13 +269,13 @@ h2 { /* cabeçalho de saudação */
  font-family: var(--font-h2);
  font-size: clamp(1rem, 1.3vw, 1.3rem); /* 16–17px */
  line-height: clamp(1.2rem, 2vw, 1.5rem); /* 19–25px */
- font-weight: normal;
+ font-weight: 400;
 }
 
 h3 { /* Títulos de postagem e outros títulos de página */
  font-family: var(--font-h3);
  font-size: clamp(1.8rem, 3vw, 2rem); /* 27px → 27px */
- font-weight: normal;
+ font-weight: 400;
  line-height: clamp(2.5rem, 3vw, 2.7rem); /* 32–35px */
  text-wrap: balance;
  margin-top: 0.63rem; /* 10px */
@@ -283,7 +285,7 @@ h3 { /* Títulos de postagem e outros títulos de página */
 h4 {
  font-family: var(--font-h4);
  font-size: clamp(1.5rem, 2.5vw, 1.8rem); /* mínimo 21px */
- font-weight: normal;
+ font-weight: 400;
  line-height: 1.8rem;
  text-wrap: balance;
  margin-top: 0.5rem;
@@ -293,7 +295,7 @@ h4 {
 h5 {
  font-family: var(--font-h5);
  max-width: 100%; /* Faz com que o conteúdo ocupe 100% da largura do contêiner */
- font-size: clamp(1.02rem, 2.5vw, 1.08rem); /* mínimo 21px */
+ font-size: clamp(1.12rem, 2.5vw, 1.18rem); /* mínimo 21px */
  font-weight: 600;
  text-wrap: balance;
  text-align: left;
@@ -353,7 +355,7 @@ main ul {
 
 code {
  display: inline-block;
- font-family: monospace;
+ font-family: var(--font-code);
  font-size: clamp(0.95rem, 1vw, 1.0rem);
  line-height: 1.4rem; /* ou 1.0 ou até 0.95, ajuste como preferir */
  background-color: var(--color-code-background);
@@ -364,7 +366,7 @@ code {
 
 .code-rss {
  display: inline-block;
- font-family: monospace;
+ font-family: var(--font-code);
  font-size: clamp(1rem, 1.5vw, 1.06rem); /* 16–17px */
  background-color: var(--color-link);
  opacity: 1; 
@@ -380,7 +382,7 @@ code {
  color: var(--color-background);
  font-size: clamp(0.80rem, 1.5vw, 1rem); /* 12px */
  line-height: 1.4rem; /* ou 1.0 ou até 0.95, ajuste como preferir */
- font-family: monospace;
+ font-family: var(--font-code);
  padding: 1px 6px;
  border-radius: 3px;
  margin: 5px;
@@ -665,7 +667,7 @@ time.album-data {
 }
 
 .blog-tag {
- font-family: monospace;
+ font-family: var(--font-code);
  font-size: clamp(0.88rem, 0.85vw, 0.94rem); /* 14–15px */
  line-height: 1.25rem; /* 20px */
  max-width: 100%;
@@ -751,6 +753,8 @@ cite {
 article.blog-article.blog-citacao blockquote p {
  font-size: clamp(1.2rem, 2.2vw, 1.6rem);
  line-height: 1.3;
+ font-family: var(--font-citacao);
+ font-weight: 500;
  font-style: italic;
  margin-left: 1.5rem;
  max-width: 80%;
@@ -765,8 +769,9 @@ article.blog-article.blog-citacao blockquote p {
 
 article.blog-article.blog-citacao blockquote p::after {
  content: '\201D';
- font-family: 'Fraunces', 'Georgia'; /* Fonte para as aspas */
+ font-family: var(--font-aspas); /* Fonte para as aspas */
  font-size: 12.5rem; /* 200px */
+ font-weight: 900;
  color: var(--color-quote);
  position: absolute;
  right: -10px;
@@ -801,7 +806,7 @@ article.blog-article.blog-citacao cite {
 
 /* INÍCIO ESTILOS PARA A PÁGINA DE Tags */
 .nuvem-tag {
- font-family: monospace;
+ font-family: var(--font-code);
  font-size: clamp(0.88rem, 0.85vw, 0.94rem); /* 14–15px */
  line-height: 1.25rem; /* 20px */
  display: flex;
@@ -1067,7 +1072,7 @@ address {
 
 /* INÍCIO DO Container PARA de bloco de código DO dicas-do-blog*/
 .tutorial { 
- font-family: monospace;
+ font-family: var(--font-code);
 }
  
 pre {
@@ -1083,7 +1088,7 @@ pre {
 
 pre code {
  background-color: var(--color-code-background);
- font-family: monospace;
+ font-family: var(--font-code);
  font-size: 1rem;
  line-height: 1.5;
  opacity: 1;
@@ -1177,7 +1182,7 @@ pre code {
 
 .entreblogs-title {
  color: var(--color-text);
- font-weight: bold;
+ font-weight: 600;
  text-align: center;
  margin-bottom: 0.5rem;
  text-transform: uppercase;

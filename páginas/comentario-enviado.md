@@ -3,7 +3,7 @@ layout: default
 title: comentário enviado
 permalink: /comentario-enviado/
 ---
-<h2><span aria-hidden="true">|</span><span class="h2-menor">seu comentário foi </span>Enviado</h2>
+<h2><span aria-hidden="true">|</span><span class="h2-menor">seu comentário foi </span>enviado</h2>
 
 **Obrigado pelo comentário!**
 

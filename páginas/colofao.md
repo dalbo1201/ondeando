@@ -5,7 +5,7 @@ description: Bastidores técnicos e inspirações do site
 image: /assets/og_image/og-image-colofao.jpg
 permalink: "/colofao"
 ---
-<h2> <span aria-hidden="true">|<span class="h2-menor">o </span></span>Colofão<span class="h2-menor"> deste cantinho</span></h2>
+<h2> <span aria-hidden="true">|<span class="h2-menor">o </span></span>colofão<span class="h2-menor"> deste cantinho</span></h2>
 
 [Colofão<sup>[en]</sup>](https://indieweb.org/colophon "mais sobre o que é Cólofon") (ou Cólofon e em inglês Colophon) é um espaço para contar um pouco dos bastidores técnicos deste cantinho: como ele é feito, quais ferramentas e de onde vêm algumas inspirações. _Hoje no Globo Reporter_.  
 
@@ -13,8 +13,8 @@ A ideia, é claro, foi [retirada da literatura](https://pt.wikipedia.org/wiki/C%
 
 <hr>
 
-<h3 id="descricao-do-site"> Descrição do site</h3>
-A tipografia é toda com a fonte [Montserrat<sup>[en]</sup>](https://github.com/JulietaUla/Montserrat "a fonte deste cantinho"), as setas são [elementos unicode<sup>[en]</sup>](https://symbl.cc/pt/unicode-table/#arrows "as setas") e alguns ícones da [Font Awesome<sup>[en]</sup>](https://fontawesome.com "os ícones do site, inclusive de mídias-sociais").  
+<h4 id="descricao-do-site"> Descrição do site</h4>
+A tipografia é dividida entre a fonte **[Montserrat<sup>[en]</sup>](https://github.com/JulietaUla/Montserrat "a fonte deste cantinho")** que é usada nos títulos e a fonte **Lexend** que é uma fonte supostamente [com melhor leitura<sup>[en]</sup>](https://www.lexend.com/). As setas são [elementos unicode<sup>[en]</sup>](https://symbl.cc/pt/unicode-table/#arrows "as setas") e os ícones da [Font Awesome<sup>[en]</sup>](https://fontawesome.com "os ícones do site, inclusive de mídias-sociais").  
 
 Este cantinho tem como cores predominantes:
 - Tech White (cinza claro, quase branco) ([#F5F5F5<sup>[en]</sup>](https://www.color-name.com/hex/f5f5f5 "o fundo, ou o texto"));
@@ -22,15 +22,11 @@ Este cantinho tem como cores predominantes:
 - Palace Magenta (um roxo escuro, lembrando o magenta) ([#75015C<sup>[en]</sup>](https://www.color-name.com/hex/75015c "os links, no claro"));  
 - No **modo escuro** as cores se invertem e o Palace Magenta dá lugar ao Boomerang Lilac (um rosa claro) ([#F1C6E8<sup>[en]</sup>](https://www.color-name.com/hex/f1c6e8 "os links, no escuro")).  
 
-Sempre que você avistar o símbolo **↗** ao lado de algum link significa que ele te levará para uma página externa deste pequeno _proto-jardim-digital_. A excessão são os links associados a imagem no rodapé, apesar de irem para páginas externas não tem o símbolo, ~~por questão estética e~~, porquê claramente vão para uma página externa.  
-
 Nas páginas que encontrar o ícone <i class="fa-solid fa-camera-retro"></i> significa que a postagem está no [Fotolog](/fotolog).  
 
 Quando tiver o ícone <i class="fa-solid fa-book-open"></i> significa que estou lendo o livro participando de um _Clube do Livro_. Se o ícone estiver vermelho <i style="color: red" class="fa-solid fa-book-open"></i> significa que eu estou _atrasado_ na leitura.  
 
 <blockquote class="fleabag">Isso será bem comum...</blockquote>
-
-Os links que não levarem para páginas em português coloco uma _etiqueta_ sobreescrita `[idioma]`, assim tem como saber que estou indicando um texto em outro idioma e qual é.  
 
 <p id="sobre-comentarios">O blog e o fotolog tem uma seção de comentários, fique a vontade para usá-los.</p>
 
@@ -38,11 +34,16 @@ Os links que não levarem para páginas em português coloco uma _etiqueta_ sobr
 
 O [favicon e o avatar](/assets/favicon/favicon_cartoon-180.png) dos comentários são _arte relâmpago_ do [@naldojunioartwork](https://www.instagram.com/naldojunioartwork).
 
-**Todos os links abrem a página sobre a página atual**. Adoto essa configuração porque se houver o desejo de abrir em uma nova aba/janela é possível de várias formas. Mas se o interesse não for esse e a configuração padrão for abrir em outra aba/janela não temos como fazê-lo.  
-
 Para o mês de junho tem um tema especial de [**Festa Junina**](/blog/um-tema-festivo), se ainda não o viu, marque dia 01 de junho na sua agenda e venha curtir.
 
-<h3 id="desenvolvimento-do-site"> Desenvolvimento do site</h3>
+<h5>Sobre os links do site</h5>
+Sempre que você avistar o símbolo **<a>↗</a>** ao lado de algum link significa que ele te levará para uma página externa deste pequeno _proto-jardim-digital_. A excessão são os links associados a imagem no rodapé, apesar de irem para páginas externas não tem o símbolo, ~~por questão estética e~~, porquê claramente vão para uma página externa.  
+
+Os links que não levarem para páginas em português coloco uma _etiqueta_ sobreescrita `[idioma]`, assim tem como saber que estou indicando um texto em outro idioma e qual é.  
+
+**Todos os links abrem a página sobre a página atual**. Adoto essa configuração porque se houver o desejo de abrir em uma nova aba/janela é possível de várias formas. Mas se o interesse não for esse e a configuração padrão for abrir em outra aba/janela não temos como fazê-lo.  
+
+<h4 id="desenvolvimento-do-site"> Desenvolvimento do site</h4>
 - **Publicação:**  
   - O site é construído com [Jekyll<sup>[en]</sup>](https://jekyllrb.com/), um gerador de sites estáticos;  
   - O código-fonte é versionado e armazenado no [GitHub<sup>[en]</sup>](https://github.com/dalbo1201/ondeando). Para a edição e gestão dos arquivos, utilizo o [Visual Studio Code<sup>[en]</sup>](https://code.visualstudio.com/) (editor) e o [GitHub Desktop<sup>[en]</sup>](https://github.com/apps/desktop?locale=pt-BR) (cliente Git);  
@@ -53,7 +54,7 @@ Para o mês de junho tem um tema especial de [**Festa Junina**](/blog/um-tema-fe
 
 Mais detalhes de como é [o processo de escrita por aqui](/blog/como-as-coisas-acontecem-por-aqui/).
 
-<h3 id="inspiracoes">Inspirações</h3>
+<h4 id="inspiracoes">Inspirações</h4>
 - O tema inicial do site foi inspirado no site do [Paulo Higa](https://web.archive.org/web/20151103091229/http://higa.me/ "site do Higa quando me inspirei");
 - Quando ampliei o site para algo próximo de um _proto-jardim-digital_, acabei me inspirando visualmente no site/blog do [Rodrigo Ghedin](https://web.archive.org/web/20250301092841/https://rodrigo.ghed.in/ "site do Ghedin quando me inspirei") (de quem pedi autorização. Se forem analisar os códigos, o site do Ghedin tem uma elegancia que aqui não existe, mas arrumarei em algum momento); 
 - Hoje o espaço tem visual inpirado em algo como o [Minimal<sup>[en]</sup>](https://orderedlist.com/minimal/), mas vários sites apresentam essa dinâmica da coluna à esquerda em telas maiores se tronar o topo do site em telas menores; 
@@ -61,7 +62,7 @@ Mais detalhes de como é [o processo de escrita por aqui](/blog/como-as-coisas-a
 - Para o tema de **Festa Junina** me inspirei no [tema especial<sup>[en]</sup>](https://robertbirming.com/bear-halloween-theme/ "postagem com o tema de Halloween") de Halloween criado pelo [Robert Birming<sup>[en]</sup>](https://robertbirming.com).
 
 
-<h3 id="filosofia">Filosofia</h3>
+<h4 id="filosofia">Filosofia</h4>
 - O site não tem [nenhum sistema de _analytics_<sup>[en]</sup>](https://themarkup.org/blacklight?url=https%3A%2F%2Fpedro.dalbo.me&device=mobile&location=us-ca&force=false) ou plugins de mídias-sociais;  
 - Apesar de estar hospedado no GitHub, tento evitar o máximo possível depender de _Big Techs_ – embora nem sempre seja totalmente viável dado minha completa inexperiência nesse mundo de programações e linguegens web;  
 - A tipografia do site é carregada a partir do site [Bunny Fonts<sup>[en]</sup>](https://fonts.bunny.net/family/montserrat), que oferece um nível de privacidade superior aos concorrentes;

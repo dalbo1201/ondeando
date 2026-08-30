@@ -3,7 +3,7 @@ layout: paginas
 title: Tema Junino | Dicas do blog
 permalink: "/dicas-do-blog/tema-junino"
 ---
-<h2><span aria-hidden="true">|</span><span class="h2-menor">meu </span>Tema Junino</h2>  
+<h2><span aria-hidden="true">|</span><span class="h2-menor">meu </span>tema junino</h2>  
 Bom, consegui colocar no ar o tema junino, eu espero que gostem e caso tenham dicas de como melhorar vamos [trocar uma ideia](mailto:pedro@dalbo.me?subject=Tema Junino").
 
 <a href="/dicas-do-blog">&laquo; voltar para as dicas</a>

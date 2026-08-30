@@ -13,4 +13,4 @@ pagination:
   sort_reverse: true
   per_page: 7
 ---
-<h2><span aria-hidden="true">|</span><span class="h2-menor">meu </span>Blog</h2>
+<h2><span aria-hidden="true">|</span><span class="h2-menor">meu </span>blog</h2>

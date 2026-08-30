@@ -1,4 +1,15 @@
 - ano: "2026"
+  data_id: "2026-08-30"
+  data_texto: "30 de agosto"
+  entradas:
+    - tags: ["acabamento"]
+      texto: |
+        Deixei o nome do site todo em letras minúsculas, conforme explicado [nesta postagem](/blog/a-arte-nao-se-controla/). Junto disso, coloquei todos os títulos de páginas em minústulo, recomendação da S. diz ela que fica menos sisudo.
+    - tags: ["css", "acabamento", "html"]
+      texto: |
+        Aproveitei e mudei a fonte principal do site para a **Lexend** que é uma fonte supostamente [com melhor leitura<sup>[en]</sup>](https://www.lexend.com/). Os títulos (do site, de postagens e seções) continuam sendo a [Montserrat<sup>[en]</sup>](https://github.com/JulietaUla/Montserrat), gosto muito dela e acho que as duas até que combinam.
+
+- ano: "2026"
   data_id: "2026-08-25"
   data_texto: "25 de agosto"
   entradas:
@@ -10,7 +21,7 @@
   data_id: "2026-08-23"
   data_texto: "23 de agosto"
   entradas:
-    - tags: ["jekyll","acabamento"]
+    - tags: ["jekyll","css"]
       texto: |
         Adicionei um `plugin` para `Jekyll` que permite adicionar automaticamente à todas as `url` externas do site o complemento de referência `?ref=pedro.dalbo.me`.
 
@@ -18,7 +29,7 @@
   data_id: "2026-08-22"
   data_texto: "22 de agosto"
   entradas:
-    - tags: ["css","acabamento"]
+    - tags: ["css"]
       texto: |
         Alterrei o `root` do `CSS` para poder configurar isoladamente algumas tipografias do site. Criei as variáveis `--font-geral`, `--font-nav`, `--font-h1`, `--font-h2`, `--font-h3`, `--font-h4`, `--font-h5` e `--font-h6` e suas variantes (foi malz...) e adicionei em suas tags, assim se eu realmente for mudar alguma fonte já está estruturado.
 
@@ -26,7 +37,7 @@
   data_id: "2026-08-21"
   data_texto: "21 de agosto"
   entradas:
-    - tags: ["css","acabamento","html"]
+    - tags: ["css","html"]
       texto: |
         Alterei o `CSS` para que o `header` fique fixo na tela com a rolagem acontecendo apenas no conteúdo. 
         Fiz algumas alterações para que o banner de anúncio também fique fixo na tela e quando não houver motivo para ele aparecer posso retirar e as configurações do `header` fixo seguem sem problemas.
@@ -36,7 +47,7 @@
   data_id: "2026-08-06"
   data_texto: "06 de agosto"
   entradas:
-    - tags: ["css","acabamento","html"]
+    - tags: ["css","html"]
       texto: |
        Estruturei a página [DICAS DO BLOG](/dicas-do-blog) utilizando um `template liquid` e um arquivo `dicas_do_blog.yml` com a lista de tutoriais para que o arquivo `dicas-do-blog.md` fique mais limpo. Assim eu coloco a ordem alfabética pelo `liquid` e não preciso ficar me preocupando com isso ao criar as entradas. Muito mais fácil.  
 
@@ -44,7 +55,7 @@
   data_id: "2026-08-05"
   data_texto: "05 de agosto"
   entradas:
-    - tags: ["css","acabamento","html"]
+    - tags: ["css","css","html"]
       texto: |
        Criei uma nova classe `.rodape` para notas de rodapé no final de postagens.
 
@@ -52,13 +63,13 @@
   data_id: "2026-08-03"
   data_texto: "03 de agosto"
   entradas:
-    - tags: ["liquid", "acabamento"]
+    - tags: ["liquid", "css"]
       texto: | 
        Fiz uma alteração e uma gracinha com o link para os comentários das postagens na página principal do blog. Não tem mais apenas a frase _vamos conversar_, dependendo da quantidade de mensagens ficou  
         - nenhuma mensagem: _vamos conversar..._;
         - 1 a 3 mensagens: _tem um bate-papo rolando, vem participar..._;
         - 4 ou mais mensagens: _a conversa parece boa, vai ficar de fora?_.
-    - tags: ["html","liquid", "acabamento"]
+    - tags: ["html","liquid", "css"]
       texto: |
        Configurei no `head` do site as `og tags` para que as configurações de compartilhamento permitam que as informações apareçam definidas corretamente.  
        Deu um certo trabalho, mas fiquei satisfeito com o resultado. 
@@ -83,10 +94,10 @@
   data_id: "2026-07-29"
   data_texto: "29 de julho"
   entradas:
-    - tags: ["acabamento"]
+    - tags: ["css"]
       texto: |
        Alterei o contorno da foto do cabeçalho do site. Deixei com os cantos arredondados, simétricos sim, mas não entre os dois eixos 😬. 
-    - tags: ["acabamento"]
+    - tags: ["css"]
       texto: |
        Atualizei o arquivo `tema-junino.css` com novas fontes para os títulos, melhores as proporções do chapéu e sanfona para as novas fontes.  
        Atualizei a página do [TEMA JUNINO](/dicas-do-blog/tema-junino "página que apresenta o tema junino").
@@ -95,10 +106,10 @@
   data_id: "2026-07-25"
   data_texto: "25 de julho"
   entradas:
-    - tags: ["acabamento","liquid","jekyll","html"]
+    - tags: ["css","liquid","jekyll","html"]
       texto: |
        Alterei o arquivo `header.html` para que a barra de navegação seja a mesma independente da página do site. Antes na página principal tínhamos uma navegção resumida agora temos ela completa como nas outras páginas do site. Exceto a página [PROFISSIONAL](/profissional) (e derivadas) e [ERRO](/404) que se mantem sem barra de navegação.
-    - tags: ["acabamento","liquid","jekyll"]
+    - tags: ["css","liquid","jekyll"]
       texto: |
        Adicionei no `template liquid` dos arquivos de `layout` do [BLOG](/blog) e [FOTOLOG](/fotolog) a condição para organizar alfabeticamente as tags das postagens. Fiz o mesmo para as tags que ficam aqui no **registro de alterações**. Dessa forma tanto no `front matter` das postagens quanto no arquivo `yml` do **registro de alterações** posso colocar as tags conforme me recordo sem me preocupar se elas estão em ordem alfabética, pois na apresentação elas ficarão corretas de qualquer forma.
 
@@ -106,7 +117,7 @@
   data_id: "2026-07-18"
   data_texto: "18 de julho"
   entradas:
-    - tags: ["acabamento"]
+    - tags: ["css"]
       texto: |
        Adicionei o selo do [BR Crawl](https://guilhermegarcia.dev/brcrawl/) no rodapé. O BR Crawl é um projeto de agregador de blogs brasileiros.
     - tags: ["liquid","páginas"]
@@ -124,7 +135,7 @@
     - tags: ["jekyll","liquid"]
       texto: |
        Troquei o `type:frase` do `front matter` para `type:citacao`, acho que o nome fica mais de acordo (e elegante) com o objetivo da postagem.  
-    - tags: ["acabamento"]
+    - tags: ["css"]
       texto: |
        Tirei os balões do [MICROBLOG](/microblog) do `header`. Acho que esse excesso de balões mata a graça dele nos textos do blog e outros locais que uso. Ainda vou tirar os balões das páginas do [MICROBLOG](/microblog), mas não tive saco de revisar todo o `CSS` para isso acontecer. Talvez eu tire a página como um todo já que tenho o `type:notas`que parece ficar sobreposto no conceito.
 
@@ -132,7 +143,7 @@
   data_id: "2026-07-16"
   data_texto: "16 de julho"
   entradas:
-    - tags: ["acabamento"]
+    - tags: ["css"]
       texto: |
        Troquei [o favicon](/assets/favicon/favicon_cartoon-180.png) e meu avatar dos comentários. Antes eu usava a solução de avatar do WhatsApp, não gostava da ideia, mas era o que eu tinha sem ser uma foto. Aproveitei uma promoção de _arte relâmpago_ do [@naldojunioartwork](https://www.instagram.com/naldojunioartwork) e fiz uma pequena arte com ele para usar de favicon e avatar.  
        Tenho a ideia de fazer isso com outros artistas que conheço e colocar essas artes numa futura página **SOBRE**.
@@ -141,7 +152,7 @@
   data_id: "2026-06-01"
   data_texto: "01 de junho"
   entradas:
-    - tags: ["acabamento","css","html","liquid"]
+    - tags: ["css","html","liquid"]
       texto: |
        Hoje *entrou no ar* o **tema de festa junina** aqui do site. Fiquei desde outubro do ano passado segurando essa brincadeira. Gostei do resultado final, espero que a galera também curta.  
        O tema é ativado automaticamente no mês de junho por uma regra `liquid` no `head` que verifica o mês.
@@ -150,7 +161,7 @@
   data_id: "2026-05-23"
   data_texto: "23 de maio"
   entradas:
-    - tags: ["acabamento"]
+    - tags: ["css"]
       texto: |
        Adicionei o ícone <i class="fa-solid fa-book-open"></i> na página [AGORA](/agora) para indicar no livro que estou lendo que ele faz parte de um _Clube do Livro_.  
        Adicionei a explicação no [COLOFÃO](/colofao#descricao-do-site).
@@ -159,7 +170,7 @@
   data_id: "2026-05-16"
   data_texto: "16 de maio"
   entradas:
-    - tags: ["acabamento"]
+    - tags: ["css"]
       texto: |
        Reestruturei as cores do blog. As cores principais continuam as indicadas no [COLOFÃO](/colofao#descricao-do-site), mas as cores auxiliares foram trocadas para cores que estejam na paleta monocromática ao invés de serem da paleta de _arco-íris_.
 

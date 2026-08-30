@@ -12,4 +12,4 @@ pagination:
   sort_reverse: true
   per_page: 9
 ---
-<h2><span aria-hidden="true">|</span><span class="h2-menor">meu </span>Fotolog</h2>
+<h2><span aria-hidden="true">|</span><span class="h2-menor">meu </span>fotolog</h2>

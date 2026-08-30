@@ -5,7 +5,7 @@ description: registro das modificações que faço neste pequeno espaço da inte
 image: /assets/og_image/og-image-registro-de-alteracoes.jpg
 permalink: "/registro-de-alteracoes"
 ---
-<h2><span aria-hidden="true">|<span class="h2-menor">o </span></span>Registro<span class="h2-menor"> de alterações</span></h2>
+<h2><span aria-hidden="true">|<span class="h2-menor">o </span></span>registro<span class="h2-menor"> de alterações</span></h2>
 
 O famoso [Changelog<sup>[en]</sup>](https://slashpages.net/#changelog) é simplesmente um resumo das alterações <del>consideradas mais pertinentes</del> realizadas aqui neste meu pequeno canto da internet.
 <hr>

@@ -4,7 +4,7 @@ title: "Social"
 description: Como me encontrar nas mídias sociais poraí.
 image: /assets/og_image/og-image-midia-social.jpg
 ---
-<h2><span aria-hidden="true">|</span><span class="h2-menor">nas </span>Mídias<span class="h2-menor"> Sociais</span></h2>
+<h2><span aria-hidden="true">|</span><span class="h2-menor">nas </span>mídias<span class="h2-menor"> sociais</span></h2>
 
 Sei que esse espaço é exatamente para me [afastar um pouco](/blog/porque-todo-esse-esforco/) das mídias sociais, mas não tem muito jeito e a gente, ainda, tem essa necessidade de ser presente por aí.  
 

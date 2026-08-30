@@ -7,7 +7,7 @@ image: /assets/foto-pedro.jpg
 permalink: "/profissional/cv"
 ---
 <h2>
-<span aria-hidden="true">|<span class="h2-menor">meu </span></span>Currículo
+<span aria-hidden="true">|<span class="h2-menor">meu </span></span>currículo
 </h2>
 
 <aside><a href="/assets/downloads/Pedro Dal Bó.pdf" title="meu currículo atualizado">Currículo em PDF</a></aside>

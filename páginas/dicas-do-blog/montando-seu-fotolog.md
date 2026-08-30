@@ -3,7 +3,7 @@ layout: paginas
 title: Montando seu Fotolog | Dicas do blog
 permalink: "/dicas-do-blog/montando-seu-fotolog"
 ---
-<h2><span aria-hidden="true">|</span>Montando<span class="h2-menor"> seu Fotolog</span> </h2>
+<h2><span aria-hidden="true">|</span>montando<span class="h2-menor"> seu fotolog</span> </h2>
 
 Peguei a ideia do [Bruce Beaumont<sup>[en]</sup>](https://bruceblog.bearblog.dev/a-lazy-kind-of-photo-gallery-for-bear-blog/ "site do Bruce"), quando ele ensinou a montar a galeria em seu site pessoal. Mandei uma mansagem para ele dizendo que colocaria aqui como um tutorial e tive seu "ok".  
 
