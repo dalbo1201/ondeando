@@ -8,6 +8,9 @@ tags:
  - séries e TV
  - beda, bewa e afins
 ---
+<figure>
+<img class="u-photo" src="/assets/fotos/2026/08/Lanternas.webp" alt="Imagem de episódio da série Lanternas em que Hal e John estão sentados no balcão se um bar olhando para algo ou alguém fora de cena" title="Os Lanternas">
+</figure>
 <blockquote class="fleabag">Hoje sai o segundo episódio de <b>Lanternas</b> e queria escrever um pouco sobre o piloto da série antes de ver esse segundo episódio.</blockquote>
 
 _Lanternas_ é a nova série da HBO e DC Studios contando a história de um dos mais famosos heróis dos quadrinhos ~~da DC~~, o <b style="background-color: green; color: var(--color-background); padding: 2px 6px; border-radius: 3px;">Lanterna Verde</b>.  
