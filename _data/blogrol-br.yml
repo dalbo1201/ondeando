@@ -1,3 +1,12 @@
+- blog: Prazer! Willian
+  url: "https://prazerwillian.blogspot.com/"
+  autor: "Willian Ernani"
+  tipo: "Blog"
+  plataforma: "Blogger"
+  feed: "https://prazerwillian.blogspot.com/feeds/posts/default"
+  descricao: | 
+    Um lugar para escrever sobre tudo que gosta e apresentar belos _rabiscos de carros_. 
+
 - blog: Margem Viva
   url: "https://wgnr.blog.br/"
   autor: "Wagner Beethoven"
