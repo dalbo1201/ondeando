@@ -29,15 +29,15 @@
 
 <!-- Title Tags -->
 {% if page.collection == 'blog' %}
-  {% assign final_title = page.title | truncate: 45, "…" | append: " | Blog | " | append: site.title %}
+  {% assign final_title = page.title | truncate: 45, "…" | append: " | blog | " | append: site.title %}
 {% elsif page.collection == 'fotolog' %}
-  {% assign final_title = page.title | truncate: 45, "…" | append: " | Fotolog | " | append: site.title %}
+  {% assign final_title = page.title | truncate: 45, "…" | append: " | fotolog | " | append: site.title %}
 {% elsif page.title == 'ondeando' %}
   {% assign final_title = site.title %}
-{% elsif page.title == 'Profissional' or page.title == 'Currículo' %}
+{% elsif page.title == 'profissional' or page.title == 'currículo' %}
   {% assign final_title = page.title | truncate: 45, "…" | append: " | Pedro Dal Bó" %}
 {% elsif page.title == 'erro' %}
-  {% assign final_title = "Erro 404" %}
+  {% assign final_title = "erro 404" %}
 {% else %}
   {% assign final_title = page.title | truncate: 45, "…" | append: " | " | append: site.title %}
 {% endif %}
