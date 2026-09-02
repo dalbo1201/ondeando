@@ -2,10 +2,9 @@
 layout: post
 type: notas
 title: "Sobre o que escreverei agora"
-date: 2026-09-02 12:00:00
+date: 2026-09-02 17:00:00
 tags:
  - a vida, o universo e tudo mais
-published: false
 ---
 Acabou o BEDA.  
 
