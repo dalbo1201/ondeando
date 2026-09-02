@@ -57,7 +57,7 @@ Comentários rápidos e sem muito trabalho editorial sobre os episódios assisti
 
 <aside class="aviso-caixa"><div class="aviso-texto">Atenção que os comentários daqui pra baixo podem, em algum momento, apresentar <b>spoileres da série</b>.<br/>
 Não me responsabilizo pelo que você possa ler sem ter assistido antes.</div></aside>
-<br/>
+
 <a href="/assistindo">&laquo; voltar para Assistindo</a>
 <hr>
   

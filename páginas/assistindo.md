@@ -1,10 +1,10 @@
 ---
 layout: paginas
-title: os seriados do Feito por Elas
+title: assistindo
 description: Página para as séries que estou vendo no grupo do Telegram do Feito por Elas.
 permalink: "/assistindo"
 ---
-<h2><span aria-hidden="true">|<span class="h2-menor">as </span></span>séries<span class="h2-menor"> e </span>filmes</h2>
+<h2><span aria-hidden="true">|</span><span class="h2-menor">o que estou </span>assistindo</h2>
 
 Um  lugar para unificar textos sobre seriados e filmes que assisto. Com certeza não será sobre tudo, mas sobre o que achar que tenho algo que queira (não que precise) dizer.  
 
@@ -14,9 +14,10 @@ As séries que vimos até agora foram:
 - _Buffy_, a primeira série que vimos. São muitos episódios para procurar os comentários no grupo do Telegram e replicar;
 - _Undone_, ~~acredito que consiga ir atrás do que comentei~~ de qualquer forma é uma série que gostei muito;
 - _Felicity_, eu não acompanhei;
-- _The Leftovers_ foi quando resolvi fazer isso aqui e [temos comentáios](/assistindo/the-leftovers-comentarios "comentários sobre a série").
+- _The Leftovers_ foi quando resolvi fazer isso aqui e [temos comentáios](/assistindo/the-leftovers-comentarios "comentários sobre a série");
+- [_~~A Sete Palmos~~ Six Feet Under_](/assistindo/six-feet-under-comentarios) foi uma série que gostei demais no começo e terminou muito boa, vale a pena demais.
 
-A série do momento é [~~A Sete Palmos~~ _Six Feet Under_](/assistindo/six-feet-under-comentarios) e os comentários serão adicionados semanalmente (possivelmente às quartas ou quinta a noite).
+A série do momento é [_Veronica Mars_](/assistindo/veronica-mars-comentarios) e os comentários serão adicionados semanalmente (possivelmente às quartas ou quinta a noite).
 
 E bem... Essa construção _não totalmente arrumada_ é que faz um **Jardim Digital**, pelo que dizem.  
 
