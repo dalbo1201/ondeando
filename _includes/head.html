@@ -92,16 +92,19 @@
 <!-- Links -->
 </head>
 
-<body{% if page.title == 'Profissional' or page.title == 'Currículo' %} class="sem-anuncio" {% endif %}>
+{% assign sem_anuncio = false %}
+{% if page.title == 'profissional' or page.title == 'currículo' or site.mostrar_banner == false %}
+  {% assign sem_anuncio = true %}
+{% endif %}
+
+<body{% if sem_anuncio %} class="sem-anuncio"{% endif %}>
   <!-- meu h-card -->{% include h-card.html %}<!-- meu h-card -->
 
 <!-- anúncio -->
-{% if page.title == 'Profissional' or page.title == 'Currículo' %}
+{% if sem_anuncio %}
 <div class="page-row">
 {% else %}
-<div class="anuncio-sticky">
-<aside class="anuncio-beda2026">🎼Ritmo, é ritmo de <a href="/beda-2026">BEDA 2026</a>...🎶</aside>
-</div>
+{% include banner-site.html %}
 <div class="page-row">
 {% endif %}
 <!-- anúncio -->

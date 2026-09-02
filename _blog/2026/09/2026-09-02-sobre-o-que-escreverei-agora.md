@@ -2,15 +2,14 @@
 layout: post
 type: notas
 title: "Sobre o que escreverei agora"
-date: 2026-09-01 12:00:00
+date: 2026-09-02 12:00:00
 tags:
- - pensamentos
  - a vida, o universo e tudo mais
 published: false
 ---
 Acabou o BEDA.  
 
-Aproveitei alguns textos que estavam _engavetados por aí_, me desapeguei da perfeição e liberei. Não sei se fiz certo e nessa vontade de participar do BEDA posso ter queimado algumas pautas...  
+Aproveitei alguns textos que estavam _engavetados por aí_, me desapeguei da perfeição e liberei. Criei dias temáticos, como as [fotos dos gatos](/etiquetas/#gatos) ou o [#tbt](/etiquetas/#tbt) (essa eu posso aproveitar muito). Não sei se fiz certo e nessa vontade de participar do BEDA posso ter queimado algumas pautas...  
 
 <blockquote class="fleabag">Pautas? Sério? Isso aqui não é um jornal para <b>queimar pauta</b>.</blockquote>
 
@@ -18,4 +17,4 @@ Escrevo pelo prazer de fazer algo diferente na minha rotina, para treinar algo t
 
 Mas fico pensando se após esse mês terei tanta coisa, pique ou coisa do tipo, para escrever ou simplesmente entraremos num hiato.  
 
-Veremos.
+Espero que esse hiato não venha.

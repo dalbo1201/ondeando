@@ -1,4 +1,12 @@
 - ano: "2026"
+  data_id: "2026-09-01"
+  data_texto: "01 de setembro"
+  entradas:
+    - tags: ["acabamento","liquid"]
+      texto: |
+        No dia [21 de agorsto](/registro-de-alteracoes#2026-08-21) fiz algumas alterações. Entre elas, adicionei um _banner_ no topo dao site para divulgar o [Beda 2026](/beda-2026). Arrumei a configuração das `tag liquid` no `head` para que o _banner_ suma por completo e se eu quiser usar o _banner_ no futuro, eu posso. Para isso criei uma variavel no `_config.yml`, a `mostrar_banner: false` ou _true_.
+
+- ano: "2026"
   data_id: "2026-08-30"
   data_texto: "30 de agosto"
   entradas:

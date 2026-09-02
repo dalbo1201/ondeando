@@ -12,6 +12,8 @@ highlighter: rouge
 future: false
 timezone: America/Sao_Paulo
 
+mostrar_banner: false
+
 # --- COLLECTIONS ---
 collections:
   blog:
