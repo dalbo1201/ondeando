@@ -756,7 +756,7 @@ article.blog-article.blog-citacao blockquote p {
  font-family: var(--font-citacao);
  font-weight: 500;
  font-style: italic;
- margin-left: 1.5rem;
+
  max-width: 80%;
  display: block;
  position: relative;
@@ -784,8 +784,10 @@ article.blog-article.blog-citacao blockquote p::after {
 article.blog-article.blog-citacao cite {
  display: block;
  text-align: right;
+ font-size: clamp(1.12rem, 1.5vw, 1.18rem);
  max-width: 90%;
- margin-top: 40px;
+ margin-top: 60px;
+ margin-bottom: 45px;
 }
 /* FINAL Estilo especial para blockquote em posts com type: citacao */
 /* FINAL Estilos para blockquote */
