@@ -25,5 +25,6 @@ Para a atualidade, tenho como passatempo _coisas mais de adultos_... passear em 
 
 Foram boas lembranças na construção desse texto, vejo que no geral, de uma forma ou de outra, mantive a maioria das atividades. Bora criar novas!
 
-<aside class="blog-colet"><div class="aviso-texto">Esse post faz parte da seleção de temas do grupo de blogagem coletiva <a href="https://entreblogs.com.br/" title="mais sobre o entrelogs">ENTREBLOGS</a> criado com o intuito de compartilhar nossas perspectivas sobre os mesmos assuntos. Se quiser ler outras postagens sobre o tema você <a href="https://entreblogs.com.br/temas#017/" title="outras postagens do tema">encontra aqui.</a>.
-<h6><i class="fa-solid fa-pen-fancy"></i> Tema #017. Passatempos e hobbies | jul, 2026</h6></div></aside>
+<aside class="blog-colet"><div class="aviso-texto"><h6><i class="fa-solid fa-pen-fancy"></i> Tema #017. Passatempos e hobbies | jul, 2026</h6>
+Esse post faz parte da seleção de temas do grupo de blogagem coletiva <a href="https://entreblogs.com.br/" title="mais sobre o entrelogs">ENTREBLOGS</a> criado com o intuito de compartilhar nossas perspectivas sobre os mesmos assuntos. Se quiser ler outras postagens sobre o tema você <a href="https://entreblogs.com.br/temas#017/" title="outras postagens do tema">encontra aqui.</a>.
+</div></aside>
