@@ -1,7 +1,7 @@
 ---
 layout: post
 type: notas
-title: "Sobre o que escreverei agora"
+title: "Sobre o que escreverei agora?"
 date: 2026-09-02 17:00:00
 tags:
  - a vida, o universo e tudo mais
