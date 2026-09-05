@@ -40,4 +40,6 @@ Recriar um espaço como esse é algo até que simples, tecnicamente falando, o d
 
 <blockquote class="fleabag"><b>Navegar na internet</b> volta a fazer sentido.</blockquote>
 
-As coisas tomam formas e cores diferentes. Afinal de contas, cada um monta o seu espaço de forma diferente, são cores, tipografias, assuntos diversos.
+As coisas tomam formas e cores diferentes. Afinal de contas, cada um monta o seu espaço de forma diferente, são cores, tipografias, assuntos diversos.  
+
+**A web não está morta.**
