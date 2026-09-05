@@ -4,7 +4,6 @@ type: notas
 title: "Starfleet Academy parece ser..."
 date: 2026-01-24 12:30:00 -0300
 tags:
- - pensamentos 
  - séries e TV
 ---
 *Starfleet Academy* parece ser um bom respiro para o universo de *Star Trek*.  

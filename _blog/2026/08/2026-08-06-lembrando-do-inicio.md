@@ -4,11 +4,7 @@ type: texto
 title: "Lembrando do início"
 date: 2026-08-06 15:30:00
 tags:
- - a vida, o universo e tudo mais
- - pensamentos
  - metablog
- - internet
- - beda, bewa e afins
  - tbt
 ---
 Sabe, durante muito tempo as quintas feiras eram usadas para o famigerado **Throwback Thursday** (#tbt). A gente aproveitava a quinta-feira e trazia a tona alguma lembrança, mas parece que isso meio que se perdeu no universo de _mídias sociais_ que existem hoje.  

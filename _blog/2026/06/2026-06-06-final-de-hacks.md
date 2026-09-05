@@ -4,8 +4,6 @@ type: texto
 title: "Final de Hacks"
 date: 2026-06-06 10:00:00
 tags:
- - a vida, o universo e tudo mais
- - pensamentos
  - séries e TV
 ---
 <figure>

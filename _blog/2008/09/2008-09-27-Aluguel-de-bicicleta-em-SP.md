@@ -3,7 +3,7 @@ layout: post
 type: texto
 title: "Aluguel de bicicleta em São Paulo"
 date: 2008-09-27 08:00:00 -0000
-tags: ["pensamentos"]
+tags: ["a vida, o universo e tudo mais"]
 ---
 Acabei de ler na Folha que algumas estações de metrô em São Paulo terão um serviço de aluguel de bicicletas.
 

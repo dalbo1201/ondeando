@@ -4,7 +4,7 @@ type: texto
 title: "Uma refeição nortista"
 date: 2026-08-22 12:00:00
 tags:
- - beda, bewa e afins
+
  - recomentdação
  - passeios
  - a vida, o universo e tudo mais

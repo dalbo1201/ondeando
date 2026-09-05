@@ -4,7 +4,7 @@ type: texto
 title: "Uma jornada inesperada"
 date: 2026-08-01 09:00:00
 tags:
- - beda, bewa e afins
+ - postagem coletiva
 ---
 **Pehená-mboy** é um homem que ainda não viveu tudo o que pôde, mas também não chegou no auge da sua natureza.  
 

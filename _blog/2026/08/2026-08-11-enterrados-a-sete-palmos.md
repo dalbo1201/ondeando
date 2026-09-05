@@ -5,7 +5,7 @@ title: "Enterrados a sete palmos"
 date: 2026-08-11 12:00:00 -0300
 tags: 
  - séries e TV
- - beda, bewa e afins
+
 ---
 <figure>
     <img class="u-photo" src="/assets/fotos/2026/08/sfu004.png" alt="Foto de uma rede de listras azul bebê e branco" title="Nãotemho cama, mas tenho rede">

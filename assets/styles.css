@@ -708,7 +708,6 @@ blockquote:not(.fleabag) p, .tutorial blockquote {
 .fleabag {
   font-size: clamp(1rem, 1.5vw, 1.06rem);
   line-height: clamp(1.5rem, 2vw, 1.7rem);
-  font-style: italic;
   color: var(--color-background);
   max-width: 80%; 
   background-color: var(--color-hover);

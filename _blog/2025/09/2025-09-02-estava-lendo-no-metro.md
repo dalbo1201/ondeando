@@ -3,7 +3,7 @@ layout: post
 type: notas
 title: Estava lendo no metrô...
 date: 2025-09-02 11:15:00
-tags: ["a vida, o universo e tudo mais", "livros","pensamentos"]
+tags: ["a vida, o universo e tudo mais", "livros"]
 ---
 Estava lendo no metrô, como não pego metrô com frequência diária havia parado com essa rotina.  
 

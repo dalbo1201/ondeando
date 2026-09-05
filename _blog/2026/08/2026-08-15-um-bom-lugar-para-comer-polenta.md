@@ -4,7 +4,7 @@ type: texto
 title: "Um bom lugar para comer polenta (frita)"
 date: 2026-08-15 11:59:00
 tags:
- - beda, bewa e afins
+
  - recomentdação
  - passeios
 ---

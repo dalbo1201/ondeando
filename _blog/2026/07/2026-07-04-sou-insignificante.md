@@ -5,7 +5,7 @@ title: "Sou insignificante e isso não é ruim"
 date: 2026-07-04 09:00:00 -0300
 tags: 
  - a vida, o universo e tudo mais
- - pensamentos
+ - internet
 ---
 Anteontem o Ghedin postou nos [links do dia](https://manualdousuario.net/links-legais-20260702/) lá do Manual um site curioso.
 

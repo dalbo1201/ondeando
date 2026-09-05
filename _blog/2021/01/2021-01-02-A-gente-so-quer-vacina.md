@@ -3,7 +3,7 @@ layout: post
 type: texto
 title: "A gente só quer vacina"
 date: 2021-01-02
-tags: ["pandemia", "pensamentos"]
+tags: ["pandemia"]
 ---
 É inacreditável pensar que estando numa pandemia com mais de 180 mil mortos apenas no nosso país, estejamos nessa pataqiada de considerarem que não precisamos de vacina, que as vacinas podem ser um perigo.  
 

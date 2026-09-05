@@ -3,7 +3,7 @@ layout: post
 type: texto
 title: "Porquê um blog e não uma newsletter"
 date: 2025-11-09 09:05:00  -0300
-tags: ["internet","pensamentos"]
+tags: ["metablog"]
 ---
 <aside class="aviso-caixa"><div class="aviso-texto">Eu escrevi esse texto, mas o deixei guardado. Cheguei a mandá-lo para o <a href="https://rodrigo.ghed.in">Ghedin</a>, mas só resolvi postar depois <a href="https://manualdousuario.net/orbita-post/qual-a-linha-que-separa-blogs-pessoais-de-newsletters/">desse texto</a> do <a href="https://cosmoliko.com">Eliel</a> no <a href="https://manualdousuario.net/orbita/">Órbita</a> onde ele mandou sua opnião e me senti menos mal em estranhar a decisão.</div></aside>
 

@@ -5,7 +5,7 @@ title: "Campo Minado, um clássico no seu espertofone"
 date: 2026-08-25 12:00:00
 tags:
  - joguinhos
- - beda, bewa e afins
+
  - informática
 ---
 Eu já falei de um [joguinho de lógica](/blog/lok-um-joguinho-de-logica/) muito do bacana que me recomendaram.  

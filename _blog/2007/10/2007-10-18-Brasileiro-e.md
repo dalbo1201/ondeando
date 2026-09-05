@@ -3,7 +3,7 @@ layout: post
 type: texto
 title: "Brasileiro é"
 date: 2007-10-18 08:00:00 -0000
-tags: ["pensamentos"]
+tags: ["a vida, o universo e tudo mais"]
 ---
 Ontem fui ao Maracanã assistir Brasil x Equador. Posso dizer que foi quase perfeito.
 

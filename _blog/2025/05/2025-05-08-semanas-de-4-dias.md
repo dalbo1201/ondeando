@@ -3,7 +3,7 @@ layout: post
 type: texto
 title: "Semanas de 4 dias"
 date: 2025-05-08 10:17:00 -0300
-tags: ["pensamentos"]
+tags: ["a vida, o universo e tudo mais"]
 ---
 Curioso ver que passamos quase um mês com a semana tendo 4 dias úteis e o país não parou.  
 

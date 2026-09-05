@@ -5,7 +5,6 @@ title: "Sobre o poder da memória"
 date: 2026-03-15 14:00:00 -0300
 tags:
  - filmes
- - pensamentos
 ---
 <figure>
 <img class="u-photo" src="/assets/fotos/2026/03/Marcelo e Fernando.webp" alt="Cena do Filme O Agente Secreto do garoto Fernando no banco de trás do fusca que Marcelo, seu pai, usa em sua estádia em Recife." title="Fernando e Marcelo passenado de Fusca">

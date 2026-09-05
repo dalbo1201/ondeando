@@ -5,7 +5,7 @@ title: "Um acessório para me salvar"
 date: 2026-08-09 10:00:00
 tags:
  - a vida, o universo e tudo mais
- - beda, bewa e afins
+
 ---
 Semana passada eu comprei um acessório para me salvar quando sou **pego de surpresa** pela chuva aqui em São Paulo.  
 

@@ -4,7 +4,7 @@ type: texto
 title: "Vamos digitar direito?"
 date: 2026-08-16 12:00:00
 tags:
- - beda, bewa e afins
+
  - recomentdação
  - informática
 ---

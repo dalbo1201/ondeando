@@ -3,7 +3,7 @@ layout: post
 type: texto
 title: "Qual a cor da sua camisa?"
 date: 2025-04-29 21:00:00 -0300
-tags: ["esportes, ou só futebol", "pensamentos"]
+tags: ["esportes, ou só futebol","a vida, o universo e tudo mais"]
 ---
 <aside class="aviso-caixa"><div class="aviso-texto">Ninguém perguntou nada, mas vim falar um pouco do que penso dessa conversa toda que está ocorrendo sobre a possível nova camisa 2 da seleção.<br/>Discordou, vem conversar que a gente troca uma ideia.</div></aside>
 Olha, não dá para negar que a Nike acertou em cheio a possível escolha do uso do vermelho (cor do Pau-Brasil, segundo o marketing) como a nova cor, substituindo o azul, da segunda camisa de jogo da seleção brasileira de futebol.  

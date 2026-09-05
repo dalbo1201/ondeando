@@ -4,7 +4,7 @@ type: notas
 title: "Me bateu a bad hoje..."
 date: 2026-04-30 22:40:00 -0300
 tags:
- - pensamentos
+ - a vida, o universo e tudo mais
 ---
 Me bateu a bad hoje quando eu vi a notícia de que o [PL da Disometria foi derrubado no Congresso](https://www.metropoles.com/brasil/entenda-o-que-muda-com-a-derrubada-do-veto-ao-pl-da-dosimetria). Enquanto isso,  a votação para o impedimento da escala 6x1 fica estagnada lá, nesse mesmo Congresso.  
 

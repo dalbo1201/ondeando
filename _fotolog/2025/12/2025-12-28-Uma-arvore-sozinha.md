@@ -9,7 +9,6 @@ tags:
  - a vida, o universo e tudo mais
  - engenharia
  - fotos
- - pensamentos
 permalink: "/fotolog/uma-arvore-sozinha"
 ---
 <figure>

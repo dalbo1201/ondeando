@@ -5,7 +5,6 @@ title: "Tempo para mim"
 date: 2026-02-14 12:00:00 -0300
 tags:
  - a vida, o universo e tudo mais
- - pensamentos
 ---
 Preciso tomar vergonha na cara e voltar a me organizar para ter um tempo para fazer algumas coisas que gosto. Entre elas ler e fazer atividades físicas...  
 

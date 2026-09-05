@@ -8,7 +8,7 @@ caption: "Esse é o Fellini [...]"
 tags:
  - fotos
  - gatos
- - beda, bewa e afins
+
 ---
 <figure>
 <img class="u-photo" src="/assets/fotos/2026/08/20260530_234650.jpg" alt="Foto de um gato siamês de rua (chamado Fellini) sentado numa mesa quadrada de maeira rústica" title="Fellini te olhando e pedindo por atenção">

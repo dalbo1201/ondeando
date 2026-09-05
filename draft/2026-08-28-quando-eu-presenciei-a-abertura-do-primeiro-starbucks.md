@@ -4,7 +4,7 @@ type: texto
 title: "Quando eu presenciei a abertura do primeiro Starbucks"
 date: 2026-08-28 12:00:00
 tags:
- - beda, bewa e afins
+
  - a vida, o universo e tudo mais
  - tbt
 published: false

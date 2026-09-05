@@ -5,7 +5,6 @@ title: "Blogueiros não estão interessados em dinheiro"
 date: 2025-11-23 16:35:00 -0300
 tags: 
  - citações 
- - pensamentos
 ---
 > The web might be obsessed with money, but I’d say most bloggers are not.
 

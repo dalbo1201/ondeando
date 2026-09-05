@@ -3,7 +3,7 @@ layout: post
 type: texto
 title: "Por mais páginas sobre o RSS"
 date: 2025-07-15 13:00:00 -0300
-tags: ["metablog","pensamentos"]
+tags: ["metablog"]
 ---
 Desde que voltei a escrever no blog percebi algo que vinha me passando desapercebido na internet - o RSS ainda tá meio escondido ou dificl de usar para quem não os conhece.  
 

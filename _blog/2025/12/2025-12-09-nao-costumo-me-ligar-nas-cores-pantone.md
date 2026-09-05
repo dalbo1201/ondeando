@@ -4,7 +4,7 @@ type: notas
 title: "Não costumo me ligar nas cores Pantone..."
 date: 2025-12-09 12:00:00 -0300
 tags:
- - pensamentos
+ - a vida, o universo e tudo mais
 ---
 Não costumo me ligar nas cores Pantone, o mais perto disso é a curiosidade nos últimos anos da Motorola adotar a **cor do ano** como opção de cor para os seus _espertofones_.  
 

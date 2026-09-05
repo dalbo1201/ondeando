@@ -6,7 +6,7 @@ date: 2026-08-30 10:50:00
 tags:
  - a vida, o universo e tudo mais
  - metablog
- - beda, bewa e afins
+
 ---
 Durante um tempo esse espaço não tinha exatamente um nome, até eu achar que precisava ter.  
 

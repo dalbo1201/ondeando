@@ -4,7 +4,7 @@ type: texto
 title: "Uma recomendação de bar"
 date: 2026-08-08 12:00:00
 tags:
- - beda, bewa e afins
+
  - recomentdação
  - passeios
 ---

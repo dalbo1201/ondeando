@@ -4,7 +4,7 @@ type: texto
 title: "No caminho certo"
 type: comentario
 date: 2007-08-15 08:00:00 -0000
-tags:  ["pensamentos"]
+tags:  ["a vida, o universo e tudo mais", "metablog"]
 ---
 Deus do céu!!!
 

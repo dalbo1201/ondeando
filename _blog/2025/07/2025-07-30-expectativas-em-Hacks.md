@@ -3,7 +3,7 @@ layout: post
 type: texto
 title: "Expectativas em Hacks"
 date: 2025-07-30 21:20:00 -0300
-tags: ["pensamentos","séries e TV"]
+tags: ["séries e TV"]
 ---
 <figure>
     <img class="u-photo" src="/assets/fotos/2025/07/Hacks.jpg" alt="Deborah Vance e Ava Daniels, personagens da série 'Hacks' da HBO, estão de pé em uma loja com prateleiras à direita contendo brinquedos, jogos e outros itens. À esquerda, há um expositor de óculos escuros. Ava veste uma camiseta listrada colorida com jaqueta escura; Deborah usa uma jaqueta estampada. O espaço é cheio de produtos e cores." title="Hacks">

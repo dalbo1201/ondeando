@@ -7,7 +7,6 @@ tags:
 - informática
 - internet
 - metablog
-- pensamentos
 ---
 Eu tenho um outro blog, o [Histórias para Ler](https://historiasparaler.blog.br), que está hospedado no Blogger.  
 

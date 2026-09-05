@@ -4,7 +4,7 @@ type: notas
 title: "Dia do blog"
 date: 2026-08-31 10:50:00
 tags:
- - beda, bewa e afins
+
 ---
 Chegamos ao final desse BEDA [com 31 postagens](/beda-2026#meus-textos), na verdade 32 contando com essa. Algo que eu não imaginei que fosse possível quando resolvi entrar na [brinadeira do Entreblogs](https://entreblogs.com.br/beda/2026).  
 

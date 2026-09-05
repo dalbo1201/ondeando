@@ -3,7 +3,7 @@ layout: post
 type: texto
 title: "Você só quer confusão?"
 date: 2007-08-22 08:00:00 -0000
-tags: ["pensamentos"]
+tags: ["a vida, o universo e tudo mais"]
 ---
 <aside class="aviso-caixa"><div class="aviso-texto">Como essas postagens são antigas e recuperadas, muitos links podem levar a lugar algum ou mesmo a lugares que não são mais o que eram na época. Mantenho o texto pela reflexão e lembraça.</div></aside>
 

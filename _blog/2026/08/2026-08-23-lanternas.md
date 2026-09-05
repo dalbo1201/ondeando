@@ -6,7 +6,7 @@ title_html: "Lanterna(s) <s>Verde</s>"
 date: 2026-08-23 21:00:00
 tags:
  - séries e TV
- - beda, bewa e afins
+
 ---
 <figure>
 <img class="u-photo" src="/assets/fotos/2026/08/Lanternas.webp" alt="Imagem de episódio da série Lanternas em que Hal e John estão sentados no balcão se um bar olhando para algo ou alguém fora de cena" title="Os Lanternas">

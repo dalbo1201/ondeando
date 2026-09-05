@@ -4,7 +4,7 @@ type: texto
 title: "A gente esperava mais da internet..."
 date: 2026-08-28 12:00:00
 tags:
- - beda, bewa e afins
+
  - séries e TV
  - tbt
 ---

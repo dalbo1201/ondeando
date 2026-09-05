@@ -5,8 +5,6 @@ title: "Alcancei um objetivo de vida"
 date: 2026-08-07 15:20:00
 tags:
  - a vida, o universo e tudo mais
- - pensamentos
- - beda, bewa e afins
 ---
 Durante muito tempo eu sofri demais para ir e voltar do trabalho, eram pelo menos duas horas para ir e mais duas para voltar. Eu pegava dois trens e mais um ônibus. Saia de Interlagos, pegava a linha Esmeralda (da CPTM), baldeava para a linha Diamante (CPTM) e pegava um ônibus em Carapicuíba, para atravesar o rio (por uma ponte, né...) e chegar em Barueri.  
 
