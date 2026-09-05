@@ -5,7 +5,7 @@ description: Bastidores técnicos e inspirações do site
 image: /assets/og_image/og-image-colofao.jpg
 permalink: "/colofao"
 ---
-<h2> <span aria-hidden="true">|<span class="h2-menor">o </span></span>colofão<span class="h2-menor"> deste cantinho</span></h2>
+<h2><span aria-hidden="true">|<span class="h2-menor">o </span></span>colofão<span class="h2-menor"> deste cantinho</span></h2>
 
 [Colofão<sup>[en]</sup>](https://indieweb.org/colophon "mais sobre o que é Cólofon") (ou Cólofon e em inglês Colophon) é um espaço para contar um pouco dos bastidores técnicos deste cantinho: como ele é feito, quais ferramentas e de onde vêm algumas inspirações. _Hoje no Globo Reporter_.  
 

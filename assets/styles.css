@@ -592,14 +592,14 @@ figcaption {
  align-items: end;
 }
 
-.foto-post-flutua {
+.foto-flutua {
  float: right;
  max-width: 50%;
  margin: 10px 0 10px 10px;
  padding-right: 2px;
 }
 
-.foto-post-flutua img {
+.foto-flutua img {
  width: 100%;
  height: auto;
  display: block;
@@ -1329,10 +1329,6 @@ footer {
 .mais-fotos {
  grid-template-columns: 1fr;
  align-items: stretch; /* Volta ao normal no mobile para não criar espaços estranhos */
-}
-
-.foto-post-flutua {
- width: 55%; /* Mantém flutuante, mas mais estreita */
 }
 
 .gallery ul.embedded.album-post {
