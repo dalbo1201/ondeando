@@ -4,7 +4,7 @@ title: sobre
 description: Sobre mim e o que esse espaço significa
 image: /assets/og_image/
 permalink: "/sobre"
-
+published: false
 ---
 <h2><span aria-hidden="true">|</span>sobre</h2>
 <h4 id="mim">sobre mim</h4>
@@ -21,13 +21,13 @@ Nós somos acostumados a nos apresentar falando nossa profissão, isso passa lon
 
 Sou <b style="background-color: gray; color: #F5F5F5; padding: 2px 6px; border-radius: 3px;">ateu</b>, mas já frequentei a igreja católica por muito tempo. Não estou aqui para te mostrar o caminho e você não precisa me mostrar um  caminho.   
 
-Sou <b style="background-color: darkred; color: #F5F5F5; padding: 2px 6px; border-radius: 3px;">comunista</b> e espero estar vivo para ver o dia em que o capitalismo caia e tenhamos finalmente a liberdade. Mas se você chegou até aqui, deve saber disso.  
+Sou <b style="background-color: darkred; color: #F5F5F5; padding: 2px 6px; border-radius: 3px;">comunista</b> e espero estar vivo para ver o dia em que o capitalismo caia e tenhamos finalmente liberdade. Mas se você chegou até aqui, deve saber disso.  
 
-Sou <b style="background-color: red; color: #F5F5F5; padding: 2px 0 2px 6px; border-radius: 3px 0 0 3px;">são-</b><b style="background-color: black; color: #F5F5F5; padding: 2px 6px 2px 0; border-radius: 0 3px 3px 0;">paulino</b>, hoje isso faz menos parte da minha vida, mas durante algum tempo torcer para o São Paulo FC era algo bem mais presente.  
+Sou <b style="background-color: red; color: #F5F5F5; padding: 2px 0 2px 6px; border-radius: 3px 0 0 3px;">são</b><b style="background-color: #FFFFFF; color: #000000; padding: 2px 0 2px 0;">-paul</b><b style="background-color: black; color: #F5F5F5; padding: 2px 6px 2px 0; border-radius: 0 3px 3px 0;">ino</b>, hoje isso faz menos parte da minha vida, mas durante algum tempo torcer para o São Paulo FC era algo bem mais presente.  
 
-<b style="background-color: black; color: #F5F5F5; padding: 2px 6px; border-radius: 3px;">Racismo</b> ou qualquer papinho contra pessoas <b style="background: linear-gradient(90deg, #ff0000, #ff9900, #ffee00, #33ff00, #0066ff, #6600ff, #ff00cc); color: #F5F5F5; padding: 2px 6px; border-radius: 3px;">LGBTQIAPN+</b> não terá espaço por aqui. Não me venha com conversas antivax, neo-nazi ou que você é contra a corrupção e por isso blá-blá-blá... 
+<b style="background-color: black; color: #F5F5F5; padding: 2px 6px; border-radius: 3px;">Racismo</b> ou qualquer papinho contra pessoas <b style="background: linear-gradient(90deg, #ff0000, #ff9900, #ffee00, #33ff00, #0066ff, #6600ff, #ff00cc); color: #000000; padding: 2px 6px; border-radius: 3px;">LGBTQIAPN+</b> não terá espaço por aqui. Não me venha com conversas antivax, neo-nazi ou que você é contra a corrupção e por isso *blá-blá-blá*... 
 
-<blockquote class="fleabag">Amigo, ninguém é a favor da corrupção.</blockquote> 
+<blockquote class="fleabag">Amigo, ninguém é a favor da corrupção. <i>Taokey</i> isso aí?!</blockquote> 
 
 [Outras curiosidades sobre mim](/blog/dez-curiosidades).  
 
@@ -66,6 +66,6 @@ Recriar um espaço como esse é algo até que simples, tecnicamente falando, o d
 
 **Navegar na internet volta a fazer sentido.**
 
-As coisas tomam formas e cores diferentes. Afinal de contas, cada um monta o seu espaço de forma diferente, são cores, tipografias, assuntos diversos.  
+As coisas tomam formas e cores diferentes. Afinal de contas, cada um monta o seu espaço. São cores, tipografias, assuntos diversos.  
 
 <blockquote class="fleabag"><b>A web não está morta.</b></blockquote>
