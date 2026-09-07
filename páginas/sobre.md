@@ -25,7 +25,7 @@ Sou <b style="background-color: darkred; color: #F5F5F5; padding: 2px 6px; borde
 
 Sou <b style="background-color: red; color: #F5F5F5; padding: 2px 0 2px 6px; border-radius: 3px 0 0 3px;">são</b><b style="background-color: #FFFFFF; color: #000000; padding: 2px 0 2px 0;">-paul</b><b style="background-color: black; color: #F5F5F5; padding: 2px 6px 2px 0; border-radius: 0 3px 3px 0;">ino</b>, hoje isso faz menos parte da minha vida, mas durante algum tempo torcer para o São Paulo FC era algo bem mais presente.  
 
-<b style="background-color: black; color: #F5F5F5; padding: 2px 6px; border-radius: 3px;">Racismo</b> ou qualquer papinho contra pessoas <b style="background: linear-gradient(90deg, #ff0000, #ff9900, #ffee00, #33ff00, #0066ff, #6600ff, #ff00cc); color: #000000; padding: 2px 6px; border-radius: 3px;">LGBTQIAPN+</b> não terá espaço por aqui. Não me venha com conversas antivax, neo-nazi ou que você é contra a corrupção e por isso *blá-blá-blá*... 
+<b style="background-color: black; color: #F5F5F5; padding: 2px 6px; border-radius: 3px;">Racismo</b> ou qualquer papinho contra pessoas <b style="background: linear-gradient(90deg, #ff0000, #ff9900, #ffee00, #33ff00, #0066ff, #6600ff, #ff00cc); color: #000000; padding: 2px 6px; border-radius: 3px;">LGBTQIAPN+</b> não terá espaço por aqui. Não me venha com conversas antivax, neo-nazi ou que você é contra a corrupção e por isso <i>blá-blá-blá</i>>.. 
 
 <blockquote class="fleabag">Amigo, ninguém é a favor da corrupção. <i>Taokey</i> isso aí?!</blockquote> 
 
@@ -50,6 +50,7 @@ Alguns textos sobre criação de espaços próprios ou relativos a essa migraç�
  - [Por mais páginas sobre rss](/blog/por-mais-paginas-sobre-o-rss/);
 
 <h5>O início</h5>
+
 Tudo começou em [meados de 2005](/blog/lembrando-do-inicio/), ainda no ~~famigerado e esquecido pelo Google~~ Blogger. Eu escrevia muito para organizar pensamentos e sentimentos com minha mudança para o Rio para fazer faculdade. Durante bons anos escrevi lá falei de muita coisa bacana, outras eu já não concordo mais.  
 
 Os textos estão por aquí. Não devemos apagar o passado, alias, vale deixá-lo para não esquecermos das coisas e para não repetirmos. Sempre que eu escrevo atualizando meu pensamento e visão das coisas, coloco o texto antigo em  referência. Dá uma certa vergonha, mas faz parte.  
@@ -64,8 +65,10 @@ Muitos links e imagens estão quebrados, apesar de dizermos que **a internet nã
 
 Recriar um espaço como esse é algo até que simples, tecnicamente falando, o difícil são as pessoas o frequentarem. Estamos todos imersos em aplicativos e usar a web está cada vez mais raro. Aqui é um local que eu tenho mais controle e onde os estímulos são menores. Percorrer blogs ou sites na maior parte das vezes é muito mais agradável, você realmente escolhe o que vai (principalmente) ler.  
 
-**Navegar na internet volta a fazer sentido.**
+<b>Navegar na internet volta a fazer sentido.</b>
 
 As coisas tomam formas e cores diferentes. Afinal de contas, cada um monta o seu espaço. São cores, tipografias, assuntos diversos.  
 
 <blockquote class="fleabag"><b>A web não está morta.</b></blockquote>
+
+Quer saber mais como esse espacinho funciona? [É por aqui](/colofao).
