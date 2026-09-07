@@ -14,7 +14,7 @@ Queria agradecer, atrasado, a todos que visitam o blog, mesmo que não comentand
   
 Este foi um ano bem positivo para mim. Acho que até o clima do blog mudou nesses anos. Antes escrevia para fazer a solidão ir embora, hoje escrevo para me distrair e dizer o que penso sobre algumas coisas...  
   
-Só tenho a agradecer a amigos, parentes e namorada! E também aos "São-Paulinos no Rio" esses caras são minha segunda família e aqui no Rio me fazem esquecer da solidão!!!  
+Só tenho a agradecer a amigos, parentes e namorada! E também aos "são-paulinos no rio" esses caras são minha segunda família e aqui no Rio me fazem esquecer da solidão!!!  
   
 Obrigado a todos.  
   
