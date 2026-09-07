@@ -62,9 +62,9 @@ Ele vai criar uma pasta <b>/_post/</b> com os arquivos em <b>.md</b> com o nome
 
 <b>AAAA-MM_DD-título-da-postagem.md</b>
 
-E criará uma pasta <b>/imagens/</b> com uma pasta para cada postagem com as imagens que estão na postagem.
+E criará uma pasta <b>/assets/fotos/</b> com uma pasta para cada postagem com as imagens que estão na postagem.
 
-<b>/imagens/AAAA-MM_DD-título-da-postagem</></b>
+<b>/assets/fotos/AAAA-MM_DD-título-da-postagem</></b>
 
 ---
 
@@ -142,10 +142,10 @@ Ele vai criar uma pasta <b>/_posts/</b> com os arquivos em <b>.md</b> com o nome
 
 <b>AAAA-MM-DD-titulo-da-postagem.md</b>
 
-E criará uma pasta `/imagens/` com uma subpasta para cada postagem
+E criará uma pasta `/assets/fotos/` com uma subpasta para cada postagem
 contendo as imagens que estão na postagem:
 
-<b>/imagens/AAAA-MM-DD-titulo-da-postagem/</b>
+<b>/assets/fotos/AAAA-MM-DD-titulo-da-postagem/</b>
 
 ---
 

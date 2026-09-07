@@ -4,8 +4,7 @@ type: texto
 title: "Uma recomendação de bar"
 date: 2026-08-08 12:00:00
 tags:
-
- - recomentdação
+ - recomendações
  - passeios
 ---
 Eu tenho uma curiosidade que não cheguei a citar no [tema de junho/2026](https://pedro.dalbo.me/blog/dez-curiosidades/) do [ENTREGLOGS](https://entreblogs.com.br). Eu gosto de escrever minhas opiniões, no Google Maps, sobre os locais que eu visito (principalmente as positivas para não _sacanear_).  

@@ -4,7 +4,7 @@ title: sobre
 description: Sobre mim e o que esse espaço significa
 image: /assets/og_image/
 permalink: "/sobre"
-published: false
+
 ---
 <h2><span aria-hidden="true">|</span>sobre</h2>
 <h4 id="mim">sobre mim</h4>
@@ -35,16 +35,16 @@ Sou paulistano e hoje moro em São Paulo, mas já morei no Rio de Janeiro (duran
 
 <h6>sobre o que me faz pagar as contas...</h6>
 
-Fiz faculdade engenharia civil no Rio de Janeiro, fui pra faculdade pensando que trabalharia com contrução civil (casas, prédios residenciais e comerciais) e acho que muita gente que entra na engenharia civil pensa isso. Por uma acaso do destino, quando fui procurar por estágio, acabei _caindo_ numa empresa de projetos de infraestrutura. Na época estávamos com algumas ferrovias da Vale. Gostei e fiquei. Hoje, trabalho com [projetos geométrico e de terraplenagem de rodovias, ferrovias e vias urbanas](/profissional).  
+Fiz faculdade engenharia civil no Rio de Janeiro, fui pra faculdade pensando que trabalharia com contrução civil (casas, prédios residenciais e comerciais) e acho que muita gente que entra na engenharia civil pensa isso. Por uma acaso do destino, quando fui procurar por estágio, acabei _caindo_ numa empresa de projetos de infraestrutura. Na época estávamos com algumas ferrovias da Vale. Gostei e fiquei. Hoje, trabalho com [projetos geométrico e de terraplenagem](/profissional).  
 
 <br/>
 <h4 id="o-site">sobre meu <i>proto-jardim-digital</i></h4>
 
 Este espaço existe para que eu tenha a possibilidade de me afastar das mídias-sociais, daqueles cercados enormes que são os aplicativos atuais em que mal conseguimos colocar um link direcionando para um lugar bacana que conhecemos.  
 
-Aqui é onde [escrevo](/blog "meu blog"), não só para deixar minha opinião sobre alguma coisa, mas para treinar a arte da argumentação, porque usamos isso a todo momento, mas nem sempre estamos preparados. Coloco [algumas fotos](/fotolog "meu fotolog") de momentos bacanas, para simplesmente compartilhar, lugares, coisas... O que der na telha. Além de indicar gente bacana que vi e li por aqui ou em algum texto ou no meu [blogrol](/blogrol). 
+Aqui é onde [escrevo](/blog "meu blog"), não só para deixar minha opinião sobre alguma coisa, mas para treinar a arte da argumentação, porque usamos isso a todo momento, mas nem sempre estamos preparados. Coloco [algumas fotos](/fotolog "meu fotolog") de momentos bacanas, para simplesmente compartilhar, lugares, coisas... O que der na telha. Além de indicar gente bacana que vi e li por aqui ou em algum texto ou no meu [rol de blogs](/blogrol). 
 
-Alguns temas que já falei mais:
+Alguns textos sobre criação de espaços próprios ou relativos a essa migração para blogs que já falei:
  - [Por que todo esse esforço?](/blog/porque-todo-esse-esforco/);
  - [Porquê um blog e não uma newsletter](/blog/porque-um-blog-e-nao-uma-newsletter/);
  - [Por mais páginas sobre rss](/blog/por-mais-paginas-sobre-o-rss/);

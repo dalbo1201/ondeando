@@ -4,8 +4,7 @@ type: texto
 title: "Um bom lugar para comer polenta (frita)"
 date: 2026-08-15 11:59:00
 tags:
-
- - recomentdação
+ - recomendações
  - passeios
 ---
 Vocês já sabem que eu [gosto de escrever](blog/vamos-dar-algumas-indicacoes/) lá no Google Maps ~~alguns reviews~~ algumas opiniões de lugares que vou. Então vim aqui hoje recomendar um lugarzinho bacana na **nova região mais badalada de SP**, a Barra Funda.  

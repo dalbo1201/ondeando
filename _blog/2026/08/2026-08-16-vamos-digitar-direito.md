@@ -4,8 +4,7 @@ type: texto
 title: "Vamos digitar direito?"
 date: 2026-08-16 12:00:00
 tags:
-
- - recomentdação
+ - recomendações
  - informática
 ---
  Antigamente as pessoas usavam uma coisa chamada **máquina de escrever** e para aprender a usá-la da melhor forma possível elas faziam um curso de **datilografia**.  
