@@ -4,7 +4,6 @@ type: notas
 title: "Será que agora vai?"
 date: 2026-08-04 10:30:00
 tags:
-
  - a vida, o universo e tudo mais
 ---
 Voltei para a academia.  

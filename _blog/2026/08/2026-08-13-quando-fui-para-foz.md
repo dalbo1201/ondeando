@@ -7,7 +7,6 @@ tags:
  - a vida, o universo e tudo mais
  - passeios
  - tbt
-
 ---
 Mais uma quinta-feira e trago outro #tbt para cá, dessa vez uma lembrança rápida de quando fui para Foz do Iguaçu, com Gabriel (meu irmão), pedindo carona.  
 

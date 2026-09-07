@@ -4,7 +4,6 @@ type: texto
 title: "Tentando criar um backup do meu outro blog"
 date: 2026-08-14 12:00:00
 tags:
-
  - internet
  - informática
 ---

@@ -7,7 +7,6 @@ tags:
  - passeios
  - a vida, o universo e tudo mais
  - tbt
-
  - fotos
 ---
 Gente, vocês já sabem que está rolando o [BEDA 2026](https://entreblogs.com.br/beda/2026 "sobre o BEDA 2026") do [ENTREBLOGS](https://entreblogs.com.br/ "sobre o entrelogs") e sabem que a coisa é toda [baseada em RPG](/blog/uma-jornada-inesperada/).  

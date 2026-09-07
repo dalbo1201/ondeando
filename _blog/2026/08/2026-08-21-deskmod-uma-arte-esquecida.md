@@ -4,7 +4,6 @@ type: texto
 title: "Deskmod, uma arte esquecida"
 date: 2026-08-21 14:20:00
 tags:
-
  - informática
  - internet
 --- 

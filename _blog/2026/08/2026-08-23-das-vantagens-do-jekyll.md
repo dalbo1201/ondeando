@@ -4,8 +4,6 @@ type: texto
 title: "Das vantragens do Jekyll"
 date: 2026-08-23 12:00:00
 tags:
-
- - informática
  - internet
  - metablog
 ---

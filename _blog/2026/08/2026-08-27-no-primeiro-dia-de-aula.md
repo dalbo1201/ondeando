@@ -4,7 +4,6 @@ type: texto
 title: "No primeiro dia de aula..."
 date: 2026-08-27 12:00:00
 tags:
-
  - a vida, o universo e tudo mais
  - tbt
 ---
