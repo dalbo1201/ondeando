@@ -5,7 +5,7 @@ title: "Minha rede"
 image: /assets/fotos/2021/01/20210120_194934.jpg
 caption: "Meu presente de aniversário"
 date: 2021-01-20
-tags: ["a vida, o universo e tudo mais", "aniversário", "pandemia"]
+tags: ["a vida, o universo e tudo mais", "aniversários", "pandemia"]
 ---
 <figure>
     <img class="u-photo" src="/assets/fotos/2021/01/20210120_194934.jpg" alt="Foto de uma rede de listras azul bebê e branco" title="Nãotemho cama, mas tenho rede">

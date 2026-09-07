@@ -3,7 +3,7 @@ layout: post
 type: texto
 title: "1 ano de blogger..."
 date: 2006-09-11 07:21:00 -0300
-tags: ["metablog","aniversário"]
+tags: ["metablog","aniversários"]
 ---
 
 Eita, um ano...  

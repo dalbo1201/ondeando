@@ -3,7 +3,7 @@ layout: post
 type: texto
 title: "22º aniversário"
 date: 2007-01-14 08:00:00 -0000
-tags: ["a vida, o universo e tudo mais", "aniversário", "fotos"]
+tags: ["a vida, o universo e tudo mais", "aniversários", "fotos"]
 ---
 <figure>
     <img class="u-photo" src="/assets/fotos/2007/01/DSC02825.JPG" alt="foto do bolo de aniversário com tema dos são-paulinos no rio" title="foto do bolo de aniversário com tema dos são-paulinos no rio">

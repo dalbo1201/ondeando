@@ -3,7 +3,7 @@ layout: post
 type: texto
 title: "Aniversário do Gui"
 date: 2005-10-18 23:03:00 -0300
-tags: ["aniversário"]
+tags: ["aniversários"]
 ---
 
 Dia 15/10/05, fui para Sampa comemorar o aniversário do Gui. Foi muito divertido, nada de diferente, mas só de poder ver todos novamente valeu muito a pena...  

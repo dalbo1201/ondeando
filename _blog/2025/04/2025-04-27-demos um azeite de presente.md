@@ -3,7 +3,7 @@ layout: post
 type: notas
 title: "Demos um azeite de presente"
 date: 2025-04-27 18:00:00 -0300
-tags: ["aniversário"]
+tags: ["aniversários"]
 ---
 Ontem fomos a uma comemoração de aniversário e na dúvida de como presentear uma amiga demos uma garrafa de azeite de presente.  
 

@@ -3,7 +3,7 @@ layout: post
 type: texto
 title: "2 anos de namoro"
 date: 2006-11-14 20:44:00 -0300
-tags: ["aniversário"]
+tags: ["aniversários"]
 ---
 
 Olá pessoal,  
