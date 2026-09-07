@@ -3,7 +3,7 @@ layout: post
 type: texto
 title: "Google Chrome na TV"
 date: 2010-12-29 13:34:00 -0300
-tags: ["informática", "séries e TVa"]
+tags: ["informática", "séries e TV"]
 ---
 
 Não consegui ver, mas já fiquei sabendo que a Google colocou no ar aqui na televisão brasileira um comercial sobre o seu navegador, o Google Chorme.
