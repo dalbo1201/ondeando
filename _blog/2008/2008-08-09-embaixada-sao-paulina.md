@@ -9,7 +9,7 @@ Gente, que momento fantástico.
 
 Eu devia falar mais das coisas dos São-Paulinos no Rio por aqui, mas não faço, quem sabe...  
 
-Mas algo que a gente no início nem imaginava que poderia acontecer se tornou realidade. Fomos nomeados Embaixada São-Paulina, não qualquer uma. Em 3 de agosto de 2008... 
+Mas algo que a gente no início nem imaginava que poderia acontecer se tornou realidade. Fomos [nomeados Embaixada São-Paulina](https://saopaulinosnorio.blogspot.com/2008/08/inaugurao-da-embaixada.html), não qualquer uma. Em 3 de agosto de 2008... 
 
 **A PRIMEIRA Embaixada São-Paulina.**
 
@@ -24,3 +24,7 @@ Demorou um pouco para acontecer, mas veio.
 Cara que coisa bacana e pra ficar na lembrança.  
 
 Melhor ainda foi ver o a propaganda de página inteira no Lance!, com certeza vou guardar isso para a posteridade.
+<figure>
+    <img class="u-photo" src="/assets/fotos/2008/08/Embaixada São-Paulina.01.jpg" alt="foto do banner da embaixada são-paulina no rio de janeiro. Um banner retangular, em sntido retrato, com o pão de açúcar estilizado com as cores do SPFC, embaixo escrito Embaixada Rio de Janeiro">
+    <figcaption>Uma imagem vale mais do que mil palavras</figcaption>
+</figure>
