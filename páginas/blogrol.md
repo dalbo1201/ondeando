@@ -1,6 +1,6 @@
 ---
 layout: paginas
-title: blogrol
+title: rol de blogs
 description: O rol de sites e blogs que eu leio, sigo e recomendo.
 image: /assets/og_image/og-image-blogrol.jpg
 permalink: "/blogrol"
