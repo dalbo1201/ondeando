@@ -23,12 +23,10 @@ Espero que isso esteja funcionando para vocês, testei em dois blogs meus e pare
 
 <a href="/assets/downloads/bkp-blogger-arquivos-md (Windows).zip" title="Arquivo para Windows">arquivo ZIP para baixar</a>.
 
-<pre><code>
 LEIA TUDO ANTES DE USAR.
 
----
-
-Abra o arquivo rodar.baT no bloco de notAS. 
+<pre><code>
+Abra o arquivo rodar.bat no bloco de notas. 
 
 Nele você verá o seguinte texto.
 
@@ -48,7 +46,7 @@ por
 
 <b>https://www.seublog.com.br --desde AAAA-MM-DD</b>
 
-onde AAAA-MM-DD é a data, p.e. 2025-08-01
+onde AAAA-MM-DD é a data, por exemplo 2025-08-01
 
 salve o arquivo e feche.
 
@@ -62,15 +60,12 @@ Ele vai criar uma pasta <b>/_post/</b> com os arquivos em <b>.md</b> com o nome
 
 <b>AAAA-MM_DD-título-da-postagem.md</b>
 
-E criará uma pasta <b>/assets/fotos/</b> com uma pasta para cada postagem com as imagens que estão na postagem.
+E criará uma pasta <b>/imagens/</b> com uma pasta do ano e mês com as fotos das postagens.
 
-<b>/assets/fotos/AAAA-MM_DD-título-da-postagem</></b>
-
----
-
-No arquivo .MD virá o cabeçalho com título, data, autor e tags.
+<b>/imagens/AAAA/MM</b>
 
 </code></pre>
+No arquivo <b>*.md</b> virá o cabeçalho com título, data, autor e tags.
 
 <h4 id="linux">Para Linux <a href="#" >↑</a></h4>
 
@@ -81,11 +76,9 @@ Como eu não uso Linuz, fiquei na dúvida da melhor extensão de compactação, 
 <li><a href="/assets/downloads/bkp-blogger-arquivos-md (Linux).7z" title="arquivos para Linux">arquivo 7Z para baixar</a>.</li>
 </ul>
 
-<pre><code>
 LEIA TUDO ANTES DE USAR.
 
----
-
+<pre><code>
 Abra o arquivo `rodar.sh` em um editor de texto.
 
 Nele você verá o seguinte texto:
@@ -142,13 +135,10 @@ Ele vai criar uma pasta <b>/_posts/</b> com os arquivos em <b>.md</b> com o nome
 
 <b>AAAA-MM-DD-titulo-da-postagem.md</b>
 
-E criará uma pasta `/assets/fotos/` com uma subpasta para cada postagem
-contendo as imagens que estão na postagem:
+E criará uma pasta <b>/imagens/</b> com uma pasta do ano e mês com as fotos das postagens.
 
-<b>/assets/fotos/AAAA-MM-DD-titulo-da-postagem/</b>
-
----
-
-No arquivo <b>.md</b> virá o cabeçalho com título, data, autor e tags.
+<b>/imagens/AAAA/MM</b>
 
 </code></pre>
+
+No arquivo <b>*.md</b> virá o cabeçalho com título, data, autor e tags.
