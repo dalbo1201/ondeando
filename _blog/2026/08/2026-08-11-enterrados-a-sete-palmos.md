@@ -8,7 +8,7 @@ tags:
 ---
 <figure>
     <img class="u-photo" src="/assets/fotos/2026/08/sfu004.png" alt="Foto de uma rede de listras azul bebê e branco" title="Nãotemho cama, mas tenho rede">
-    <figcaption>Diferente do velório, começou melhor do que terminou </figcaption>
+    <figcaption>Diferente do velório, começou melhor do que terminou</figcaption>
 </figure>
 No final de julho terminamos de assistir à quinta temporada e com isso finalizamos a série _A Sete Palmos (ou Six Feet Under)_. O que dizer?  
 

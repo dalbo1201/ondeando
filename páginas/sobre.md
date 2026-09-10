@@ -14,7 +14,7 @@ Nós somos acostumados a nos apresentar falando nossa profissão, isso passa lon
 <blockquote class="fleabag"><b>Ain... Mas eu não faço isso.</b> Fico feliz por você, mas a maioria das pessoas acaba fazendo e a excessão apenas comprova a regra.
 </blockquote>
 
-<figure class="foto-flutua">
+<figure class="foto-flutua-direita">
 <img class="u-photo" style="border-radius: 50%" src="/assets/favicon/cartoon_sobre.png" alt="desenho se mim em caneta esferográfica " title="eu, em esferográfica">
 <figcaption style="font-size: 13px;">arte por <a class="linkdata" href="https://www.instagram.com/naldojunioartwork">@naldojunioartwork</a></figcaption>
 </figure>
@@ -44,7 +44,7 @@ Este espaço existe para que eu tenha a possibilidade de me afastar das mídias-
 
 Aqui é onde [escrevo](/blog "meu blog"), não só para deixar minha opinião sobre alguma coisa, mas para experimentar, treinar **a arte da argumentação**. Coloco [algumas fotos](/fotolog "meu fotolog") de momentos bacanas, lugares, coisas para simplesmente compartilhar... O que der na telha. Além de indicar gente bacana que vi e li, em algum texto ou no meu [rol de blogs](/blogrol). 
 
-Alguns textos sobre a criação de espaços próprios:
+Alguns textos sobre a criação desses espaços próprios:
  - [Por que todo esse esforço?](/blog/porque-todo-esse-esforco/);
  - [Porquê um blog e não uma newsletter](/blog/porque-um-blog-e-nao-uma-newsletter/);
  - [Por mais páginas sobre rss](/blog/por-mais-paginas-sobre-o-rss/);

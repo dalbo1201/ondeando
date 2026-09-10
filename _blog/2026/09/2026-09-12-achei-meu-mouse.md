@@ -2,7 +2,7 @@
 layout: post
 type: textos
 title: "Achei meu mouse"
-date: 2026-09-07 17:00:00
+date: 2026-09-12 17:00:00
 tags:
  - informática
  - fotos
@@ -15,9 +15,11 @@ published: false
 
 Eu sempre gostei dos mouses tipo _trackball_. Minha mãe teve um lá nos anos 1990-2000, quando [os mouses tradicionais](https://malieda.com/pt/por-que-mouse-antigamente-tinha-bolinha/ "pura nostalgia?") ainda tinham essa _maldita bolinha_ que a gente precisava limpar os sensores de tempos em tempos para não perder o uso de tanta pueira que acumulava.  
 
-Mas esses mouses sempre foram caros e aí a gente ficava no tradicional. Depois eu passei a usar o mouse com a mão esquerda, aprendi isso no trabalho. A galera _das antigas_ usava o mouse com a mão esquerda para deixar livre a mão direta e com isso ficar mais prático fazer anotações, digitar noprincipalmente no teclado numérico ou algum atalho de teclado. Vou falar que realmente ajuda muito, depois que acostuma...😏  
+Por algum motivo esse mouse se perdeu, e por serem mouses mais caros que o normal, e a gente ficou no tradicional.  
 
-Depois eu acabei investindo num mouse vertical, [o Lift](https://www.logitech.com/pt-br/shop/p/lift-vertical-ergonomic-mouse.910-006467) da Logi. Fui por esse caminho principalmente porque quando resolvi **gastar mais** com o mouse já não encontrei _trackballs_ para canhotos no Brasil. A Logi passou muito tempo oferecendo [uma das suas versões de _trackball_](https://www.logitech.com/pt-br/shop/p/ergo-m575s-wireless-trackball.910-007031) para canhotos, mas [_isso non ecxiste_](https://www.myinstants.com/pt/instant/isso-non-ecxiste/), nem aqui nem na gringa. Mesmo outras opções eram excassas, falarei disso mais pra frente.  
+Tem alguns anos que passei a usar o mouse com a mão esquerda, aprendi isso no trabalho. A galera _das antigas_ usava o mouse com a mão esquerda para deixar livre a mão direta e com isso ficar mais prático fazer anotações, digitar no, principalmente no teclado numérico, ou algum atalho de teclado. Vou falar que realmente ajuda muito, depois que acostuma...😏  
+
+Nos últimos meses acabei investindo num mouse vertical, [o Lift](https://www.logitech.com/pt-br/shop/p/lift-vertical-ergonomic-mouse.910-006467) da Logi. Fui por esse caminho principalmente porque quando resolvi **gastar mais** com o mouse já não encontrei _trackballs_ para canhotos no Brasil. A Logi passou muito tempo oferecendo [uma das suas versões de _trackball_](https://www.logitech.com/pt-br/shop/p/ergo-m575s-wireless-trackball.910-007031) para canhotos, mas [_isso non ecxiste_](https://www.myinstants.com/pt/instant/isso-non-ecxiste/), nem aqui nem na gringa. Mesmo outras opções eram excassas, falarei disso mais pra frente.  
 
 Como na época em que comprei o Lift eu não trabalhava em regime de tele-trabalho, ele foi uma boa opção. Uma solução ergonômica, silenciosa e com botões extras. Funciona muito bem, é um belo mouse. Se está em busca de um que melhore seu uso, pode pegar. Despois que acostuma com a posião da mão, acho que não tem muito retorno. E fique traquilo, se tem a opção canhota, a destra não vai faltar.  
 

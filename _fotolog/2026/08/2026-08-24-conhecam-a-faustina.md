@@ -12,7 +12,7 @@ tags:
 ---
 <figure>
 <img class="u-photo" src="/assets/fotos/2026/08/20250821_201806.jpg" alt="Foto de uma gata cinza (chamada Faustina) sentada num puff com estampa colorida inspirado nos anos 70" title="Faustina te encarando e esperando você ir fazer um carinho">
-<figcaption>Essa é a Faustina.</figcaption>
+<figcaption>Essa é a Faustina</figcaption>
 </figure>
 
 Faustina é [irmã do Fellini](/fotolog/conhecam-o-fellini), não de criação, mas de ninhada. Eu sei, não parece.  

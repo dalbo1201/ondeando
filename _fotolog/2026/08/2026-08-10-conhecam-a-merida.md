@@ -12,7 +12,7 @@ tags:
 ---
 <figure>
 <img class="u-photo" src="/assets/fotos/2026/08/20260629_231927.jpg" alt="Foto  de uma gata preta (chamada Mérida) sentada no topo de uma estante, também preta. Ao seu lado um chapéu de plástico de caubói, da personagem Jessy de Toy Story." title="Mérida e sua rotina de observação da casa">
-<figcaption>Essa é a Mérida.</figcaption>
+<figcaption>Essa é a Mérida</figcaption>
 </figure>
 
 Mérida é a outra gata que [adotei em Brasília](/fotolog/novos-inquilinos/).  

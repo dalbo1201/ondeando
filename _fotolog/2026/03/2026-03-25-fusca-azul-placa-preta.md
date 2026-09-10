@@ -13,7 +13,7 @@ permalink: "/fotolog/fusca-azul-placa-preta"
 ---
 <figure>
 <img class="u-photo" src="/assets/fotos/2026/03/20260321_142211~2.jpg" alt="Foto de um Fusca azul bebê, placa preta" title="Um Fusca azul placa preta">
-<figcaption>Esse fusca merece tantos socos quanto você puder dar no amiguinho do lado.</figcaption>
+<figcaption>Esse fusca merece tantos socos quanto você puder dar no amiguinho do lado</figcaption>
 </figure>
 
 Dessa vez um carro que a gente espera ser placa preta. Ok... Espera pode ser uma palavra forte, mas se for placa preta a gente não toma o susto [da outra vez](/fotolog/vivi-para-ver-um-vitara-placa-preta "quando eu vi um Suzuki Vitara placa preta").  

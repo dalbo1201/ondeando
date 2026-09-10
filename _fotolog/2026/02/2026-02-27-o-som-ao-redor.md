@@ -14,7 +14,7 @@ permalink: "/fotolog/o-som-ao-redor"
 ---
 <figure>
 <img class="u-photo" src="/assets/fotos/2026/02/20260222_173015.jpg" alt="Toca-discos vintage Gradiente D-20 posicionado sobre um rack de som que contém componentes de áudio da marca Aiko System 3000 que inclui um toca-fitas (tape deck), amplificador e sintonizador de rádio." title="meu mini-system">
-<figcaption>Meu mini-systwm, vintage [...]</figcaption>
+<figcaption>Meu mini-system, vintage [...]</figcaption>
 </figure>
 
 <blockquote class="fleabag"> Toca-discos vintage Gradiente D-20.<br/>

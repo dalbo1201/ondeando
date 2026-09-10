@@ -12,7 +12,7 @@ tags:
 ---
 <figure>
 <img class="u-photo" src="/assets/fotos/2026/08/20260501_123919.jpg" alt="Foto fusca vermelho, tirado por trás. Carro está bem cuidado, mas precisava de uma lustrada" title="Tá judiado, mas é bonito">
-<figcaption>Tá judiado, mas é bonito.</figcaption>
+<figcaption>Tá judiado, mas é bonito</figcaption>
 </figure>
 
 Esse fusquinha tá bonito de ver, mas tá mal cuidado. Uma polida e uma lustrada dariam vida para essa beleza.  

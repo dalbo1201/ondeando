@@ -41,7 +41,7 @@ Não sei se isso ocorreria hoje, sabe...
 </figure>
 <figure>
 <img class="u-photo" src="/assets/fotos/2026/08/montanha-russa-tijolo.jpg" alt="Foto de uma montanha russa apoiada sobre tijolos." title="Imagem ilustrativa, mas a ideia...">
-<figcaption>Acho que vocês entenderam a situação </figcaption>
+<figcaption>Acho que vocês entenderam a situação</figcaption>
 </figure>
 </figure>
 

@@ -12,7 +12,7 @@ tags:
 ---
 <figure>
 <img class="u-photo" src="/assets/fotos/2026/08/20260503_141349.jpg" alt="Foto de um Opaa marrom placa preta" title="Tá judiado, mas é bonito">
-<figcaption>Marcou presença.</figcaption>
+<figcaption>Marcou presença</figcaption>
 </figure>
 
 Nem só de fusquinha vive esse Fotolog. Mas sempre que rolar um placa preta a gente para para reverenciar.

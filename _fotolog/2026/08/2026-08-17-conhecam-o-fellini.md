@@ -12,7 +12,7 @@ tags:
 ---
 <figure>
 <img class="u-photo" src="/assets/fotos/2026/08/20260530_234650.jpg" alt="Foto de um gato siamês de rua (chamado Fellini) sentado numa mesa quadrada de maeira rústica" title="Fellini te olhando e pedindo por atenção">
-<figcaption>Esse é o Fellini.</figcaption>
+<figcaption>Esse é o Fellini</figcaption>
 </figure>
 
 Fellini é claramente o gato mais carinhoso e carente que existe nessa casa e arrisco dizer que poucos no mundo são assim.  

@@ -566,7 +566,7 @@ a[href]:not(:where(
 /* INÍCIO DE ESTILO PARA IMAGENS em posts - NÃO É O FOTOLOG, ESSE VEM DEPOIS*/
 figure {
  margin: 0 0 20px 0; /* Remove a margem padrão do figure */
- padding: 0; /* Remove o padding padrão do figure */
+ padding: 5px; /* Remove o padding padrão do figure */
 } 
 
 figure img {
@@ -592,14 +592,21 @@ figcaption {
  align-items: end;
 }
 
-.foto-flutua {
+.foto-flutua-direita {
  float: right;
  max-width: 50%;
  margin: 10px 0 10px 10px;
  padding-right: 2px;
 }
 
-.foto-flutua img {
+.foto-flutua-esquerda {
+ float: left;
+ max-width: 50%;
+ margin: 10px 10px 10px 0;
+ padding-left: 2px;
+}
+
+.foto-flutua-direita img, .foto-flutua-esquerda img {
  width: 100%;
  height: auto;
  display: block;

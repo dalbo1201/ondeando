@@ -14,7 +14,7 @@ permalink: "/fotolog/alegria-do-cafe-da-manha"
 ---
 <figure>
 <img class="u-photo" src="/assets/fotos/2026/04/20260404_091852~2.jpg" alt="Foto da torradeira supertoast arno. Corpo bege, detalhes laterais marrom." title="a torradeira que traz memórias">
-<figcaption>A torradeira da infância.</figcaption>
+<figcaption>A torradeira da infância</figcaption>
 </figure>
 
 <blockquote class="fleabag">Gente, vocês não tem ideia do quanto eu procurei por uma torradeira dessas em bom estado. Finalmente encontrei.</blockquote>

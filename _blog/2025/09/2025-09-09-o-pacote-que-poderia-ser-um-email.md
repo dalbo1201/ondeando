@@ -17,5 +17,5 @@ Num mundo em que as empresas fingem se importar com o meio ambiente rolou um vac
 
 <figure>
 <img class="u-photo" src="/assets/fotos/2025/09/20250908_174153.jpg" alt="Caixa da embalagem do Microsoft365 Personal aberta mostrando o cartão da chave do produto" title="Microsoft365">
-<figcaption>Um pequeno envelope com a logo da Microsoft e do Office365 seria até mais elegante.</figcaption>
+<figcaption>Um pequeno envelope com a logo da Microsoft e do Office365 seria até mais elegante</figcaption>
 </figure>
