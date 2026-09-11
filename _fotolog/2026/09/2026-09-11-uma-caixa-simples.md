@@ -8,7 +8,6 @@ caption: "Só papelão [...]"
 tags:
  - informática
  - fotos
-published: false
 ---
 <figure>
 <img class="u-photo" src="/assets/fotos/2026/09/20260903_215920.jpg" alt="Uma caixa de papelão (craft) do tamanho de uma mão adulta com a etiqueta branca descrevendo o produto">
