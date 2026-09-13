@@ -61,13 +61,13 @@ Passei algumas horas conversando com o _estagiário que gasta mais água que mil
 
 Vale dizer que pelo que entendi, parte do funcionamento do meu sistema segue a mesma premissa do Staticman, mas eu farei as coisas ~~manualmente~~ de forma artesanal.  
 
-Estou usando o serviço do Netlify Forms para receber os emails com os comentários, temos uma página de confirmação de envio avisando que o comentário não aparece imediatamente e um esquema visual que conversa com o site. Ah, e quando eu responder, teremos algumas gracinhas visuais para me identificar, espero que gostem.  
-
 O sistema de comentários possui três níveis de conversa: um comentário, uma resposta a esse comentário e uma resposta à resposta. Não é um limite de quantidade, podem comentar a vontade, mas as respostas se aprofundam até esse terceiro nível.
 
 Os únicos dados coletados são os que você quiser entregar. Na verdade, um nome é obrigatório, você pode colocar seu site, que terá um link no comentário (lembra que isso era bem importante para mim?) e seu email, se quiser que eu te avise caso alguém responda seu comentário. E os seus comentários, claro.  
 
-Eu recebo um email com seu comentário e coloco ele no site. Como eu disse, extremamente artesanal e no tempo que for possível. Claro que sempre farei o mais rápido possível. Fique tranquilo, não estou querendo ficar moderando ninguém, espero não precisar, e nem vou mexer no texto. Do jeito que escrever irá pro comentário.  
+Estou usando o serviço do _Netlify Forms_ para receber os comentários, temos uma página de confirmação de envio avisando que o comentário não aparece imediatamente em um esquema visual que conversa com o site. Ah, e quando eu responder, teremos algumas gracinhas visuais para me identificar, espero que gostem.  
+
+Criei um bot no telegram, que associado ao _Netlify Forms_ e o serviço de automação [_Make_](https://www.make.com/en), me envia o comentário por mensagem e aí eu adiciono ele no site. Como eu disse, extremamente artesanal e no tempo que for possível. Claro que sempre farei o mais rápido possível. Fique tranquilo, não estou querendo ficar moderando ninguém, espero não precisar, e nem vou mexer no texto. Do jeito que escrever irá pro comentário.  
 
 Ah, falando em _do jeito que escrever_, vale avisar que os comentários aceitam formatação **markdown**. Não sabe o que é isso? [Aqui tem um site explicando](https://md-tool.com/pt/markdown-guide/cheat-sheet), é bem bacana e simples de usar. O WhatsApp aplica formatação markdown nas suas mensagens.  
 
