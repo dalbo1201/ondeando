@@ -2,7 +2,7 @@
 layout: post
 type: textos
 title: "Achei meu mouse"
-date: 2026-09-13 12:00:00
+date: 2026-09-14 12:00:00
 tags:
  - informática
  - fotos
