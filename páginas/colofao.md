@@ -71,5 +71,5 @@ Mais detalhes de como é [o processo de escrita por aqui](/blog/como-as-coisas-a
 O porquê de todo esse espaço [falo mais aqui](/blog/porque-todo-esse-esforco/ "porquê criei esse cantinho?").  
 
 <aside class="aviso-caixa"><div class="aviso-texto">
-Esta página foi criada por influência do <a href="https://cosmoliko.com/" title="blog do Eliel">Eliel Guilhen</a> que comentou sobre <del>a falta da</del>  existencia dela num email.
+Esta página foi criada por influência do <a href="https://cosmoliko.com/" title="blog do Eliel">Eliel Guilhen</a> que comentou sobre a <del>falta da</del>  existencia dela num email.
 </div></aside>
