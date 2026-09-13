@@ -25,19 +25,19 @@ Depois, como eu tenho um site estático, em Jekyll, e hospedo tudo no Netlify, i
 
 A primeira coisa que fiz foi visitar a página do Jekyll e ver se encontrava alguma recomendação por lá, e tive duas opções.  
 
-A primeira é o [Staticman](https://new.staticman.net/), um sistema que aparentemente foi pensado no Jekyll. Mas me pareceu meio abandonado. Para além disso, algumas questões de configuração que não consegui entender e fazer *fununciar*, tutoriais pouco amigáveis para um total iniciante, relativamente confusos. Nem com a ajuda dos *estagiários que consomem mais água que alguns milionários* consegui fazer funcionar.  
+A primeira é o [Staticman<sup>[en]</sup>](https://new.staticman.net/), um sistema que aparentemente foi pensado no Jekyll. Mas me pareceu meio abandonado. Para além disso, algumas questões de configuração que não consegui entender e fazer *fununciar*, tutoriais pouco amigáveis para um total iniciante, relativamente confusos. Nem com a ajuda dos *estagiários que consomem mais água que alguns milionários* consegui fazer funcionar.  
 
 <blockquote class="fleabag">Beleza, vamos tentar outro. O mundo não vai acabar.</blockquote>
 
-Eu considerei usar o [Talkyard](https://www.talkyard.io/), outra solução indicada no site do Jekyll. Esse eu vou dizer que é bem simples de implementar e na verdade é uma bazuca. Eles são um produto que atende sistemas de fóruns e comentários de sites, mas comentários em pequenos blogs não é o foco deles. Tanto que para sites pessoais o serviço é gratuito.  
+Eu considerei usar o [Talkyard<sup>[en]</sup>](https://www.talkyard.io/), outra solução indicada no site do Jekyll. Esse eu vou dizer que é bem simples de implementar e na verdade é uma bazuca. Eles são um produto que atende sistemas de fóruns e comentários de sites, mas comentários em pequenos blogs não é o foco deles. Tanto que para sites pessoais o serviço é gratuito.  
 
 Como falei, é uma bazuca, tem muitas funções, mas é super fácil de implementar, alguns códigos pré determinados e pronto, mas é um pouco complicado de configurar o CSS para deixar com o visual do site e retirar muitas das funções oferecidas e que não seriam usadas. Fora que como são um serviço bem robusto, eles possuem todo um sistema de login e perfis, o que deixa complicado fazer coisas simples, como o comentarista apresentar a url do seu site vinculada ao seu comentário. Até tentei conversar com os desenvolvedores, mas explicaram que não está no horizonte deles esse tipo de apresentação. Desisti, porque fica muito fora de algo mais simples como eu desejava.  
 
-Seguindo minha jornada lembrei que outro site em Jekyll que acompanho utiliza uma solução que sempre achei bacana. O site é o [sol2070](http://sol2070.in) e a solução de comentários é o [Isso](https://isso-comments.de/).  
+Seguindo minha jornada lembrei que outro site em Jekyll que acompanho utiliza uma solução que sempre achei bacana. O site é o [sol2070](http://sol2070.in) e a solução de comentários é o [Isso<sup>[en]</sup>](https://isso-comments.de/).  
 
 O *Isso-comments* é muito bacana, aparentemente simples e muito bonito, mas ele precisa ser hospedado em algum lugar e não tenho um serviço de *self-hosted* (é assim que fala?). Não acho que seja um mundo que eu queira adentrar agora. Tem toda uma configuração que eu teria que ir atrás e um custo que não sei se preciso pagar e por isso abandonei rapidamente uma solução que parecia ser perfeita.  
 
-E por fim encontrei o [Cusdis](https://cusdis.com/).  
+E por fim encontrei o [Cusdis<sup>[en]</sup>](https://cusdis.com/).  
 
 <blockquote class="fleabag">Meu amigo, minha amiga, parecia que eu tinha encontrado meu pote de ouro no final do arco íris.</blockquote>
 
@@ -67,7 +67,7 @@ Os únicos dados coletados são os que você quiser entregar. Na verdade, um nom
 
 Estou usando o serviço do _Netlify Forms_ para receber os comentários, temos uma página de confirmação de envio avisando que o comentário não aparece imediatamente em um esquema visual que conversa com o site. Ah, e quando eu responder, teremos algumas gracinhas visuais para me identificar, espero que gostem.  
 
-Criei um bot no telegram, que associado ao _Netlify Forms_ e o serviço de automação [_Make_](https://www.make.com/en), me envia o comentário por mensagem e aí eu adiciono ele no site. Como eu disse, extremamente artesanal e no tempo que for possível. Claro que sempre farei o mais rápido possível. Fique tranquilo, não estou querendo ficar moderando ninguém, espero não precisar, e nem vou mexer no texto. Do jeito que escrever irá pro comentário.  
+Criei um bot no telegram, que associado ao _Netlify Forms_ e o serviço de automação [_Make_<sup>[en]</sup>](https://www.make.com/en), me envia o comentário por mensagem e aí eu adiciono ele no site. Como eu disse, extremamente artesanal e no tempo que for possível. Claro que sempre farei o mais rápido possível. Fique tranquilo, não estou querendo ficar moderando ninguém, espero não precisar, e nem vou mexer no texto. Do jeito que escrever irá pro comentário.  
 
 Ah, falando em _do jeito que escrever_, vale avisar que os comentários aceitam formatação **markdown**. Não sabe o que é isso? [Aqui tem um site explicando](https://md-tool.com/pt/markdown-guide/cheat-sheet), é bem bacana e simples de usar. O WhatsApp aplica formatação markdown nas suas mensagens.  
 
