@@ -37,9 +37,9 @@ O [favicon e o avatar](/assets/favicon/favicon_cartoon-180.png) dos comentários
 Para o mês de junho tem um tema especial de [**Festa Junina**](/blog/um-tema-festivo), se ainda não o viu, marque dia 01 de junho na sua agenda e venha curtir.
 
 <h5>Sobre os links do site</h5>
-Sempre que você avistar o símbolo **<a>↗</a>** ao lado de algum link significa que ele te levará para uma página externa deste pequeno _proto-jardim-digital_. A excessão são os links associados a imagem no rodapé, apesar de irem para páginas externas não tem o símbolo, ~~por questão estética e~~, porquê claramente vão para uma página externa.  
+Sempre que você avistar o símbolo <a>↗</a> ao lado de algum link significa que ele te levará para uma página externa deste pequeno _proto-jardim-digital_. A excessão são os links associados a imagem no rodapé, apesar de irem para páginas externas não tem o símbolo, ~~por questão estética e~~, porquê claramente vão para uma página externa.  
 
-Os links que não levarem para páginas em português coloco uma _etiqueta_ sobreescrita **<a><sup>[idioma]</sup></a>**, assim tem como saber que estou indicando um texto em outro idioma e qual é.  
+Os links que não levarem para páginas em português coloco uma _etiqueta_ sobreescrita <a><sup>[idioma]</sup></a>, assim tem como saber que estou indicando um texto em outro idioma e qual é.  
 
 **Todos os links abrem a página sobre a página atual**. Adoto essa configuração porque se houver o desejo de abrir em uma nova aba/janela é possível de várias formas. Mas se o interesse não for esse e a configuração padrão for abrir em outra aba/janela não temos como fazê-lo.  
 
