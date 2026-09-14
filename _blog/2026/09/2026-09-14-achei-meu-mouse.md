@@ -6,7 +6,6 @@ date: 2026-09-14 12:00:00
 tags:
  - informática
  - fotos
-published: false
 ---
 <figure>
 <img class="u-photo" src="/assets/fotos/2026/09/20260903_194810.jpg" alt="">
