@@ -6,3 +6,12 @@
   url: "https://cosmoliko.com/"
   message: |  
     Eu não imaginava que um dia ia dizer isso, mas… que vontade de pegar no seu mouse.
+
+- id: 2
+  parent_id: 0
+  date: "2026-09-15T09:57:38.288Z"
+  name: "Rodrigo"
+  email: "rodrigo@vidaboa.net"
+  url: "https://vidaboa.net"
+  message: |  
+    Muito interessante essa marca e esse modelo de mouse. Também gosto de trackballs e sempre me vi limitado a uns dois modelos da Logitech que são vendidos por aqui.
