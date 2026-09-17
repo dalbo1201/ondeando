@@ -42,7 +42,7 @@ Fiz faculdade engenharia civil no Rio de Janeiro, fui pra faculdade pensando que
 
 Este espaço existe para que eu tenha a possibilidade de me afastar das mídias-sociais, daqueles cercados enormes que são os aplicativos atuais em que mal conseguimos colocar um link direcionando para um lugar bacana que conhecemos.  
 
-Aqui é onde [escrevo](/blog "meu blog"), não só para deixar minha opinião sobre alguma coisa, mas para experimentar, treinar **a arte da argumentação**. Coloco [algumas fotos](/fotolog "meu fotolog") de momentos bacanas, lugares, coisas para simplesmente compartilhar... O que der na telha. Além de indicar gente bacana que vi e li, em algum texto ou no meu [rol de blogs](/blogrol). 
+Aqui é onde [escrevo](/blog "meu blog"), para deixar minha opinião sobre alguma coisa, soltar pensamentos, para experimentar. Coloco [algumas fotos](/fotolog "meu fotolog") de momentos bacanas, lugares, coisas para simplesmente compartilhar... O que der na telha. Além de indicar gente bacana que vi e li, em algum texto ou no meu [rol de blogs](/blogrol). 
 
 Alguns textos sobre a criação desses espaços próprios:
  - [Por que todo esse esforço?](/blog/porque-todo-esse-esforco/);
