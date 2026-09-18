@@ -50,11 +50,10 @@ O tempo todo brincando de mexer nesse _meu espaço da internet_, um hobby para d
     <li>Lanternas&nbsp;| HBO&nbsp;Max&nbsp;| temporada&nbsp;1;</li>
     <li>Star Trek: Strange New Worlds&nbsp;| Paramount+&nbsp;| temporada&nbsp;4;</li>
     <li>Batman: Cruzado Encapuzado&nbsp;| HBO&nbsp;Max&nbsp;| temporada&nbsp;2;</li>
-    <li>X-Men '97&nbsp;| Disney+&nbsp;| temporada&nbsp;2;</li>
     <li>House of The Dragon&nbsp;| HBO&nbsp;Max&nbsp;| temporada&nbsp;3;</li>
     <li>A Treta&nbsp;| Netflix&nbsp;| temporada&nbsp;1;</li>
     <li>Fallout&nbsp;| Prime&nbsp;Video&nbsp;| temporada&nbsp;2;</li>
-    <li>Arquivo X&nbsp;| Disney+&nbsp;| temporada&nbsp;2;&nbsp;↺</li>
+    <li>Arquivo X&nbsp;| Disney+&nbsp;| temporada&nbsp;3;&nbsp;↺</li>
 </ul>
 
 <aside class="aviso-caixa"><div class="aviso-texto">Vale lembrar que tem a página <a href="/assistindo">ASSISTINDO</a> que agrega os textos sobre o que vejo.<br/>
