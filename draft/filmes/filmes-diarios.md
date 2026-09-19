@@ -3,18 +3,24 @@ layout: paginas
 title: filmes
 description: Filmes assistidos
 image: /assets/og_image/og-image-colofao.jpg
-permalink: "/filmes"
+permalink: "/filmes-diarios"
 published: false
 ---
 <h2><span aria-hidden="true">|</span><span class="h2-menor">os </span>filmes<span class="h2-menor"> assistidos</span></h2>
 
-<ul class="lista-filmes">
-{% for item in site.data.filmes %}
-<li class="item-filme">
+<a href="/filmes">Filmes assistidos</a>
+
+{% assign filmes_filtrados = site.data['catalogo-filmes']  | where_exp: "item", "item.vezes_assistido > 0" %}
+
+<ul class="lista-filmes" id="lista-filmes">
+{% for item in filmes_filtrados %}
+  {% assign ultima_data = item.datas_assistidas | last %}
+
+<li class="item-filme" data-ultima-data="{{ ultima_data }}">
     <div class="filme-poster">
         <img
           src="{{ item.poster_url }}"
-          alt="Pôster de {{ item.titulo_pt }}"
+          alt="Pôster de {{ item.titulo_br }}"
           loading="lazy"
         >
     <div class="filme-nota" aria-label="Nota: {{ item.nota }} de 5">
@@ -88,9 +94,18 @@ published: false
   <a
     class="filme-imdb"
     href="{{ item.imdb_url }}"
-    title="Ver {{ item.titulo_pt }} no IMDb"
+    title="Ver {{ item.titulo_br }} no IMDb"
   >
     IMDb
+  </a>
+{% endif %}
+{% if item.imdb_url and item.imdb_url != "" %}
+  <a
+    class="filme-imdb"
+    href="{{ item.url }}"
+    title="Ver {{ item.titulo_br }} no Ldbxd"
+  >
+    Ldbxd
   </a>
 {% endif %}
 
@@ -101,7 +116,7 @@ published: false
 
    <div class="filme-cabecalho">
     <h5>
-    {{ item.titulo_pt }}
+    {{ item.titulo_br }}
     <span class="filme-ano">({{ item.lancamento }})</span>
     </h5>
 
@@ -123,18 +138,25 @@ published: false
           {{ item.diretor }}
    </p>
 
-   <p class="filme-data">
-       vi em {{ item.data_visto | date: "%d/%m/%Y" }}
-   </p>
+{% if item.datas_assistidas and item.datas_assistidas.size > 0 %}
+  <p class="filme-data">
+    vi em
+    {% for data in item.datas_assistidas %}
+      {{ data | date: "%d/%m/%Y" }}{% unless forloop.last %}, {% endunless %}
+    {% endfor %}
+  </p>
+{% endif %}
 
-   {% if item.revisto == true %}
-    <span
-        class="filme-revisto"
-        title="Filme revisto"
-        aria-label="Filme revisto">
-        <i class="fa-solid fa-arrow-rotate-left"></i>
-       </span>
-   {% endif %}
+{% if item.vezes_assistido >= 2 %}
+  <span
+    class="filme-revisto"
+    title="Filme revisto"
+    aria-label="Filme revisto"
+  >
+    <i class="fa-solid fa-arrow-rotate-left"></i>
+  </span>
+{% endif %}
+
 
    <div class="filme-tags">
     {% assign tags_ordenadas = item.tags | sort_natural %}
@@ -152,3 +174,22 @@ published: false
 </li>
  {% endfor %}
 </ul>
+
+<script>
+  const listaFilmes = document.getElementById("lista-filmes");
+
+  const filmes = Array.from(
+    listaFilmes.querySelectorAll(".item-filme")
+  );
+
+  filmes.sort(function (filmeA, filmeB) {
+    const dataA = filmeA.dataset.ultimaData || "";
+    const dataB = filmeB.dataset.ultimaData || "";
+
+    return dataB.localeCompare(dataA);
+  });
+
+  filmes.forEach(function (filme) {
+    listaFilmes.appendChild(filme);
+  });
+</script>
