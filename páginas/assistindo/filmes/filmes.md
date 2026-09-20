@@ -69,65 +69,74 @@ Veja <a href="/assistindo">o que estou assistindo</a>
               <li class="item-filme">
 
                 <div class="filme-poster">
+
                   <img
                     src="{{ item.poster_url }}"
                     alt="Pôster de {{ item.titulo_pt }}"
                     loading="lazy"
                   >
 
- <div
-                class="filme-nota"
-                aria-label="Nota: {{ item.nota }} de 5"
-              >
-                <span class="estrelas">
+                  <div class="filme-nota">
 
-                  {% assign nota_inteira = item.nota | floor %}
-
-                  {% for numero_estrela in (1..5) %}
-
-                    {% assign limite_meia_estrela = numero_estrela
-                      | minus: 0.5
+                    {% if item.nota != nil
+                      and item.nota != ""
+                      and item.nota != 0
                     %}
 
-                    {% if numero_estrela <= nota_inteira %}
+                      <span
+                        class="estrelas"
+                        aria-label="Nota: {{ item.nota }} de 5"
+                      >
 
-                      <i class="fa-solid fa-star"></i>
+                        {% assign nota_inteira = item.nota | floor %}
 
-                    {% elsif item.nota >= limite_meia_estrela %}
+                        {% for numero_estrela in (1..5) %}
 
-                      <i class="fa-solid fa-star-half-stroke"></i>
+                          {% assign limite_meia_estrela = numero_estrela | minus: 0.5 %}
 
-                    {% else %}
+                          {% if numero_estrela <= nota_inteira %}
 
-                      <i class="fa-regular fa-star"></i>
+                            <i class="fa-solid fa-star"></i>
+
+                          {% elsif item.nota >= limite_meia_estrela %}
+
+                            <i class="fa-solid fa-star-half-stroke"></i>
+
+                          {% else %}
+
+                            <i class="fa-regular fa-star"></i>
+
+                          {% endif %}
+
+                        {% endfor %}
+
+                      </span>
 
                     {% endif %}
 
-                  {% endfor %}
+                    {% if item.imdb_url and item.imdb_url != "" %}
+                      <a
+                        class="filme-imdb"
+                        href="{{ item.imdb_url }}"
+                        title="Ver {{ item.titulo_br }} no IMDb"
+                      >
+                        IMDb
+                      </a>
+                    {% endif %}
 
-                </span>
+                    {% if item.url and item.url != "" %}
+                      <a
+                        class="filme-imdb"
+                        href="{{ item.url }}"
+                        title="Ver {{ item.titulo_br }} no Letterboxd"
+                      >
+                        Letterboxd
+                      </a>
+                    {% endif %}
 
-                {% if item.imdb_url and item.imdb_url != "" %}
-                  <a
-                    class="filme-imdb"
-                    href="{{ item.imdb_url }}"
-                    title="Ver {{ item.titulo_br }} no IMDb"
-                  >
-                    IMDb
-                  </a>
-                {% endif %}
+                  </div>
 
-                {% if item.url and item.url != "" %}
-                  <a
-                    class="filme-imdb"
-                    href="{{ item.url }}"
-                    title="Ver {{ item.titulo_br }} no Letterboxd"
-                  >
-                    Letterboxd
-                  </a>
-                {% endif %}
-              </div>
-            </div>
+                </div>
 
                 <div class="filme-informacoes">
 
@@ -161,10 +170,15 @@ Veja <a href="/assistindo">o que estou assistindo</a>
                   {% if item.datas_assistidas.size > 0 %}
                     <p class="filme-data">
                       vi em
+
                       {% for data in item.datas_assistidas %}
                         {{ data | date: "%d/%m/%Y" }}
-                        {% unless forloop.last %}, {% endunless %}
+
+                        {% unless forloop.last %}
+                          ,
+                        {% endunless %}
                       {% endfor %}
+
                     </p>
                   {% endif %}
 
