@@ -6,190 +6,237 @@ image: /assets/og_image/og-image-colofao.jpg
 permalink: "/filmes-diarios"
 published: false
 ---
-<h2><span aria-hidden="true">|</span><span class="h2-menor">os </span>filmes<span class="h2-menor"> assistidos</span></h2>
+<h2><span aria-hidden="true">|</span><span class="h2-menor">meu </span>diário<span class="h2-menor"> de filmes</span></h2>
 
-<a href="/filmes">Filmes assistidos</a>
+Aqui estão reunidos os filmes que eu tenho anotada a data de quando os assisti, não é a maioria e muitos na verdade são depois que criei minha [conta no Letterboxd](https://letterboxd.com/dalbo1201/) e passei a marcar essa informação.  
 
-{% assign filmes_filtrados = site.data['catalogo-filmes']  | where_exp: "item", "item.vezes_assistido > 0" %}
+para ver todos os filmes que já assisti (ou lembro de ter assistido) é só ir até a minha [página de filmes](/filmes).  
 
-<ul class="lista-filmes" id="lista-filmes">
+---
+
+{% assign filmes_filtrados = site.data['catalogo-filmes']
+  | where_exp: "item", "item.vezes_assistido > 0"
+%}
+
+{% assign anos_usados = "" %}
+
 {% for item in filmes_filtrados %}
   {% assign ultima_data = item.datas_assistidas | last %}
+  {% assign ano = ultima_data | date: "%Y" %}
 
-<li class="item-filme" data-ultima-data="{{ ultima_data }}">
-    <div class="filme-poster">
-        <img
-          src="{{ item.poster_url }}"
-          alt="Pôster de {{ item.titulo_br }}"
-          loading="lazy"
-        >
-    <div class="filme-nota" aria-label="Nota: {{ item.nota }} de 5">
-        <span class="estrelas">
-        {% if item.nota == 1.0 %}
-            <i class="fa-solid fa-star"></i>
-            <i class="fa-regular fa-star"></i>
-            <i class="fa-regular fa-star"></i>
-            <i class="fa-regular fa-star"></i>
-            <i class="fa-regular fa-star"></i>
+  {% assign anos_usados = anos_usados
+    | append: ano
+    | append: ","
+  %}
+{% endfor %}
 
-        {% elsif item.nota == 1.5 %}
-            <i class="fa-solid fa-star"></i>
-            <i class="fa-solid fa-star-half-stroke"></i>
-            <i class="fa-regular fa-star"></i>
-            <i class="fa-regular fa-star"></i>
-            <i class="fa-regular fa-star"></i>
+{% assign anos = anos_usados | split: "," | uniq | sort | reverse %}
 
-        {% elsif item.nota == 2.0 %}
-            <i class="fa-solid fa-star"></i>
-            <i class="fa-solid fa-star"></i>
-            <i class="fa-regular fa-star"></i>
-            <i class="fa-regular fa-star"></i>
-            <i class="fa-regular fa-star"></i>
-
-        {% elsif item.nota == 2.5 %}
-            <i class="fa-solid fa-star"></i>
-            <i class="fa-solid fa-star"></i>
-            <i class="fa-solid fa-star-half-stroke"></i>
-            <i class="fa-regular fa-star"></i>
-            <i class="fa-regular fa-star"></i>
-
-        {% elsif item.nota == 3.0 %}
-            <i class="fa-solid fa-star"></i>
-            <i class="fa-solid fa-star"></i>
-            <i class="fa-solid fa-star"></i>
-            <i class="fa-regular fa-star"></i>
-            <i class="fa-regular fa-star"></i>
-
-        {% elsif item.nota == 3.5 %}
-            <i class="fa-solid fa-star"></i>
-            <i class="fa-solid fa-star"></i>
-            <i class="fa-solid fa-star"></i>
-            <i class="fa-solid fa-star-half-stroke"></i>
-            <i class="fa-regular fa-star"></i>
-
-        {% elsif item.nota == 4.0 %}
-            <i class="fa-solid fa-star"></i>
-            <i class="fa-solid fa-star"></i>
-            <i class="fa-solid fa-star"></i>
-            <i class="fa-solid fa-star"></i>
-            <i class="fa-regular fa-star"></i>
-
-        {% elsif item.nota == 4.5 %}
-            <i class="fa-solid fa-star"></i>
-            <i class="fa-solid fa-star"></i>
-            <i class="fa-solid fa-star"></i>
-            <i class="fa-solid fa-star"></i>
-            <i class="fa-solid fa-star-half-stroke"></i>
-
-        {% elsif item.nota == 5.0 %}
-            <i class="fa-solid fa-star"></i>
-            <i class="fa-solid fa-star"></i>
-            <i class="fa-solid fa-star"></i>
-            <i class="fa-solid fa-star"></i>
-            <i class="fa-solid fa-star"></i>
-{% endif %}
-</span>
-
-{% if item.imdb_url and item.imdb_url != "" %}
-  <a
-    class="filme-imdb"
-    href="{{ item.imdb_url }}"
-    title="Ver {{ item.titulo_br }} no IMDb"
-  >
-    IMDb
-  </a>
-{% endif %}
-{% if item.imdb_url and item.imdb_url != "" %}
-  <a
-    class="filme-imdb"
-    href="{{ item.url }}"
-    title="Ver {{ item.titulo_br }} no Ldbxd"
-  >
-    Ldbxd
-  </a>
-{% endif %}
-
-</div>
-</div>
-
-<div class="filme-informacoes">
-
-   <div class="filme-cabecalho">
-    <h5>
-    {{ item.titulo_br }}
-    <span class="filme-ano">({{ item.lancamento }})</span>
-    </h5>
-
-   {% if item.curtido == true %}
-   <span
-     class="filme-curtido"
-     title="Filme curtido"
-     aria-label="Filme curtido">
-    <i class="fa-solid fa-heart"></i>
-    </span>
+<section class="nuvem-filmes">
+  {% for ano in anos %}
+    {% if ano != "" %}
+      <a href="#ano-{{ ano }}">{{ ano }}</a>
     {% endif %}
-    </div>
+  {% endfor %}
+</section>
 
-   <h6 class="filme-titulo-original">
-          {{ item.filme }}
-   </h6>
+<ul class="lista-tags">
 
-   <p class="filme-diretor">
-          {{ item.diretor }}
-   </p>
+  {% for ano in anos %}
+    {% if ano != "" %}
 
-{% if item.datas_assistidas and item.datas_assistidas.size > 0 %}
-  <p class="filme-data">
-    vi em
-    {% for data in item.datas_assistidas %}
-      {{ data | date: "%d/%m/%Y" }}{% unless forloop.last %}, {% endunless %}
-    {% endfor %}
-  </p>
-{% endif %}
+      <li>
+        <h4 id="ano-{{ ano }}">
+          {{ ano }}
+          <a href="#">&#8593;</a>
+        </h4>
 
-{% if item.vezes_assistido >= 2 %}
-  <span
-    class="filme-revisto"
-    title="Filme revisto"
-    aria-label="Filme revisto"
-  >
-    <i class="fa-solid fa-arrow-rotate-left"></i>
-  </span>
-{% endif %}
+        <ul class="lista-filmes">
 
+          {% for item in filmes_filtrados %}
 
-   <div class="filme-tags">
-    {% assign tags_ordenadas = item.tags | sort_natural %}
+            {% assign ultima_data = item.datas_assistidas | last %}
+            {% assign ano_do_filme = ultima_data | date: "%Y" %}
 
-    {% for tag in tags_ordenadas %}
-   <span class="tag-filme">{{ tag }}</span>
-    {% endfor %}
-   </div>
+            {% if ano_do_filme == ano %}
 
-   <div class="filme-review">
-    {{ item.review | markdownify | remove: '<p>' | remove: '</p>' }}
-   </div>
+              <li class="item-filme">
 
-   </div>
-</li>
- {% endfor %}
+                <div class="filme-poster">
+                  <img
+                    src="{{ item.poster_url }}"
+                    alt="Pôster de {{ item.titulo_br }}"
+                    loading="lazy"
+                  >
+
+                  <div class="filme-nota" aria-label="Nota: {{ item.nota }} de 5">
+                    <span class="estrelas">
+
+                      {% if item.nota == 1.0 %}
+                        <i class="fa-solid fa-star"></i>
+                        <i class="fa-regular fa-star"></i>
+                        <i class="fa-regular fa-star"></i>
+                        <i class="fa-regular fa-star"></i>
+                        <i class="fa-regular fa-star"></i>
+
+                      {% elsif item.nota == 1.5 %}
+                        <i class="fa-solid fa-star"></i>
+                        <i class="fa-solid fa-star-half-stroke"></i>
+                        <i class="fa-regular fa-star"></i>
+                        <i class="fa-regular fa-star"></i>
+                        <i class="fa-regular fa-star"></i>
+
+                      {% elsif item.nota == 2.0 %}
+                        <i class="fa-solid fa-star"></i>
+                        <i class="fa-solid fa-star"></i>
+                        <i class="fa-regular fa-star"></i>
+                        <i class="fa-regular fa-star"></i>
+                        <i class="fa-regular fa-star"></i>
+
+                      {% elsif item.nota == 2.5 %}
+                        <i class="fa-solid fa-star"></i>
+                        <i class="fa-solid fa-star"></i>
+                        <i class="fa-solid fa-star-half-stroke"></i>
+                        <i class="fa-regular fa-star"></i>
+                        <i class="fa-regular fa-star"></i>
+
+                      {% elsif item.nota == 3.0 %}
+                        <i class="fa-solid fa-star"></i>
+                        <i class="solid fa-star"></i>
+                        <i class="fa-solid fa-star"></i>
+                        <i class="fa-regular fa-star"></i>
+                        <i class="fa-regular fa-star"></i>
+
+                      {% elsif item.nota == 3.5 %}
+                        <i class="fa-solid fa-star"></i>
+                        <i class="fa-solid fa-star"></i>
+                        <i class="fa-solid fa-star"></i>
+                        <i class="fa-solid fa-star-half-stroke"></i>
+                        <i class="fa-regular fa-star"></i>
+
+                      {% elsif item.nota == 4.0 %}
+                        <i class="fa-solid fa-star"></i>
+                        <i class="fa-solid fa-star"></i>
+                        <i class="fa-solid fa-star"></i>
+                        <i class="fa-solid fa-star"></i>
+                        <i class="fa-regular fa-star"></i>
+
+                      {% elsif item.nota == 4.5 %}
+                        <i class="fa-solid fa-star"></i>
+                        <i class="fa-solid fa-star"></i>
+                        <i class="fa-solid fa-star"></i>
+                        <i class="fa-solid fa-star"></i>
+                        <i class="fa-solid fa-star-half-stroke"></i>
+
+                      {% elsif item.nota == 5.0 %}
+                        <i class="fa-solid fa-star"></i>
+                        <i class="fa-solid fa-star"></i>
+                        <i class="fa-solid fa-star"></i>
+                        <i class="fa-solid fa-star"></i>
+                        <i class="fa-solid fa-star"></i>
+                      {% endif %}
+
+                    </span>
+
+                    {% if item.imdb_url and item.imdb_url != "" %}
+                      <a
+                        class="filme-imdb"
+                        href="{{ item.imdb_url }}"
+                        title="Ver {{ item.titulo_br }} no IMDb"
+                      >
+                        IMDb
+                      </a>
+                    {% endif %}
+
+                    {% if item.url and item.url != "" %}
+                      <a
+                        class="filme-imdb"
+                        href="{{ item.url }}"
+                        title="Ver {{ item.titulo_br }} no Letterboxd"
+                      >
+                        Letterboxd
+                      </a>
+                    {% endif %}
+                  </div>
+                </div>
+
+                <div class="filme-informacoes">
+
+                  <div class="filme-cabecalho">
+                    <h5>
+                      {{ item.titulo_br }}
+                      <span class="filme-ano">
+                        ({{ item.lancamento }})
+                      </span>
+                    </h5>
+
+                    {% if item.curtido == true %}
+                      <span
+                        class="filme-curtido"
+                        title="Filme curtido"
+                        aria-label="Filme curtido"
+                      >
+                        <i class="fa-solid fa-heart"></i>
+                      </span>
+                    {% endif %}
+                  </div>
+
+                  <h6 class="filme-titulo-original">
+                    {{ item.filme }}
+                  </h6>
+
+                  <p class="filme-diretor">
+                    {{ item.diretor }}
+                  </p>
+
+                  {% if item.datas_assistidas and item.datas_assistidas.size > 0 %}
+                    <p class="filme-data">
+                      vi em
+                      {% for data in item.datas_assistidas %}
+                        {{ data | date: "%d/%m/%Y" }}
+                        {% unless forloop.last %}, {% endunless %}
+                      {% endfor %}
+                    </p>
+                  {% endif %}
+
+                  {% if item.vezes_assistido >= 2 %}
+                    <span
+                      class="filme-revisto"
+                      title="Filme revisto"
+                      aria-label="Filme revisto"
+                    >
+                      <i class="fa-solid fa-arrow-rotate-left"></i>
+                    </span>
+                  {% endif %}
+
+                  <div class="filme-tags">
+                    {% assign tags_ordenadas = item.tags | sort_natural %}
+
+                    {% for tag in tags_ordenadas %}
+                      <span class="tag-filme">{{ tag }}</span>
+                    {% endfor %}
+                  </div>
+
+                  <div class="filme-review">
+                    {{ item.review
+                      | markdownify
+                      | remove: '<p>'
+                      | remove: '</p>'
+                    }}
+                  </div>
+
+                </div>
+
+              </li>
+
+            {% endif %}
+
+          {% endfor %}
+
+        </ul>
+      </li>
+
+    {% endif %}
+  {% endfor %}
+
 </ul>
-
-<script>
-  const listaFilmes = document.getElementById("lista-filmes");
-
-  const filmes = Array.from(
-    listaFilmes.querySelectorAll(".item-filme")
-  );
-
-  filmes.sort(function (filmeA, filmeB) {
-    const dataA = filmeA.dataset.ultimaData || "";
-    const dataB = filmeB.dataset.ultimaData || "";
-
-    return dataB.localeCompare(dataA);
-  });
-
-  filmes.forEach(function (filme) {
-    listaFilmes.appendChild(filme);
-  });
-</script>
