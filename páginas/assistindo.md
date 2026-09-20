@@ -1,14 +1,18 @@
 ---
 layout: paginas
 title: assistindo
-description: Página para as séries que estou vendo no grupo do Telegram do Feito por Elas.
+description: Página para organizar o que estou vendo
 permalink: "/assistindo"
 ---
-<h2><span aria-hidden="true">|</span><span class="h2-menor">o que estou </span>assistindo</h2>
+<h2 href="#topo"><span aria-hidden="true">|</span><span class="h2-menor">o que estou </span>assistindo</h2>
 
-Um  lugar para unificar textos sobre seriados e filmes que assisto. Com certeza não será sobre tudo, mas sobre o que achar que tenho algo que queira (não que precise) dizer.  
+Um  lugar para unificar textos sobre seriados e filmes que assisto. Com certeza não teremos texto sobre tudo, mas sobre o que achar que tenho algo que queira (não que precise) dizer.  
 
-Principalmente os seriados que acompanho com o pessoal do grupo do Telegram de _Seriados do Feito por Elas_, já que acabo comentando alguma coisa no grupo.  
+No geral temos duas **etiquetas** de postagens sobre [filmes](/etiquetas/#filmes) e [séries e TV](/etiquetas/#séries-e-tv).  
+
+Temos a página com [os filmes que assisti](/filmes) e uma página de [diário](/filmes/diario), essas tomei como base a estrutura do [Letterboxd<sup>[en]</sup>](https://letterboxd.com).  
+
+Tem os seriados que acompanho com o pessoal do grupo do Telegram _Seriados do Feito por Elas_, como conversamos um pouco no grupo sobre os episódios eu trago  para cá os comentários também.  
 
 As séries que vimos até agora foram:
 - _Buffy_, a primeira série que vimos. São muitos episódios para procurar os comentários no grupo do Telegram e replicar;
@@ -20,6 +24,3 @@ As séries que vimos até agora foram:
 A série do momento é [_Veronica Mars_](/assistindo/veronica-mars-comentarios) e os comentários serão adicionados semanalmente (possivelmente às quartas ou quinta a noite).
 
 E bem... Essa construção _não totalmente arrumada_ é que faz um **Jardim Digital**, pelo que dizem.  
-
-Eu ainda tenho duas **etiquetas** de postagens sobre [filmes](/etiquetas/#filmes) e [séries e TV](/etiquetas/#séries-e-tv) que podem interessar.
-

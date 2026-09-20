@@ -26,7 +26,7 @@
   url: "/assistindo"
   title: "comentários sobre séries principalmente"
   descricao: |
-    Um Espaço onde eu juntei os comentários sobre filmes, séries, até mesmo livros. Mas principalmente séries que assisto com o Grupo de Séries do [Feito por Elas](https://feitoporelas.com.br).
+    Uma página onde eu juntei o que eu vi. Sobre filmes e séries.
 
 - pagina: barras
   url: "/barras"
@@ -69,6 +69,12 @@
   title: "meu fotolog"
   descricao: |
     Meu álbum de fotos. Local em que eu coloco algumas imagens de momentos que acho valerem a pena compartilhar e algumas vezes vem junto de algum texto, além de apenas uma legenda de foto.
+
+- pagina: filmes
+  url: "/filmes"
+  title: "os filmes que vi"
+  descricao: |
+    Um registro dos filmes que assisti.
 
 - pagina: profissional
   url: "/profissional"

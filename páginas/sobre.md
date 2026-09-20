@@ -6,7 +6,7 @@ image: /assets/og_image/
 permalink: "/sobre"
 published: false
 ---
-<h2><span aria-hidden="true">|</span>sobre</h2>
+<h2 href="#topo"><span aria-hidden="true">|</span>sobre</h2>
 <h4 id="mim">sobre mim</h4>
 
 Nós somos acostumados a nos apresentar falando nossa profissão, isso passa longe de nos definir.

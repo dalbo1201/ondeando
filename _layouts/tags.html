@@ -22,7 +22,7 @@
 <ul class="lista-tags">
   {% for tag in tags %}
     <li>
-      <h4 id="{{ tag | slugify }}">#{{ tag }} <a href="#">&#8593</a></h4>
+      <h4 id="{{ tag | slugify }}">#{{ tag }} <a href="#topo">&#8593</a></h4>
       <table class="tabela-posts">
         {% for doc in all_docs %}
           {% if doc.tags contains tag %}
@@ -44,7 +44,7 @@
 
 </main>
 
-<section class="pagination"><a href="#" class="nav-topo">&#8593 Topo</a></section>
+<section class="pagination"><a href="#topo" class="nav-topo">&#8593 Topo</a></section>
 
   </div> {% include footer.html %}
 

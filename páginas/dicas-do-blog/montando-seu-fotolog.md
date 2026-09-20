@@ -18,7 +18,7 @@ Espero que isso facilite a vida de alguém por aí.
 
 <a href="/dicas-do-blog">&laquo; voltar para as dicas</a>
 <hr>
-<h4 id="bearblog">Para Bearblog, <em style="font-height:12px;">o original</em> <a href="#" >↑</a></h4>
+<h4 id="bearblog">Para Bearblog, <em style="font-height:12px;">o original</em> <a href="#topo" >↑</a></h4>
 Peço desculpas, não traduzi o conteúdo dele, sigo como no original, mas nada que um _tradutor_ da internet não resolva.  
 
 <div class="tutorial">
@@ -145,7 +145,7 @@ A really awesome caption
 
 </code></pre>
 
-<h4 id="jekyll">Para Jekyll, <em style="font-height:12px;">minha versão</em> <a href="#">↑</a></h4>
+<h4 id="jekyll">Para Jekyll, <em style="font-height:12px;">minha versão</em> <a href="#topo">↑</a></h4>
 Peço desculpas, e mais uma vez lembro que eu não tenho grandes conhecimentos em Jekyll, Liquid, HMTL e CSS. A maior parte do que fiz foi usando uma IA (sim, malz) e comparando com o código do Bruce para ver se estava fazendo sentido. Claro, publicando e vendo como ficava.  
 
 Deu certo, como podem [ver aqui]({{ site.url }}/fotolog "meu fotolog"). Testei tudo num outro projeto que eu tenho, copiando e colocando os códigos e também fui vencedor nessa tentativa.  
@@ -264,7 +264,7 @@ Espero muito que esse _tutorial_ seja de ajuda para alguém. Eu apanhei bastante
 Como eu comentei lá no alto, a gente pode [trocar uma ideia](mailto:pedro@dalbo.me?subject=Galeria em Jekyll "Onde falar comigo").  
 
 
-<h4 id="blogger">Para Blogger <a href="#" >↑</a></h4>
+<h4 id="blogger">Para Blogger <a href="#topo" >↑</a></h4>
 A partir dessa minha ideia o William montou seu próprio Fotolog e divulgou como ele o fez.  
 
 <ul>

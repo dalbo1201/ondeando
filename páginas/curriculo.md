@@ -6,7 +6,7 @@ description: Meu currículo atualizado.
 image: /assets/foto-pedro.jpg
 permalink: "/profissional/cv"
 ---
-<h2>
+<h2 href="#topo">
 <span aria-hidden="true">|<span class="h2-menor">meu </span></span>currículo
 </h2>
 

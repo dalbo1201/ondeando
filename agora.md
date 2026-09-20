@@ -4,7 +4,7 @@ title: agora
 description: Uma atualização quinzenal? Talvez.
 image: /assets/og_image/og-image-agora.jpg
 ---
-<h2>
+<h2 href="#topo">
 <span aria-hidden="true">|</span><span class="h2-menor">e </span>agora<span class="h2-menor">, o que estou fazendo?</span>
 </h2>
 A página /now (ou /agora em português) é originada do movimento [Now Page<sup>[en]</sup>](https://nownownow.com/about "O que é uma página /Now?") iniciado por [Derek Sivers<sup>[en]</sup>](https://sive.rs/ "site pessoal do Derek").  
@@ -31,7 +31,7 @@ Trabalhando na Projeta Infraestrutura como engenheiro de projetos rodoviários a
 O tempo todo brincando de mexer nesse _meu espaço da internet_, um hobby para dizer que faço alguma coisa.  
 
 <h4 id="atividades">Atividades</h4>
-<h5 id="livros">Estou lendo <a href="https://www.skoob.com.br/pt/profile/dalbo1201" class="linkdata"><i class="fa-solid fa-book"></i></a>:</h5>
+<h5 id="livros">Estou lendo <a href="https://www.skoob.com.br/pt/profile/dalbo1201" class="linkdata" title="meu perfil no skoob"><i class="fa-solid fa-book"></i></a>:</h5>
 <ul>
     <li>Memórias do Subsolo&nbsp;| Fiódor Dostoiévski;&nbsp;<i style="color: red" class="fa-solid fa-book-open"></i></li>
     <li>O Trem de Ouro&nbsp;| Miroslaw M. Bujko;</li>
@@ -39,13 +39,13 @@ O tempo todo brincando de mexer nesse _meu espaço da internet_, um hobby para d
     <li>Chomsky & Mujica, Sobrevivendo ao século XXI&nbsp;| Saúl Alvídrez.</li>
 </ul>
 
-<h5 id="filmes">Filmes que vi <a href="https://letterboxd.com/dalbo1201/films/diary/" class="linkdata"><i class="fa-solid fa-film"></i></a>:</h5>
+<h5 id="filmes">Filmes que vi <a href="/filmes/diario" class="linkdata" title="lista dos filmes"><i class="fa-solid fa-film"></i></a>:</h5>
 <ul>
     <li>Supergirl (2026)&nbsp;| HBO&nbsp;Max&nbsp;| Craig&nbsp;Gillespie;</li>
     <li>O Mandaloriano e Grogu (2026)&nbsp;| Disney+&nbsp;| Jon&nbsp;Favreau;</li>
 </ul>
 
-<h5 id="series">Séries que estou vendo <a href="https://bingeboxd.com/users/dalbo1201" class="linkdata"><i class="fa-solid fa-tv"></i></a>:</h5>
+<h5 id="series">Séries que estou vendo <a href="https://bingeboxd.com/users/dalbo1201" class="linkdata" title="meu perfil no bingeboxd"><i class="fa-solid fa-tv"></i></a>:</h5>
 <ul>
     <li>Lanternas&nbsp;| HBO&nbsp;Max&nbsp;| temporada&nbsp;1;</li>
     <li>Star Trek: Strange New Worlds&nbsp;| Paramount+&nbsp;| temporada&nbsp;4;</li>
@@ -56,5 +56,5 @@ O tempo todo brincando de mexer nesse _meu espaço da internet_, um hobby para d
     <li>Arquivo X&nbsp;| Disney+&nbsp;| temporada&nbsp;3;&nbsp;↺</li>
 </ul>
 
-<aside class="aviso-caixa"><div class="aviso-texto">Vale lembrar que tem a página <a href="/assistindo">ASSISTINDO</a> que agrega os textos sobre o que vejo.<br/>
+<aside class="aviso-caixa"><div class="aviso-texto">Vale lembrar que tem a página d<a href="/assistindo">o que estou assistindo</a> que agrega tudo o que vejo.<br/>
 Não vamos esquecer do <a href="https://historiasparaler.blog.br" title="onde comento livros">Histórias para Ler</a> onde comento sobre os livros que leio.</div></aside>

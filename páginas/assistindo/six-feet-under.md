@@ -4,7 +4,7 @@ title: sobre A Sete Palmos
 description: Comentários sobre a série Sex Feet Under ou A Sete Palmos
 permalink: "/assistindo/six-feet-under-comentarios"
 ---
-<h2><span aria-hidden="true">|<span class="h2-menor">sobre </span></span>A Sete Palmos</h2>
+<h2 id="topo"><span aria-hidden="true">|<span class="h2-menor">sobre </span></span>A Sete Palmos</h2>
 
 Comentários rápidos e sem muito trabalho editorial sobre os episódios assistidos de ~~A Sete Palmos~~ _Six Feet Under_.
 
@@ -58,13 +58,13 @@ Comentários rápidos e sem muito trabalho editorial sobre os episódios assisti
 <aside class="aviso-caixa"><div class="aviso-texto">Atenção que os comentários daqui pra baixo podem, em algum momento, apresentar <b>spoileres da série</b>.<br/>
 Não me responsabilizo pelo que você possa ler sem ter assistido antes.</div></aside>
 
-<a href="/assistindo">&laquo; voltar para Assistindo</a>
+<a href="/assistindo">&laquo; voltar para o que estou assistindo</a>
 <hr>
   
 Diferente de _[The Leftovers](/assistindo/the-leftovers-comentarios)_, _A Sete Palmos_ (ou _Six Feet Under_, cada hora chamarei de uma forma...) passou pelo meu radar, mas eu não sei porque não a assisti. Olhando em retrocesso, na minha juventude (a série é de 2001-2005) eu não tinha acesso constante à HBO e possivelmente não veio com força para ficar buscando pela _Locadora do Paulo Coelho_.  
 
 <h3 id="t01e01-02">Temporada 1</h3>
-<h4>t01e01-02 <a href="#">&uarr;</a></h4>
+<h4>t01e01-02 <a href="#topo">&uarr;</a></h4>
 **e01**  
 Um filho revoltado que volta ao lar, outro filho que ficou pela culpa e agora sente que pode perder o protagonismo com o retorno do irmão e uma irmã rebelde. Uma família típica dos anos 90-00.
 
@@ -87,7 +87,7 @@ Tenho alguns receios de como pode caminhar essa relação. É ótimo rever séri
 
 Pelo que entendi a premissa da série vai ficar na relação familiar, na gerencia da funerária e na possiveldisputa com a grande coorporação que quer dominar o nicho dos atos fúnebres. Se durou 5 temporadas na HBO deve valer a pena.  
 
-<h4 id="t01e03-04">t01e03-04 <a href="#">&uarr;</a></h4>
+<h4 id="t01e03-04">t01e03-04 <a href="#topo">&uarr;</a></h4>
 
 **e03**  
 Gente, estragaram o velório do Romano...  
@@ -110,7 +110,7 @@ Toda a questão da sexualidade do David tá bem construída, com bons diálogos 
 
 Excelente também a forma que eles levam o fato de os estadounidenses saberem tão pouco de Porto Rico a ponto de acharem que o Frederico fosse mexicano. Ao mesmo tempo foi ótima a participação dele nas negociações e gosto muito do personagem, espero que ganhe mais espaço.
 
-<h4 id="t01e05-06">t01e05-06 <a href="#">&uarr;</a></h4>
+<h4 id="t01e05-06">t01e05-06 <a href="#topo">&uarr;</a></h4>
 
 **e05**  
 Um episódio interessante com algumas novidades, como David mostrando pro irmão que é gay e ao mesmo tempo Keith dando piti porque David está numa outra pegada religiosa. A discussão deles foi muito boa. 
@@ -124,7 +124,7 @@ Gente, essa família é muito louca... Quer dizer que papai além de ter bom hum
 
 Como a Ruth é uma personagem interessante, ela tem seu luto, mas não deixa de ser uma pessoa com sentimentos, interesses e como é bacana ver uma série que trata os idosos de maneira tridimensional. Essa relação dela com o florista russo foi ótima. Fiquei com pena dele no final do episódio.
 
-<h4 id="t01e07-08">t01e07-08 <a href="#">&uarr;</a></h4>
+<h4 id="t01e07-08">t01e07-08 <a href="#topo">&uarr;</a></h4>
 
 **e07**  
 Tá aí um episódio em que aconteceu bastante coisa e foi bem divertido.   
@@ -152,7 +152,7 @@ Tá divertido ver o trio Ruth, Nikolai e Hiram. Mas eu acho a relação Ruth-Nik
 
 Parece que os irmãos estão se entendendo rápido, acho isso bom que a trama fica muito mais interessante explorando outros pontos das relações e não picuinhas chatas e repetitivas.  
 
-<h4 id="t01e09-10">t01e09-10 <a href="#">&uarr;</a></h4>
+<h4 id="t01e09-10">t01e09-10 <a href="#topo">&uarr;</a></h4>
 
 **e09**  
 Não sei bem o que dizer, achei pesado demais a morte do garotinho, principalmente porque a gente conhece a situação do _garoto do pé_.  
@@ -174,7 +174,7 @@ Esse irmão da Brenda é bem mais dificil do que se esperava e não sei se eu co
 
 Continuo torcendo pela Ruth e o Nikolai.
 
-<h4 id="t01e11-12">t01e11-12 <a href="#">&uarr;</a></h4>
+<h4 id="t01e11-12">t01e11-12 <a href="#topo">&uarr;</a></h4>
 
 **e11**  
 Sério, mais uma criança? Dá muita dó, não curto esses infanticídios nos episódios.  
@@ -192,7 +192,7 @@ A situação do Billy está impossível realmente, curioso como tudo descambou e
 
 Outra relação que eu acho interessante são as cenas da Clare e o psicólogo da escola. São sempre boas conversas e acho uma série de conversas que fluem bem e são bem conduzidas.  
 
-<h4 id="t01e13">t01e13 <a href="#">&uarr;</a></h4>
+<h4 id="t01e13">t01e13 <a href="#topo">&uarr;</a></h4>
 
 **e13**  
 A possibilidade de morte é um excelente gancho para a próxima temporada. Meio clichê, ainda mais numa série que fala de mortos, mas vamos lá lidar com o Nate escondendo esse possível grave problema de saúde por uma dezena de episódios.  
@@ -209,7 +209,7 @@ E bacana o episódio (e a temporada) terminar com uma festa de batismo que _simb
 
 Simbólica a saída do Nathaniel pelas escadas, talvez o vejamos menos na temporada 2.  
 
-<h4 id="">Bela temporada <a href="#">&uarr;</a></h4> 
+<h4 id="">Bela temporada <a href="#topo">&uarr;</a></h4> 
 Uma temporada sentimentalmente equilibrada, triste e divertida. Alguns episódios pesados como o das crianças, ou o ataque do Billy, mas com momentos cômicos, como o Nate falando com o pai no _quartinho secreto_ ou o _pé do morto_ no armário do Gabriel.  
 
 Uma série que lida bem com os temas que aborda e que me parece bem adiante da época. Não apenas com o tema da homossexualidade, mas com a tomada de decisão na vida da Ruth, uma mulher que casou cedo demais, ficou presa à família e soube lidar com o luto sem se esconder do que a vida tem a lhe oferecer agora.  
@@ -217,7 +217,7 @@ Uma série que lida bem com os temas que aborda e que me parece bem adiante da �
 Que os personagens evoluam mais, às vezes rolam uns retrocessos em outras séries para prolongar situações, essa galera (e a gente) não merece isso.  
 
 <h3 id="t02e01-02">Temporada 2</h3>
-<h4>t02e01-02 <a href="#">&uarr;</a></h4>
+<h4>t02e01-02 <a href="#topo">&uarr;</a></h4>
 
 **e01**  
 Achei um retorno de temporada meio morno, eu esperava que a caminhada do patriarca indicasse um rito de passagem e que ele não aparecesse mais, não será o caso. Nada contra, mas do jeito que rolou me passou essa impressão de evolução dos sentimentos.  
@@ -237,7 +237,7 @@ A Ruth pedindo um histórico do que tão fazendo com o dinheiro dela foi ótimo,
 
 Foi engraçado o Nate sonhando contar pra Brenda a situação dele, mas aí o episódio termina daquele jeito, com ele conversando com o Dave e foi pesado aquilo, muito triste a situação toda.  
 
-<h4 id="t02e03-04">t02e03-04 <a href="#">&uarr;</a></h4>
+<h4 id="t02e03-04">t02e03-04 <a href="#topo">&uarr;</a></h4>
 
 **e03**  
 No final o episódio todo foi ofuscado pelas pataquadas do Gabriel. É claro que essa história toda ia caminhar mal, e que ele ia acabar colocando a Claire numa situação complicada. Mas pelo menos os roteiristas não a tratam como uma garota desmiolada e ela fez tudo certinho depois de fazer a besteira de atender ao chamado dele.  
@@ -251,7 +251,7 @@ Vamos ver tambem como a Ruth *reconstroi sua casa*. Gente, as cenas dela hoje fo
 **e04**  
 Esqueci de escrever e passou... quem sabe algum dia eu revejo.  
 
-<h4 id="t02e05-06">t02e05-06 <a href="#">&uarr;</a></h4>  
+<h4 id="t02e05-06">t02e05-06 <a href="#topo">&uarr;</a></h4>  
 
 **e05**  
 Muita coisa curiosa aconteceu nesse episódio. Essa questão do David e Keith precisa acabar, tá cansativo. E eu espero que essa morte no trabalho do Keith não tenha ocorrido apenas pra rolar uma transa e ele realmente tenha algum arco mais trabalhado.  
@@ -267,7 +267,7 @@ Gente, a Brenda tá cada vez pior, um caminho que não tem volta. Já tô espera
 
 Definitivamente a Ruth tem se tornado a personagem mais interessante e mais bem trabalhada, essa é uma história que tá me interessando.  
 
-<h4 id="t02e07-08">t02e07-08 <a href="#">&uarr;</a></h4>  
+<h4 id="t02e07-08">t02e07-08 <a href="#topo">&uarr;</a></h4>  
 
 **e07**  
 Claramente os roteiristas tão querendo criar um clima de caos entre a gente e o casal Nate & Brenda, a coisa não caminha para um final feliz. Brenda já passou do limite e em busca de um novo limite e Nate sem contar pra ela da doença e ainda fazendo gracinhas.  
@@ -283,7 +283,7 @@ Mais uma vez a Ruth brilha.
 
 Finalmente Nate contou para Brenda, mas a que custo... David sendo feliz e Keith com mais um fantasma o atormentando no Natal.
 
-<h4 id="t02e09-10">t02e09-10 <a href="#">&uarr;</a></h4>  
+<h4 id="t02e09-10">t02e09-10 <a href="#topo">&uarr;</a></h4>  
 
 **e09**  
 A Brenda continua perdendo o controle da situação. Mas ao mesmo tempo, o Nate se mostra um safado ao transar com a amiga e ainda por cima engravidá-la. 
@@ -311,7 +311,7 @@ Mas parece que o lance de _ter que cuidar de alguém_ ainda ta muito forte nela,
 
 E a Claire, ela parece ter encontrado algo que ela gosta, mas ainda não entendeu o que fazer da vida dela até esse suposto objetivo. Vamos torcer para dar tudo certo com ela. E fico feliz se o Gabriel não retornar _do nada_ para atrapalhar tudo.  
 
-<h4 id="t02e11-12">t02e11-12 <a href="#">&uarr;</a></h4>  
+<h4 id="t02e11-12">t02e11-12 <a href="#topo">&uarr;</a></h4>  
 
 **e11**  
 Começar pelo final.  
@@ -334,7 +334,7 @@ Ruth mudou com Nikolai de não querer ser esposa para querer ser esposa e mesmo 
 Vamos torcer pela Claire, porque ela precisa de uma alegria só dela nessa vida, será que conseguirá entrar para a faculdade de Artes?  
 
 <h3 id="t03e01-02">Temporada 3</h3>
-<h4>t03e01-02 <a href="#">&uarr;</a></h4>
+<h4>t03e01-02 <a href="#topo">&uarr;</a></h4>
 
 **e01**  
 Gente, eu gosto muito do Nate, mas essa pegada _Crepúsculo_ que mata, mas não mata, eu fico desanimado (sei que _Crepúsculo_ veio depois).
@@ -354,7 +354,7 @@ A Ruth continua ótima, agora vamos trabalhar essa relação com a irmã, pode s
 
 Não falei nada antes, mas esse peguete da Claire vai dar trabalho. E ela precisa entender logo que estudar teoria é importante também, tá faltando professor nesse lugar para orientar essa garotada.
 
-<h4 id="t03e03-04">t03e03-04 <a href="#">&uarr;</a></h4>
+<h4 id="t03e03-04">t03e03-04 <a href="#topo">&uarr;</a></h4>
 
 **e04**  
 Episódio meio estranho no início, essa pegada do Nate sonhando com a mãe... Os roteiristas tão bem fora da casinha.  
@@ -365,7 +365,7 @@ Essa história do filho (revoltado) se tornar o pai, sério que vamos caminhar p
 
 Eu torço muito para essa temporada ser apenas um pesadelo e melhorar na quarta.
 
-<h4 id="t03e05-06">t03e05-06 <a href="#">&uarr;</a></h4>
+<h4 id="t03e05-06">t03e05-06 <a href="#topo">&uarr;</a></h4>
 
 **e05**  
 Esse foi um episódio que acrescentou pouco. Mesmo a presença da Brenda não trouxe algo de realmente novo. A gente sabe que a vida real nem sempre tem algum glamour, mas pelo amor... essa vida do Nate tá difícil. A Lisa também não está com um bom desenvolvimento e essa dependência dela do Nate não está contribuindo. Ela poderia ser uma personagem muito mais interessante e acrescentar mais para a série. 
@@ -381,7 +381,7 @@ Nate numa pegada _Legionários_ foi meio chato, mas talvez o passeio tenha melho
 
 Claire e o namorado que não ia ser namorado... vamos ver onde dá. Nessa temporada as relações não estão tão interessantes, mas altos e baixos acontecem sempre.  
 
-<h4 id="t03e07-08">t03e07-08 <a href="#">&uarr;</a></h4>
+<h4 id="t03e07-08">t03e07-08 <a href="#topo">&uarr;</a></h4>
 
 **e07**  
 Não fiz anotações.
@@ -393,7 +393,7 @@ A Ruth é muito divertida, disparada a melhor personagem da série. E a relaçã
 
 David e Keith bem soltos depois de uma matança, vamos ver se essa relação melhora.
 
-<h4 id="t03e09-10">t03e09-10 <a href="#">&uarr;</a></h4>
+<h4 id="t03e09-10">t03e09-10 <a href="#topo">&uarr;</a></h4>
 
 **e09**  
 Gente, a temporada melhora, mas é bem mais fraca que as outras.  
@@ -415,7 +415,7 @@ David e Keith claramente estão confusos quando ao que entendem de cada sessão 
 
 Nate sendo Nate e enchendo o saco da Brenda por telefone. Rapaz, lida com sua culpa sozinho e não vá despejar nela o problema.
 
-<h4 id="t03e11-12">t03e11-12 <a href="#">&uarr;</a></h4>
+<h4 id="t03e11-12">t03e11-12 <a href="#topo">&uarr;</a></h4>
 
 **e11**
 Não anotei nada.
@@ -427,7 +427,7 @@ Eu consigo entender o sofrimento do Nate, mas não consigo me pegar mais a ele, 
 
 Eu espero que a situação do David e do Keith se resolva de verdade, já tá mais que chato esse vai e vem que não se resolve. Eu gosto deles juntos, mas resolve se eles vão se entender ou se vai ficar essa ladainha. Nenhum dos dois merece.  
 
-<h4 id="t03e13">t03e13 <a href="#">&uarr;</a></h4>
+<h4 id="t03e13">t03e13 <a href="#topo">&uarr;</a></h4>
 
 **e13**  
 Esses sonhos da Claire foram meio forçados, essa história dela adivinhar quem tá morto e ver a Lisa não colou. E sério que tinha que rolar de ver o bebê abortado e ainda por cima grande daquele jeito? E essa historinha de "cuida do meu que eu cuido do seu"?  
@@ -438,7 +438,7 @@ Sobre o Keith e o David, eu espero que se resolvam, que sejam felizes como tiver
 
 A melhor personagem continua sendo a Ruth, disparado, e espero que dê tudo certo pra ela, mas com a velocidade que rolou esse casamento, tô com minhas dúvidas.  
 
-<h4 id="">Que temporada... <a href="#">&uarr;</a></h4> 
+<h4 id="">Que temporada... <a href="#topo">&uarr;</a></h4> 
 Ruim demais.  
 
 Gente, ela começou mal com esse chove não molha da morte do Nate, ficou muito estranha com a relação dele e da Lisa e quando a gente entende que é real os desenvolvimentos foram muito fracos.  
@@ -454,7 +454,7 @@ E olha, mesmo com tantos baixos, a série surpreende com temas tão bons em 2003
 Que a série retorne a uma situação melhor do que antes dessa temporada.  
 
 <h3 id="t04e01-02">Temporada 4</h3>
-<h4>t04e01-02 <a href="#">&uarr;</a></h4>
+<h4>t04e01-02 <a href="#topo">&uarr;</a></h4>
 
 **e01**
 Um bom episódio, mas um mal começo de temporada. Digo isso porque esse episódio está mais para o encerramento da temporada passada do que o início de outra. Teve casamento, reconciliação, encerramento do personagem principal.  
@@ -478,7 +478,7 @@ Esse caminho do Nate vai ficar bem chato, eu entendo a situação do personagem,
 
 Bonitinho o Arthur querendo aparecer para a Ruth, mas espero que ele supere isso rápido.  
 
-<h4 id="t04e03-04">t03e03-04 <a href="#">&uarr;</a></h4>
+<h4 id="t04e03-04">t03e03-04 <a href="#topo">&uarr;</a></h4>
 
 **e03**  
 Gente, o Nate deu a volta nesse episódio, só espero que não seja de 360.  
@@ -490,14 +490,14 @@ Claire ficando confusa com as vontades e desejos...  A série tá apelando ou s�
 **e04**  
 Sem comentários, não anotei nada.
 
-<h4 id="t04e05">t04e05 <a href="#">&uarr;</a></h4>
+<h4 id="t04e05">t04e05 <a href="#topo">&uarr;</a></h4>
 
 **e05**
 Gente, na boa, o que foi esse episódio? Vai pra onde gerar esse trauma no David a troco de nada?  
 
 Sério, eu já não estou feliz com os rumos desde a temporada passada, mas acho que esse episódio passou do limite. A gente até esquece as histórias do Nate no grupo de apoio ou da Ruth com o George e o filho.  
 
-<h4 id="t04e06-09">t04e06-09 <a href="#">&uarr;</a></h4>
+<h4 id="t04e06-09">t04e06-09 <a href="#topo">&uarr;</a></h4>
 
 **e06 ao e09**  
 Fui bem relapso nas minhas anotações e a memória me confunde um pouco.  
@@ -511,7 +511,7 @@ A Claire e sua busca pela sexualidade tá interessante, mas pode ficar cansativo
 A Ruth tem altos e baixos na personalidade e nos relacionamentos. Eu tenho pego ranço do George, mas ela também tem variado. Continua sendo a melhor personagem.
 
 <h3 id="t05e01-06">Temporada 5</h3>
-<h4>t05e01-06 <a href="#">&uarr;</a></h4>
+<h4>t05e01-06 <a href="#topo">&uarr;</a></h4>
 
 Fiquei devendo muitos textos, mas a temporada começou melhor. A quarta foi melhor que a terceira, mas isso não é bem um elogio.  
 
@@ -523,7 +523,7 @@ Aí entra Brenda e Nate novamente. Uma dinâmica que parece interessante, pode t
 
 A Claire é outra que busca confusão indo atrás do professor substituto Billy. Ela sabe que ele é complicado e mesmo assim entra na relação. Pelo menos ela sai sem aparentemente grandes problemas, coisa que a Brenda não teve tanta sorte.
 
-<h4 id="t05e07-12">t05e07-12 <a href="#">&uarr;</a></h4>
+<h4 id="t05e07-12">t05e07-12 <a href="#topo">&uarr;</a></h4>
 
 Gente, eu até desanimei de continuar escrevendo porquê a minha sensação é de que os roteiristas se perderam.  
 

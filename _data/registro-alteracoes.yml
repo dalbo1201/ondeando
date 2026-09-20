@@ -1,4 +1,15 @@
 - ano: "2026"
+  data_id: "2026-09-20"
+  data_texto: "20 de setembro"
+  entradas:
+    - tags: ["página","html", "css", "liquid"]
+      texto: |
+        Finalmente publiquei minha página de [FILMES](/filmes) que assisti e a página de [DIÁRIO](/filmes/diario). As duas páginas são alimentadas pelo arquivo `catalogo-filmes.yml` que contém a lista de filmes e suas informações. As páginas são organizadas por um template `liquid` e assim posso colocar os filmes em qualquer ordem que eu quiser, mas na apresentação eles ficam organizados por ordem alfabética, na página de filmes e por ordem cronológica inversa (considerando a última data assistida) no diário.
+    - tags: ["página"]
+      texto: |
+        Revisei a página [O QUE ESTOU ASSISTINDO](/assistindo) para ser um ponto em que agrupo tudo sobre áudiovisual aqui do site. Reestruturei o texto para adicionar os links para as páginas de [FILMES](/filmes) e [DIÁRIO](/filmes/diario) mas continuo apresentando lá as séries que vejo no grupo de séries do [Feito por Elas](https://feitoporelas.com.br/).
+
+- ano: "2026"
   data_id: "2026-09-01"
   data_texto: "01 de setembro"
   entradas:

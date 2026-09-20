@@ -19,7 +19,7 @@ Abaixo eu deixo o tutorial de uso do <code>exe</code>, mas não se preocupe que 
 
 Espero que isso esteja funcionando para vocês, testei em dois blogs meus e parece que foi.
 
-<h4 id="windows">Para Windows <a href="#" >↑</a></h4>
+<h4 id="windows">Para Windows <a href="#topo" >↑</a></h4>
 
 <a href="/assets/downloads/bkp-blogger-arquivos-md (Windows).zip" title="Arquivo para Windows">arquivo ZIP para baixar</a>.
 
@@ -67,7 +67,7 @@ E criará uma pasta <b>/imagens/</b> com uma pasta do ano e mês com as fotos da
 </code></pre>
 No arquivo <b>*.md</b> virá o cabeçalho com título, data, autor e tags.
 
-<h4 id="linux">Para Linux <a href="#" >↑</a></h4>
+<h4 id="linux">Para Linux <a href="#topo" >↑</a></h4>
 
 Como eu não uso Linuz, fiquei na dúvida da melhor extensão de compactação, deixai essas que me eram disponíveis. Qualquer coisa [me manda um email](mailto:pedro@dalbo.me?subject=becape do Blogger para md (linux)) e a gente tenta outro.  
 <ul>

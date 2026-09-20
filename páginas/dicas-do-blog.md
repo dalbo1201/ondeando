@@ -22,7 +22,7 @@ As dicas que já temos por aqui são:
 <hr>
 {% for item in tutoriais_ordenados %}
 
-<h4 id="{{ item.id }}">{{ item.tutorial }} <a href="#">&uarr;</a></h4>
+<h4 id="{{ item.id }}">{{ item.tutorial }} <a href="#topo">&uarr;</a></h4>
 {% assign tags_ordenadas = item.tag | sort_natural %}
 {%- for tag in tags_ordenadas -%}
 <span class="tag-reg">{{ tag }}</span>

@@ -4,7 +4,7 @@ title: "social"
 description: Como me encontrar nas mídias sociais poraí.
 image: /assets/og_image/og-image-midia-social.jpg
 ---
-<h2><span aria-hidden="true">|</span><span class="h2-menor">nas </span>mídias<span class="h2-menor"> sociais</span></h2>
+<h2 href="#topo"><span aria-hidden="true">|</span><span class="h2-menor">nas </span>mídias<span class="h2-menor"> sociais</span></h2>
 
 Sei que esse espaço é exatamente para me [afastar um pouco](/blog/porque-todo-esse-esforco/) das mídias sociais, mas não tem muito jeito e a gente, ainda, tem essa necessidade de ser presente por aí.  
 
@@ -16,7 +16,7 @@ Por isso, deixo aqui onde podem me encontrar.
   Letterbox<sup>[en]</sup></a>
 </li>
 <li>
-  <a href="https://bingeboxd.com/users/dalbo1201" title="onde eu catalogo os filmes" rel="me">
+  <a href="https://bingeboxd.com/users/dalbo1201" title="onde eu catalogo as séries" rel="me">
   <i class="fa-solid fa-tv"></i>
   BingeBoxd</a>
 </li>
