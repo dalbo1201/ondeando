@@ -64,10 +64,21 @@ Mas o curioso é que naquela época a coisa ainda podia acontecer no seu quintal
 Eram tempos mais ingênuos, talvez.
 
 <h4 id="t01e05-06">t01e05-06 <a href="#topo">&uarr;</a></h4>
+
 ##### e05
 
 No final o Troy realmente não prestava, quem poderia imaginar, não é?  
 
 Dona Verônica, sendo uma péssima filha, esperamos que ela se redima com o pai e vá conversar com a conselheira pra liberar o velho desse trauma.😁
 
-Acho os episódios com o Wallace mais divertidos, senti falta dele.
+Acho os episódios com o Wallace mais divertidos, senti falta dele.  
+
+##### e06
+
+Tá vendo como voto em papel não resolve?  
+
+A relação entre Verônica e o pai realmente é fora da curva, principalmente para séries dos anos 1990-2000, mas é bom ver isso.  
+
+Noves fora, chato ver o rapazinho rico sendo visto como salvador da pátria, mas né... E a Jane Lynch já estava _fazendo escola_ como professora má 😂, ela é sempre ótima.  
+
+E a morte da Lilly será um projeto interessante agora que temos a dupla dinâmica unida para resolver o caso. Não me recordo, mas espero que se for resolvido na primeira temporada as outras aguentem o tranco.
