@@ -77,8 +77,22 @@
 
 .filme-informacoes {
   display: grid;
-  grid-template-columns: max-content minmax(0, 1fr);
+  /* coluna 1 ocupa o tamanho do texto, mas nunca passa da largura do card;
+     coluna 2 (ícone de "revisto") mantém um mínimo para não sumir */
+  grid-template-columns: fit-content(calc(100% - 1.75rem)) minmax(1.5rem, 1fr);
   align-items: start;
+  min-width: 0;
+}
+
+/* evita que títulos/reviews com palavras longas estourem */
+.filme-informacoes,
+.filme-review,
+.filme-titulo-original,
+.filme-diretor {
+  overflow-wrap: anywhere;
+}
+
+.lista-tags > li {
   min-width: 0;
 }
 
@@ -170,7 +184,11 @@
   margin-bottom: 0;
 }
 
-@media (max-width: 50rem) {
+@media (max-width: 45rem) {
+  .lista-filmes {
+    grid-template-columns: 1fr;   /* uma coluna */
+  }
+
   .item-filme {
     grid-template-columns: 82px minmax(0, 1fr);
     gap: 0.75rem;
