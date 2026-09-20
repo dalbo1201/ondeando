@@ -66,7 +66,7 @@
   autor: "Luiz"
   tipo: "cartão de visita, blog e repositório de conteúdo"
   plataforma: "Hugo"
-  feed: ""
+  feed: "https://cavalcanti.info/posts/index.xml"
   descricao: | 
     Um espaço de cartão de visita, repositório de produção (acadêmica ou não) e blog.
 
