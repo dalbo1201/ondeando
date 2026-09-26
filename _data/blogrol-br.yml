@@ -10,8 +10,8 @@
 - blog: Margem Viva
   url: "https://wgnr.blog.br/"
   autor: "Wagner Beethoven"
-  tipo: "Blog, jardim digital"
-  plataforma: "Eleventy"
+  tipo: "jardim digital"
+  plataforma: "Jekyll"
   feed: "https://wgnr.blog.br/feed/"
   descricao: | 
     O espaço pessoal do Wagner na web, fora da lógica de plataforma, sem algoritmo e sem pressão de frequência. Um lugar para pensar em voz alta, arquivar referências e manter uma presença própria.
