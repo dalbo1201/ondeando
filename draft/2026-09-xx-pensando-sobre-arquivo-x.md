@@ -9,11 +9,13 @@ published: false
 ---
 Por aqui estamos reassistindo Arquivo X. Na verdade eu estou reassistindo e S. está vendo pela primeira vez.  
 
-S. não é muito fã de séries de _saifai_ e tinha uma certa rejeição à proposta da série, mas consegui convencê-la de que, apesar de uma série "de navinha, ela não é nada disso. Ela está gostando muito.
+S. não é muito fã de séries de _saifai_ e tinha uma certa rejeição à proposta da série.
 
 > Essa coisa de navinha não é pra mim.
 
-Estamos na terceira temporada e devo dizer que muitos episódios eu não me lembro ou provavelmente eu não assisti. Era uma época bem mais difícil, e acabei acompanhando o final com mais afinco, quando tive oportunidade de ver pela já quase morte **tv a cabo**.  
+Mas consegui convencê-la de que, principalmente porque a série não se propões a essa pagada. Ela está gostando muito.
+
+Estamos na terceira temporada e devo dizer que muitos episódios eu não me lembro ou eu não assisti. Era uma época bem mais difícil, e acabei acompanhando o final com mais afinco, quando tive oportunidade de ver pela já quase morta **tv a cabo**.  
 
 Mas eu não me lembrava dessa questão religiosa da Scully e isso tem criado uma série de situações curiosas entre ela e o Mulder.  
 
