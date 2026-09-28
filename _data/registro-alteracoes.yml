@@ -1,4 +1,12 @@
 - ano: "2026"
+  data_id: "2026-09-28"
+  data_texto: "28 de setembro"
+  entradas:
+    - tags: ["página"]
+      texto: |
+        Publiquei a página [SOBRE](/sobre) que é uma página onde faço um resuminho sobre mim e esse espaço.
+
+- ano: "2026"
   data_id: "2026-09-20"
   data_texto: "20 de setembro"
   entradas:

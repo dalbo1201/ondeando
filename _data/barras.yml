@@ -99,3 +99,9 @@
   title: "compilado de postagens do BEDA 2026"
   descricao: |
     Página com a lista de postagens que fiz durante o BEDA 2026 e postrol dos textos que eu gostei de ler do pessoal que participou.
+
+- pagina: sobre
+  url: "/sobre"
+  title: "sobre"
+  descricao: |
+    Página onde faço um resuminho sobre mim e esse espaço.
