@@ -2,7 +2,7 @@
 layout: post
 type: texto
 title: "Porque tiraram a tecla de ponto do teclado... numérico"
-date: 2026-10-0312:00:00
+date: 2026-10-03 12:00:00
 tags:
  - informátia
 published: false
@@ -72,3 +72,11 @@ Minha sorte, por exemplo, é que estou com um teclado desses mais simples no esc
 Lá eu estou usando esse teclado da Multilaser, que tem a tecla de ponto no numeral e estou em busca do meu teclado perfeito para usar em casa.
 
 Se você não leu e quiser voltar para a parte com mais tecnicalidade, só <a href="#tecnicalidades">clicar aqui</a>.
+
+<aside class="blog-colet"><div class="aviso-texto"><h6><i class="fa-solid fa-pen-fancy"></i> sobre teclados | set, 2026</h6>
+Esse texto não é uma postagem coletiva, mas teve mais um pessoal que falou sobre teclados esses dias. Fica o convite para ir visitar o tema em outros lugares.
+<ul>
+<li> no <a href="https://th.blog.br/que-diabo-e-teclado-mecanico/" title="que diabo é teclado mecânico?">th,blog</a> e</li>
+<li> na <a href="https://julietheblog.blogspot.com/2026/09/som-de-teclado.html" title="Som de teclado">julie's</a>.</li>
+</ul>
+</div></aside>
