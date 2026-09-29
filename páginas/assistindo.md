@@ -4,7 +4,7 @@ title: assistindo
 description: Página para organizar o que estou vendo
 permalink: "/assistindo"
 ---
-<h2 href="#topo"><span aria-hidden="true">|</span><span class="h2-menor">o que estou </span>assistindo</h2>
+<h2 href="topo"><span aria-hidden="true">|</span><span class="h2-menor">o que estou </span>assistindo</h2>
 
 Um  lugar para unificar textos sobre seriados e filmes que assisto. Com certeza não teremos texto sobre tudo, mas sobre o que achar que tenho algo que queira (não que precise) dizer.  
 

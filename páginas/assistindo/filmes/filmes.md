@@ -51,7 +51,7 @@ Veja <a href="/assistindo">o que estou assistindo</a>
       <li>
         <h4 id="{{ letra | slugify }}">
           {{ letra }}
-          <a href="#topo">&#8593;</a>
+          <a href="topo">&#8593;</a>
         </h4>
 
         <ul class="lista-filmes">

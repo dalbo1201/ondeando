@@ -77,7 +77,7 @@ Veja <a href="/assistindo">o que estou assistindo</a>
         <li>
           <h4 id="ano-{{ ano_da_data }}">
             {{ ano_da_data }}
-            <a href="#topo">&#8593;</a>
+            <a href="topo">&#8593;</a>
           </h4>
 
           <ul class="lista-filmes">
