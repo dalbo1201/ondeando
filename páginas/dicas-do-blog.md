@@ -4,7 +4,7 @@ title: dicas do blog
 excerpt: Um local onde eu vou colocar algumas coisas que eu fiz aqui e acho que vale compartilhar.
 permalink: "/dicas-do-blog"
 ---
-<h2><span aria-hidden="true">|</span><span class="h2-menor">as </span>dicas<span class="h2-menor"> do blog</span> </h2>
+<h2 id="topo"><span aria-hidden="true">|</span><span class="h2-menor">as </span>dicas<span class="h2-menor"> do blog</span> </h2>
 
 Se você chegou até aqui pode ser que eu tenha algo bacana a dizer que possa ajudar a encontrar mais fácil algum processo que eu já fiquei tentando antes e sofri para resolver.  
 
@@ -22,7 +22,7 @@ As dicas que já temos por aqui são:
 <hr>
 {% for item in tutoriais_ordenados %}
 
-<h4 id="{{ item.id }}">{{ item.tutorial }} <a href="topo">&uarr;</a></h4>
+<h4 id="{{ item.id }}">{{ item.tutorial }} <a href="#topo">&uarr;</a></h4>
 {% assign tags_ordenadas = item.tag | sort_natural %}
 {%- for tag in tags_ordenadas -%}
 <span class="tag-reg">{{ tag }}</span>

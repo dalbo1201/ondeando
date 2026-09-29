@@ -4,7 +4,7 @@ title: sobre Veronica Mars
 description: Comentários sobre a série Veronica Mars
 permalink: "/assistindo/veronica-mars-comentarios"
 ---
-<h2><span aria-hidden="true">|<span class="h2-menor">sobre </span></span>Veronica Mars</h2>
+<h2 id="topo"><span aria-hidden="true">|<span class="h2-menor">sobre </span></span>Veronica Mars</h2>
 
 Comentários rápidos e sem muito trabalho editorial sobre os episódios assistidos de _Veronica Mars_.
 
@@ -25,7 +25,7 @@ Não me responsabilizo pelo que você possa ler sem ter assistido antes.</div></
 Veronica Mars eu assisti já tem um tempo, vai pra lista dos revistos. Gostei muito da primeira vez, vamos ver se envelheceu bem.
 
 <h3 id="t01e01-02">Temporada 1</h3>
-<h4>t01e01-02 <a href="topo">&uarr;</a></h4>
+<h4>t01e01-02 <a href="#topo">&uarr;</a></h4>
 
 ###### e01
 
@@ -42,7 +42,7 @@ Segundo episódio cheio de lições, não sair julgando todo mundo pela imagem q
 Verônica já mostrando que vai atrás de entender o que seu pai sabe que o faz questionar Kane sênior sobre a morte da filha.  
 
 
-<h4 id="t01e03-04">t01e03-04 <a href="topo">&uarr;</a></h4>
+<h4 id="t01e03-04">t01e03-04 <a href="#topo">&uarr;</a></h4>
 ##### e03
 
 Um garoto que *procura seu pai morto* e encontra uma nova mãe. Cara, tinham umas séries que poderiam não ser destrutivas, mas em pequenos detalhes deixavam a dica.  
@@ -63,7 +63,7 @@ Mas o curioso é que naquela época a coisa ainda podia acontecer no seu quintal
 
 Eram tempos mais ingênuos, talvez.
 
-<h4 id="t01e05-06">t01e05-06 <a href="topo">&uarr;</a></h4>
+<h4 id="t01e05-06">t01e05-06 <a href="#topo">&uarr;</a></h4>
 
 ##### e05
 

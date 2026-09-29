@@ -5,7 +5,7 @@ description: Sobre mim e o que esse espaço significa
 image: /assets/og_image/
 permalink: "/sobre"
 ---
-<h2 href="topo"><span aria-hidden="true">|</span>sobre</h2>
+<h2 id="topo"><span aria-hidden="true">|</span>sobre</h2>
 <h4 id="mim">... mim</h4>
 
 Nós somos acostumados a nos apresentar falando nossa profissão, isso passa longe de nos definir.
