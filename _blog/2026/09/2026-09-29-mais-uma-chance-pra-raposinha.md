@@ -15,4 +15,4 @@ Por algum motivo, eu não conseguia agrupar abas na versão para Android.
 
 Esses dois pontos parecem que foram resolvidos [nessa nova versão](https://blog.mozilla.org/en/firefox/new-firefox-design-is-here/), ou em outra, mas só agora me interessei.
 
-Testarei novamente, vamos dar ~~mais~~ uma chance pra raposinha. Acho que vale aumentar a participação de algum navegador que não seja o Chrome fantasiado.
+Testarei novamente, vamos dar ~~mais~~ uma chance para raposinha. Acho que vale aumentar a participação de um navegador que não seja o Chrome fantasiado.
