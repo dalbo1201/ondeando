@@ -13,6 +13,6 @@ Não tinha a opção de usar duas abas na aba dividida, precisava de uma extens�
 
 Por algum motivo, eu não conseguia agrupar abas na versão para Android.
 
-Esses dois pontos parecem que foram resolvidos nessa versão, ou em outra, mas só agora me interessei.
+Esses dois pontos parecem que foram resolvidos [nessa nova versão](https://blog.mozilla.org/en/firefox/new-firefox-design-is-here/), ou em outra, mas só agora me interessei.
 
 Testarei novamente, vamos dar ~~mais~~ uma chance pra raposinha. Acho que vale aumentar a participação de algum navegador que não seja o Chrome fantasiado.
