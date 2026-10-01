@@ -13,7 +13,7 @@ S. não é muito fã de séries de _saifai_ e tinha uma certa rejeição à prop
 
 > Essa coisa de navinha não é pra mim.
 
-Mas consegui convencê-la de que, principalmente porque a série não se propões a essa pagada. Ela está gostando muito.
+Mas consegui convencê-la de que valeria a pena, principalmente porque a série não se propões a essa pagada. Ela está gostando muito.
 
 Estamos na terceira temporada e devo dizer que muitos episódios eu não me lembro ou eu não assisti. Era uma época bem mais difícil, e acabei acompanhando o final com mais afinco, quando tive oportunidade de ver pela já quase morta **tv a cabo**.  
 
