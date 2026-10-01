@@ -1,30 +1,29 @@
 ---
 layout: post
 type: texto
-title: "Porque tiraram a tecla de ponto do teclado... numérico"
-date: 2026-10-03 12:00:00
+title: "Por que tiraram a tecla do ponto do teclado... numérico?"
+date: 2026-09-30 23:00:00
 tags:
  - informátia
-published: false
 ---
 Depois que [consegui encontrar meu mouse](/blog/achei-meu-mouse/), passei a gastar um tempo pensando em parar de utilizar o teclado do laptop e migrar para um teclado independente.  
 
-Não tenho nada contra o teclado do meu laptop, pelo contrário, acho ele bem confortável de digitar e, mesmo não sendo o ideal, tem um teclado numérico. Fato extremamente importante para o meu uso e que dou muita atenção. Para falar a verdade, fico querendo um teclado mais bacana para combinar com o mouse, que é legal demais.
+Não tenho nada contra o teclado do meu laptop, pelo contrário, acho ele bem confortável de digitar e, mesmo não sendo o ideal, tem um teclado numérico, fato extremamente importante para o meu uso e que dou muita atenção. Mas pra falar a verdade, fico querendo um teclado mais bacana para combinar com o mouse, que é legal demais.
 
 <blockquote class="fleabag">Me tornei aquele que mais odiava. Aquele que investe no escritório para o tele-trabalho.</blockquote>
 
-Na questão prática, vamos para o teclado mecânico. Se queremos mudar para algo que vai apresentar alguma melhora, vamos para o teclado mecânico.  
+Vamos para o teclado mecânico. Se queremos mudar para algo que vai apresentar alguma melhora, vamos para o teclado mecânico.  
 
-<aside class="aviso-caixa"><div class="aviso-texto">Aqui eu faço uma pausa.<br/>O texto foi para um caminho meio torto. Entrei numa neura de falar sobre as características do teclado mecânico e em algumas peculiaridades meio técnicas. Mas o assunto do texto, aquele do título ficou mais pro final. Então, vamos fazer assim... Se você quiser ler um pouco sobre minha escolha de tipo de teclado com algumas posições mais técnicas, segue a leitura. Se quiser saber mais sobre minha questão com os teclados numéricos, <a href="#tema-do-texto">clica aqui</a>. E depois pode volta para ler o resto.</div></aside>
+<aside class="aviso-caixa"><div class="aviso-texto">Aqui eu faço uma pausa.<br/>O texto foi para um caminho meio torto. Entrei numa neura de falar sobre as características do teclado mecânico e em algumas peculiaridades meio técnicas. Mas o assunto do texto, aquele do título ficou mais pro final. Então, vamos fazer assim... Se você quiser ler um pouco sobre minha escolha de tipo de teclado com algumas posições mais técnicas, segue a leitura. Se quiser saber mais sobre minha questão com os teclados numéricos, <a href="#tema-do-texto">clica aqui</a>. E depois pode voltar para ler o resto.</div></aside>
 <span id="tecnicalidades"></span>
 
-E qual a minha dificuldade em encontrar o telcado ideal? Primeiro o que eu vou chamar aqui de _sindrome da Netflix_, são tantas opções (falando apenas de estética) que fica difícil acompanhar e pensar no que vai agradar mais por mais tempo.  
+E qual a minha dificuldade em encontrar o teclado ideal? Primeiro o que eu vou chamar aqui de _sindrome da Netflix_. São tantas opções (falando apenas de estética) que fica difícil acompanhar e pensar no que vai me agradar mais por mais tempo.  
 
-Depois tem outra questão prática. Para começar, os _switches_. Há, em geral, três opções que se diferenciam pelo nível de _feedback_ tátil e, nesse ponto, eu acho que ficaria no meio termo. Teclas que dão algum retorno, mas que não façam aquele barulho tradicional dos telados mecânicos antigos.
+Depois tem outra questão prática. Para começar, os _switches_. Há, em geral, três opções que se diferenciam pelo nível de _feedback_ tátil. Os _switches_ são as pecinhas que dão a sensação de digitar, podem fazer aquele barulinho de _tec, tec, tec_ ou serem mais silenciosas. Nesse caso, eu acho que ficaria no meio termo.
 
 > Esses switches são a alma de tudo. Seu perfil define se o teclado é confortável e preciso para digitar por horas e horas, ou se, por outro lado, sua leveza e precisão permitem comandos ágeis e precisos para quem joga no PC.
 
- Ficamos então com a opção do _switch tátil (ou marrom)_. Acredito que a troca dos _switches_ não seja algo realmente importante para mim, pois não acredito que vá querer mudar meu estilo de digitação após a escolha. mas a troca das teclas é algo interessante pela _síndrome da Netflix_ dos visuais, que citei antes.  
+ Ficamos então com a opção do _switch tátil (ou marrom)_, o meio termo que falei. Acredito que a troca dos _switches_ não seja algo realmente importante para mim (sim, existem opções de teclados em que é possíel trocar o _switch_), não acredito que eu vá querer mudar meu estilo de digitação. Mas a troca das teclas é algo interessante pela _síndrome da Netflix_ dos visuais, que citei antes.  
 
 Para além da escolha do _switch_ temos a escolha do perfil das teclas e aí a coisa pode ficar ainda mais chatinha pois temos pelo menos uns 5 tipos.
 
@@ -35,7 +34,7 @@ Para além da escolha do _switch_ temos a escolha do perfil das teclas e aí a c
 
 Na pesquisa que fiz, acredito que ficaria entre as opções OEM ou Cherry, uma é a clássica dos teclados mais antigos e a segunda uma "revisão mais moderna". Especialistas, desculpem meu português.  
 
-Agora, com as teclas escolhidas temos a questão do leiaute do teclado, ou quantas teclas teremos nele? 
+Agora, com as teclas escolhidas, temos a questão do leiaute do teclado ou quantas teclas teremos nele. 
 
 <figure>
 <img class="u-photo" src="/assets/fotos/2026/10/keyboardtypessize.jpg" alt="">
@@ -44,19 +43,19 @@ Agora, com as teclas escolhidas temos a questão do leiaute do teclado, ou quant
 
 Estão percebendo a situação? As ramificações que vão surgindo a cada nova questão levantada na escolha do teclado?
 
-Pegaria um teclado 80% com um teclado numérico separado com 18 teclas. Nesse caso, a minha decisão é mais fácil e chegamos na questão principal de porquê fiz esse texto. 
+Eu pegaria um teclado 80% com um teclado numérico separado. Nesse caso, a minha decisão é mais fácil e chegamos na questão principal de porquê fiz esse texto. 
 
-<h4 id="tema-do-texto">Porque diabos tiraram a tecla de ponto... do teclado numérico</h4>
+<h4 id="tema-do-texto">Porque diabos tiraram a tecla de ponto... do teclado numérico?</h4>
 
 É aqui que a coisa pega. Se eu vou fazer uma compra especialmente focada no teclado, eu quero algo que vá me agradar e atender. Nessa hora eu fico olhando para os teclados com leiaute 100% e me pergunto **porque diabos tiraram o ponto do teclado numérico e deixaram apenas a vírgula?** e aumentaram a porcaria da tecla **+**. E veja, mesmo em teclados que são US, não ABNT2, isso acontece.  
 
 <blockquote class="fleabag">Para mim, essa simples tecla faz muita falta.</blockquote>
 
-Quem trabalha com programas CAD sabe que usamos o sistema numérico dos EUA e aí o ponto é o separados decimal e a vírgula o separador de milhar ou o separador de elementos (como coordenadas x,y,z). Nisso o nosso uso vai para as cucúias porque perdemos grande parte da dinâmica de digitação nos teclados numéricos. No teclado do meu laptop como ele tem um leiaute meio bizarro e mais compacto (mesmo tendo o teclado numérico) o ponto fica _menos longe_. Mas em teclados tradicionais fica ruim demais e por isso eu prefiro procurar um teclado 80% e um teclado numérico separado. 
+Quem trabalha com programas CAD sabe que usamos o sistema numérico dos EUA e aí o ponto é o separador decimal e a vírgula o separador de milhar ou o separador de elementos (como coordenadas x,y,z). Nisso o nosso uso vai para as cucúias porque perdemos grande parte da dinâmica de digitação nos teclados numéricos. No teclado do meu laptop, como ele tem um leiaute meio bizarro e mais compacto (mesmo tendo o teclado numérico) o ponto fica _menos longe_ do teclado numérico. Mas em teclados tradicionais fica ruim demais e por isso eu prefiro procurar um teclado 80% e um teclado numérico separado. 
 
 Mesmo em teclados numéricos exclusivos estou numa dificuldade enorme de encontrar um teclado numérico com **a vírgula e o ponto**. Em alguns desses teclados aparece até a tecla de _backspace_ (a de apagar), mas não tem a tecla do ponto, ou da vírgula.
 
-As opções que encontro de um teclado 100% com o numérico com 18 teclas são teclados mais simples, normalmente de membrana e mais baratos, com um acabamento pior e aí não acho que valha a pena e bom... Não combina com o mouse muito baana que eu tenho agora. 
+As opções que encontro de um teclado 100% com o numérico com essas duas teclas **tão especiais** são teclados mais simples, normalmente de membrana e mais baratos, com um acabamento pior e aí não acho que valha a pena e bom... não combina com o mouse muito bacana que eu tenho agora. 
 
 Minha sorte, por exemplo, é que estou com um teclado desses mais simples no escritório pelo menos. E lá, pelo menos, o trabalho ficou mais fácil.
 

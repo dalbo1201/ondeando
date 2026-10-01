@@ -1,8 +1,9 @@
 ---
 layout: post
 type: texto
-title: "Pensando sobre Arquivo X"
-date: 2026-09-xx 12:00:00
+title: "Quero acreditar, pero no mucho..."
+title_html: "Quero acreditar, <i>pero no mucho...</i>"
+date: 2026-10-02 12:00:00
 tags:
  - séries e TV
 published: false
