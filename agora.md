@@ -13,14 +13,14 @@ Imagine que você tem aquele amigo que não o vê há muito tempo, aqui você co
 Bom, é isso o que vai encontrar por aqui.  
 <hr> 
 <aside class="atualizacao">
-    atualizado em 15 de setembro de 2026.
+    atualizado em 01 de outubro de 2026.
 </aside>
 <h4 id="pessoal">Pessoal</h4>
 Estamos numa batalha para deixar nossos gatos vivendo em alguma harmonia, temos uma evolução, mas ainda pequenas batalhas a vencer.  
 
 Seguindo com o _hérculeo trabalho_ de deixar a casa do jeito que a gente gosta e deseja. Tá aí algo que não deve acabar nunca...  
 
-Estou lesionado devido ao jogos de futebol. Estou com uma lesão (leve) no músculo da batata da perna o que me impedirá de fazer exercícios com os membros inferiores até meados de setembro. Continuo treinando, mas com parcimônia.  
+Estou lesionado devido ao jogos de futebol. Estou com uma lesão (leve) no músculo da batata da perna o que me impedirá de fazer exercícios com os membros inferiores até ~~meados de setembro~~ final de outubro(?). Continuo treinando, mas com parcimônia.  
 
 O objetivo maior é envelhecer com alguma qualidade de vida. Não quero perder a parca massa muscular que tenho e preciso manter a capacidade de movimentos simples como agachar, levantar do chão. Coisas simples mas que no futuro podem se tornar difíceis de executar. Claro que no processo a gente quer melhorar outras questões, só não é meu objetivo principal. _Estou com uma sensação que estou falhando, mas desistir é pior_.  
 
@@ -29,6 +29,8 @@ Trabalhando na Projeta Infraestrutura como engenheiro de projetos rodoviários a
 
 <h4 id="curiosidade">Curiosidades</h4>
 O tempo todo brincando de mexer nesse _meu espaço da internet_, um hobby para dizer que faço alguma coisa.  
+
+Estou _praticando_ espanhol no Duolingo, por ~~~insistência~~ apoio de S. Tem sido divertido, estou usando o serviço no modo grátis então são poucas atividades por dia, mas estou a quase um mês diariamente nas atividades.
 
 <h4 id="atividades">Atividades</h4>
 <h5 id="livros">Estou lendo <a href="https://www.skoob.com.br/pt/profile/dalbo1201" class="linkdata" title="meu perfil no skoob"><i class="fa-solid fa-book"></i></a>:</h5>
@@ -41,14 +43,12 @@ O tempo todo brincando de mexer nesse _meu espaço da internet_, um hobby para d
 
 <h5 id="filmes">Filmes que vi <a href="/filmes/diario" class="linkdata" title="lista dos filmes"><i class="fa-solid fa-film"></i></a>:</h5>
 <ul>
-    <li>Supergirl (2026)&nbsp;| HBO&nbsp;Max&nbsp;| Craig&nbsp;Gillespie;</li>
-    <li>O Mandaloriano e Grogu (2026)&nbsp;| Disney+&nbsp;| Jon&nbsp;Favreau;</li>
+    <li>sem filmes no período.</li>
 </ul>
 
 <h5 id="series">Séries que estou vendo <a href="https://bingeboxd.com/users/dalbo1201" class="linkdata" title="meu perfil no bingeboxd"><i class="fa-solid fa-tv"></i></a>:</h5>
 <ul>
     <li>Lanternas&nbsp;| HBO&nbsp;Max&nbsp;| temporada&nbsp;1;</li>
-    <li>Star Trek: Strange New Worlds&nbsp;| Paramount+&nbsp;| temporada&nbsp;4;</li>
     <li>Batman: Cruzado Encapuzado&nbsp;| HBO&nbsp;Max&nbsp;| temporada&nbsp;2;</li>
     <li>House of The Dragon&nbsp;| HBO&nbsp;Max&nbsp;| temporada&nbsp;3;</li>
     <li>A Treta&nbsp;| Netflix&nbsp;| temporada&nbsp;1;</li>
