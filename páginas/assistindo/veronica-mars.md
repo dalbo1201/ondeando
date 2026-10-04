@@ -13,6 +13,7 @@ Comentários rápidos e sem muito trabalho editorial sobre os episódios assisti
 <li><a href="#t01e01-02">t01e01-02</a></li>
 <li><a href="#t01e03-04">t01e03-04</a></li>
 <li><a href="#t01e05-06">t01e05-06</a></li>
+<li><a href="#t01e07-08">t01e07-08</a></li>
 </ul>
 </details>
 
@@ -82,3 +83,15 @@ A relação entre Verônica e o pai realmente é fora da curva, principalmente p
 Noves fora, chato ver o rapazinho rico sendo visto como salvador da pátria, mas né... E a Jane Lynch já estava _fazendo escola_ como professora má 😂, ela é sempre ótima.  
 
 E a morte da Lilly será um projeto interessante agora que temos a dupla dinâmica unida para resolver o caso. Não me recordo, mas espero que se for resolvido na primeira temporada as outras aguentem o tranco.
+
+<h4 id="t01e07-08">t01e07-08 <a href="#topo">&uarr;</a></h4>
+
+##### e07
+
+Ok, esse eu esqueci de anotar, comecei cedo...
+
+##### e08
+
+Acho que a única coisa que importa nesse episódio é a história da Verônica não ser filha do Xerife. Não lembrose isso é real ou não, bom não lembrar.  
+
+Mas _tá certo_, a chegada da mãe do Wallace acho que vai deixar as coisas interessantes, será que a Verônica aceita ganhar dois irmãos? 
