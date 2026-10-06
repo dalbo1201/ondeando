@@ -61,9 +61,11 @@ O app Gmail do **celular** (Android, iPhone e iPad) continua aceitando contas de
 
 #### Antes de decidir, vale confirmar
 
-- Preços finais no checkout de cada serviço, em especial Proton, Fastmail e Tuta, cujas páginas oficiais não exibiram os valores.
-- Se o Proton Family aceita três pessoas que não moram na mesma casa.
+- Preços finais no checkout de cada serviço, em especial Proton, Fastmail e Tuta, cujas páginas oficiais não exibiram os valores;
+- Se o Proton Family aceita três pessoas que não moram na mesma casa;
 - Como o Gomailify pretende tratar o envio depois de janeiro de 2027, se alguém quiser considerá-lo.
+
+- [Comentários do Fórum Órbita sobre os serviços](https://orbita.social.br/p/bxyAjdWBxz/ajuda-com-a-mudanca-do-servico-de-email#comentarios).
 
 ### Próximo passo
 
