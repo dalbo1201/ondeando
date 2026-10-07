@@ -2,7 +2,7 @@
 layout: foto
 type: album
 title: "Continuarmos unidos"
-date: 2026-10-02 12:00:00
+date: 2026-10-04 12:00:00
 image: /assets/fotos/2026/10/20261004_091612-(2).jpg
 caption: "Unidos"
 tags:
