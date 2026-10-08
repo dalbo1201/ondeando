@@ -1,4 +1,15 @@
 - ano: "2026"
+  data_id: "2026-10-07"
+  data_texto: "07 de outubro"
+  entradas:
+    - tags: ["html", "css", "liquid"]
+      texto: |
+        Na página do [FOTOLOG](/fotolog) adicionei o ícone de comentários, com link para a seção na postagem. O ícone está só com a borda quando não tem comentário e muda para o ícone preenchido quando tem comentários, sem mostrar a quantidade. O `title` do link utiliza do mesmo `template liquid` [do link de comentários](#2026-08-03) do [BLOG](/blog).
+    - tags: ["css"]
+      texto: |
+        Revisei a classe `.mais-fotos`. A ideia é que possa deixar as fotos lado a lado, e quando a legenda ficar com mais de uma linha mesmo assim as fotos fiquem alinhadas verticalmente a partir da base da foto.
+
+- ano: "2026"
   data_id: "2026-09-28"
   data_texto: "28 de setembro"
   entradas:

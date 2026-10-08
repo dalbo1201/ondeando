@@ -9,24 +9,28 @@
 <section class="gallery">
   <ul class="embedded album-post">
     {% for post in paginator.posts %}
-      <li class="h-entry"> <a href="{{ post.url }}" class="linkdata u-url">
+      <li class="h-entry">
+        <a href="{{ post.url | relative_url }}" class="linkdata u-url">
           <time class="dt-published album-data" datetime="{{ post.date | date_to_xmlschema }}">
             {{ post.date | date: "%d/%m/%Y" }}
           </time>
         </a>
-        
+
         <div class="image-wrapper">
-          <a href="{{ post.url }}">
+          <a href="{{ post.url | relative_url }}">
             <img class="u-photo" src="{{ post.image | relative_url }}" alt="{{ post.title }}" title="{{ post.title }}">
           </a>
         </div>
 
-        {% if post.caption %}
-          <div class="p-summary e-content caption">
-            {{ post.caption }}
-          </div>
-        {% endif %}
-        
+        <div class="caption-row">
+          {% if post.caption %}
+            <div class="p-summary e-content caption">
+              {{ post.caption }}
+            </div>
+          {% endif %}
+          {% include comment-link-fotolog.html post=post %}
+        </div>
+
         <data class="p-name" value="{{ post.title_html | default: post.title }}"></data>
       </li>
     {% endfor %}

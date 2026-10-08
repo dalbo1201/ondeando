@@ -512,7 +512,8 @@ a:hover, nav a:hover {
 /* --- 3. EXCEÇÕES (IMAGENS, CABEÇALHO E DATA) --- */
 /* Removemos o preenchimento, padding e a transição para evitar "fantasmas" do efeito */
 a:has(img),
-a.linkdata {
+a.linkdata,
+a.comment-link-fotolog {
   background: none !important;
   padding: 0 !important;
   transition: none !important; /* Importante para não haver delay na troca de cor */
@@ -523,11 +524,27 @@ a.linkdata {
 a.linkdata { color: var(--color-data); }
 a.linkdata:hover { color: var(--color-data);}
 
+/* Link do ícone de comentários (fotolog): mantém a cor dos links, inclusive no hover */
+a.comment-link-fotolog {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.3em;                /* espaço entre o ícone e o número */
+  line-height: 1.44rem;      /* mesma altura de linha da legenda */
+  text-decoration: none;
+}
+
+a.comment-link-fotolog:hover {
+  color: var(--color-link);
+}
+
+.comment-link-fotolog__total {
+  font-size: 0.85em;
+}
+
 /* Remove especificamente o efeito visual no hover de links com imagens */
 a:has(img):hover {
   background: transparent !important;
   background-position: top !important;
-
 }
 /* FINAL CONFIGURAÇÃO GERAL (ONDA) */
 
@@ -583,14 +600,53 @@ figcaption {
  width: 100%; /* Garante que a legenda ocupe toda a largura do contêiner */
 }
 
+/* INÍCIO do estilo para fotos em pares ou não em postagens */
 .mais-fotos {
- display: grid;
- grid-template-columns: 1fr 1fr; /* Duas colunas iguais */
- gap: 15px; /* Espaço entre as fotos */
- margin: 0 0;
- width: 100%;
- align-items: end;
+  display: grid;
+  grid-template-columns: 1fr;          /* base = mobile: tudo empilhado */
+  row-gap: 0;
+  margin: 0;
+  width: 100%;
 }
+
+/* a figure some do layout: img e figcaption viram itens diretos do grid */
+.mais-fotos > figure {
+  display: contents;
+}
+
+.mais-fotos > figure > img {
+  display: block;
+  width: 100%;
+  align-self: end;                     /* bases das fotos niveladas */
+}
+
+.mais-fotos > figure > figcaption {
+  align-self: start;                   /* legenda logo abaixo da foto, sem espaço reservado */
+  margin-bottom: 20px;                 /* o que antes vinha do margin-bottom da figure */
+}
+
+/* telas maiores: duas colunas, com fotos e legendas em linhas separadas */
+@media not all and (max-width: 40rem) {
+  .mais-fotos {
+    grid-template-columns: 1fr 1fr;
+    column-gap: 25px;                  /* 15px de antes + 5px de padding de cada figure */
+  }
+
+  /* coluna: figuras ímpares à esquerda, pares à direita */
+  .mais-fotos > figure:nth-child(odd)  > * { grid-column: 1; }
+  .mais-fotos > figure:nth-child(even) > * { grid-column: 2; }
+
+  /* linhas: cada par ocupa duas linhas (foto, legenda) */
+  .mais-fotos > figure:nth-child(-n+2) > img                         { grid-row: 1; }
+  .mais-fotos > figure:nth-child(-n+2) > figcaption                  { grid-row: 2; }
+
+  .mais-fotos > figure:nth-child(n+3):nth-child(-n+4) > img          { grid-row: 3; }
+  .mais-fotos > figure:nth-child(n+3):nth-child(-n+4) > figcaption   { grid-row: 4; }
+
+  .mais-fotos > figure:nth-child(n+5):nth-child(-n+6) > img          { grid-row: 5; }
+  .mais-fotos > figure:nth-child(n+5):nth-child(-n+6) > figcaption   { grid-row: 6; }
+}
+/* FIM do estilo para fotos em pares ou não em postagens */
 
 .foto-flutua-direita {
  float: right;
@@ -903,7 +959,7 @@ table.tabela-posts td {
 }
 
 /* 3. A DATA */
-.gallery ul.embedded.album-post > li a.linkdata {
+.gallery ul.embedded.album-post > li > a.linkdata {
   align-self: start; /* Fixa a data no topo */
   margin-bottom: 20px; /* DISTÂNCIA DATA -> FOTO */
   display: block;
@@ -923,11 +979,19 @@ table.tabela-posts td {
   display: block;
 }
 
-/* 5. A LEGENDA */
+/* 5. A LINHA DA LEGENDA: legenda à esquerda, ícone de comentários à direita */
+.caption-row {
+  margin-top: 10px;              /* distância da base da foto (era do .caption) */
+  height: 0;                     /* a mesma "mágica" de antes, agora na linha inteira */
+  display: flex;
+  align-items: flex-start;       /* ícone alinhado à primeira linha da legenda */
+  justify-content: flex-end;
+  gap: 0.75rem;
+}
+
 .caption {
-  margin-top: 10px; /* Distância da base da foto para a legenda */
-  height: 0; /* MÁGICA: A legenda não ocupa espaço no cálculo da altura do post */
-  min-height: 0;/* O texto vai "transbordar" para baixo sem empurrar a imagem */
+  flex: 1 1 auto;
+  min-width: 0;                  /* o texto quebra em vez de empurrar o ícone */
   text-align: left;
 }
 /* FINAL DO MEU FOTOLOG */
@@ -1332,10 +1396,6 @@ footer {
 }
 
 /* INÍCIO Centraliza a galeria horizontalmente em telas menores */
-.mais-fotos {
- grid-template-columns: 1fr;
- align-items: stretch; /* Volta ao normal no mobile para não criar espaços estranhos */
-}
 
 .gallery ul.embedded.album-post {
  grid-template-columns: 1fr;

@@ -1,0 +1,33 @@
+{%- comment -%}
+  Uso: {% include comment-link.html post=post %}
+  Conta os comentários do post e escolhe o ícone correspondente.
+{%- endcomment -%}
+{%- assign total = site.data.comments[include.post.slug] | size -%}
+
+{%- comment -%} Nome acessível do link (leitores de tela): informa a ação e a quantidade {%- endcomment -%}
+{%- if total == 0 -%}
+  {%- assign rotulo = "Comentar nesta foto" -%}
+{%- elsif total == 1 -%}
+  {%- assign rotulo = "Ver 1 comentário" -%}
+{%- else -%}
+  {%- assign rotulo = "Ver " | append: total | append: " comentários" -%}
+{%- endif -%}
+
+{%- comment -%} Dica ao passar o mouse: mesmas faixas e frases do blog.html {%- endcomment -%}
+{%- if total == 0 -%}
+  {%- assign dica = "vamos conversar..." -%}
+{%- elsif total < 4 -%}
+  {%- assign dica = "tem um bate-papo rolando, vem participar..." -%}
+{%- else -%}
+  {%- assign dica = "a conversa parece boa, vai ficar de fora?" -%}
+{%- endif -%}
+
+<a class="comment-link-fotolog"
+   href="{{ include.post.url | relative_url }}#comentarios"
+   aria-label="{{ rotulo }}" title="{{ dica }}">
+  {%- if total > 0 -%}
+    <i class="fa-solid fa-message" aria-hidden="true"></i>
+  {%- else -%}
+    <i class="fa-regular fa-message" aria-hidden="true"></i>
+  {%- endif -%}
+</a>
