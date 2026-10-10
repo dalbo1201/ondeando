@@ -30,7 +30,7 @@ Trabalhando na Projeta Infraestrutura como engenheiro de projetos rodoviários a
 <h4 id="curiosidade">Curiosidades</h4>
 O tempo todo brincando de mexer nesse _meu espaço da internet_, um hobby para dizer que faço alguma coisa.  
 
-Estou _praticando_ espanhol no Duolingo, por ~~~insistência~~ apoio de S. Tem sido divertido, estou usando o serviço no modo grátis então são poucas atividades por dia, mas estou a quase um mês diariamente nas atividades.
+Estou _praticando_ espanhol no Duolingo, por ~~insistência~~ apoio de S. Tem sido divertido, estou usando o serviço no modo grátis então são poucas atividades por dia, mas estou a quase um mês diariamente nas atividades.
 
 <h4 id="atividades">Atividades</h4>
 <h5 id="livros">Estou lendo <a href="https://www.skoob.com.br/pt/profile/dalbo1201" class="linkdata" title="meu perfil no skoob"><i class="fa-solid fa-book"></i></a>:</h5>
