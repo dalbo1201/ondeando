@@ -191,6 +191,7 @@ Escolhido o serviço, falta o passo a passo da mudança (o que alterar no Square
 
 ### Fontes
 
+- [Comentários do Fórum Órbita sobre os serviços](https://orbita.social.br/p/bxyAjdWBxz/ajuda-com-a-mudanca-do-servico-de-email#comentarios).
 - Google Workspace: [preços e planos de pagamento](https://support.google.com/a/answer/1247360?hl=pt-BR) · [edições Business e armazenamento](https://support.google.com/a/answer/13062337?hl=pt-br)
 - Fastmail: [preços e perguntas frequentes](https://www.fastmail.com/pricing/br/)
 - Umbler: [preços](https://www.umbler.com/br/precos#emails) · [e-mail profissional](https://www.umbler.com/br/email-profissional) · [e-mail corporativo](https://www.umbler.com/br/email-corporativo)
