@@ -48,7 +48,7 @@ Estou _praticando_ espanhol no Duolingo, por ~~insistência~~ apoio de S. Tem si
 
 <h5 id="series">Séries que estou vendo <a href="https://bingeboxd.com/users/dalbo1201" class="linkdata" title="meu perfil no bingeboxd"><i class="fa-solid fa-tv"></i></a>:</h5>
 <ul>
-    <li><a hreff="/assistindo/veronica-mars-comentarios">Veronica Mars</a>&nbsp;| Locadora&nbsp;| temporada&nbsp;1;↺</li>
+    <li><a href="/assistindo/veronica-mars-comentarios">Veronica Mars</a>&nbsp;| Locadora&nbsp;| temporada&nbsp;1;↺</li>
     <li>House of The Dragon&nbsp;| HBO&nbsp;Max&nbsp;| temporada&nbsp;3;</li>
     <li>A Treta&nbsp;| Netflix&nbsp;| temporada&nbsp;1;</li>
     <li>Fallout&nbsp;| Prime&nbsp;Video&nbsp;| temporada&nbsp;2;</li>
