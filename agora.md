@@ -13,7 +13,7 @@ Imagine que você tem aquele amigo que não o vê há muito tempo, aqui você co
 Bom, é isso o que vai encontrar por aqui.  
 <hr> 
 <aside class="atualizacao">
-    atualizado em 01 de outubro de 2026.
+    atualizado em 10 de outubro de 2026.
 </aside>
 <h4 id="pessoal">Pessoal</h4>
 Estamos numa batalha para deixar nossos gatos vivendo em alguma harmonia, temos uma evolução, mas ainda pequenas batalhas a vencer.  
@@ -48,12 +48,11 @@ Estou _praticando_ espanhol no Duolingo, por ~~insistência~~ apoio de S. Tem si
 
 <h5 id="series">Séries que estou vendo <a href="https://bingeboxd.com/users/dalbo1201" class="linkdata" title="meu perfil no bingeboxd"><i class="fa-solid fa-tv"></i></a>:</h5>
 <ul>
-    <li>Lanternas&nbsp;| HBO&nbsp;Max&nbsp;| temporada&nbsp;1;</li>
-    <li>Batman: Cruzado Encapuzado&nbsp;| HBO&nbsp;Max&nbsp;| temporada&nbsp;2;</li>
+    <li><a hreff="/assistindo/veronica-mars-comentarios">Veronica Mars</a>&nbsp;| Locadora&nbsp;| temporada&nbsp;1;↺</li>
     <li>House of The Dragon&nbsp;| HBO&nbsp;Max&nbsp;| temporada&nbsp;3;</li>
     <li>A Treta&nbsp;| Netflix&nbsp;| temporada&nbsp;1;</li>
     <li>Fallout&nbsp;| Prime&nbsp;Video&nbsp;| temporada&nbsp;2;</li>
-    <li>Arquivo X&nbsp;| Disney+&nbsp;| temporada&nbsp;3;&nbsp;↺</li>
+    <li>Arquivo X&nbsp;| Disney+&nbsp;| temporada&nbsp;4;&nbsp;↺</li>
 </ul>
 
 <aside class="aviso-caixa"><div class="aviso-texto">Vale lembrar que tem a página d<a href="/assistindo">o que estou assistindo</a> que agrega tudo o que vejo.<br/>
