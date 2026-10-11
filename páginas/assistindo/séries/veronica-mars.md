@@ -14,6 +14,7 @@ Comentários rápidos e sem muito trabalho editorial sobre os episódios assisti
 <li><a href="#t01e03-04">t01e03-04</a></li>
 <li><a href="#t01e05-06">t01e05-06</a></li>
 <li><a href="#t01e07-08">t01e07-08</a></li>
+<li><a href="#t01e09-10">t01e09-10</a></li>
 </ul>
 </details>
 
@@ -84,7 +85,7 @@ Noves fora, chato ver o rapazinho rico sendo visto como salvador da pátria, mas
 
 E a morte da Lilly será um projeto interessante agora que temos a dupla dinâmica unida para resolver o caso. Não me recordo, mas espero que se for resolvido na primeira temporada as outras aguentem o tranco.
 
-<h4 id="t01e07-08">t01e07-08 <a href="#topo">&uarr;</a></h4>
+<h4 id="t01e09-10">t01e09-10 <a href="#topo">&uarr;</a></h4>
 
 ##### e07
 
@@ -94,4 +95,16 @@ Ok, esse eu esqueci de anotar, comecei cedo...
 
 Acho que a única coisa que importa nesse episódio é a história da Verônica não ser filha do Xerife. Não lembrose isso é real ou não, bom não lembrar.  
 
-Mas _tá certo_, a chegada da mãe do Wallace acho que vai deixar as coisas interessantes, será que a Verônica aceita ganhar dois irmãos? 
+Mas _tá certo_, a chegada da mãe do Wallace acho que vai deixar as coisas interessantes, será que a Verônica aceita ganhar dois irmãos?  
+
+<h4 id="t01e0-08">t01e07-08 <a href="#topo">&uarr;</a></h4>
+
+##### e09
+Eita que entramos no tracmdicional _sou filha de quem?_
+
+Gente episodio de seita que mostra que o ex-policial age como policial, mas depois mostra como é o papai ideal e vê que os estereótipos não são sempre definitivos.  
+
+Uma pena que o garoto tenha sido _reprogramado_ e se tornando um babaca novamente. O que o dinheiro não faz com os pais.
+
+##### e10
+Episodio de Natal, o que poderia ser fofinho se torna uma tentativa de assassinato. O pai do Logan não é flor que se cheire, mas será que mereceu essa "facada"? A gente quase fica com pena desse povo.
