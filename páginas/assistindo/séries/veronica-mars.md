@@ -115,4 +115,14 @@ Episodio de Natal, o que poderia ser fofinho se torna uma tentativa de assassina
 ##### e11
 Fiquei confuso com a história da Mac, ela foi trocada, ficaria na família rica (que alias é a cara dela), mas na realidade os pais dela são realmente a galera mais pobre? A suposta mãe dela não queria ter trocado?  
 
-Veronica apostando alto em cima do segurança das empresas Kane. É bom ela não cavar demais, mas a gente sabe que no final nada de mal acontercerá com ela.
+Veronica apostando alto em cima do segurança das empresas Kane. É bom ela não cavar demais, mas a gente sabe que no final nada de mal acontercerá com ela.  
+
+##### e12
+
+Um par de histórias clichê, nada contra, foram boas histórias.  
+
+Dessa vez uma crime com uma seita secreta na escola, no final mais uma seita inocente e culpada apenas pelos nossos estigmas.  
+
+Mas o lance da família do garoto foi pesada, a gente vai acompanahndo _os heróis_ e esquece que no mundo real mesmo as boas ações tem origens ou soluções mais complexas.  
+
+Logan vai se tornando aquele _garoto problema_ que vamos amar odiar? Que pai, né? Mas aquela coisa: "nem todo homem, mas sempre um homem" dizendo que ama muito a mulher mas ao ser confrontado diz que a deixara com nada. Mais um dia, infelizmente.
