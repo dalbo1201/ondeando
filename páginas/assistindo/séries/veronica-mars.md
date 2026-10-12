@@ -15,6 +15,7 @@ Comentários rápidos e sem muito trabalho editorial sobre os episódios assisti
 <li><a href="#t01e05-06">t01e05-06</a></li>
 <li><a href="#t01e07-08">t01e07-08</a></li>
 <li><a href="#t01e09-10">t01e09-10</a></li>
+<li><a href="#t01e11-12">t01e11-12</a></li>
 </ul>
 </details>
 
@@ -108,3 +109,10 @@ Uma pena que o garoto tenha sido _reprogramado_ e se tornando um babaca novament
 
 ##### e10
 Episodio de Natal, o que poderia ser fofinho se torna uma tentativa de assassinato. O pai do Logan não é flor que se cheire, mas será que mereceu essa "facada"? A gente quase fica com pena desse povo.
+
+<h4 id="t01e11-12">t01e11-12 <a href="#topo">&uarr;</a></h4>
+
+##### e11
+Fiquei confuso com a história da Mac, ela foi trocada, ficaria na família rica (que alias é a cara dela), mas na realidade os pais dela são realmente a galera mais pobre? A suposta mãe dela não queria ter trocado?  
+
+Veronica apostando alto em cima do segurança das empresas Kane. É bom ela não cavar demais, mas a gente sabe que no final nada de mal acontercerá com ela.
