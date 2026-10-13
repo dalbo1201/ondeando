@@ -3,7 +3,7 @@ layout: post
 type: texto
 title: "Somos Embaixada São-Paulina"
 date: 2008-08-09 08:00:00 -0000
-tags: ["são-paulinos no rio", "a vida, o universo e tudo mais"]
+tags: ["são-paulinos no rio", "a vida, o universo e tudo mais","fotos","esportes, ou só futebol"]
 ---
 Gente, que momento fantástico.  
 
