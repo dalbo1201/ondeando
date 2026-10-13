@@ -6,6 +6,8 @@ date: 2026-08-27 12:00:00
 tags:
  - a vida, o universo e tudo mais
  - tbt
+ - ufrj
+ - rio de janeiro
 ---
 Essa história já tem muito tempo, dá pra dizer que alcançou a maioridade...  
 
