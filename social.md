@@ -11,24 +11,24 @@ Sei que esse espaço é exatamente para me [afastar um pouco](/blog/porque-todo-
 Por isso, deixo aqui onde podem me encontrar.
 <ul class="social">
 <li>
-  <a href="https://letterboxd.com/dalbo1201" title="onde eu catalogo os filmes" rel="me">
-  <i class="fa-brands fa-letterboxd"></i>
-  Letterbox<sup>[en]</sup></a>
-</li>
-<li>
   <a href="https://bingeboxd.com/users/dalbo1201" title="onde eu catalogo as séries" rel="me">
   <i class="fa-solid fa-tv"></i>
   BingeBoxd</a>
 </li>
 <li>
-  <a href="http://www.skoob.com.br/perfil/dalbo1201" title="onde eu catalogo os livros" rel="me">
-  <i class="fa-solid fa-book"></i>
-  Skoob</a>
-</li>
-<li>
   <a href="https://instagram.com/dalbo1201" title="onde eu, as vezes, posto fotos" rel="me">
   <i class="fa-brands fa-instagram"></i>
   Instagram</a>
+</li>
+<li>
+  <a href="https://letterboxd.com/dalbo1201" title="onde eu catalogo os filmes" rel="me">
+  <i class="fa-brands fa-letterboxd"></i>
+  Letterbox<sup>[en]</sup></a>
+</li>
+<li>
+  <a href="http://www.skoob.com.br/perfil/dalbo1201" title="onde eu catalogo os livros" rel="me">
+  <i class="fa-solid fa-book"></i>
+  Skoob</a>
 </li>
 </ul>
 
