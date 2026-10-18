@@ -10,7 +10,7 @@ tags:
  - fotos
 ---
 <figure>
-<img class="u-photo" src="/assets/fotos/2026/10/20261004_091612.jpg" alt="Uma caixa de papelão (craft) do tamanho de uma mão adulta com a etiqueta branca descrevendo o produto">
+<img class="u-photo" src="/assets/fotos/2026/10/20261004_091612.jpg" alt="Foto minha com foco no boné vinho com o texto e amarelo Trabalhadores de todos os países, uní-vos">
 <figcaption>Unidos</figcaption>
 </figure>
 
