@@ -16,10 +16,10 @@ tags:
 
 Dia desses eu ganhei um presentão da S., um LP do Tim Maia.  
 
-Não é o disco mais importante da carreira dele, nem o mais caro, mas é o que mais me marcou e ela nem sabia disso antes de me presentear. 
+Não é o disco mais importante da carreira dele, nem o mais caro, mas é o que mais me marcou, e ela nem sabia disso antes de me presentear. 
 
-Eu escutava muito esse álbum, mas em sua versão em CD, era um dos discos que minha mãe tinha do Tim e como ele é quase uma coletânea oficial, com grandes sucessos a gente ouvia demais. Um disco que eu me recordo vivamente de segurar, pegar o enarte apra ler as letras das músicas e cantar junto.  
+Eu escutava muito esse álbum, mas em sua versão em CD, era um dos discos que minha mãe tinha do Tim. Ele é como uma coletânea oficial, com grandes sucessos, e a gente ouvia demais. É um disco que eu me recordo vivamente de segurar e de pegar o encarte pra ler as letras das músicas e cantar junto.  
 
-Esse era um disco dele que eu ficava procurando em barraquinhas de viníl, quando passeávamos em feiras do tipo.
+Esse era um disco que eu ficava procurando em barraquinhas de vinil, quando passeávamos em feiras do tipo.
 
-Tem um peso de lembrança da infância enorme.
+Tem um peso enorme de lembrança da infância.
