@@ -4,7 +4,7 @@ type: texto
 title: "Por que tiraram a tecla do ponto do teclado... numérico?"
 date: 2026-09-30 23:00:00
 tags:
- - informátia
+ - informática
 ---
 Depois que [consegui encontrar meu mouse](/blog/achei-meu-mouse/), passei a gastar um tempo pensando em parar de utilizar o teclado do laptop e migrar para um teclado independente.  
 
