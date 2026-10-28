@@ -3,7 +3,7 @@ layout: post
 type: texto
 title: "Quero acreditar, pero no mucho..."
 title_html: "Quero acreditar, <i>pero no mucho...</i>"
-date: 2026-10-23 12:00:00
+date: 2026-10-29 12:00:00
 tags:
  - séries e TV
 published: false
