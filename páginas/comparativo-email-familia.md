@@ -16,141 +16,116 @@ Segundo o Google, a partir de **janeiro de 2027** o Gmail gratuito deixa de perm
 
 - Continuar **enviando e recebendo pelo endereço do domínio**.
 - **Custo bem menor** que o do Google Workspace.
-- **Não depender de uma big tech.** Criptografia de ponta a ponta não é necessária, porque só funciona quando os dois lados a usam.
+- **Não ser o produto:** a empresa deve ganhar dinheiro com a assinatura, e não com os dados de vocês. Estar ou não em uma big tech não é o critério. O que interessa é como a empresa trata o conteúdo, os metadados e o uso de IA.
+- Criptografia de ponta a ponta **não** é necessária.
 
 ### Serviços considerados
 
-- **Em análise:** Fastmail, mailbox.org, Shipmail e Migadu.
+- **Em análise:** Fastmail, mailbox.org, Migadu, Shipmail e Frankly Mail.
 - **Referência:** Google Workspace.
-- **Descartados por vocês:** Galae, Proton e Umbler. O Tuta também saiu, porque seu diferencial é a criptografia de ponta a ponta.
-- **Posteo:** não aceita domínio próprio (diz isso no FAQ), então não resolve o objetivo.
+- **Descartados por vocês:** Galae, Proton, Umbler e Tuta.
+- **Posteo:** não aceita domínio próprio (diz isso no FAQ), então não serve.
 
-### Resumo rápido
+### Comparativo prático
 
-| Serviço | Plano | Custo para os 3 | Caixa por pessoa |
-|---|---|---|---|
-| Fastmail | Family | R$ 44/mês no anual (R$ 528/ano), ou R$ 56/mês no mensal | 60 GB (50 GB de e-mail/agenda/contatos + 10 GB de arquivos) |
-| mailbox.org | Standard (3 contas) | € 9/mês no anual (€ 108/ano), ou € 12/mês no mensal | 20 GB de e-mail + 10 GB de Drive |
-| mailbox.org | Premium (3 contas) | € 27/mês no anual (€ 324/ano) | 50 GB de e-mail + 100 GB de Drive |
-| mailbox.org | 1 Standard + 2 Light | € 60/ano (€ 36 + 2 × € 12) | 20 GB para o administrador e 2 GB para cada Light |
-| Shipmail | Pro (4 caixas) | US$ 9/mês no mensal, ou cerca de US$ 90/ano no anual | 15 GB por caixa |
-| Migadu | Micro | US$ 19/ano | cerca de 1,7 GB (5 GB para a conta toda) |
-| Migadu | Mini | US$ 90/ano | cerca de 10 GB (30 GB para a conta toda) |
-| Google Workspace | Business Starter | R$ 122,70/mês no anual (R$ 1.472/ano) | 30 GB (compartilhados com Drive e Fotos) |
+Todos os serviços foram checados nos mesmos itens. Quando uma informação não apareceu nas páginas que li, está marcada como **não verificado**.
 
-### Tamanho das caixas de entrada
+| Critério | Fastmail Family | mailbox.org Standard | Migadu Mini | Shipmail Pro | Frankly Mail | Google Workspace Starter |
+|---|---|---|---|---|---|---|
+| **Custo para os 3** | R$ 528/ano (R$ 44/mês no anual, R$ 56/mês no mensal) | € 108/ano (€ 9/mês no anual, € 12/mês no mensal) | US$ 90/ano (US$ 9/mês) | cerca de US$ 90/ano (US$ 9/mês no mensal) | **US$ 9/ano** com 10 GB para a conta toda. Espaço extra: US$ 0,40 por GB/ano | R$ 1.472/ano (R$ 122,70/mês no anual, R$ 147/mês no flexível) |
+| **Espaço por pessoa** | 60 GB (50 GB de e-mail, agenda e contatos + 10 GB de arquivos) | 20 GB de e-mail + 10 GB de Drive | 30 GB para a conta toda (cerca de 10 GB por pessoa, limite "macio") | 15 GB por caixa | 10 GB para a conta toda (cerca de 3,3 GB por pessoa). Com 30 GB no total: US$ 17/ano. Com 60 GB: US$ 29/ano. Com 180 GB (60 GB por pessoa): US$ 77/ano | 30 GB, compartilhados com Drive e Fotos |
+| **Webmail** | Sim | Sim | Sim (webmail.migadu.com) | Sim | Sim (webmail.franklymail.com) | Sim (Gmail) |
+| **IMAP/SMTP (apps de e-mail)** | Sim (planos Standard e acima) | Sim, também POP3 | Sim, também POP3 | Sim | Sim, também POP3 e JMAP | Sim (o Google confirma que o IMAP continua) |
+| **Calendário e contatos** | Sim, com sincronização CalDAV e CardDAV | Sim, com sincronização com os apps padrão do iOS e Android | Sim, mas "básicos" segundo o próprio site | Sim, com CalDAV e CardDAV | Calendário na web com convites e compartilhamento, e videochamadas (Meet) de até 10 pessoas e 90 minutos. Sincronização CalDAV e contatos: não informado | Sim |
+| **Limite de envio** | Por usuário e por dia, conforme o plano, contando cada destinatário. Valores do plano não confirmados | Não informado nas páginas | 100/dia para a conta toda (25% de tolerância), e cada tentativa conta | 40.000 por mês para a organização, 1 por e-mail, qualquer que seja o número de destinatários | Não informado em números. Proíbe envio em massa, só vale correspondência individual e de pequenas equipes | Não verificado |
+| **Teste grátis** | 30 dias | 30 dias | Sim, sem cartão (duração não informada) | 14 dias, com cartão no cadastro | Não há. Reembolso integral em 30 dias | Não verificado |
+| **Pagamento e reembolso** | Cartão, PayPal, Apple Pay ou Google Pay. Não reembolsa período não usado | Crédito pré-pago por cartão, PayPal, SEPA, transferência ou dinheiro. Crédito não é reembolsado | Cartão (Stripe) ou pré-pagamento por PayPal. Reembolso integral em 7 dias e proporcional nos 7 seguintes (página inicial), ou 14 dias (página de preços) | Cartão, em dólar. Política de reembolso não verificada | Cobrança anual em dólar, por cartão, via Creem (imposto pode se aplicar). Reembolso integral em 30 dias, sem reembolso parcial depois | Anual: compromisso de um ano, sem reembolso se cancelar antes. Flexível: mensal, sem multa |
+| **Importar do Gmail** | Ferramenta de importação e guia "mover do Gmail" | Migração gratuita. O serviço de mudança (Audriga) está incluído | Não verificado | Não descrito para o Gmail. Um cliente cita um importador usado para sair do Proton | Importador próprio, que roda no servidor deles e mantém lidas/não lidas, marcadores e datas originais. A página diz que funciona com Gmail | Não se aplica, pois mantém o Gmail |
+| **Suporte e idioma** | Formulário de contato. Idioma da interface não verificado | E-mail, resposta em até 48 h úteis. Site em alemão e inglês | E-mail e tíquetes, em horário comercial da Suíça. Interface **só em inglês**. O plano Micro tem suporte de "melhor esforço" | Chat e e-mail, em inglês | Só por e-mail (hello@franklymail.com), sem fila de tíquetes. Site disponível em português. Idioma do webmail não verificado | Português |
+| **Verificação em duas etapas (2FA)** | Sim, com passkeys | Sim | **Não nas caixas**. Há senhas específicas por aplicativo | Sim (aplicativo autenticador) | Sim (TOTP) e senhas por aplicativo | Sim |
 
-- **Por pessoa:** Fastmail, mailbox.org, Shipmail e Google dão um espaço fixo para cada usuário.
-- **Compartilhado entre todos:** o Migadu tem um total para a conta inteira, que os três dividem.
-- **Google:** o espaço da caixa é dividido com o Google Drive e o Google Fotos.
-- **Fastmail:** 50 GB para e-mail, agenda e contatos, mais 10 GB para arquivos.
-- **Shipmail:** 15 GB por caixa. Por caixa, dá para subir para 25 GB (US$ 1/mês), 50 GB (US$ 2/mês) ou 100 GB (US$ 4/mês).
-- **mailbox.org:** o e-mail do Standard e do Premium pode ser ampliado por € 0,20 e € 0,10 por GB/mês.
+Os cinco serviços pequenos aceitam IMAP, então qualquer um deles pode ser adicionado ao **app Gmail do celular**, que o Google confirma que continua aceitando contas de terceiros. No Gmail pelo navegador isso deixa de ser possível.
 
-Antes de escolher, vale conferir quanto cada um usa hoje. O Gmail gratuito tem 15 GB divididos entre Gmail, Drive e Fotos, então o histórico de e-mails de cada um cabe, no máximo, nesse limite.
+### Como cada empresa trata os dados de vocês
 
-### Custo por pessoa por mês
+| Critério | Fastmail | mailbox.org | Migadu | Shipmail | Frankly Mail | Google Workspace |
+|---|---|---|---|---|---|---|
+| **Como a empresa ganha dinheiro** | Assinaturas. Diz que seu modelo é "serviço em troca de dinheiro". Independente desde 2013 (antes era da Opera) | Assinaturas. Empresa do Heinlein Group, com mais de 30 anos de atuação | Assinaturas. Autofinanciada, sem investidores externos, lucrativa desde pouco depois de 2014 | Assinaturas | Assinatura anual de US$ 9 mais cobrança de espaço extra. Diz que não tem plano gratuito nem equipe de vendas | Assinaturas do Workspace, mas a empresa tem um grande negócio de publicidade em outros produtos |
+| **Anúncios e venda de dados** | Não vende dados pessoais. Diz que também não monetiza dados de clientes nem dados agregados | Sem anúncios e sem rastreamento. Diz que nunca vai analisar nem vender os dados | Sem anúncios. Diz que não acessa, não analisa, não escaneia e não compartilha dados. Não usa ferramentas de análise | Sem anúncios. Não vende dados. Usa análise de uso no site e no produto (PostHog, com gravação mascarada de sessões) | No produto: diz que não lê, não escaneia para anúncios, não cria perfil e não vende nada, sem análise nem gravação de sessão. **No site público** usa Google Analytics, pixels de anúncios (X, OpenAI e Google Ads) e Microsoft Clarity (grava a navegação). Ao confirmar um pagamento, envia ao X o seu e-mail em forma de código irreversível (hash) para medir a venda | Diz que o conteúdo do Workspace não é usado para publicidade e que nunca vende os dados |
+| **Treino de IA** | A política diz que não usa dados de clientes para treinar IA. Prestadores podem usar ferramentas de IA para tratar dados em nome da empresa | Não verifiquei a posição sobre IA | Não menciona IA. Diz que não analisa os dados | Não usa o conteúdo "para fins próprios". Detecção de eventos de calendário nos e-mails recebidos vem **ligada por padrão**, com modelo de código aberto em servidor próprio. Assistente de IA (OpenAI) só se for ativado | Diz que não treina nada com o conteúdo. O "Agentic Inbox" (assistente de IA) é opcional e compartilha só o que você autorizar com o assistente escolhido. O recurso pago "Boost", de um app separado, usa a OpenAI só quando você pede | Diz que não treina modelos fora do Workspace sem permissão. Interações com recursos podem ser usadas, de forma anônima e agregada, para melhorar recursos do próprio Workspace |
+| **Acesso humano ao conteúdo** | Equipe de operações tem acesso aos sistemas, e só acessa dados para suporte ou necessidade operacional. Equipe de segurança e fraude pode ver dados | Não verifiquei | Afirma que não acessa. A nota de rodapé com exceções não apareceu na página | Só com sua permissão, por exigência legal ou em incidente de segurança ou abuso | Só quando você pedir para resolver algo ou por exigência legal. Exportar a caixa faz o painel ler as mensagens, sem guardar cópia | Não verificado |
+| **Terceiros que tocam nos dados** | Lista no acordo de proteção de dados, que não li. Opera o próprio hardware | Data centers próprios. Não verifiquei fornecedores | Só Stripe e PayPal, para pagamento, segundo a política. O fornecedor dos data centers não é nomeado | Hetzner (Alemanha), **Amazon (relé de envio e armazenamento)**, Cloudflare, Neon, Upstash, Resend, Stripe, Sentry, PostHog e outros | Hetzner (servidores), Backblaze (mensagens, anexos e backups), **Amazon SES** (envio), Cloudflare (DNS e proteção), Creem (pagamento), LiveKit (Meet) e OpenAI (só se usar o recurso). Todos nomeados na política | Própria |
+| **Onde ficam os dados** | UE (Amsterdã) ou EUA, à escolha. A cópia da UE é replicada nos EUA | Berlim, Alemanha | França (informação de 2020 na página do Migadu) | Alemanha (Hetzner), mais regiões da UE de empresas americanas | Alemanha (Hetzner, metadados e índices) e Países Baixos (Backblaze, mensagens e backups). Administração e suporte podem acessar a partir da Turquia | Não verificado |
+| **País da empresa** | Austrália, com escritório nos EUA | Alemanha | Suíça | UE (país não informado) | **Turquia** (Naylalabs Yazilim Ticaret Limited Sirketi). Contrato regido pela lei turca, com foro na Turquia, mas o consumidor mantém a proteção da lei do próprio país | EUA |
+| **Criptografia dos dados armazenados** | Sim, em repouso e em trânsito | Em trânsito. PGP opcional | Em trânsito. **Não criptografa em repouso**, por entender que a chave ficaria no mesmo servidor. Divide os dados entre discos | Sim, AES-256 em repouso e em trânsito | Não informado para o conteúdo dos e-mails. Senhas, segredos de 2FA e rascunhos do assistente são protegidos. Backups noturnos, mantidos por 30 dias | Sim |
 
-| Serviço e plano | Por pessoa/mês |
-|---|---|
-| Migadu Micro | US$ 0,53 |
-| mailbox.org Light (só como membro de conta família) | € 1 (cobrado no anual, € 12/ano) |
-| Migadu Mini | US$ 2,50 |
-| Shipmail Pro (dividido entre 3) | US$ 2,50 no anual, US$ 3 no mensal |
-| mailbox.org Standard | € 3 no anual, € 4 no mensal |
-| mailbox.org Premium | € 9 no anual, € 12 no mensal |
-| Fastmail Family | cerca de R$ 14,67 |
-| Google Starter (anual) | R$ 40,90 |
+#### Leitura sobre o critério "não ser o produto"
 
-### Independência de big techs
-
-Esta é uma comparação importante e que mesmo não sendo determinante tem seu valor, principalmente porque colabora com empresas menores e que tentem a utilizar menos nossos dados como produto. As informações vêm das páginas dos próprios serviços e, no caso do Fastmail, de um comunicado da empresa e de matérias que o reproduzem.
-
-#### mailbox.org: a mais independente
-
-- Empresa alemã do Heinlein Group, com mais de 30 anos de experiência e mais de 150 funcionários.
-- A página diz que os servidores ficam em **data centers próprios e redundantes em Berlim**, e que o serviço não depende de provedores americanos como Gmail ou Microsoft 365.
-- Tem certificação ISO 27001 e BSI C5, e o plano Light recebeu nota 1,8 do Stiftung Warentest.
-
-#### Fastmail: independente, com ressalvas de jurisdição
-
-- Empresa independente, fundada em Melbourne (Austrália) em 1999, com escritórios em Melbourne e na Filadélfia. Teve dono (a Opera) até 2013, segundo uma fonte secundária.
-- Segundo um comunicado de julho de 2026, **compra e opera o próprio hardware**, sem alugar de nuvens de terceiros.
-- Os data centers ficam na Costa Leste dos EUA e, desde julho de 2026, em Amsterdã. Quem escolher a região da UE mantém a cópia principal na Europa, mas ela é **replicada para os EUA** por resiliência.
-- Não é uma big tech e não depende de uma, mas a empresa é australiana, com infraestrutura nos EUA.
-
-#### Shipmail: depende bastante de big techs
-
-O documento de processamento de dados (DPA) do próprio Shipmail lista os fornecedores:
-
-- **Hetzner (Alemanha):** hospeda o aplicativo e os servidores de e-mail.
-- **Amazon Web Services:** serve de **retransmissor para e-mails enviados** e guarda dados de e-mail criptografados (regiões da UE).
-- **Cloudflare:** rede de entrega e armazenamento dos backups criptografados.
-- **Neon:** banco de dados (região da UE).
-- **Outros, nos EUA:** Upstash, Resend, Stripe, Sentry e PostHog.
-- **OpenAI:** só se o assistente de IA for ativado, mas também faz uma verificação automática do conteúdo de boletins antes do envio.
-
-Os e-mails que vocês enviarem passam pela Amazon, e parte do que fica armazenado também. Isso contraria o que você quer evitar, então o Shipmail perde bastante nesse critério.
-
-#### Migadu e Google
-
-- **Migadu:** não verifiquei onde ficam os servidores nem quais fornecedores usa.
-- **Google Workspace:** é a big tech que vocês querem deixar.
+- **Todos os serviços pequenos passam no critério básico:** são pagos por assinatura, dizem não usar o conteúdo para anúncios e não vendem dados.
+- **O Google também diz isso para o Workspace pago.** Ele afirma que o conteúdo não é usado para publicidade nem para treinar modelos fora do Workspace sem permissão. É uma promessa publicada, e confiar ou não nela é uma decisão de vocês. A diferença é que, nos serviços pequenos, a empresa não tem outro negócio que dependa de dados.
+- **Diferenças entre os pequenos:**
+  - **Migadu:** a afirmação mais forte (não acessa, não analisa, não escaneia, sem análise de uso), mas sem criptografia em repouso e com servidores na França.
+  - **mailbox.org:** afirmação forte e infraestrutura própria na Alemanha, mas não achei detalhes sobre IA nem sobre acesso interno.
+  - **Fastmail:** política clara, hardware próprio, com acesso interno limitado e declarado.
+  - **Frankly Mail:** a política mais detalhada e franca de todas, inclusive sobre o que a empresa rastreia no site. A promessa para o produto é forte. Mas o site público tem rastreadores e anúncios, e ele envia ao X o seu e-mail "embaralhado" (hash) ao confirmar um pagamento. Não é o conteúdo dos e-mails, e sim a venda de vocês, mas é um ponto a pesar.
+  - **Shipmail:** mais terceiros no caminho dos dados (incluindo a Amazon para o envio), IA ligada por padrão para eventos de calendário e uso de análise de comportamento no site. Não vi nada que contrarie o critério, mas é o que mais exige confiança em fornecedores.
 
 ### Observações por serviço
 
-#### mailbox.org
+#### Fastmail Family
+- **Pontos fortes:** o mais completo no dia a dia (calendário, contatos, 60 GB por pessoa, passkeys, importação do Gmail), preço em reais e política de dados clara.
+- **Pontos de atenção:** não reembolsa o período não usado e não aceita transferência bancária. Parte da informação sobre a infraestrutura vem de comunicado da empresa e de matérias que o reproduzem.
+- **Não verificado:** valores do limite de envio por plano e idioma da interface.
 
-- Domínio próprio só nos planos **Standard** e **Premium** (50 e 250 aliases). O Light só usa domínio próprio como membro de uma conta família.
-- **Conta família:** até 10 contas, cada membro com caixa separada, cobrada conforme o plano escolhido. O administrador precisa ser Standard ou Premium.
-- Webmail, IMAP e POP3 em todos os planos, então funciona com Outlook, Thunderbird, Apple Mail e o app Gmail do celular. Há calendário, contatos, 2FA e PGP opcional.
-- Standard e Premium incluem Drive, edição de documentos online e videoconferência.
-- 30 dias de teste grátis, sem contrato longo. Migração gratuita de e-mails, e o serviço de mudança com a Audriga está incluído no Standard e no Premium.
-- Pagamento por **crédito pré-pago** (cartão, PayPal, débito SEPA ou transferência), e o crédito **não é reembolsado**. Os preços incluem o IVA do país do usuário, e a página não diz o que muda para quem mora no Brasil.
-- Suporte do Standard por e-mail, geralmente em até 48 horas úteis. Site e suporte em alemão e inglês.
-- A página não informa limites de envio por dia.
+#### mailbox.org Standard
+- **Pontos fortes:** infraestrutura própria na Alemanha, 30 dias de teste, Drive e edição de documentos incluídos, migração gratuita e PGP opcional.
+- **Pontos de atenção:** pagamento em euros por crédito pré-pago, sem reembolso, e site em alemão e inglês. Domínio próprio exige Standard ou Premium, e o administrador da conta família precisa ser Standard ou Premium. Os preços incluem o IVA do país do usuário, e a página não diz o que muda para quem mora no Brasil.
+- **Variante mais barata:** 1 Standard + 2 Light por € 60/ano. Os Light têm só 2 GB, sem Drive, e suporte limitado.
+- **Não verificado:** limite de envio, posição sobre IA e acesso interno ao conteúdo.
 
-#### Fastmail
+#### Migadu Mini
+- **Pontos fortes:** menor custo entre os que têm limite de envio razoável (depois do Frankly Mail), empresa independente e autofinanciada desde 2014, declaração clara de não acessar os dados, sem ferramentas de análise e teste sem cartão.
+- **Pontos de atenção:** interface só em inglês, sem 2FA nas caixas, calendário básico, mudanças levam cerca de 3 minutos, sem garantia de disponibilidade (SLA) e suporte só por e-mail. Os 30 GB e os 100 envios por dia são **divididos entre os três**. Sem criptografia em repouso.
+- **Não verificado:** quais fornecedores operam os data centers (só diz que ficam na França, em informação de 2020), como importar do Gmail e a duração do teste.
 
-- O Family é mais barato que três assinaturas Standard (R$ 60/mês) e permite até 6 pessoas.
-- Todos no plano podem criar endereços nos domínios compartilhados.
-- Funciona com apps próprios e com Outlook, iPhone Mail e Thunderbird.
-- Importação de e-mails de outros provedores com ferramenta própria e ajuda gratuita.
-- 30 dias de teste grátis. Não há reembolso por período não usado e não aceita transferência bancária. Pagamento por cartão, PayPal, Apple Pay ou Google Pay.
+#### Shipmail Pro
+- **Pontos fortes:** limite de envio folgado, CalDAV e CardDAV, 2FA, dados principais na Alemanha, e exportação completa de e-mails, calendários e contatos.
+- **Pontos de atenção:** produto voltado a pequenas empresas e desenvolvedores, com boletins, API e assistente de IA que a família não precisa. Cobrança em dólar. Não achei há quanto tempo opera nem o tamanho da empresa, e o nome do autor do site é de uma só pessoa. A nota no G2 e o número de clientes são divulgados pelo próprio site.
+- **Não verificado:** política de privacidade completa (só li o acordo de processamento de dados), política de reembolso e importação do Gmail.
 
-#### Shipmail
+#### Frankly Mail
+- **Pontos fortes:** é de longe o mais barato (US$ 9/ano com caixas ilimitadas), com webmail, IMAP, POP3 e JMAP, 2FA, importador do Gmail que roda no servidor deles, reembolso integral em 30 dias, calendário e videochamadas incluídos. Os termos e a política de privacidade são detalhados e diretos, inclusive sobre os pontos desfavoráveis.
+- **Pontos de atenção:**
+  - **Espaço:** os 10 GB são **divididos entre os três** (cerca de 3,3 GB por pessoa). Mais espaço custa US$ 0,40 por GB/ano, o que ainda é barato: 60 GB no total saem por US$ 29/ano.
+  - **Suporte:** o e-mail hello@franklymail.com é "o departamento de suporte inteiro", sem fila de tíquetes.
+  - **Garantias:** os termos dizem que **não há garantia de disponibilidade**, e a responsabilidade da empresa fica limitada ao que vocês pagaram nos últimos 12 meses (cerca de US$ 9). Contas podem ser suspensas sem aviso por envio em massa.
+  - **Empresa:** é um produto de uma empresa turca, regida pela lei da Turquia. Não achei há quanto tempo opera, e a política e os termos foram atualizados em 27 de outubro de 2026, ontem em relação a esta análise.
+  - **Envio em massa proibido:** serve para correspondência individual e de pequenas equipes, o que cabe à família.
+  - **Sem teste grátis:** só o reembolso integral em 30 dias, mas a cobrança já acontece na compra.
+- **Não verificado:** limite de envio, sincronização CalDAV e contatos, idioma do webmail, criptografia dos e-mails armazenados e como o importador lida com o Gmail (que costuma exigir senha de aplicativo).
 
-- Cobra por **caixa**. O Solo (US$ 4/mês) tem só 2 caixas, então o **Pro** (US$ 9/mês, 4 caixas) é o que atende os três.
-- Webmail, IMAP e SMTP, CalDAV e CardDAV, caixas compartilhadas, 2 aliases por caixa e endereço "pega-tudo".
-- **Envio:** 40.000 por mês no Pro, somados para a organização, e cada e-mail conta como um, qualquer que seja o número de destinatários. É folgado para uma família.
-- Dados principais na Alemanha, criptografados no servidor, mas **sem criptografia de ponta a ponta**, e os servidores conseguem ler o conteúdo para buscar, filtrar e rodar o assistente.
-- A detecção automática de eventos de calendário nos e-mails recebidos vem ativada por padrão. O assistente de IA (beta) pode ser desligado.
-- 14 dias de teste, com cartão no cadastro. Cobrança em dólar. A importação do Gmail não está descrita nas páginas.
-- Não encontrei há quanto tempo o serviço opera nem o tamanho da empresa. O autor do site consta como uma única pessoa. A nota no G2 e o número de clientes são divulgados pelo próprio site.
+#### Google Workspace Starter (referência)
+- **Pontos fortes:** mantém o Gmail no navegador exatamente como hoje, com Drive, Agenda e Meet, e tudo em português.
+- **Pontos de atenção:** o mais caro, cerca de R$ 1.472 por ano para os três, e com 30 GB divididos com Drive e Fotos.
+- **Não verificado nesta rodada:** limite de envio, teste grátis, local dos dados e acesso humano ao conteúdo.
 
-#### Migadu
+### Avaliação e ordem sugerida
 
-- Preço fixo por conta, com caixas e endereços ilimitados.
-- Os limites de envio e de recebimento valem para a conta inteira: Micro 20 envios/dia, Mini 100/dia.
-- Pontos fracos admitidos pelo próprio site: interface só em inglês, sem 2FA nas caixas, calendário básico, mudanças levam cerca de 3 minutos e não há garantia de disponibilidade.
-- Suporte por e-mail e tíquetes, com ajuda para configurar o DNS. Reembolso em até 14 dias.
-- Funciona com qualquer aplicativo de e-mail.
-
-### Sugestão de ordem para a família
-
-1. **mailbox.org Standard**: cerca de € 108/ano para os três. É o que melhor atende ao critério de independência, com servidores próprios em Berlim, IMAP, calendário e 30 dias de teste. Em contrapartida, a cobrança é em euros por crédito pré-pago sem reembolso, e o suporte é só em alemão e inglês.
-2. **Fastmail Family**: R$ 528/ano em reais, com 60 GB por pessoa, apps conhecidos, 30 dias de teste e importação do Gmail. É o mais simples de usar e opera o próprio hardware, mas a infraestrutura fica nos EUA e em Amsterdã, e a empresa é australiana.
-3. **Migadu Mini**: reserva barata (US$ 90/ano), com muito menos conforto e 30 GB divididos entre os três. Eu só o consideraria se o custo for decisivo, e antes verificaria onde ficam os servidores.
-4. **Shipmail Pro**: o preço e os recursos são bons, mas o uso de Amazon e Cloudflare contraria o critério de vocês. Eu o deixaria de lado, a não ser que o custo pese mais que a independência.
-5. **Google Workspace**: só se alguém fizer questão do Gmail no navegador, e ele vai contra o critério de vocês.
+1. **Fastmail Family:** a opção mais completa e previsível. Atende ao critério de não ser o produto, tem o melhor espaço por pessoa (60 GB), calendário, passkeys, teste de 30 dias, importação do Gmail e cobrança em reais. Em contrapartida, a empresa é australiana, com infraestrutura nos EUA e em Amsterdã.
+2. **mailbox.org Standard:** praticamente empatado, com infraestrutura própria na Alemanha e Drive incluído. Perde pela cobrança em euros por crédito pré-pago, pelo idioma e por haver menos informações sobre limites e IA.
+3. **Migadu Mini:** a opção barata, de postura mais transparente sobre privacidade e com histórico desde 2014, mas com muito menos conforto (inglês, sem 2FA, calendário básico) e espaço e envio divididos entre os três.
+4. **Frankly Mail:** o menor custo da lista, com recursos surpreendentemente completos e boa transparência. O que pesa contra é a falta de histórico verificável da empresa, o suporte só por e-mail, a ausência de garantia de disponibilidade e o espaço compartilhado. Por haver reembolso integral em 30 dias, o risco financeiro do teste é pequeno, e eu o consideraria como alternativa de baixo custo ou como segunda caixa de teste.
+5. **Shipmail Pro:** bom custo e limites folgados, mas é o que mais depende de terceiros e tem IA ligada por padrão. Só o consideraria depois de ler a política de privacidade completa.
+6. **Google Workspace:** só se alguém fizer questão do Gmail no navegador. O custo é bem maior, e vocês consideram o histórico da empresa um fator contra.
 
 ### Confirmar antes de contratar
 
-- **mailbox.org:** se há imposto para quem mora no Brasil, qual o limite de envios por dia e como fica a conta família com o domínio de vocês (o administrador precisa ser Standard ou Premium).
-- **Fastmail:** valor final no checkout em reais, com impostos, e qual região de dados escolher.
-- **Migadu:** onde ficam os servidores e quais fornecedores usa.
-- **Shipmail** (se continuar considerando): como funciona a importação do Gmail e o preço anual exato do Pro.
-- **Todos:** quanto de espaço cada pessoa usa hoje no Gmail.
+- **Fastmail:** valor final no checkout, valores do limite de envio, idioma da interface e a região de dados a escolher.
+- **mailbox.org:** imposto para quem mora no Brasil, limite de envio, posição sobre IA e como fica a conta família com o domínio de vocês.
+- **Migadu:** fornecedor dos data centers, como importar do Gmail e duração do teste.
+- **Frankly Mail:** limite de envio, sincronização de calendário e contatos, idioma do webmail, criptografia dos e-mails armazenados, há quanto tempo a empresa opera e quanto espaço cada pessoa realmente usa.
+- **Shipmail:** política de privacidade completa, política de reembolso, importação do Gmail e preço anual exato do Pro.
+- **Todos:** quanto de espaço cada pessoa usa hoje no Gmail. Esse número decide se o espaço compartilhado do Frankly Mail e do Migadu basta.
 
 ### Próximo passo
 
@@ -158,9 +133,10 @@ Escolhido o serviço, falta o passo a passo da mudança (o que alterar no Square
 
 ### Fontes
 
-- [Comentários do Fórum Órbita sobre os serviços](https://orbita.social.br/p/bxyAjdWBxz/ajuda-com-a-mudanca-do-servico-de-email#comentarios).
-- Google: [mudanças no suporte a contas de terceiros](https://support.google.com/mail/answer/17101213?hl=pt-BR) · [preços do Workspace](https://support.google.com/a/answer/1247360?hl=pt-BR) · [edições Business e armazenamento](https://support.google.com/a/answer/13062337?hl=pt-br)
-- Fastmail: [preços e perguntas frequentes](https://www.fastmail.com/pricing/br/) · [comunicado sobre o data center de Amsterdã](https://securitybrief.co.uk/story/fastmail-opens-amsterdam-data-centre-for-eu-email-users)
-- mailbox.org: [preços e perguntas frequentes](https://mailbox.org/en/prices/) · [por que mailbox.org](https://mailbox.org/en/why-mailbox/)
+- Google: [mudanças no suporte a contas de terceiros](https://support.google.com/mail/answer/17101213?hl=pt-BR) · [preços do Workspace](https://support.google.com/a/answer/1247360?hl=pt-BR) · [edições Business e armazenamento](https://support.google.com/a/answer/13062337?hl=pt-br) · [compromissos de privacidade do Workspace](https://support.google.com/mail/answer/14615114?hl=en)
+- Fastmail: [preços e perguntas frequentes](https://www.fastmail.com/pricing/br/) · [recursos](https://www.fastmail.com/features/) · [segurança](https://www.fastmail.com/features/security/) · [política de privacidade](https://www.fastmail.com/privacy/) · [privacidade (central de ajuda)](https://www.fastmail.help/hc/en-us/articles/6049922252943-Fastmail-privacy) · [IMAP, CalDAV e CardDAV](https://fastmail.help/hc/en-us/articles/1500000278342) · [limites](https://www.fastmail.com/help/account/limits.html) · [data center de Amsterdã](https://securitybrief.co.uk/story/fastmail-opens-amsterdam-data-centre-for-eu-email-users)
+- mailbox.org: [preços e perguntas frequentes](https://mailbox.org/en/prices/) · [por que mailbox.org](https://mailbox.org/en/why-mailbox/) · [privacidade](https://www.mailbox.org/en/private)
+- Migadu: [início](https://www.migadu.com/) · [preços e FAQ](https://www.migadu.com/pricing/) · [prós e contras](https://www.migadu.com/procon/) · [privacidade](https://www.migadu.com/privacy/) · [sobre](https://www.migadu.com/about/)
 - Shipmail: [início](https://shipmail.to/) · [preços](https://shipmail.to/pricing) · [segurança](https://shipmail.to/security) · [DPA e fornecedores](https://shipmail.to/dpa)
-- Migadu: [preços e FAQ](https://www.migadu.com/pricing/) · [prós e contras](https://www.migadu.com/procon/)
+- Frankly Mail: [início e preços](https://franklymail.com) · [política de privacidade](https://franklymail.com/legal/privacy) · [termos de serviço](https://franklymail.com/legal/terms)
+- Posteo: [FAQ (domínios próprios)](https://posteo.de/en/site/faq)
