@@ -20,6 +20,8 @@ Nós somos acostumados a nos apresentar falando nossa profissão, isso passa lon
 
 <b style="background-color: gray; color: #F5F5F5; padding: 1px 6px; border-radius: 3px;">Ateu</b>, mas já frequentei a igreja católica por muito tempo. Não estou aqui para te mostrar o caminho e você não precisa me mostrar um  caminho.   
 
+<b style="background-color: darkred; color: #F5F5F5; padding: 1px 6px; border-radius: 3px;">Comunista</b> e espero estar vivo para ver o dia em que o capitalismo caia e tenhamos finalmente liberdade. Mas se você chegou até aqui, deve saber disso. 
+
 <b style="background-color: red; color: #F5F5F5; padding: 1px 0 1px 6px; border-radius: 3px 0 0 3px;">São</b><b style="background-color: #FFFFFF; color: #000000; padding: 1px 0 1px 0;">-paul</b><b style="background-color: black; color: #F5F5F5; padding: 1px 6px 1px 0; border-radius: 0 3px 3px 0;">ino</b>, hoje isso faz menos parte da minha vida, mas durante algum tempo torcer para o São Paulo FC era algo bem mais presente.  
 
 <b style="background-color: black; color: #F5F5F5; padding: 2px 6px; border-radius: 3px;">Racismo</b> ou qualquer conversinha contra pessoas <b style="background: linear-gradient(90deg, #ff0000, #ff9900, #ffee00, #33ff00, #0066ff, #6600ff, #ff00cc); color: #000000; padding: 1px 6px; border-radius: 3px;">LGBTQIAPN+</b> ou contra <b style="background: linear-gradient(
