@@ -6,8 +6,6 @@ permalink: "/novo-email-comparativo"
 ---
 <h2 id="topo"><span aria-hidden="true">|</span><span class="h2-menor">novo </span>email da família<span class="h2-menor">: o que descobrimos</span> </h2>
 
-### E-mail da família: comparativo atualizado
-
 Atualizado em 28 de outubro de 2026. Valores nas moedas originais, sem conversão, para **3 pessoas** usando o domínio próprio. Confirme os preços no checkout antes de contratar.
 
 ### Por que mudar
