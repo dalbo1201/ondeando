@@ -64,7 +64,7 @@ Antes de escolher, vale conferir quanto cada um usa hoje. O Gmail gratuito tem 1
 
 ### Independência de big techs
 
-Esta é a comparação que mais importa para o seu critério. As informações vêm das páginas dos próprios serviços e, no caso do Fastmail, de um comunicado da empresa e de matérias que o reproduzem.
+Esta é uma comparação importante e que mesmo não sendo determinante tem seu valor, principalmente porque colabora com empresas menores e que tentem a utilizar menos nossos dados como produto. As informações vêm das páginas dos próprios serviços e, no caso do Fastmail, de um comunicado da empresa e de matérias que o reproduzem.
 
 #### mailbox.org: a mais independente
 
