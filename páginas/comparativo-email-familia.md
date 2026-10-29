@@ -133,6 +133,7 @@ Escolhido o serviço, falta o passo a passo da mudança (o que alterar no Square
 
 ### Fontes
 
+- [Comentários do Fórum Órbita sobre os serviços](https://orbita.social.br/p/bxyAjdWBxz/ajuda-com-a-mudanca-do-servico-de-email#comentarios).
 - Google: [mudanças no suporte a contas de terceiros](https://support.google.com/mail/answer/17101213?hl=pt-BR) · [preços do Workspace](https://support.google.com/a/answer/1247360?hl=pt-BR) · [edições Business e armazenamento](https://support.google.com/a/answer/13062337?hl=pt-br) · [compromissos de privacidade do Workspace](https://support.google.com/mail/answer/14615114?hl=en)
 - Fastmail: [preços e perguntas frequentes](https://www.fastmail.com/pricing/br/) · [recursos](https://www.fastmail.com/features/) · [segurança](https://www.fastmail.com/features/security/) · [política de privacidade](https://www.fastmail.com/privacy/) · [privacidade (central de ajuda)](https://www.fastmail.help/hc/en-us/articles/6049922252943-Fastmail-privacy) · [IMAP, CalDAV e CardDAV](https://fastmail.help/hc/en-us/articles/1500000278342) · [limites](https://www.fastmail.com/help/account/limits.html) · [data center de Amsterdã](https://securitybrief.co.uk/story/fastmail-opens-amsterdam-data-centre-for-eu-email-users)
 - mailbox.org: [preços e perguntas frequentes](https://mailbox.org/en/prices/) · [por que mailbox.org](https://mailbox.org/en/why-mailbox/) · [privacidade](https://www.mailbox.org/en/private)
