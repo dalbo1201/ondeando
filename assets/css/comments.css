@@ -297,3 +297,28 @@
 .btn-cancel:hover {
   color: var(--color-link);
 }
+
+/* ---- Celular: recuo compacto e sem recuo extra a partir do nível 4 ---- */
+@media (max-width: 600px) {
+  .comment-inner {
+    padding-left: 1.2rem;      /* era 1.8rem */
+  }
+
+  .comment-replies {
+    padding-left: 0.4rem;      /* era 0.8rem */
+  }
+
+  .comment-replies::before {
+    left: 0.3rem;              /* acompanha o novo padding */
+  }
+
+  /* Respostas ao nível 4 (ou seja, o nível 5) ficam alinhadas ao nível 4 */
+  .comment.depth-4 > .comment-inner > .comment-replies {
+    margin-left: -1.2rem;      /* cancela o padding-left do .comment-inner */
+    padding-left: 0;
+  }
+
+  .comment.depth-4 > .comment-inner > .comment-replies::before {
+    display: none;             /* sem linha vertical, já que não há recuo */
+  }
+}

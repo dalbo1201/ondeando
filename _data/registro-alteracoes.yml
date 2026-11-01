@@ -1,4 +1,13 @@
 - ano: "2026"
+  data_id: "2026-11-01"
+  data_texto: "01 de novembro"
+  entradas:
+    - tags: ["html", "liquid", "jekyll"]
+      texto: |
+        Alterei o código do arquivo `comments.html` para que tenhamos 5 níveis de conversa nos comentários. Para além disso, foi criado o arquivo `comment-thread.html` que contém o modelo de um comentário escrito uma única vez; ele busca as o elemento `parent` das respostas recebidas e, para cada uma, chama a si com `depth + 1`. Com isso o código fica um pouco mais enxuto.  
+        Troquei a variável do `author` que estava direto o meu nome para uma variável que puxa do `_config.yml`.
+
+- ano: "2026"
   data_id: "2026-10-07"
   data_texto: "07 de outubro"
   entradas:

@@ -1,0 +1,49 @@
+{%- comment -%}
+  Renderiza, recursivamente, as respostas de um comentário.
+
+  Parâmetros:
+    comments  = lista completa de comentários da página
+    parent    = id do comentário pai (0 = comentários raiz)
+    depth     = nível atual (começa em 1)
+    max_depth = nível máximo permitido (ex.: 5)
+
+  ATENÇÃO: no Jekyll, "assign" dentro de include é GLOBAL e é sobrescrito
+  pelas chamadas recursivas. Por isso nenhuma variável assign é usada
+  DEPOIS da chamada recursiva (o include recursivo é a última coisa do bloco).
+{%- endcomment -%}
+{% assign children = include.comments | where: "parent_id", include.parent %}
+{% for c in children %}
+  {% assign is_author = false %}
+  {% if c.name == site.author %}{% assign is_author = true %}{% endif %}
+  <div class="comment depth-{{ include.depth }}" id="comment-{{ c.id }}">
+    <div class="comment-header">
+      <span class="comment-avatar">
+        {% if is_author %}<img src="{{ '/assets/favicon/favicon_cartoon-180.png' | relative_url }}" alt="autor" class="comment-avatar-img" />
+        {% else %}<i class="fa-solid fa-user"></i>{% endif %}
+      </span>
+      <span class="comment-meta">
+        {% if c.url and c.url != "" %}<a href="{{ c.url }}" class="comment-author" rel="noopener noreferrer nofollow">{{ c.name }}</a>
+        {% else %}<span class="comment-author">{{ c.name }}</span>{% endif %}
+        {% if is_author %}<span class="comment-author-badge">autor</span>{% endif %}
+        <time class="comment-date" datetime="{{ c.date }}">{{ c.date | date: "%d/%m/%Y" }}</time>
+      </span>
+    </div>
+    <div class="comment-inner">
+      <div class="comment-body">{{ c.message | markdownify }}</div>
+
+      {% if include.depth < include.max_depth %}
+        <div class="comment-footer">
+          <button class="btn-reply" onclick="replyTo('{{ c.id }}', '{{ c.name | escape }}')">↩ responder</button>
+        </div>
+
+        {% assign replies = include.comments | where: "parent_id", c.id %}
+        {% if replies.size > 0 %}
+          {% assign next_depth = include.depth | plus: 1 %}
+          <div class="comment-replies">
+            {% include comment-thread.html comments=include.comments parent=c.id depth=next_depth max_depth=include.max_depth %}
+          </div>
+        {% endif %}
+      {% endif %}
+    </div>
+  </div>
+{% endfor %}
