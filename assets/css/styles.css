@@ -754,11 +754,6 @@ time.album-data {
 }
 
 /* INÍCIO Estilos para blockquote */
-blockquote {
- margin: 5px 0px 20px 20px;
- padding: 0;
-}
-
 blockquote:not(.fleabag) p, .tutorial blockquote { 
  font-size: clamp(1.1rem, 2vw, 1.2rem);
  line-height: clamp(1.5rem, 2vw, 1.7rem);
@@ -808,7 +803,7 @@ cite {
  text-wrap: balance;
  text-align: right;
  margin-bottom: 1rem;
- max-width: 100%;
+ max-width: 80%;
 }
 
 /* INÍCIO Estilo especial para blockquote em posts com type: citacao */
