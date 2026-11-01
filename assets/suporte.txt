@@ -45,6 +45,7 @@ post tags:
 - livros
 - metablog
 - museus
+- músicas
 - pandemia
 - passeios
 - postagem coletiva
