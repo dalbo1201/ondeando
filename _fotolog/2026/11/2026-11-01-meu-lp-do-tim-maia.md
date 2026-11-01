@@ -8,7 +8,6 @@ caption: "Meu LP do Tim Maia [...]"
 tags:
  - músicas
  - a vida, o universo e tudo mais
-published: false
 ---
 <figure>
 <img class="u-photo" src="/assets/fotos/2026/10/20261017_180931.jpg" alt="LP do Tim Maia, álbum com a foto do Tim num fundo azul">
