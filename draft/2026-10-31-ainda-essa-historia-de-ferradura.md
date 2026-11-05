@@ -24,7 +24,7 @@ Do outro lado temos alguém que tenho uma série de discordâncias, mas _pelo me
 
 Para além disso, já se passaram 12 anos em que ele governou, mais uns 6 de sua sucessora e não tivemos por parte deles intuito ou sequer indício de que a _Democracia Burguesa_ poderia sofrer algum golpe. Pelo contrário, quando foi levantada a ideia para ele de que poderia permitir uma segunda reeleição não levou para frente. Diferente de seu antessessor que na primeira oportunidade implantou a reeleição e em seu próprio mandato. Ou seja, foram outros que abriram as portas para o tetra.  
 
-Todo esse texto para introduzir uma simples expressão de descrédito ao ler [uma postagem no meu feed](https://luana.cc/brasil/).  
+Todo esse texto para introduzir uma simples expressão de descrédito ao ler uma postagem no meu feed.  
 
 > Comemorar um político eleito ou reeleito como quem comemora uma final de campeonato de futebol, demonstra que deixamos de raciocinar como cidadãos e algo deu muito errado [...]
 > [...] Direita ou esquerda? Tanto faz. Nesse infeliz estádio de futebol chamado Brasil, a torcida se apedreja, se insulta, briga e se mata.
@@ -45,3 +45,6 @@ Mas parece ser mais fácil manter um pensamento **preguiçoso** de que estamos e
 Então, sim. Se nós comemoramos essa vitória de uma maneira estrondosa é porque a alegria de sabermos que teremos ao menos mais quatro anos de **apoio à vida** nos encheu de esperança.  
 
 Eu fico muito feliz de ver que mais uma vez estive **do lado certo da História** e espero que nunca percamos as parcas conquistas que temos e que continuemos nossa luta por **mais dignidade e vida**.
+
+<aside class="aviso-caixa"><div class="aviso-texto">Seguinte, não vou dar link do texto que eu li porque não quero dar palco. A curiosidade bateu forte? <a href="mailto:pedro@dalbo.me?subject=Do blog, {{ page.title }}">Me manda um email</a> que eu mando no privado e vai ficar por isso mesmo.</div></aside>
+<span id="tecnicalidades"></span>
