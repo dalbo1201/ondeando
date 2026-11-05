@@ -13,7 +13,7 @@ Imagine que você tem aquele amigo que não o vê há muito tempo, aqui você co
 Bom, é isso o que vai encontrar por aqui.  
 <hr> 
 <aside class="atualizacao">
-    atualizado em 10 de outubro de 2026.
+    atualizado em 04 de novembro de 2026.
 </aside>
 <h4 id="pessoal">Pessoal</h4>
 Estamos numa batalha para deixar nossos gatos vivendo em alguma harmonia, temos uma evolução, mas ainda pequenas batalhas a vencer.  
@@ -26,6 +26,7 @@ O objetivo maior é envelhecer com alguma qualidade de vida. Não quero perder a
 
 <h4 id="profissional">Profissional</h4>  
 Trabalhando na Projeta Infraestrutura como engenheiro de projetos rodoviários a convite do meu amigo Renan que acredita que meu trabalho e experiência podem ajudar a equipe. Fico feliz pela confiança e espero retribuir a altura.  
+As próximas semanas serão puxadas, viajo para Minas Gerais para uma vistoria para reconhecimento e depois vou para o Paraná, também para uma vistoria para reconhecimento, para elaboração de projetos. Viajar assim e ficar percorrendo rodovias é cansativo, mas é uma das coisas que mais gosto do trabalho; estar presente no _futuro local da obra_ é algo que ajuda demais quando realizar o projeto, são conhecimentos que ajudam demais a visualizar o que está _no papel_.
 
 <h4 id="curiosidade">Curiosidades</h4>
 O tempo todo brincando de mexer nesse _meu espaço da internet_, um hobby para dizer que faço alguma coisa.  
@@ -49,6 +50,7 @@ Estou _praticando_ espanhol no Duolingo, por ~~insistência~~ apoio de S. Tem si
 <h5 id="series">Séries que estou vendo <a href="https://bingeboxd.com/users/dalbo1201" class="linkdata" title="meu perfil no bingeboxd"><i class="fa-solid fa-tv"></i></a>:</h5>
 <ul>
     <li><a href="/assistindo/veronica-mars-comentarios">Veronica Mars</a>&nbsp;| Locadora&nbsp;| temporada&nbsp;1;↺</li>
+    <li>VisionQuest&nbsp;| Disney+&nbsp;| temporada&nbsp;1;</li>
     <li>House of The Dragon&nbsp;| HBO&nbsp;Max&nbsp;| temporada&nbsp;3;</li>
     <li>A Treta&nbsp;| Netflix&nbsp;| temporada&nbsp;1;</li>
     <li>Fallout&nbsp;| Prime&nbsp;Video&nbsp;| temporada&nbsp;2;</li>
