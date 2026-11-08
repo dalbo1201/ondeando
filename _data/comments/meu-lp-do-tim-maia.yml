@@ -7,7 +7,7 @@
   message: |  
     Vou colocar na lista pra ouvir... Bom de ter essas referências de pessoas com músicas, de painho, eu tenho associação com o Pavarotti
 
-- id: 1
+- id: 2
   parent_id: 0
   date: "2026-11-02T10:59:23.931Z"
   name: "Jeniffer Geraldine"
@@ -16,3 +16,13 @@
   message: |  
     Nossa, que presentão! Tim Maia é tudo de bom. Escuto sempre por aqui. 
     Um abraço!
+
+- id: 3
+  parent_id: 0
+  date: "2026-11-08T14:50:42.450Z"
+  name: "xis"
+  email: "arantxa.carolina@gmail.com"
+  url: "https://arantchans.com/"
+  message: |  
+    há algum tempo recebi uma carta e um livro de presente, de uma amiga querida que conheci através de blogs. o livro é um dos primeiros quadrinhos que comprei eu mesma, com meu dinheiro, e me senti muito feliz ganhando, mesmo que já tivesse lido.
+    engraçado como as pessoas acertam tanto nos presentes quando conhecem a gente, né?
