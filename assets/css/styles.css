@@ -759,20 +759,20 @@ blockquote:not(.fleabag) p, .tutorial blockquote {
  line-height: clamp(1.5rem, 2vw, 1.7rem);
  border-left: 7px solid var(--color-link);
  padding: 10px 0px 10px 10px;
- max-width: 80%;
+ max-width: 90%;
 }
 
 .fleabag {
-  font-size: clamp(1rem, 1.5vw, 1.06rem);
-  line-height: clamp(1.5rem, 2vw, 1.7rem);
-  color: var(--color-background);
-  max-width: 80%; 
-  background-color: var(--color-hover);
-  border-radius: 0.5rem 0.5rem 0.5rem 0;
-  border-left: none;
-  padding: 0.5rem 0.5rem;
-  position: relative; 
-  display: inline-block;
+ font-size: clamp(1rem, 1.5vw, 1.06rem);
+ line-height: clamp(1.5rem, 2vw, 1.7rem);
+ color: var(--color-background);
+ max-width: 90%; 
+ background-color: var(--color-hover);
+ border-radius: 0.5rem 0.5rem 0.5rem 0;
+ border-left: none;
+ padding: 0.5rem 0.5rem;
+ position: relative; 
+ display: inline-block;
 }
 
 .fleabag p {
@@ -802,7 +802,7 @@ cite {
  text-wrap: balance;
  text-align: right;
  margin-bottom: 1rem;
- max-width: 80%;
+ max-width: 90%;
 }
 
 /* INÍCIO Estilo especial para blockquote em posts com type: citacao */
@@ -812,7 +812,7 @@ article.blog-article.blog-citacao blockquote p {
  line-height: 1.3;
  font-weight: 500;
  font-style: italic;
- max-width: 80%;
+ max-width: 90%;
  display: block;
  position: relative;
  z-index: 1;
