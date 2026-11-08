@@ -19,7 +19,7 @@
  --font-h5:      'Lexend', sans-serif; /* texto com cara de título em negrito */
  --font-h6:      'Lexend', sans-serif; /* texto com cara de título em negrito e uma aparencia mais apagada, como as informações dos blogs no blogrol */
  --font-nav:     'Montserrat', sans-serif; /* Fonte dos links nav */
- --font-citacao: 'Montserrat', sans-serif; 
+ --font-citacao: 'Artifika', serif; 
  --font-aspas: 'Fraunces', 'Georgia', serif; /* Fonte das aspas em citações */
  --font-code: monospace; /* Fonte do código */
 }
@@ -757,7 +757,6 @@ time.album-data {
 blockquote:not(.fleabag) p, .tutorial blockquote { 
  font-size: clamp(1.1rem, 2vw, 1.2rem);
  line-height: clamp(1.5rem, 2vw, 1.7rem);
- font-style: italic;
  border-left: 7px solid var(--color-link);
  padding: 10px 0px 10px 10px;
  max-width: 80%;
@@ -788,12 +787,12 @@ blockquote:not(.fleabag) p, .tutorial blockquote {
 
 /* A Seta do Balão */
 .fleabag::after {
-  content: "";
-  position: absolute;
-  bottom: 0px;
-  left: -15px; 
-  border-right: 16px solid var(--color-hover);
-  border-top: 10px solid;
+ content: "";
+ position: absolute;
+ bottom: 0px;
+ left: -15px; 
+ border-right: 16px solid var(--color-hover);
+ border-top: 10px solid;
 }
 
 cite {
@@ -808,12 +807,11 @@ cite {
 
 /* INÍCIO Estilo especial para blockquote em posts com type: citacao */
 article.blog-article.blog-citacao blockquote p {
+ font-family: var(--font-citacao);
  font-size: clamp(1.2rem, 2.2vw, 1.6rem);
  line-height: 1.3;
- font-family: var(--font-citacao);
  font-weight: 500;
  font-style: italic;
-
  max-width: 80%;
  display: block;
  position: relative;
@@ -841,6 +839,7 @@ article.blog-article.blog-citacao blockquote p::after {
 article.blog-article.blog-citacao cite {
  display: block;
  text-align: right;
+ font-family: var(--font-citacao);
  font-size: clamp(1.12rem, 1.5vw, 1.18rem);
  max-width: 90%;
  margin-top: 60px;

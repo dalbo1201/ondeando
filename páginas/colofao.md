@@ -14,7 +14,8 @@ A ideia, é claro, foi [retirada da literatura](https://pt.wikipedia.org/wiki/C%
 <hr>
 
 <h4 id="descricao-do-site"> Descrição do site</h4>
-A tipografia é dividida entre a fonte **[Montserrat<sup>[en]</sup>](https://github.com/JulietaUla/Montserrat "a fonte deste cantinho")** que é usada nos títulos e a fonte **Lexend** que é uma fonte supostamente [com melhor leitura<sup>[en]</sup>](https://www.lexend.com/). As setas são [elementos unicode<sup>[en]</sup>](https://symbl.cc/pt/unicode-table/#arrows "as setas") e os ícones da [Font Awesome<sup>[en]</sup>](https://fontawesome.com "os ícones do site, inclusive de mídias-sociais").  
+A tipografia é dividida entre a fonte [**Montserrat<sup>[en]</sup>**](https://github.com/JulietaUla/Montserrat "a fonte deste cantinho") que é usada nos títulos, a fonte **Lexend** que é uma fonte supostamente [com melhor leitura<sup>[en]</sup>](https://www.lexend.com/) e a [**Artifika<sup>[en]</sup>**](https://www.cyreal.org/fonts/artifika/ "fonte para citações, não sei se definitiva") usada nas citações.  
+As setas são [elementos unicode<sup>[en]</sup>](https://symbl.cc/pt/unicode-table/#arrows "as setas") e os ícones da [Font Awesome<sup>[en]</sup>](https://fontawesome.com "os ícones do site, inclusive de mídias-sociais").  
 
 Este cantinho tem como cores predominantes:
 - Tech White (cinza claro, quase branco) ([#F5F5F5<sup>[en]</sup>](https://www.color-name.com/hex/f5f5f5 "o fundo, ou o texto"));

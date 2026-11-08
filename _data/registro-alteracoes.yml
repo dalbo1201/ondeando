@@ -1,4 +1,12 @@
 - ano: "2026"
+  data_id: "2026-11-08"
+  data_texto: "08 de novembro"
+  entradas:
+    - tags: ["css"]
+      texto: |
+        Coloquei uma tipografia exclusiva para as postagens de citações, a Artifika. Gostei da ideia de uma fonte exclusiva para esse tipo de postagem, mas ainda não decidi se será ela a definitiva. Atualizei o [COLOFÃO](/colofao) com o uso da fonte.
+
+- ano: "2026"
   data_id: "2026-11-01"
   data_texto: "01 de novembro"
   entradas:
