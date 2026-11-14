@@ -15,7 +15,7 @@ Se for o caso é só adicionar o endereço no seu leitor:
 O FEED ou o <i>famigerado</i> RSS é uma forma simples de acompanhar muitas coisas na internet, entre canais do YouTube, podcasts ou blogs, como este aqui.
 Os feeds colocam você no controle. É como assinar um podcast ou seguir uma empresa no Instagram. A vantagem é que você não precisa pagar ou entregar seu endereço de email, você obtém o conteúdo mais recente sem ter que visitar muitos sites e sem sobrecarregar sua caixa de entrada. Não quer mais? Fácil: cancele a inscrição no feed.
 
-Ainda não tem um aplicativo ou leitor de feeds ou quer saber um pouco mais, acesse [este site<sup>[en]</sup>](https://aboutfeeds.com/ "Original em inglês") [<sup>[pt-br]</sup>](https://aboutfeeds-com.translate.goog/?_x_tr_sl=en&_x_tr_tl=pt&_x_tr_hl=pt-BR&_x_tr_pto=wapp Traduzido para o português) que tem mais explicações e dicas de aplicativos.
+Ainda não tem um aplicativo ou leitor de feeds ou quer saber um pouco mais, acesse [este site](https://aboutfeeds-com.translate.goog/?_x_tr_sl=en&_x_tr_tl=pt&_x_tr_hl=pt-BR&_x_tr_pto=wapp) que tem mais explicações e dicas de aplicativos.
 
 Se você usa um celular Android me dou a liberdade de recomendar o [Capy Reader](https://play.google.com/store/apps/details?id=com.capyreader.app "Um leitor que tem uma Capivara de mascote S2"), um aplicativo de leitor de RSS super leve, simples e que tem como ícone uma Capivara. Tem como ser melhor? Dúvido!
 
