@@ -5,7 +5,6 @@ title: "Ainda essa história de Teoria da Ferradura?"
 date: 2026-11-24 12:00:00
 tags:
  - a vida, o universo e tudo mais
-published: false
 ---
 <aside class="aviso-caixa"><div class="aviso-texto">Eu queria ter publicado isso antes, acho que o <i>timing</i> passou um pouco, mas foi algo que me pegou bem porque vejo isso acontecer, quer dizer ouço muito isso <i>ao vivo</i>, e me pega de uma forma que com dificuldade eu mantenho o respeito que deveria ter pelo interlocutor. Com essa sensação de perder o momento já reescrevi o texto algumas vezes também. Já desisti de mexer e <b>vai assim mesmo</b>.</div></aside>
 
