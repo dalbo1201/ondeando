@@ -5,8 +5,10 @@ title: "Ainda essa história de Teoria da Ferradura?"
 date: 2026-11-14 12:00:00
 tags:
  - a vida, o universo e tudo mais
-published: 
+published: false
 ---
+Eu queria ter publicado isso antes, acho que o _timing_ passou um pouco, mas foi algo que me pegou bem porque vejo isso acontecer, quer dizer ouço muito isso _ao vivo_, e me pega de uma forma que com dificuldade eu mantenho o respeito que deveria ter pelo interlocutor. Com essa sensação de perder o momento já reescrevi o texto algumas vezes também. Já desisti de mexer e **vai assim mesmo**.
+
 Chegamos ao fim de uma batalha que nos corroeu pelo mês de outubro, as eleições terminaram e conseguimos conquistar alguma vitória.  
 
 Pouca, é verdade, mas teve um valor simbólico enorme. Não apenas para nós aqui no **Brasil** (com S, entenderam?), mas também para o resto do planeta. Muitos países se surpreenderam com o feito ocorrido por aqui. Além da vitória de um quarto mandato do Lula, houve a virada entre o primeiro e o segundo turno.  

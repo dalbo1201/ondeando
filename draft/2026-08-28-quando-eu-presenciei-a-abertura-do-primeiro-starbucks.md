@@ -6,7 +6,6 @@ date: 2026-08-28 12:00:00
 tags:
  - a vida, o universo e tudo mais
  - tbt
-published: false
 ---
 Durante o BEDA a gente lê muita coisa e tive a alegria de estar de <i>descanso remunerado</i><a href="#1"><sup id="1-1">1</sup></a> durante a primeira semana e pude ler com calma tantos textos que apareceram na **Biblioteca Eterna de Sgolbertne**. Muitas leituras nos transportam para lembranças quase que imediatamente.
 
