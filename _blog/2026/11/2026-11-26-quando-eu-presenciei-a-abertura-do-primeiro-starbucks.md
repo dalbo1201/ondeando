@@ -2,15 +2,17 @@
 layout: post
 type: texto
 title: "Quando eu presenciei a abertura do primeiro Starbucks"
-date: 2026-08-28 12:00:00
+date: 2026-11-26 12:00:00
 tags:
  - a vida, o universo e tudo mais
  - tbt
+published: false
 ---
 Durante o BEDA a gente lê muita coisa e tive a alegria de estar de <i>descanso remunerado</i><a href="#1"><sup id="1-1">1</sup></a> durante a primeira semana e pude ler com calma tantos textos que apareceram na **Biblioteca Eterna de Sgolbertne**. Muitas leituras nos transportam para lembranças quase que imediatamente.
 
 > O poder da literatura de desfazer, por alguns instantes, a fronteira entre a vida imaginada e a real. A mulher permanece sentada no mundo, mas alguma frase a transportou para outro lugar.  <br/>
-> <cite><a href="https://deniac.com/2026/08/05/vida-pixel-6-dor-de-joelho/">— Daniel Quirino</a></cite>
+
+<cite><a href="https://deniac.com/2026/08/05/vida-pixel-6-dor-de-joelho/">Daniel Quirino</a></cite>
 
 
 Uma dessas leituras foi [Quatro indícios de um golpe](https://blog.mrclmlt.com.br/26h803-quatro-indicios-de-um-golpe/), aonde o Marcelo conta sobre sua passagem no aeroporto de Brasília e cita reiteradamente o Starbucks de lá.  
@@ -30,8 +32,6 @@ Lendo essa frase que eu escrevi, claramente soa muito babaca, eu sei. A gente no
 Mas no final é isso, todo esse texto, esse (não é pensamento a palavra que procuro) sobre quando uma cafeteria dos EUA abriu no DF me veio apenas porque eu li um outro texto que nem era sobre isso.  
 
 É lindo como a leitura realmente nos transporta para lembranças que a gente tinha guardadas no fundo.
-
-{% include banner-beda-2026.html %}
 
 <aside class="rodape"><div id="1">1. Infelizmente sou CLJ e chamo esses momentos que seriam as <i>férias do CLT</i> de descanso remunerado mesmo. Isso porque tenho o privilégio de trabalhar numa empresa que me oferece isso, mesmo em <i>regime PJ</i>. <a href="#1-1" style="font-size: 14px">&#8629;</a></div>
 <div id="2">2. Morar em BSB foi uma experiência ótima, claro, morando no Plano Piloto. Me adaptei muito bem, pena que foi numa época obscura do país. <a href="#2-1" style="font-size: 14px">&#8629;</a></div>

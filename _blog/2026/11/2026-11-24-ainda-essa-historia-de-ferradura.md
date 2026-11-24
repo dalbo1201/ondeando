@@ -2,26 +2,26 @@
 layout: post
 type: texto
 title: "Ainda essa história de Teoria da Ferradura?"
-date: 2026-11-14 12:00:00
+date: 2026-11-24 12:00:00
 tags:
  - a vida, o universo e tudo mais
 published: false
 ---
-Eu queria ter publicado isso antes, acho que o _timing_ passou um pouco, mas foi algo que me pegou bem porque vejo isso acontecer, quer dizer ouço muito isso _ao vivo_, e me pega de uma forma que com dificuldade eu mantenho o respeito que deveria ter pelo interlocutor. Com essa sensação de perder o momento já reescrevi o texto algumas vezes também. Já desisti de mexer e **vai assim mesmo**.
+<aside class="aviso-caixa"><div class="aviso-texto">Eu queria ter publicado isso antes, acho que o <i>timing</i> passou um pouco, mas foi algo que me pegou bem porque vejo isso acontecer, quer dizer ouço muito isso <i>ao vivo</i>, e me pega de uma forma que com dificuldade eu mantenho o respeito que deveria ter pelo interlocutor. Com essa sensação de perder o momento já reescrevi o texto algumas vezes também. Já desisti de mexer e <b>vai assim mesmo</b>.</div></aside>
 
 Chegamos ao fim de uma batalha que nos corroeu pelo mês de outubro, as eleições terminaram e conseguimos conquistar alguma vitória.  
 
 Pouca, é verdade, mas teve um valor simbólico enorme. Não apenas para nós aqui no **Brasil** (com S, entenderam?), mas também para o resto do planeta. Muitos países se surpreenderam com o feito ocorrido por aqui. Além da vitória de um quarto mandato do Lula, houve a virada entre o primeiro e o segundo turno.  
 
-Mais de 10 milhões de pessoas resolveram sair de suas casas, no segundo turno, para garantir que a _Democracia Burguesa_ seja mantida ao invés de nos entregarmos ao (neo)Fascismo e ao entreguismo aos Estados Unidos.  
+Mais de 10 milhões de pessoas resolveram sair de suas casas, no segundo turno, para garantir que a _Democracia Burguesa_ seja mantida ao invés de um (neo)Fascismo.  
 
 Não vamos esquecer que infelizmente o Legislativo está tomado pelo que pode existir de pior, e essa é a próxima batalha.
 
 Passamos por uma época terrível durante a pandemia, tempo em que fomos governados pelo Jair Bolsonaro e onde mais de 700 mil pessoas morreram por descaso total dele, pelo menos 400 mil pessoas poderiam ter suas mortes evitadas se houvesse alguma preocupação com a população ao invés de **[fingir falta de ar](https://g1.globo.com/politica/eleicoes/2022/noticia/2022/08/22/bolsonaro-imitou-paciente-com-falta-de-ar-durante-transmissoes-ao-vivo-na-internet-em-2021.ghtml) e [oferecer cloroquina para as emas do Planalto](https://noticias.uol.com.br/politica/ultimas-noticias/2020/07/23/bolsonaro-exibe-caixa-de-cloroquina-para-emas-no-palacio-da-alvorada.htm)**.  
 
-Temos então o seu filho como candidato em 2026, um homem encravado até o peito com a milícia carioca, envolto em estranhas movimentações financeiras, como uma loja de chocolates que vende menos **na Páscoa** e todo enrolado com o [_Caso Master_](https://www.youtube.com/watch?v=F-v6ayCMqr4), o Vorcaro e afins. Além disso, toda uma narrativa de  viralatismo, reescrita da Constituição e entreguismo aos EUA. Um falso patriotismo onde se bate continência para a bandeira de outro país, conversas de tarifação e pedidos de que sejamos invadidos.  
+Temos então o seu filho como candidato em 2026, um homem encravado até o peito com a milícia carioca, envolto em estranhas movimentações financeiras, como uma loja de chocolates que vende menos **na Páscoa** e todo enrolado com o [_Caso Master_](https://www.youtube.com/watch?v=F-v6ayCMqr4), o Vorcaro e afins. Além disso, toda uma narrativa de  viralatismo, reescrita da Constituição e entreguismo aos EUA. Um falso patriotismo em que se bate continência para a bandeira de outro país, conversas de tarifação e pedidos de que sejamos invadidos.  
 
-Toda uma série de atitudes, falas e intenções racistas, misóginas, homofóbicas e a lista continua... Pessoas que insistem em dizer que é possível *negociar com o patrão* por seus direitos e alguma dignidade, que têm entre seus apoiadores pessoas dizendo que as mulheres deveriam abrir mão de seus direitos e sua autonomia conquistada, ou que a minoria deve se _colocar no seu lugar_ e voltar para as sombras.  
+Toda uma série de atitudes, falas e intenções racistas, misóginas, homofóbicas e a lista continua... Pessoas que insistem em dizer que é possível *negociar com o patrão* por seus direitos e alguma dignidade, que têm entre seus apoiadores pessoas dizendo que as mulheres deveriam abrir mão de seus direitos e de sua autonomia conquistada, ou que a minoria deve se _colocar no seu lugar_ e voltar para as sombras.  
 
 Do outro lado temos alguém de quem tenho uma série de discordâncias, e que ainda apresenta parte de sua agenda a favor de um Mercado que ninguém vê e que suga a sociedade sem nada entregar em troca. Mas _pelo menos_ indica defender certa **soberania nacional** e o **direito à vida**, conhece as dificuldades enfrentadas pelo trabalhador e de certa forma criou ferramentas para que nossa vida não se tornasse ainda mais difícil.  
 
