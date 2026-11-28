@@ -1,10 +1,11 @@
 ---
 layout: post
 type: texto
-title: "Essa eu tenho certeza que perco"
-date: 2026-11-29 12:00:00
+title: "Essa aposta tenho certeza que perco"
+date: 2026-11-30 12:00:00
 tags:
  - séries e TV
+published: false
 ---
 Eu gostaria que só se falasse de outra coisa no _mundo da cultura pop_ e graças ao lançamento do filme dos Vindagores, esse que volta todo mundo que morreu ou que deveria ter sido substituído, mas o mundareu de coisa ruim que foi lançada fez com que ninguém se importasse com o novo e "continuamos como nossos pais"... realmente não estamos mais falando disso.  
 

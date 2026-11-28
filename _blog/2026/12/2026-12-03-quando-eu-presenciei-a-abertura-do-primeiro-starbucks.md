@@ -2,7 +2,7 @@
 layout: post
 type: texto
 title: "Quando eu presenciei a abertura do primeiro Starbucks"
-date: 2026-11-26 12:00:00
+date: 2026-12-03 12:00:00
 tags:
  - a vida, o universo e tudo mais
  - tbt
