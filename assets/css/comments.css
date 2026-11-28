@@ -157,6 +157,12 @@
   margin: 0;
 }
 
+.comment-body img {
+ width: 30%;
+ height: auto;
+ object-fit: cover; /* Mantém as fotos alinhadas mesmo se tiverem alturas levemente diferentes */
+}
+
 .btn-reply {
   background: none;
   border: none;
